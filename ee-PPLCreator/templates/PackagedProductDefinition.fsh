@@ -13,11 +13,16 @@ Usage: #example
 * name = "{{ row["Ravimi nimetus"] }}"
 
 
-
+* description = ""
 
 * status = #active
+{% if row["Müügiloa kehtivuse alguse kuupäev"]|string == "nan" %}
+{{ "// ERROR[3] - no statusDate INDEX:{}".format(index+1)  }}
+{% else %} 
 * statusDate = "{{ row["Müügiloa kehtivuse alguse kuupäev"]|format_datetime }}"
-{{ "// ERROR[3] - no statusDate INDEX:{}".format(index+1) if row["Müügiloa kehtivuse alguse kuupäev"]|string == "nan" }}
+{%- endif %}
+
+
 
 {% if row["quantity"]|string !="nan"  %}
 
@@ -39,7 +44,7 @@ Usage: #example
 
 {%- endfor %}
 
-  * package.type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"] }}"
+  * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"] }}"
 
   
 //reference to MedicinalProductDefinition: EU/1/97/049/001 Karvea 75 mg tablet

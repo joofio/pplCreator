@@ -130,5 +130,7 @@ dmypy.json
 
 temp/
 
-dev.py
+*/dev.py
 $*
+
+fsh-generated/

@@ -9,9 +9,3 @@ import sys
 import uuid
 import re
 import openpyxl
-
-
-df = pd.read_excel("Amlodipine/SPOR-Lists-EE/200000000014.xlsx", header=2)
-# print(df)
-
-print(df[df["RMS nimi eesti keeles"] == "Tablett"]["RMS termini id"].values[0])

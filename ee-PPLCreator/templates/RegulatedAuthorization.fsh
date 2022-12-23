@@ -26,8 +26,12 @@ Usage: #example
 
 * status = $100000072049#{{row["Müügiloa staatus"]|get_data_dictionary_info(100000072049,"RMS termini id","RMS termini nimi")}}  "{{ row["Müügiloa staatus"] }}"
 
+
+{% if row["Müügiloa kehtivuse alguse kuupäev"]|string == "nan" %}
+{{ "// ERROR[3] - no statusDate INDEX:{}".format(index+1)  }}
+{% else %} 
 * statusDate = "{{ row["Müügiloa kehtivuse alguse kuupäev"]|format_datetime }}"
-{{ "// ERROR[3] - no statusDate INDEX:{}".format(index+1) if row["Müügiloa kehtivuse alguse kuupäev"]|string == "nan" }}
+{%- endif %}
 
 * holder = Reference({{ row['Müügiloa hoidja organisatsiooni ORG ID'] }})
 
