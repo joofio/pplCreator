@@ -1,6 +1,12 @@
 {% for index,row in data["data"].iterrows() %}
 {% if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
 
+{% set ns = namespace() %}
+{% set ns.mpone = row['Ravimi nimetus'] %}
+{% set ns.mpthree= row['Ravimi tugevus'] %}
+{% set ns.mp_name_to_has= ns.mpone ~ns.mpthree  %}
+
+
 Instance: ppd-{{ row["Ravimi nimetus"]| lower | regex_replace('[^A-Za-z0-9]+', '')}}
 InstanceOf: PPLPackagedProductDefinition
 Title: "{{ row["Ravimi nimetus"] }}"
@@ -47,8 +53,9 @@ Usage: #example
   * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"] }}"
 
   
-//reference to MedicinalProductDefinition: EU/1/97/049/001 Karvea 75 mg tablet
-* packageFor = Reference(mp{{ row["Ravimi nimetus"]| regex_replace('[^A-Za-z0-9]+', '')  }})
+
+* packageFor = Reference(mp-{{ ns.mp_name_to_has| create_hash_id}})
+
 // Reference to Organization: MAH
 * manufacturer = Reference({{ row['Müügiloa hoidja organisatsiooni ORG ID'] }})
 

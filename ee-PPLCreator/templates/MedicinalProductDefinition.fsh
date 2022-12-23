@@ -1,7 +1,12 @@
 {% for index,row in data["data"].iterrows() %}
 {% if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
 
-Instance: mp{{ row["Ravimi nimetus"]| regex_replace('[^A-Za-z0-9]+', '')  }}
+{% set ns = namespace() %}
+{% set ns.one = row['Ravimi nimetus'] %}
+{% set ns.three= row['Ravimi tugevus'] %}
+{% set ns.name_to_has= ns.one ~ns.three  %}
+
+Instance: mp-{{ ns.name_to_has| create_hash_id}}
 InstanceOf: PPLMedicinalProductDefinition
 Title: "Medicinal Product {{ row["Ravimi nimetus"]}}"
 Description: "{{row["Müügiloa number"]}} {{ row["Ravimi nimetus"]}}"
@@ -28,7 +33,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#{{ row["Ravimvorm"]|get_data_dictionary_info(200000000004,"RMS termini id","RMS nimi eesti keeles")  }} "{{ row["Ravimvorm"]  }}"
 
 
-* classification[atc].coding[who] = $who-atc##{{ row["ATC kood"]}} "{{ row["ATC kood"]}}"
+* classification[atc].coding[who] = $who-atc#{{ row["ATC kood"]}} "{{ row["ATC kood"]}}"
+* classification[atc].coding[ema] = $100000093533#{{ row["ATC kood"]}} "{{ row["ATC kood"]}}"
 
 
 * name.productName = "{{ row["Ravimi nimetus"]  }} {{ row["Ravimi tugevus"]  }} {{ row["Manustatav ravimvorm"]  }}"
@@ -41,3 +47,4 @@ Usage: #example
 
 {%- endif %}
 {%- endfor %}
+
