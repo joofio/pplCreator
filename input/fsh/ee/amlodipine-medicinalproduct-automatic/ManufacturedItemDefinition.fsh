@@ -10,7 +10,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100007373)
+//* manufacturer = Reference(ORG-100007373)
 Instance: mid-tenloris
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TENLORIS"
@@ -22,7 +22,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-triveram40mg10mg10mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TRIVERAM 40MG/10MG/10MG"
@@ -34,7 +34,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-triplixam
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TRIPLIXAM"
@@ -46,7 +46,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-natrixam
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item NATRIXAM"
@@ -58,7 +58,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-copalia
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item COPALIA"
@@ -70,7 +70,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100007373)
+//* manufacturer = Reference(ORG-100007373)
 Instance: mid-exforgehct
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item EXFORGE HCT"
@@ -82,7 +82,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100007373)
+//* manufacturer = Reference(ORG-100007373)
 Instance: mid-twynsta
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TWYNSTA"
@@ -94,7 +94,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100012432)
+//* manufacturer = Reference(ORG-100012432)
 Instance: mid-alneta
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item ALNETA"
@@ -106,7 +106,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-amlodipinevitabalans
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLODIPINE VITABALANS"
@@ -118,7 +118,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(MO193)
+//* manufacturer = Reference(MO193)
 Instance: mid-olmesartanmedoxomilamlodipinehydrochlorothiazidealembic
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
@@ -130,7 +130,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100007006)
+//* manufacturer = Reference(ORG-100007006)
 Instance: mid-norvasc
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item NORVASC"
@@ -142,7 +142,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100023206)
+//* manufacturer = Reference(ORG-100023206)
 Instance: mid-sanoralhct
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item SANORAL HCT"
@@ -154,7 +154,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100001429)
+//* manufacturer = Reference(ORG-100001429)
 Instance: mid-wamlox
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item WAMLOX"
@@ -166,7 +166,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-olsitri
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item OLSITRI"
@@ -178,7 +178,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-valtricom
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item VALTRICOM"
@@ -190,7 +190,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-sanoral
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item SANORAL"
@@ -202,7 +202,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100001429)
+//* manufacturer = Reference(ORG-100001429)
 Instance: mid-olssa
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item OLSSA"
@@ -214,7 +214,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-dafiro
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item DAFIRO"
@@ -226,7 +226,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100007373)
+//* manufacturer = Reference(ORG-100007373)
 Instance: mid-dafirohct
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item DAFIRO HCT"
@@ -238,7 +238,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100007373)
+//* manufacturer = Reference(ORG-100007373)
 Instance: mid-prindal
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item PRINDAL"
@@ -250,7 +250,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100004108)
+//* manufacturer = Reference(ORG-100004108)
 Instance: mid-perindoprilamlodipineactavis
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item PERINDOPRIL/ AMLODIPINE ACTAVIS"
@@ -262,7 +262,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000064)
+//* manufacturer = Reference(ORG-100000064)
 Instance: mid-perindoprilamlodipineteva
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item PERINDOPRIL/AMLODIPINE TEVA"
@@ -274,7 +274,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000229)
+//* manufacturer = Reference(ORG-100000229)
 Instance: mid-amlodipinemedochemie
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLODIPINE MEDOCHEMIE"
@@ -286,7 +286,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(MO11501)
+//* manufacturer = Reference(MO11501)
 Instance: mid-roxampex
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item ROXAMPEX"
@@ -298,7 +298,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-olmesartanmedoxomilamlodipinezentiva
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
@@ -310,7 +310,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100004108)
+//* manufacturer = Reference(ORG-100004108)
 Instance: mid-framsyl
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item FRAMSYL"
@@ -322,7 +322,7 @@ Usage: #example
 //Kapsel
 * unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
-* manufacturer = Reference(ORG-100002040)
+//* manufacturer = Reference(ORG-100002040)
 Instance: mid-triveram10mg5mg5mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TRIVERAM 10MG/5MG/5MG"
@@ -334,7 +334,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-zenicamo
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item ZENICAMO"
@@ -346,7 +346,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100004108)
+//* manufacturer = Reference(ORG-100004108)
 Instance: mid-amlodipineteva
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLODIPINE TEVA"
@@ -358,7 +358,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000229)
+//* manufacturer = Reference(ORG-100000229)
 Instance: mid-flutensif
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item FLUTENSIF"
@@ -370,7 +370,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-agen10mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AGEN 10MG"
@@ -382,7 +382,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100004108)
+//* manufacturer = Reference(ORG-100004108)
 Instance: mid-mixor
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item MIXOR"
@@ -394,7 +394,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100004108)
+//* manufacturer = Reference(ORG-100004108)
 Instance: mid-ramiprilamlodipinesandoz
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item RAMIPRIL/AMLODIPINE SANDOZ"
@@ -406,7 +406,7 @@ Usage: #example
 //Kapsel
 * unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
-* manufacturer = Reference(ORG-100002040)
+//* manufacturer = Reference(ORG-100002040)
 Instance: mid-triveram20mg10mg10mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TRIVERAM 20MG/10MG/10MG"
@@ -418,7 +418,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-agen5mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AGEN 5MG"
@@ -430,7 +430,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100004108)
+//* manufacturer = Reference(ORG-100004108)
 Instance: mid-codalnessaneo
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item CO-DALNESSA NEO"
@@ -442,7 +442,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-sobycombi
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item SOBYCOMBI"
@@ -454,7 +454,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-camdero
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item CAMDERO"
@@ -466,7 +466,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-ramdacordiahct
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item RAMDACORDIA HCT"
@@ -478,7 +478,7 @@ Usage: #example
 //Kapsel
 * unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
-* manufacturer = Reference(ORG-100002040)
+//* manufacturer = Reference(ORG-100002040)
 Instance: mid-amlodipinevalsartanmylan
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLODIPINE/VALSARTAN MYLAN"
@@ -490,7 +490,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100034257)
+//* manufacturer = Reference(ORG-100034257)
 Instance: mid-dalnessa
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item DALNESSA"
@@ -502,7 +502,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-olmesartanmedoxomilamlodipinekrka
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
@@ -514,7 +514,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-teldipin
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TELDIPIN"
@@ -526,7 +526,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-telmisartanamlodipinealembic
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TELMISARTAN/AMLODIPINE ALEMBIC"
@@ -538,7 +538,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100007006)
+//* manufacturer = Reference(ORG-100007006)
 Instance: mid-exforge
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item EXFORGE"
@@ -550,7 +550,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100007373)
+//* manufacturer = Reference(ORG-100007373)
 Instance: mid-perindoprilarginineindapamideamlodipineteva
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
@@ -562,7 +562,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100002999)
+//* manufacturer = Reference(ORG-100002999)
 Instance: mid-triveram20mg10mg5mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TRIVERAM 20MG/10MG/5MG"
@@ -574,7 +574,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-hipres
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item HIPRES"
@@ -586,7 +586,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-coveram
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item COVERAM"
@@ -598,7 +598,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-amlodipinevalsartansandoz
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLODIPINE /VALSARTAN SANDOZ"
@@ -610,7 +610,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100002040)
+//* manufacturer = Reference(ORG-100002040)
 Instance: mid-amlodigamma10mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLODIGAMMA 10MG"
@@ -622,7 +622,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000454)
+//* manufacturer = Reference(ORG-100000454)
 Instance: mid-triveram20mg5mg5mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TRIVERAM 20MG/5MG/5MG"
@@ -634,7 +634,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-olmesartanmedoxomilamlodipineaccord
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
@@ -646,7 +646,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100003704)
+//* manufacturer = Reference(ORG-100003704)
 Instance: mid-gaduar
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item GADUAR"
@@ -658,7 +658,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100004108)
+//* manufacturer = Reference(ORG-100004108)
 Instance: mid-amlodipinratiopharm5mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLODIPIN-RATIOPHARM 5 MG"
@@ -670,7 +670,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100001437)
+//* manufacturer = Reference(ORG-100001437)
 Instance: mid-dalnessaneo
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item DALNESSANEO"
@@ -682,7 +682,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-amlodigamma5mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLODIGAMMA 5MG"
@@ -694,7 +694,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000454)
+//* manufacturer = Reference(ORG-100000454)
 Instance: mid-amaloris
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMALORIS"
@@ -706,7 +706,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-ramdacordia
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item RAMDACORDIA"
@@ -718,7 +718,7 @@ Usage: #example
 //Kapsel
 * unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
-* manufacturer = Reference(ORG-100002040)
+//* manufacturer = Reference(ORG-100002040)
 Instance: mid-dipperamhct
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item DIPPERAM HCT"
@@ -730,7 +730,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100002040)
+//* manufacturer = Reference(ORG-100002040)
 Instance: mid-olmesartanmedoxomilamlodipinehctaccord
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
@@ -742,7 +742,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100003704)
+//* manufacturer = Reference(ORG-100003704)
 Instance: mid-olmesartanmedoxomilamlodipinehydrochlorothiazideteva
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
@@ -754,7 +754,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100002999)
+//* manufacturer = Reference(ORG-100002999)
 Instance: mid-amlocard10mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLOCARD 10MG"
@@ -766,7 +766,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000313)
+//* manufacturer = Reference(ORG-100000313)
 Instance: mid-telmisartanamlodipineteva
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item TELMISARTAN/AMLODIPINE TEVA"
@@ -778,7 +778,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100002999)
+//* manufacturer = Reference(ORG-100002999)
 Instance: mid-dironorm
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item DIRONORM"
@@ -790,7 +790,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000640)
+//* manufacturer = Reference(ORG-100000640)
 Instance: mid-codalnessa
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item CO-DALNESSA"
@@ -802,7 +802,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000627)
+//* manufacturer = Reference(ORG-100000627)
 Instance: mid-amlodipinratiopharm10mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLODIPIN-RATIOPHARM 10 MG"
@@ -814,7 +814,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100001437)
+//* manufacturer = Reference(ORG-100001437)
 Instance: mid-amlocard5mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item AMLOCARD 5 MG"
@@ -826,7 +826,7 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-* manufacturer = Reference(ORG-100000313)
+//* manufacturer = Reference(ORG-100000313)
 Instance: mid-quadrixam5mg125mg5mg5mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item QUADRIXAM 5MG/1,25MG/5MG/5MG"
@@ -838,7 +838,7 @@ Usage: #example
 //Kapsel
 * unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-quadrixam10mg25mg5mg5mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item QUADRIXAM 10MG/2,5MG/5MG/5MG"
@@ -850,7 +850,7 @@ Usage: #example
 //Kapsel
 * unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)
 Instance: mid-quadrixam10mg25mg10mg5mg
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item QUADRIXAM 10MG/2,5MG/10MG/5MG"
@@ -862,4 +862,4 @@ Usage: #example
 //Kapsel
 * unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
-* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000964)

@@ -24,7 +24,7 @@ Usage: #example
 * formOf = Reference(mp-{{ ns.mp_name_to_has| create_hash_id}})
 
 * administrableDoseForm = $200000000004#{{ row["Manustatav ravimvorm"]|get_data_dictionary_info(200000000004,"RMS termini id","RMS nimi eesti keeles")}} "{{ row["Manustatav ravimvorm"] }}"
-//* unitOfPresentation = $200000000014#{{ row["unit_presentationID"] }} "{{ row["unit_presentation"] }}"
+* unitOfPresentation = $200000000014#{{row["Pakendi suurus"].split(",")[0]|get_by_regex("[A-Za-z]+")|get_data_dictionary_info(200000000014,"RMS termini id","RMS nimi eesti keeles")}} "{{row["Pakendi suurus"].split(",")[0]|get_by_regex("[A-Za-z]+") }}"
 
 {% if data["turn"] != "1" %}
 

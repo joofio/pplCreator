@@ -16,7 +16,7 @@ Usage: #example
 * unitOfPresentation = $200000000014#{{row["Pakendi suurus"].split(",")[0]|get_by_regex("[A-Za-z]+")|get_data_dictionary_info(200000000014,"RMS termini id","RMS nimi eesti keeles")}} "{{row["Pakendi suurus"].split(",")[0]|get_by_regex("[A-Za-z]+") }}"
 
 
-* manufacturer = Reference({{row['Müügiloa hoidja organisatsiooni ORG ID']}})
+//* manufacturer = Reference({{row['Müügiloa hoidja organisatsiooni ORG ID']}})
 
 {%- endif %}
 {%- endfor %}

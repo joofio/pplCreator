@@ -51,13 +51,14 @@ Usage: #example
 {%- endfor %}
 
   * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"] }}"
-
+  * containedItem.item.reference = Reference(mid-{{ row["Ravimi nimetus"] | lower | regex_replace('[^A-Za-z0-9]+', '') }})
+  * containedItem.amount.value = {{ row["Pakendi suurus"]|get_by_regex("\d+") }}
   
 
 * packageFor = Reference(mp-{{ ns.mp_name_to_has| create_hash_id}})
 
 // Reference to Organization: MAH
-* manufacturer = Reference({{ row['Müügiloa hoidja organisatsiooni ORG ID'] }})
+//* manufacturer = Reference({{ row['Müügiloa hoidja organisatsiooni ORG ID'] }})
 
 {%- endif %}
 {%- endfor %}

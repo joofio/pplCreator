@@ -20,7 +20,7 @@ Usage: #example
 
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
 
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 
 * status.coding[0] = $200000005003#{{ row["Müügiloa staatus"]  }} "{{ row["Müügiloa staatus"]  }}"
 
@@ -33,8 +33,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#{{ row["Ravimvorm"]|get_data_dictionary_info(200000000004,"RMS termini id","RMS nimi eesti keeles")  }} "{{ row["Ravimvorm"]  }}"
 
 
-* classification[atc].coding[who] = $who-atc#{{ row["ATC kood"]}} "{{ row["ATC kood"]}}"
-* classification[atc].coding[ema] = $100000093533#{{ row["ATC kood"]}} "{{ row["ATC kood"]}}"
+* classification[atc].coding[who] = $who-atc#{{ row["ATC kood"]}} "{{ row["Toimeaine"]}}"
+* classification[atc].coding[ema] = $100000093533#{{ row["ATC kood"]}} "{{ row["Toimeaine"]}}"
 
 
 * name.productName = "{{ row["Ravimi nimetus"]  }} {{ row["Ravimi tugevus"]  }} {{ row["Manustatav ravimvorm"]  }}"

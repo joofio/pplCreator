@@ -10,7 +10,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-45f0935e8c6afee1cac2e42562b88f23)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -24,7 +24,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-79d94ef7008f11d676a4adb2f00ebf9c)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -38,7 +38,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-0a031421e9bcacd66a18c1675483f31f)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -52,7 +52,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-f882e68544af7ff49caa3b421488962b)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -66,7 +66,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-adcabea100f781d707218f571c4f037f)
 * administrableDoseForm = $200000000004#100000073668 "Toimeainet modifitseeritult vabastav tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -80,7 +80,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-17e91c9786af1c33ef3711746fdd699f)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -94,7 +94,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-c647a5eaa7f88cc677cc523cd4489f33)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -108,7 +108,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-35d09173235f772753a77e53a9ea7cf5)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -122,7 +122,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-92d33ee71b4da091e8b7e9f612b8e1ff)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -136,7 +136,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-f731a02dc6726c193e888eb8473bce7c)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -150,7 +150,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-cbb5b7c3355aa4ad4452daa5ccf361d8)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -164,7 +164,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-35853d394af67d440318431128545504)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -178,7 +178,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-5247de08b58896d4604494db80171dbb)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -192,7 +192,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b7b1332419d9664bd0a99267c5ca5d15)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -206,7 +206,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-c3588d5de2aa94d14dfc321e47b53873)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -220,7 +220,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-a1678839878d289a5d59bc56a5c851c3)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -234,7 +234,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-9bc7efd141bacc1f239a88bf248c4a49)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -248,7 +248,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-16567a37a49722b6efb051ab302e0806)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -262,7 +262,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-751982d36267f6af45f89450a66228d5)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -276,7 +276,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-8bd0ba4c333aa18d77bf0705a8ced0ba)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -290,7 +290,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-7fcb407288ad62b918b13e365fbd54cc)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -304,7 +304,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-110a0c04656125cfacee1f7d25d7b2a4)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -318,7 +318,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-8824260f5cc166a9c5c9fcebf6d2daad)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -332,7 +332,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-03965de418b25ef6cb5db065291a7f06)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -346,7 +346,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-018b2aca0bd97853048671b255066e99)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -360,7 +360,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-fb0b7baa5d9eda64115a890415e80475)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -374,7 +374,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-1eb740d7e18811fcb9c04e22b23627d2)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -388,7 +388,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-48e9dc9be347304877f019cdb587cb6f)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -402,7 +402,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-4b80c9797bfb38a9ee6bdb59d74bd7b1)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -416,7 +416,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-7d8038aee37a8ee6fbbba9733a63ad82)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -430,7 +430,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-988b0afba39c079462ec0e0709b0b508)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -444,7 +444,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-a2bef397893b54b8eae7940bb907c558)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -458,7 +458,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-092b46c08330d1ca1bae308f5e4b937b)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -472,7 +472,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-16642694776ad41637e51f838bf36e59)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -486,7 +486,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-57321416664c7aa448e26e4435b8d832)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -500,7 +500,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-de308c5750783b4c65d5394796ab1031)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -514,7 +514,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-ad2c494913abfd1d3251a1d63c46d80b)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -528,7 +528,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-2f5b81f0974784e0d5e5a493bb64b687)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -542,7 +542,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-7163d35a4bbf42862b1a21653e2a3fb8)
 * administrableDoseForm = $200000000004#100000073668 "Toimeainet modifitseeritult vabastav tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -556,7 +556,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-199f1c0c9ac4de4f24f1558dd5a3ab3b)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -570,7 +570,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-120a9fe8ffb97fba32388a9003b0acd6)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -584,7 +584,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-daf7a27e4f2cefda4f055fdac2f30736)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -598,7 +598,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-37f8128853136f233f44e712f4619741)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -612,7 +612,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-eff1a621eaa44e230dbc8202935fa9f9)
 * administrableDoseForm = $200000000004#100000073668 "Toimeainet modifitseeritult vabastav tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -626,7 +626,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-c6be6843aaa3cbf4327d96a2295712ce)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -640,7 +640,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-a99e9ee77f8a50d0042744aa6c1a3d7b)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -654,7 +654,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-adc445ece170145f48fdc5e25c29934c)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -668,7 +668,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-40ddf0f34f98046f27a2be3a5b39afe7)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -682,7 +682,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b5a26b3c5e3c9ecab032122846a7ef5e)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -696,7 +696,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-5a003a4d377b6cb57262a8f7c0d376f1)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -710,7 +710,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-bf040138a13adaa280a2271e87c6f253)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -724,7 +724,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-9074e4ce1245d96020e62afdb2505327)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -738,7 +738,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-446c3f0a7c1b513b021f1df2fadfee3c)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -752,7 +752,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-4c9bfeb261f0bb3bde9569d02f5b9452)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -766,7 +766,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-25271f42d1512b756038bd83377006e2)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -780,7 +780,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-ea24a3ba02de5b428a814ead61a56403)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -794,7 +794,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-507e037e7b53f108597aa8104023b0ee)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -808,7 +808,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-14a9e800c9c8b7337e6c27b0d7936d33)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -822,7 +822,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-5eb8039a47a953161c3d809407e075f8)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -836,7 +836,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b3f629f916b3516763c75a379143140b)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -850,7 +850,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b62ef02d7f298c872473be81d6a2776f)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -864,7 +864,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-98e252160d8a05b3b34432da98ede78b)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -878,7 +878,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-5aa7a85004ead5b3c25b02647c3d7b13)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -892,7 +892,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-a3548265bcf8910bf529bb3c5fe52082)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -906,7 +906,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-1c1bc64e3b67621b00457a9b5c25e531)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -920,7 +920,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-3016a3bb802bbb12cee9684604486b11)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -934,7 +934,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b5f4e393330007a97324b18215887a56)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -948,7 +948,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-1cd4d52bdfe0cb782a5e7a5b0dfbc00a)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -962,7 +962,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-00a9676f55edb021c8f82b87d5b52738)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -976,7 +976,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-cce6878d1173c2e5a657fbd6c7af3ab0)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -990,7 +990,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-cf2aa8017868f4fefa99f3d5b8dfb316)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1004,7 +1004,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-2b0f21f21ccdaec01ec0c8fa01d0bb48)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1018,7 +1018,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-9df0a169966437f49f03b26709bab8da)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1032,7 +1032,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-c80822ec8c3a18e165e480aa4d5d06f7)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1046,7 +1046,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-67a139480dff8125f40f189027f4b683)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1060,7 +1060,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-265adbf06e4021602cc0f4aeaf17a261)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1074,7 +1074,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-8b106e5ac0f5025acae166f5726a78f8)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1088,7 +1088,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-df31ead1e31acef5c5d2c545fd5f3cab)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1102,7 +1102,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-400ce3a781f8dd283dd26879dbd7bade)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1116,7 +1116,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-cef56e8f5244811ba5d8c6623b685120)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1130,7 +1130,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-a06039568a76a455e165a849723b6eeb)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1144,7 +1144,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-e3ec0d38af3d33762962f6f5a8e3948a)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1158,7 +1158,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-1d58916b8dd3a00bafe27af1e3fb67db)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1172,7 +1172,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-72b0b826f032f65457e53298f4fda370)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1186,7 +1186,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-16eb42ad8683f7cc606e77be16bb3a84)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1200,7 +1200,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b766474f18c4eda952b845a9e42c80d0)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1214,7 +1214,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-6093f3b783bf08f6c470e560a3ffbf18)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1228,7 +1228,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-e7996c1ed086541c262eeb9fe47910a3)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1242,7 +1242,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-c2fd25101e6e09f73810290b84f82748)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1256,7 +1256,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-eaf37ed582d5c8bc71bb4ef0f169cf33)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1270,7 +1270,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-3f21503a5cd188ccf9be98428d0804da)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1284,7 +1284,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-0a8c3cc316fe4b88649ef88e8d59107a)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1298,7 +1298,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-515e409fcbcec32db7d621e8235dbbd4)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1312,7 +1312,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-60519618dfee43c919c39ed35a78bd3c)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1326,7 +1326,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-56381f9ed6e2414526be302a64026af1)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1340,7 +1340,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-2cbed639cdf7e77b747fac391470a475)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1354,7 +1354,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-25b4fc8e45300bba6eff5ef9106d2efd)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1368,7 +1368,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-fbcd64d55a1ff7960f0f368ea66001c5)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1382,7 +1382,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-2cfa1681029065b8d3b986a18d159145)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1396,7 +1396,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-053d71fa46984cffd297f11462a29d28)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1410,7 +1410,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-e741aee8f50c989496e1e5ac8b29ce21)
 * administrableDoseForm = $200000000004#100000073668 "Toimeainet modifitseeritult vabastav tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1424,7 +1424,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b1d0fed59f6bd5f0d338293040ef2cf3)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1438,7 +1438,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b4276e86dc83fab6ac5f6ee8041212de)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1452,7 +1452,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-5f96802d7b0497e6b5aa29026f16ccc3)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1466,7 +1466,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-270e2aaac11638ede04c5cafd1c60030)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1480,7 +1480,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-9b76be13d25f96c7d0b81cdfdb9d3ac5)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1494,7 +1494,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-212cd043ef53b839386c625b4918ab9d)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1508,7 +1508,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-351249d58e654827f9e59ebe4626963c)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1522,7 +1522,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-18a11144c23574e21f39161510d12517)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1536,7 +1536,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-98ec367fc2ab431c093c4207da8e27f6)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1550,7 +1550,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-c758d56e4501a3ee5b48ae919095b749)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1564,7 +1564,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-127820ddf691e8710504e3da06c47543)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1578,7 +1578,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-c37f6c31746a28e13ffc2f89183f0eb9)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1592,7 +1592,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-eff5e4b813b65fd0b5c708608e84e643)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1606,7 +1606,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-8f1ab6bb7eff134f758bc01a7a11400f)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1620,7 +1620,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-9d8b9f0f088c4fa91458edba48e8eceb)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1634,7 +1634,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-e3d47a63d7d03d401fdd9419c0ffa7e1)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1648,7 +1648,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-06b4952a39fc49dc5878454af1c22b0b)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1662,7 +1662,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-007b8b30d1ed07c9c9fc8ed462ca5be9)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1676,7 +1676,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-a83b513233a4b315436d504b5a431a94)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1690,7 +1690,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-abce44b07100a3e005c95e3fdb3baba2)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1704,7 +1704,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-28d1353d30356ce33a526805a61a8d3f)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1718,7 +1718,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-46f0c8aa3bd650910d5e1e9cabcd6c05)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1732,7 +1732,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-7fda85c6289c75f0d2ad509f773145c5)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1746,7 +1746,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-bc73ec108516cdb2e554ae8e01c12bbb)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1760,7 +1760,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-cce3df3d436666685cccca50295b0a1d)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1774,7 +1774,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-49410c5a96b5cd2f1358e2e0039a13fd)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1788,7 +1788,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-f4dadbbfdc8437dd8469c5a5eeb22d3b)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1802,7 +1802,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-8be326b6a2d2f7dc8e9a0b1ecdde5daa)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1816,7 +1816,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-75e7d65e2b8194b4150706d5827e40f6)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1830,7 +1830,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-28cb804532c711106f195b49b04beedc)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1844,7 +1844,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-3baefb02235da077affb7060a586a6ef)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1858,7 +1858,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-5d169b2472129d50928a7c3e7513efd5)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1872,7 +1872,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-e7529ee95844ec2c273540d5abef2b66)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1886,7 +1886,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-068f9138187e2397183319ac380a813a)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1900,7 +1900,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-588fb3df5122e598df9909289a0315de)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1914,7 +1914,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-e74020ba7a7045e9a3ca022fff4479fd)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1928,7 +1928,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-d18569adbb7a50827bc06998679d86d0)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1942,7 +1942,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b711418bd211ce74cee3bdddc71076a6)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1956,7 +1956,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-faa4b39968d13ba8165b496b2ebba475)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1970,7 +1970,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-9b59dc37d121c774366d4501f09c83d7)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1984,7 +1984,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-11ad222d0ac25f364d86265b5234a6ed)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -1998,7 +1998,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-a59663efbf81a6a60d21ac51f359bde6)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2012,7 +2012,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-8c59da0e27a89ee78fb22b2fd4cf0ce2)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2026,7 +2026,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-f05a11959e96ff31465b787144cb26e6)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2040,7 +2040,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-388a4bbc76bc7bd93f5012a225a99d01)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2054,7 +2054,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-5f467326a610f24df4c1f79655358e7e)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2068,7 +2068,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b2d2d3244086f38209295506c37f3d7a)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2082,7 +2082,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-22186d9267d30078aa10e42fb71e0a79)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2096,7 +2096,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-a3ba23c13d9d6e610bdbdffbb09ca778)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2110,7 +2110,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-46abe5cdecd5f83da98c44d0fcd2c099)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2124,7 +2124,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-9d77052c80c2ae593323615fc802e55f)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2138,7 +2138,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-6a1189806502f55e216dfdd0bee4727d)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2152,7 +2152,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-f3aa4a484f1143ad5ff67ce0e478cf5c)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2166,7 +2166,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-c70fe54fd6d33b760f19c13dfd878c2c)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2180,7 +2180,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-eb67a770a9ee3dc5cb17b96bfcaedb05)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2194,7 +2194,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-f44976d24a835e4741c853c50e646a1e)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2208,7 +2208,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-af348be1267291423cc55035662a5840)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2222,7 +2222,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-48dc55ed617c44a0a2e6a56b13bf119b)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2236,7 +2236,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-83ec097167c802d9a2494c51504dc58f)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2250,7 +2250,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-34f980a7c12da71aa5f92f1eab18daf4)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2264,7 +2264,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-5b530bc63011afbb19c29e6105b77192)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2278,7 +2278,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-af58a2226a7bb27bbfd3c9897e1448ec)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2292,7 +2292,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-0ee5f36f8afc81c706a42b5387a0023d)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2306,7 +2306,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-3d8f1b0949339d791a41309aa852b94a)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2320,7 +2320,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-6a80df7d34a2b3298d68828963032d6b)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2334,7 +2334,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-8bfa8f1d8c3a452345270984e2f0d034)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2348,7 +2348,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-90d70636b1ce513642d96625810caf9e)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2362,7 +2362,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-5b5ab6ed59e596b83f12e9c13432da7f)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2376,7 +2376,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-9349259056595533d5e0208b7251050d)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2390,7 +2390,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-e4e66eb770f9b7e5bce50cb0baeba199)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2404,7 +2404,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-e4cc654eca03efb8ddc99706d49c5d4a)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2418,7 +2418,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b6b6eb359f886b600641d33c3acb531d)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2432,7 +2432,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-181d1f77341ba85797d3b15314a57d95)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2446,7 +2446,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b266c791591aaccd13a58c3bf77c89cd)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2460,7 +2460,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-a36e6fc54f1b590dc525751e9804edb9)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2474,7 +2474,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-9316836251e46376e324ea1a2e6d0d96)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2488,7 +2488,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-b918b2653c3a9b1ca27fbb3731915827)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2502,7 +2502,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-0787020ca0af8dcad1d90da2cce4a035)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2516,7 +2516,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-aa9b6f0d7403c46c7bca8779b1504b95)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2530,7 +2530,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-bda000a34704c31621c052c4156e4b1f)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2544,7 +2544,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-3d4395f477464cfd8826050164337d6f)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2558,7 +2558,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-6747a4bfd435b641b93387c863011a5d)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2572,7 +2572,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-6d5da028900f96a26f7c9f06325375bf)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2586,7 +2586,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-66febb4bc6a57acc1e91c35c8b9dd7f1)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2600,7 +2600,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-11afb183155f9b8c8adf9a81b1bd6af6)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2614,7 +2614,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-bc8bc4a1d8df47334af4ef22a6835761)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2628,7 +2628,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-c6294a4fd23138ca98050c50354cacde)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2642,7 +2642,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-4f40f701d57db89cf85b48a087ad9b50)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2656,7 +2656,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-893424ac2190440016f463dcdd864711)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2670,7 +2670,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-48b6f97bd1a6af63c22d77e326f555dc)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2684,7 +2684,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-5eb9a75bbbd9b52f4e32493ab201f639)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2698,7 +2698,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-1a1967e651e3965fe8dcc42dbf2c59c0)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2712,7 +2712,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-eca439c8de0e2c1f38798a029c7a86cc)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2726,7 +2726,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-aa2413344919aea47e26545abb272d2e)
 * administrableDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2740,7 +2740,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-eaf399ed7ec71ae5059bbbd769cd45a1)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2754,7 +2754,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-a9ee7448b2ace7e26afced7673ae186c)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2768,7 +2768,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-d44d030d32eb73aa70a8d37d06ae0be4)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2782,7 +2782,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-012fb5c373e2b13010dd8531088f8f9b)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2796,7 +2796,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-7905b76d1074ee4441710f74916654ed)
 * administrableDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2810,7 +2810,7 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-0ee4e3323e22b8e8c60a7c929872c9a3)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"
 
@@ -2824,6 +2824,6 @@ Usage: #example
 //MPD
 * formOf = Reference(mp-78b1ed9622fd52a8962a69ccc5e4a3be)
 * administrableDoseForm = $200000000004#100000073664 "Tablett"
-//* unitOfPresentation = $200000000014# ""
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
 * routeOfAdministration.code = $100000073345#100000073619 "Suukaudne"

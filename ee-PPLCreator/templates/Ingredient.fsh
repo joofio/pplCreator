@@ -12,6 +12,12 @@
 {% set ns.mpthree= row['Ravimi tugevus'] %}
 {% set ns.mp_name_to_has= ns.mpone ~ns.mpthree  %}
 
+{% set ns.apone = row['Ravimi nimetus'] %}
+{% set ns.aptwo = row['Ravimvorm'] %}
+{% set ns.apthree= row['Ravimi tugevus'] %}
+{% set ns.ap_name_to_has= ns.apone ~ ns.aptwo ~ns.apthree  %}
+
+
 Instance: ingredient-{{ ns.name_to_has| create_hash_id}}
 
 //Instance: ingredient-{{row["Toimeaine"].split(",")[idx]}}-for-{{ row["Ravimi nimetus"]}}
@@ -43,6 +49,8 @@ Usage: #example
 // Reference to products item
 //MPD
 * for[0] = Reference(mp-{{ ns.mp_name_to_has| create_hash_id}})
+* for[+] = Reference(ap-{{ ns.ap_name_to_has| create_hash_id}})
+* for[+] = Reference(mid-{{ row["Ravimi nimetus"] | lower | regex_replace('[^A-Za-z0-9]+', '') }})
 
 
 {%- endfor %}

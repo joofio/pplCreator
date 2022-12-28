@@ -9,7 +9,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3309"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -17,8 +17,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
 
 * name.productName = "COPALIA HCT 160mg, 12.5mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "COPALIA HCT"
@@ -36,7 +36,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4531"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -44,8 +44,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB06 "C09DB06"
-* classification[atc].coding[ema] = $100000093533#C09DB06 "C09DB06"
+* classification[atc].coding[who] = $who-atc#C09DB06 "amlodipiin, losartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB06 "amlodipiin, losartaan"
 
 * name.productName = "TENLORIS 10mg, 50mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TENLORIS"
@@ -63,7 +63,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-9838"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -71,8 +71,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX11 "C10BX11"
-* classification[atc].coding[ema] = $100000093533#C10BX11 "C10BX11"
+* classification[atc].coding[who] = $who-atc#C10BX11 "amlodipiin, atorvastatiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C10BX11 "amlodipiin, atorvastatiin, perindopriil"
 
 * name.productName = "TRIVERAM 40MG/10MG/10MG 40mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TRIVERAM 40MG/10MG/10MG"
@@ -90,7 +90,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-4283"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -98,8 +98,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, amlodipiin, perindopriil"
 
 * name.productName = "TRIPLIXAM 5mg, 1.25mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TRIPLIXAM"
@@ -117,7 +117,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-4288"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -125,8 +125,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Toimeainet modifitseeritult vabastav tablett"
 
-* classification[atc].coding[who] = $who-atc#C08GA80 "C08GA80"
-* classification[atc].coding[ema] = $100000093533#C08GA80 "C08GA80"
+* classification[atc].coding[who] = $who-atc#C08GA80 "indapamiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08GA80 "indapamiid, amlodipiin"
 
 * name.productName = "NATRIXAM 10mg, 1.5mg Toimeainet modifitseeritult vabastav tablett"
 * name.namePart[invented].part = "NATRIXAM"
@@ -144,7 +144,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-2303"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -152,8 +152,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "COPALIA 160mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "COPALIA"
@@ -171,7 +171,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3257"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -179,8 +179,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
 
 * name.productName = "EXFORGE HCT 25mg, 160mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "EXFORGE HCT"
@@ -198,7 +198,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3256"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -206,8 +206,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
 
 * name.productName = "EXFORGE HCT 5mg, 25mg, 160mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "EXFORGE HCT"
@@ -225,7 +225,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3311"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -233,8 +233,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, hüdroklorotiasiid, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, hüdroklorotiasiid, valsartaan"
 
 * name.productName = "COPALIA HCT 25mg, 10mg, 160mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "COPALIA HCT"
@@ -252,7 +252,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100018243-3748"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -260,8 +260,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "amlodipiin, telmisartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "amlodipiin, telmisartaan"
 
 * name.productName = "TWYNSTA 40mg, 5mg Tablett"
 * name.namePart[invented].part = "TWYNSTA"
@@ -279,7 +279,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4195"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -287,8 +287,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "ALNETA 5mg Tablett"
 * name.namePart[invented].part = "ALNETA"
@@ -306,7 +306,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-ML194-3286"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -314,8 +314,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE VITABALANS 5mg Tablett"
 * name.namePart[invented].part = "AMLODIPINE VITABALANS"
@@ -333,7 +333,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100015977-7439"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -341,8 +341,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC 12.5mg, 5mg, 40mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
@@ -360,7 +360,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3312"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -368,8 +368,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
 
 * name.productName = "COPALIA HCT 10mg, 320mg, 25mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "COPALIA HCT"
@@ -387,7 +387,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100032008-241"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -395,8 +395,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "NORVASC 10mg Tablett"
 * name.namePart[invented].part = "NORVASC"
@@ -414,7 +414,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005744-3396"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -422,8 +422,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
 
 * name.productName = "SANORAL HCT 25mg, 40mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "SANORAL HCT"
@@ -441,7 +441,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100044049-7863"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -449,8 +449,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "NORVASC 5mg Tablett"
 * name.namePart[invented].part = "NORVASC"
@@ -468,7 +468,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6455"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -476,8 +476,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "WAMLOX 5mg, 320mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "WAMLOX"
@@ -495,7 +495,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7131"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -503,8 +503,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "amlodipiin, hüdroklorotiasiid, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "amlodipiin, hüdroklorotiasiid, olmesartaanmedoksomiil"
 
 * name.productName = "OLSITRI 10mg, 40mg, 12.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLSITRI"
@@ -522,7 +522,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005744-3380"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -530,8 +530,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
 
 * name.productName = "SANORAL HCT 20mg, 12.5mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "SANORAL HCT"
@@ -549,7 +549,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6566"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -557,8 +557,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
 
 * name.productName = "VALTRICOM 160mg, 5mg, 12.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "VALTRICOM"
@@ -576,7 +576,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005744-2471"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -584,8 +584,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "SANORAL 10mg, 40mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "SANORAL"
@@ -603,7 +603,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-5894"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -611,8 +611,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLSSA 20mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLSSA"
@@ -630,7 +630,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7132"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -638,8 +638,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
 
 * name.productName = "OLSITRI 10mg, 40mg, 25mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLSITRI"
@@ -657,7 +657,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6569"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -665,8 +665,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "valsartaan, hüdroklorotiasiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "valsartaan, hüdroklorotiasiid, amlodipiin"
 
 * name.productName = "VALTRICOM 25mg, 10mg, 160mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "VALTRICOM"
@@ -684,7 +684,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005744-3392"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -692,8 +692,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
 
 * name.productName = "SANORAL HCT 12.5mg, 40mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "SANORAL HCT"
@@ -711,7 +711,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-2299"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -719,8 +719,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "DAFIRO 160mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DAFIRO"
@@ -738,7 +738,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3304"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -746,8 +746,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
 
 * name.productName = "DAFIRO HCT 10mg, 12.5mg, 160mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DAFIRO HCT"
@@ -765,7 +765,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-7496"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -773,8 +773,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "amlodipiin, indapamiid, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "amlodipiin, indapamiid, perindopriil"
 
 * name.productName = "PRINDAL 10mg, 4mg, 1.25mg Tablett"
 * name.namePart[invented].part = "PRINDAL"
@@ -792,7 +792,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005744-3395"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -800,8 +800,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "SANORAL HCT 40mg, 25mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "SANORAL HCT"
@@ -819,7 +819,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100001873-7462"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -827,8 +827,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "PERINDOPRIL/ AMLODIPINE ACTAVIS 10mg Tablett"
 * name.namePart[invented].part = "PERINDOPRIL/ AMLODIPINE ACTAVIS"
@@ -846,7 +846,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005270-4431"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -854,8 +854,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
 
 * name.productName = "PERINDOPRIL/AMLODIPINE TEVA 5mg, 10mg Tablett"
 * name.namePart[invented].part = "PERINDOPRIL/AMLODIPINE TEVA"
@@ -873,7 +873,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-ML11502-2394"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -881,8 +881,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE MEDOCHEMIE 10mg Tablett"
 * name.namePart[invented].part = "AMLODIPINE MEDOCHEMIE"
@@ -900,7 +900,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6830"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -908,8 +908,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX14 "C10BX14"
-* classification[atc].coding[ema] = $100000093533#C10BX14 "C10BX14"
+* classification[atc].coding[who] = $who-atc#C10BX14 "rosuvastatiin, amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C10BX14 "rosuvastatiin, amlodipiin, perindopriil"
 
 * name.productName = "ROXAMPEX 20mg, 8mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "ROXAMPEX"
@@ -927,7 +927,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-12991"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -935,8 +935,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "olmesartaanmedoksomiil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "olmesartaanmedoksomiil, amlodipiin"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA 5mg, 40mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
@@ -954,7 +954,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-13028"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -962,8 +962,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09DB07 "C09DB07"
-* classification[atc].coding[ema] = $100000093533#C09DB07 "C09DB07"
+* classification[atc].coding[who] = $who-atc#C09DB07 "kandesartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB07 "kandesartaan, amlodipiin"
 
 * name.productName = "FRAMSYL 10mg, 16mg Kõvakapsel"
 * name.namePart[invented].part = "FRAMSYL"
@@ -981,7 +981,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7128"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -989,8 +989,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
 
 * name.productName = "OLSITRI 5mg, 20mg, 12.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLSITRI"
@@ -1008,7 +1008,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4533"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1016,8 +1016,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB06 "C09DB06"
-* classification[atc].coding[ema] = $100000093533#C09DB06 "C09DB06"
+* classification[atc].coding[who] = $who-atc#C09DB06 "amlodipiin, losartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB06 "amlodipiin, losartaan"
 
 * name.productName = "TENLORIS 100mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TENLORIS"
@@ -1035,7 +1035,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-4287"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1043,8 +1043,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Toimeainet modifitseeritult vabastav tablett"
 
-* classification[atc].coding[who] = $who-atc#C08GA80 "C08GA80"
-* classification[atc].coding[ema] = $100000093533#C08GA80 "C08GA80"
+* classification[atc].coding[who] = $who-atc#C08GA80 "amlodipiin, indapamiid"
+* classification[atc].coding[ema] = $100000093533#C08GA80 "amlodipiin, indapamiid"
 
 * name.productName = "NATRIXAM 5mg, 1.5mg Toimeainet modifitseeritult vabastav tablett"
 * name.namePart[invented].part = "NATRIXAM"
@@ -1062,7 +1062,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-9835"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1070,8 +1070,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX11 "C10BX11"
-* classification[atc].coding[ema] = $100000093533#C10BX11 "C10BX11"
+* classification[atc].coding[who] = $who-atc#C10BX11 "perindopriil, atorvastatiin, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C10BX11 "perindopriil, atorvastatiin, amlodipiin"
 
 * name.productName = "TRIVERAM 10MG/5MG/5MG 10mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TRIVERAM 10MG/5MG/5MG"
@@ -1089,7 +1089,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-4286"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1097,8 +1097,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, amlodipiin, perindopriil"
 
 * name.productName = "TRIPLIXAM 10mg, 2.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TRIPLIXAM"
@@ -1116,7 +1116,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-11918"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1124,8 +1124,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB07 "C09DB07"
-* classification[atc].coding[ema] = $100000093533#C09DB07 "C09DB07"
+* classification[atc].coding[who] = $who-atc#C09DB07 "kandesartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB07 "kandesartaan, amlodipiin"
 
 * name.productName = "ZENICAMO 16mg, 10mg Tablett"
 * name.namePart[invented].part = "ZENICAMO"
@@ -1143,7 +1143,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005270-2532"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1151,8 +1151,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE TEVA 5mg Tablett"
 * name.namePart[invented].part = "AMLODIPINE TEVA"
@@ -1170,7 +1170,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-4290"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1178,8 +1178,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Toimeainet modifitseeritult vabastav tablett"
 
-* classification[atc].coding[who] = $who-atc#C08GA80 "C08GA80"
-* classification[atc].coding[ema] = $100000093533#C08GA80 "C08GA80"
+* classification[atc].coding[who] = $who-atc#C08GA80 "amlodipiin, indapamiid"
+* classification[atc].coding[ema] = $100000093533#C08GA80 "amlodipiin, indapamiid"
 
 * name.productName = "FLUTENSIF 10mg, 1.5mg Toimeainet modifitseeritult vabastav tablett"
 * name.namePart[invented].part = "FLUTENSIF"
@@ -1197,7 +1197,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6829"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1205,8 +1205,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX14 "C10BX14"
-* classification[atc].coding[ema] = $100000093533#C10BX14 "C10BX14"
+* classification[atc].coding[who] = $who-atc#C10BX14 "amlodipiin, rosuvastatiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C10BX14 "amlodipiin, rosuvastatiin, perindopriil"
 
 * name.productName = "ROXAMPEX 5mg, 4mg, 20mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "ROXAMPEX"
@@ -1224,7 +1224,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100015977-7437"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1232,8 +1232,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC 10mg, 25mg, 40mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
@@ -1251,7 +1251,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005270-4435"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1259,8 +1259,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "PERINDOPRIL/AMLODIPINE TEVA 10mg Tablett"
 * name.namePart[invented].part = "PERINDOPRIL/AMLODIPINE TEVA"
@@ -1278,7 +1278,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-1209"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1286,8 +1286,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AGEN 10MG 10mg Tablett"
 * name.namePart[invented].part = "AGEN 10MG"
@@ -1305,7 +1305,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-4899"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1313,8 +1313,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
 
 * name.productName = "MIXOR 80mg, 5mg Tablett"
 * name.namePart[invented].part = "MIXOR"
@@ -1332,7 +1332,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-7497"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1340,8 +1340,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "amlodipiin, perindopriil, indapamiid"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "amlodipiin, perindopriil, indapamiid"
 
 * name.productName = "PRINDAL 8mg, 5mg, 2.5mg Tablett"
 * name.namePart[invented].part = "PRINDAL"
@@ -1359,7 +1359,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6831"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1367,8 +1367,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX14 "C10BX14"
-* classification[atc].coding[ema] = $100000093533#C10BX14 "C10BX14"
+* classification[atc].coding[who] = $who-atc#C10BX14 "rosuvastatiin, amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C10BX14 "rosuvastatiin, amlodipiin, perindopriil"
 
 * name.productName = "ROXAMPEX 8mg, 20mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "ROXAMPEX"
@@ -1386,7 +1386,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-8694"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1394,8 +1394,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BB07 "C09BB07"
-* classification[atc].coding[ema] = $100000093533#C09BB07 "C09BB07"
+* classification[atc].coding[who] = $who-atc#C09BB07 "amlodipiin, ramipriil"
+* classification[atc].coding[ema] = $100000093533#C09BB07 "amlodipiin, ramipriil"
 
 * name.productName = "RAMIPRIL/AMLODIPINE SANDOZ 10mg Kõvakapsel"
 * name.namePart[invented].part = "RAMIPRIL/AMLODIPINE SANDOZ"
@@ -1413,7 +1413,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6567"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1421,8 +1421,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
 
 * name.productName = "VALTRICOM 160mg, 10mg, 12.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "VALTRICOM"
@@ -1440,7 +1440,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6570"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1448,8 +1448,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
 
 * name.productName = "VALTRICOM 320mg, 10mg, 25mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "VALTRICOM"
@@ -1467,7 +1467,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-4285"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1475,8 +1475,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, amlodipiin, perindopriil"
 
 * name.productName = "TRIPLIXAM 5mg, 10mg, 2.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TRIPLIXAM"
@@ -1494,7 +1494,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-9839"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1502,8 +1502,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX11 "C10BX11"
-* classification[atc].coding[ema] = $100000093533#C10BX11 "C10BX11"
+* classification[atc].coding[who] = $who-atc#C10BX11 "amlodipiin, perindopriil, atorvastatiin"
+* classification[atc].coding[ema] = $100000093533#C10BX11 "amlodipiin, perindopriil, atorvastatiin"
 
 * name.productName = "TRIVERAM 20MG/10MG/10MG 20mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TRIVERAM 20MG/10MG/10MG"
@@ -1521,7 +1521,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-1208"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1529,8 +1529,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AGEN 5MG 5mg Tablett"
 * name.namePart[invented].part = "AGEN 5MG"
@@ -1548,7 +1548,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-7495"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1556,8 +1556,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, perindopriil, amlodipiin"
 
 * name.productName = "PRINDAL 4mg, 1.25mg, 5mg Tablett"
 * name.namePart[invented].part = "PRINDAL"
@@ -1575,7 +1575,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-8961"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1583,8 +1583,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, perindopriil, amlodipiin"
 
 * name.productName = "CO-DALNESSA NEO 5mg, 1.25mg Tablett"
 * name.namePart[invented].part = "CO-DALNESSA NEO"
@@ -1602,7 +1602,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100001873-7460"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1610,8 +1610,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "PERINDOPRIL/ AMLODIPINE ACTAVIS 10mg, 5mg Tablett"
 * name.namePart[invented].part = "PERINDOPRIL/ AMLODIPINE ACTAVIS"
@@ -1629,7 +1629,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4593"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1637,8 +1637,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C07FB07 "C07FB07"
-* classification[atc].coding[ema] = $100000093533#C07FB07 "C07FB07"
+* classification[atc].coding[who] = $who-atc#C07FB07 "bisoprolool, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C07FB07 "bisoprolool, amlodipiin"
 
 * name.productName = "SOBYCOMBI 10mg Tablett"
 * name.namePart[invented].part = "SOBYCOMBI"
@@ -1656,7 +1656,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6052"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1664,8 +1664,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB07 "C09DB07"
-* classification[atc].coding[ema] = $100000093533#C09DB07 "C09DB07"
+* classification[atc].coding[who] = $who-atc#C09DB07 "amlodipiin, kandesartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB07 "amlodipiin, kandesartaan"
 
 * name.productName = "CAMDERO 16mg, 5mg Tablett"
 * name.namePart[invented].part = "CAMDERO"
@@ -1683,7 +1683,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-7498"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1691,8 +1691,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, perindopriil, amlodipiin"
 
 * name.productName = "PRINDAL 10mg, 2.5mg, 8mg Tablett"
 * name.namePart[invented].part = "PRINDAL"
@@ -1710,7 +1710,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-6320"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1718,8 +1718,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BX03 "C09BX03"
-* classification[atc].coding[ema] = $100000093533#C09BX03 "C09BX03"
+* classification[atc].coding[who] = $who-atc#C09BX03 "amlodipiin, hüdroklorotiasiid, ramipriil"
+* classification[atc].coding[ema] = $100000093533#C09BX03 "amlodipiin, hüdroklorotiasiid, ramipriil"
 
 * name.productName = "RAMDACORDIA HCT 5mg, 10mg, 25mg Kõvakapsel"
 * name.namePart[invented].part = "RAMDACORDIA HCT"
@@ -1737,7 +1737,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3258"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1745,8 +1745,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
 
 * name.productName = "EXFORGE HCT 320mg, 25mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "EXFORGE HCT"
@@ -1764,7 +1764,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100018243-3752"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1772,8 +1772,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "amlodipiin, telmisartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "amlodipiin, telmisartaan"
 
 * name.productName = "TWYNSTA 80mg, 10mg Tablett"
 * name.namePart[invented].part = "TWYNSTA"
@@ -1791,7 +1791,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100018243-3750"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1799,8 +1799,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
 
 * name.productName = "TWYNSTA 10mg, 40mg Tablett"
 * name.namePart[invented].part = "TWYNSTA"
@@ -1818,7 +1818,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100054211-5799"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1826,8 +1826,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "amlodipiin, valsartaan"
 
 * name.productName = "AMLODIPINE/VALSARTAN MYLAN 160mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "AMLODIPINE/VALSARTAN MYLAN"
@@ -1845,7 +1845,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7129"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1853,8 +1853,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
 
 * name.productName = "OLSITRI 12.5mg, 40mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLSITRI"
@@ -1872,7 +1872,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-3744"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1880,8 +1880,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
 
 * name.productName = "DALNESSA 4mg, 5mg Tablett"
 * name.namePart[invented].part = "DALNESSA"
@@ -1899,7 +1899,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7008"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1907,8 +1907,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA 40mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
@@ -1926,7 +1926,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-5687"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1934,8 +1934,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
 
 * name.productName = "TELDIPIN 5mg, 80mg Tablett"
 * name.namePart[invented].part = "TELDIPIN"
@@ -1953,7 +1953,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100015977-7367"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1961,8 +1961,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
 
 * name.productName = "TELMISARTAN/AMLODIPINE ALEMBIC 80mg, 10mg Tablett"
 * name.namePart[invented].part = "TELMISARTAN/AMLODIPINE ALEMBIC"
@@ -1980,7 +1980,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-2058"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -1988,8 +1988,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "amlodipiin, valsartaan"
 
 * name.productName = "EXFORGE 10mg, 160mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "EXFORGE"
@@ -2007,7 +2007,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6366"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2015,8 +2015,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
 
 * name.productName = "DALNESSA 2.85mg, 2.5mg Tablett"
 * name.namePart[invented].part = "DALNESSA"
@@ -2034,7 +2034,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100003164-8730"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2042,8 +2042,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "amlodipiin, indapamiid, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "amlodipiin, indapamiid, perindopriil"
 
 * name.productName = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA 10mg, 2.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
@@ -2061,7 +2061,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-9837"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2069,8 +2069,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX11 "C10BX11"
-* classification[atc].coding[ema] = $100000093533#C10BX11 "C10BX11"
+* classification[atc].coding[who] = $who-atc#C10BX11 "perindopriil, amlodipiin, atorvastatiin"
+* classification[atc].coding[ema] = $100000093533#C10BX11 "perindopriil, amlodipiin, atorvastatiin"
 
 * name.productName = "TRIVERAM 20MG/10MG/5MG 5mg, 10mg, 20mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TRIVERAM 20MG/10MG/5MG"
@@ -2088,7 +2088,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100018243-3751"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2096,8 +2096,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "amlodipiin, telmisartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "amlodipiin, telmisartaan"
 
 * name.productName = "TWYNSTA 5mg, 80mg Tablett"
 * name.namePart[invented].part = "TWYNSTA"
@@ -2115,7 +2115,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3255"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2123,8 +2123,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
 
 * name.productName = "EXFORGE HCT 10mg, 160mg, 12.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "EXFORGE HCT"
@@ -2142,7 +2142,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100054211-5800"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2150,8 +2150,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "amlodipiin, valsartaan"
 
 * name.productName = "AMLODIPINE/VALSARTAN MYLAN 10mg, 160mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "AMLODIPINE/VALSARTAN MYLAN"
@@ -2169,7 +2169,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-1288"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2177,8 +2177,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "HIPRES 5mg Tablett"
 * name.namePart[invented].part = "HIPRES"
@@ -2196,7 +2196,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3254"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2204,8 +2204,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "valsartaan, amlodipiin, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "valsartaan, amlodipiin, hüdroklorotiasiid"
 
 * name.productName = "EXFORGE HCT 12.5mg, 160mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "EXFORGE HCT"
@@ -2223,7 +2223,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3307"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2231,8 +2231,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
 
 * name.productName = "DAFIRO HCT 25mg, 10mg, 320mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DAFIRO HCT"
@@ -2250,7 +2250,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-5688"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2258,8 +2258,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
 
 * name.productName = "TELDIPIN 80mg, 10mg Tablett"
 * name.namePart[invented].part = "TELDIPIN"
@@ -2277,7 +2277,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-2057"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2285,8 +2285,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "EXFORGE 5mg, 160mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "EXFORGE"
@@ -2304,7 +2304,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4532"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2312,8 +2312,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB06 "C09DB06"
-* classification[atc].coding[ema] = $100000093533#C09DB06 "C09DB06"
+* classification[atc].coding[who] = $who-atc#C09DB06 "amlodipiin, losartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB06 "amlodipiin, losartaan"
 
 * name.productName = "TENLORIS 5mg, 100mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TENLORIS"
@@ -2331,7 +2331,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3310"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2339,8 +2339,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
 
 * name.productName = "COPALIA HCT 25mg, 160mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "COPALIA HCT"
@@ -2358,7 +2358,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3308"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2366,8 +2366,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
 
 * name.productName = "COPALIA HCT 160mg, 12.5mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "COPALIA HCT"
@@ -2385,7 +2385,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-2361"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2393,8 +2393,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
 
 * name.productName = "COVERAM 10mg, 5mg Tablett"
 * name.namePart[invented].part = "COVERAM"
@@ -2412,7 +2412,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-2056"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2420,8 +2420,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "amlodipiin, valsartaan"
 
 * name.productName = "EXFORGE 80mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "EXFORGE"
@@ -2439,7 +2439,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-2298"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2447,8 +2447,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "DAFIRO 160mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DAFIRO"
@@ -2466,7 +2466,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-2302"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2474,8 +2474,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "COPALIA 160mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "COPALIA"
@@ -2493,7 +2493,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-2301"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2501,8 +2501,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "COPALIA 5mg, 80mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "COPALIA"
@@ -2520,7 +2520,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3305"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2528,8 +2528,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "valsartaan, hüdroklorotiasiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "valsartaan, hüdroklorotiasiid, amlodipiin"
 
 * name.productName = "DAFIRO HCT 25mg, 5mg, 160mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DAFIRO HCT"
@@ -2547,7 +2547,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100054211-5798"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2555,8 +2555,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "amlodipiin, valsartaan"
 
 * name.productName = "AMLODIPINE/VALSARTAN MYLAN 5mg, 80mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "AMLODIPINE/VALSARTAN MYLAN"
@@ -2574,7 +2574,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3303"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2582,8 +2582,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
 
 * name.productName = "DAFIRO HCT 160mg, 5mg, 12.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DAFIRO HCT"
@@ -2601,7 +2601,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-3306"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2609,8 +2609,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, hüdroklorotiasiid, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, hüdroklorotiasiid, valsartaan"
 
 * name.productName = "DAFIRO HCT 25mg, 160mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DAFIRO HCT"
@@ -2628,7 +2628,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-1289"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2636,8 +2636,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "HIPRES 10mg Tablett"
 * name.namePart[invented].part = "HIPRES"
@@ -2655,7 +2655,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100010531-2300"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2663,8 +2663,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "DAFIRO 80mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DAFIRO"
@@ -2682,7 +2682,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-13027"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2690,8 +2690,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "AMLODIPINE /VALSARTAN SANDOZ 160mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "AMLODIPINE /VALSARTAN SANDOZ"
@@ -2709,7 +2709,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-4289"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2717,8 +2717,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Toimeainet modifitseeritult vabastav tablett"
 
-* classification[atc].coding[who] = $who-atc#C08GA80 "C08GA80"
-* classification[atc].coding[ema] = $100000093533#C08GA80 "C08GA80"
+* classification[atc].coding[who] = $who-atc#C08GA80 "amlodipiin, indapamiid"
+* classification[atc].coding[ema] = $100000093533#C08GA80 "amlodipiin, indapamiid"
 
 * name.productName = "FLUTENSIF 5mg, 1.5mg Toimeainet modifitseeritult vabastav tablett"
 * name.namePart[invented].part = "FLUTENSIF"
@@ -2736,7 +2736,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100003164-8728"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2744,8 +2744,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "amlodipiin, perindopriil, indapamiid"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "amlodipiin, perindopriil, indapamiid"
 
 * name.productName = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA 10mg, 5mg, 1.25mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
@@ -2763,7 +2763,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100054619-2086"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2771,8 +2771,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIGAMMA 10MG 10mg Tablett"
 * name.namePart[invented].part = "AMLODIGAMMA 10MG"
@@ -2790,7 +2790,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-9836"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2798,8 +2798,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX11 "C10BX11"
-* classification[atc].coding[ema] = $100000093533#C10BX11 "C10BX11"
+* classification[atc].coding[who] = $who-atc#C10BX11 "atorvastatiin, amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C10BX11 "atorvastatiin, amlodipiin, perindopriil"
 
 * name.productName = "TRIVERAM 20MG/5MG/5MG 20mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TRIVERAM 20MG/5MG/5MG"
@@ -2817,7 +2817,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4530"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2825,8 +2825,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB06 "C09DB06"
-* classification[atc].coding[ema] = $100000093533#C09DB06 "C09DB06"
+* classification[atc].coding[who] = $who-atc#C09DB06 "losartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB06 "losartaan, amlodipiin"
 
 * name.productName = "TENLORIS 50mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TENLORIS"
@@ -2844,7 +2844,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100007148-5978"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2852,8 +2852,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD 20mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
@@ -2871,7 +2871,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-13030"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2879,8 +2879,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09DB07 "C09DB07"
-* classification[atc].coding[ema] = $100000093533#C09DB07 "C09DB07"
+* classification[atc].coding[who] = $who-atc#C09DB07 "amlodipiin, kandesartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB07 "amlodipiin, kandesartaan"
 
 * name.productName = "FRAMSYL 5mg, 8mg Kõvakapsel"
 * name.namePart[invented].part = "FRAMSYL"
@@ -2898,7 +2898,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-13026"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2906,8 +2906,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "AMLODIPINE /VALSARTAN SANDOZ 160mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "AMLODIPINE /VALSARTAN SANDOZ"
@@ -2925,7 +2925,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-7337"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2933,8 +2933,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "GADUAR 40mg, 12.5mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "GADUAR"
@@ -2952,7 +2952,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005270-2533"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2960,8 +2960,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE TEVA 10mg Tablett"
 * name.namePart[invented].part = "AMLODIPINE TEVA"
@@ -2979,7 +2979,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100015977-7435"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -2987,8 +2987,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC 20mg, 12.5mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
@@ -3006,7 +3006,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100015977-7440"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3014,8 +3014,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC 40mg, 12.5mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
@@ -3033,7 +3033,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100006906-2153"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3041,8 +3041,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPIN-RATIOPHARM 5 MG 5mg Tablett"
 * name.namePart[invented].part = "AMLODIPIN-RATIOPHARM 5 MG"
@@ -3060,7 +3060,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-2362"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3068,8 +3068,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "COVERAM 5mg, 10mg Tablett"
 * name.namePart[invented].part = "COVERAM"
@@ -3087,7 +3087,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7966"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3095,8 +3095,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
 
 * name.productName = "DALNESSANEO 5mg Tablett"
 * name.namePart[invented].part = "DALNESSANEO"
@@ -3114,7 +3114,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100054619-2085"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3122,8 +3122,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIGAMMA 5MG 5mg Tablett"
 * name.namePart[invented].part = "AMLODIGAMMA 5MG"
@@ -3141,7 +3141,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005270-4433"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3149,8 +3149,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
 
 * name.productName = "PERINDOPRIL/AMLODIPINE TEVA 10mg, 5mg Tablett"
 * name.namePart[invented].part = "PERINDOPRIL/AMLODIPINE TEVA"
@@ -3168,7 +3168,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4201"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3176,8 +3176,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX03 "C10BX03"
-* classification[atc].coding[ema] = $100000093533#C10BX03 "C10BX03"
+* classification[atc].coding[who] = $who-atc#C10BX03 "atorvastatiin, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C10BX03 "atorvastatiin, amlodipiin"
 
 * name.productName = "AMALORIS 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "AMALORIS"
@@ -3195,7 +3195,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7130"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3203,8 +3203,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
 
 * name.productName = "OLSITRI 5mg, 25mg, 40mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLSITRI"
@@ -3222,7 +3222,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-9562"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3230,8 +3230,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BB07 "C09BB07"
-* classification[atc].coding[ema] = $100000093533#C09BB07 "C09BB07"
+* classification[atc].coding[who] = $who-atc#C09BB07 "amlodipiin, ramipriil"
+* classification[atc].coding[ema] = $100000093533#C09BB07 "amlodipiin, ramipriil"
 
 * name.productName = "RAMDACORDIA 5mg Kõvakapsel"
 * name.namePart[invented].part = "RAMDACORDIA"
@@ -3249,7 +3249,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-7338"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3257,8 +3257,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
 
 * name.productName = "GADUAR 10mg, 12.5mg, 40mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "GADUAR"
@@ -3276,7 +3276,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4591"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3284,8 +3284,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C07FB07 "C07FB07"
-* classification[atc].coding[ema] = $100000093533#C07FB07 "C07FB07"
+* classification[atc].coding[who] = $who-atc#C07FB07 "amlodipiin, bisoprolool"
+* classification[atc].coding[ema] = $100000093533#C07FB07 "amlodipiin, bisoprolool"
 
 * name.productName = "SOBYCOMBI 5mg, 10mg Tablett"
 * name.namePart[invented].part = "SOBYCOMBI"
@@ -3303,7 +3303,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-3747"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3311,8 +3311,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
 
 * name.productName = "DALNESSA 8mg, 10mg Tablett"
 * name.namePart[invented].part = "DALNESSA"
@@ -3330,7 +3330,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005744-2469"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3338,8 +3338,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "olmesartaanmedoksomiil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "olmesartaanmedoksomiil, amlodipiin"
 
 * name.productName = "SANORAL 5mg, 20mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "SANORAL"
@@ -3357,7 +3357,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100003164-8729"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3365,8 +3365,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "perindopriil, indapamiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "perindopriil, indapamiid, amlodipiin"
 
 * name.productName = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA 10mg, 2.5mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
@@ -3384,7 +3384,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100015977-7366"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3392,8 +3392,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "amlodipiin, telmisartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "amlodipiin, telmisartaan"
 
 * name.productName = "TELMISARTAN/AMLODIPINE ALEMBIC 80mg, 5mg Tablett"
 * name.namePart[invented].part = "TELMISARTAN/AMLODIPINE ALEMBIC"
@@ -3411,7 +3411,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4592"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3419,8 +3419,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C07FB07 "C07FB07"
-* classification[atc].coding[ema] = $100000093533#C07FB07 "C07FB07"
+* classification[atc].coding[who] = $who-atc#C07FB07 "amlodipiin, bisoprolool"
+* classification[atc].coding[ema] = $100000093533#C07FB07 "amlodipiin, bisoprolool"
 
 * name.productName = "SOBYCOMBI 10mg, 5mg Tablett"
 * name.namePart[invented].part = "SOBYCOMBI"
@@ -3438,7 +3438,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-5895"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3446,8 +3446,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLSSA 40mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLSSA"
@@ -3465,7 +3465,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-13342"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3473,8 +3473,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "valsartaan, amlodipiin, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "valsartaan, amlodipiin, hüdroklorotiasiid"
 
 * name.productName = "DIPPERAM HCT 25mg, 160mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DIPPERAM HCT"
@@ -3492,7 +3492,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-13343"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3500,8 +3500,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
 
 * name.productName = "DIPPERAM HCT 25mg, 160mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DIPPERAM HCT"
@@ -3519,7 +3519,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-13344"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3527,8 +3527,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
 
 * name.productName = "DIPPERAM HCT 5mg, 160mg, 12.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "DIPPERAM HCT"
@@ -3546,7 +3546,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-5896"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3554,8 +3554,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLSSA 40mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLSSA"
@@ -3573,7 +3573,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-6318"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3581,8 +3581,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BX03 "C09BX03"
-* classification[atc].coding[ema] = $100000093533#C09BX03 "C09BX03"
+* classification[atc].coding[who] = $who-atc#C09BX03 "ramipriil, hüdroklorotiasiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BX03 "ramipriil, hüdroklorotiasiid, amlodipiin"
 
 * name.productName = "RAMDACORDIA HCT 5mg, 12.5mg Kõvakapsel"
 * name.namePart[invented].part = "RAMDACORDIA HCT"
@@ -3600,7 +3600,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100007148-7039"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3608,8 +3608,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD 5mg, 12.5mg, 40mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
@@ -3627,7 +3627,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7968"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3635,8 +3635,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
 
 * name.productName = "DALNESSANEO 5mg, 10mg Tablett"
 * name.namePart[invented].part = "DALNESSANEO"
@@ -3654,7 +3654,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100003164-7240"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3662,8 +3662,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA 5mg, 12.5mg, 40mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
@@ -3681,7 +3681,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-9564"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3689,8 +3689,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BB07 "C09BB07"
-* classification[atc].coding[ema] = $100000093533#C09BB07 "C09BB07"
+* classification[atc].coding[who] = $who-atc#C09BB07 "amlodipiin, ramipriil"
+* classification[atc].coding[ema] = $100000093533#C09BB07 "amlodipiin, ramipriil"
 
 * name.productName = "RAMDACORDIA 10mg, 5mg Kõvakapsel"
 * name.namePart[invented].part = "RAMDACORDIA"
@@ -3708,7 +3708,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6828"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3716,8 +3716,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX14 "C10BX14"
-* classification[atc].coding[ema] = $100000093533#C10BX14 "C10BX14"
+* classification[atc].coding[who] = $who-atc#C10BX14 "rosuvastatiin, amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C10BX14 "rosuvastatiin, amlodipiin, perindopriil"
 
 * name.productName = "ROXAMPEX 10mg, 8mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "ROXAMPEX"
@@ -3735,7 +3735,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-4901"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3743,8 +3743,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
 
 * name.productName = "MIXOR 80mg, 10mg Tablett"
 * name.namePart[invented].part = "MIXOR"
@@ -3762,7 +3762,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4576"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3770,8 +3770,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX03 "C10BX03"
-* classification[atc].coding[ema] = $100000093533#C10BX03 "C10BX03"
+* classification[atc].coding[who] = $who-atc#C10BX03 "atorvastatiin, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C10BX03 "atorvastatiin, amlodipiin"
 
 * name.productName = "AMALORIS 10mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "AMALORIS"
@@ -3789,7 +3789,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100015977-7365"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3797,8 +3797,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
 
 * name.productName = "TELMISARTAN/AMLODIPINE ALEMBIC 40mg, 10mg Tablett"
 * name.namePart[invented].part = "TELMISARTAN/AMLODIPINE ALEMBIC"
@@ -3816,7 +3816,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-8691"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3824,8 +3824,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BB07 "C09BB07"
-* classification[atc].coding[ema] = $100000093533#C09BB07 "C09BB07"
+* classification[atc].coding[who] = $who-atc#C09BB07 "amlodipiin, ramipriil"
+* classification[atc].coding[ema] = $100000093533#C09BB07 "amlodipiin, ramipriil"
 
 * name.productName = "RAMIPRIL/AMLODIPINE SANDOZ 5mg Kõvakapsel"
 * name.namePart[invented].part = "RAMIPRIL/AMLODIPINE SANDOZ"
@@ -3843,7 +3843,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6568"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3851,8 +3851,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "C09DX01"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "C09DX01"
+* classification[atc].coding[who] = $who-atc#C09DX01 "valsartaan, hüdroklorotiasiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DX01 "valsartaan, hüdroklorotiasiid, amlodipiin"
 
 * name.productName = "VALTRICOM 160mg, 5mg, 25mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "VALTRICOM"
@@ -3870,7 +3870,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-6319"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3878,8 +3878,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BX03 "C09BX03"
-* classification[atc].coding[ema] = $100000093533#C09BX03 "C09BX03"
+* classification[atc].coding[who] = $who-atc#C09BX03 "hüdroklorotiasiid, ramipriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BX03 "hüdroklorotiasiid, ramipriil, amlodipiin"
 
 * name.productName = "RAMDACORDIA HCT 25mg, 5mg Kõvakapsel"
 * name.namePart[invented].part = "RAMDACORDIA HCT"
@@ -3897,7 +3897,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100015977-7432"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3905,8 +3905,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC 25mg, 5mg, 40mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
@@ -3924,7 +3924,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-3749"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3932,8 +3932,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "DALNESSA 4mg, 10mg Tablett"
 * name.namePart[invented].part = "DALNESSA"
@@ -3951,7 +3951,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-8692"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3959,8 +3959,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BB07 "C09BB07"
-* classification[atc].coding[ema] = $100000093533#C09BB07 "C09BB07"
+* classification[atc].coding[who] = $who-atc#C09BB07 "ramipriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB07 "ramipriil, amlodipiin"
 
 * name.productName = "RAMIPRIL/AMLODIPINE SANDOZ 10mg, 5mg Kõvakapsel"
 * name.namePart[invented].part = "RAMIPRIL/AMLODIPINE SANDOZ"
@@ -3978,7 +3978,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100003164-8727"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -3986,8 +3986,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, amlodipiin, perindopriil"
 
 * name.productName = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA 5mg, 1.25mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
@@ -4005,7 +4005,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-ML11502-2393"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4013,8 +4013,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE MEDOCHEMIE 5mg Tablett"
 * name.namePart[invented].part = "AMLODIPINE MEDOCHEMIE"
@@ -4032,7 +4032,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002475-2095"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4040,8 +4040,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLOCARD 10MG 10mg Tablett"
 * name.namePart[invented].part = "AMLOCARD 10MG"
@@ -4059,7 +4059,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100003164-7898"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4067,8 +4067,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "amlodipiin, telmisartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "amlodipiin, telmisartaan"
 
 * name.productName = "TELMISARTAN/AMLODIPINE TEVA 10mg, 80mg Tablett"
 * name.namePart[invented].part = "TELMISARTAN/AMLODIPINE TEVA"
@@ -4086,7 +4086,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-8693"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4094,8 +4094,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BB07 "C09BB07"
-* classification[atc].coding[ema] = $100000093533#C09BB07 "C09BB07"
+* classification[atc].coding[who] = $who-atc#C09BB07 "ramipriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB07 "ramipriil, amlodipiin"
 
 * name.productName = "RAMIPRIL/AMLODIPINE SANDOZ 5mg, 10mg Kõvakapsel"
 * name.namePart[invented].part = "RAMIPRIL/AMLODIPINE SANDOZ"
@@ -4113,7 +4113,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7007"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4121,8 +4121,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "olmesartaanmedoksomiil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "olmesartaanmedoksomiil, amlodipiin"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA 5mg, 20mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
@@ -4140,7 +4140,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100001653-3766"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4148,8 +4148,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB03 "C09BB03"
-* classification[atc].coding[ema] = $100000093533#C09BB03 "C09BB03"
+* classification[atc].coding[who] = $who-atc#C09BB03 "lisinopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB03 "lisinopriil, amlodipiin"
 
 * name.productName = "DIRONORM 20mg, 5mg Tablett"
 * name.namePart[invented].part = "DIRONORM"
@@ -4167,7 +4167,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-5685"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4175,8 +4175,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
 
 * name.productName = "TELDIPIN 5mg, 40mg Tablett"
 * name.namePart[invented].part = "TELDIPIN"
@@ -4194,7 +4194,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100015977-7363"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4202,8 +4202,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
 
 * name.productName = "TELMISARTAN/AMLODIPINE ALEMBIC 40mg, 5mg Tablett"
 * name.namePart[invented].part = "TELMISARTAN/AMLODIPINE ALEMBIC"
@@ -4221,7 +4221,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-8963"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4229,8 +4229,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "amlodipiin, indapamiid, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "amlodipiin, indapamiid, perindopriil"
 
 * name.productName = "CO-DALNESSA NEO 2.5mg, 10mg Tablett"
 * name.namePart[invented].part = "CO-DALNESSA NEO"
@@ -4248,7 +4248,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4196"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4256,8 +4256,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "ALNETA 10mg Tablett"
 * name.namePart[invented].part = "ALNETA"
@@ -4275,7 +4275,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4428"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4283,8 +4283,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "amlodipiin, indapamiid, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "amlodipiin, indapamiid, perindopriil"
 
 * name.productName = "CO-DALNESSA 1.25mg, 5mg, 4mg Tablett"
 * name.namePart[invented].part = "CO-DALNESSA"
@@ -4302,7 +4302,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100007148-5980"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4310,8 +4310,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD 40mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
@@ -4329,7 +4329,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002580-12990"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4337,8 +4337,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA 40mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
@@ -4356,7 +4356,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-13029"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4364,8 +4364,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09DB07 "C09DB07"
-* classification[atc].coding[ema] = $100000093533#C09DB07 "C09DB07"
+* classification[atc].coding[who] = $who-atc#C09DB07 "kandesartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB07 "kandesartaan, amlodipiin"
 
 * name.productName = "FRAMSYL 5mg, 16mg Kõvakapsel"
 * name.namePart[invented].part = "FRAMSYL"
@@ -4383,7 +4383,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6367"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4391,8 +4391,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "DALNESSA 5.7mg, 5mg Tablett"
 * name.namePart[invented].part = "DALNESSA"
@@ -4410,7 +4410,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100003164-7882"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4418,8 +4418,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
 
 * name.productName = "TELMISARTAN/AMLODIPINE TEVA 80mg, 5mg Tablett"
 * name.namePart[invented].part = "TELMISARTAN/AMLODIPINE TEVA"
@@ -4437,7 +4437,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7969"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4445,8 +4445,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "DALNESSANEO 10mg Tablett"
 * name.namePart[invented].part = "DALNESSANEO"
@@ -4464,7 +4464,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4432"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4472,8 +4472,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "amlodipiin, indapamiid, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "amlodipiin, indapamiid, perindopriil"
 
 * name.productName = "CO-DALNESSA 8mg, 2.5mg, 10mg Tablett"
 * name.namePart[invented].part = "CO-DALNESSA"
@@ -4491,7 +4491,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100007148-5979"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4499,8 +4499,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD 40mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
@@ -4518,7 +4518,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100001653-2418"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4526,8 +4526,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB03 "C09BB03"
-* classification[atc].coding[ema] = $100000093533#C09BB03 "C09BB03"
+* classification[atc].coding[who] = $who-atc#C09BB03 "amlodipiin, lisinopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB03 "amlodipiin, lisinopriil"
 
 * name.productName = "DIRONORM 10mg, 5mg Tablett"
 * name.namePart[invented].part = "DIRONORM"
@@ -4545,7 +4545,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005270-4430"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4553,8 +4553,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "PERINDOPRIL/AMLODIPINE TEVA 5mg Tablett"
 * name.namePart[invented].part = "PERINDOPRIL/AMLODIPINE TEVA"
@@ -4572,7 +4572,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-8962"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4580,8 +4580,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "perindopriil, indapamiid, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "perindopriil, indapamiid, amlodipiin"
 
 * name.productName = "CO-DALNESSA NEO 10mg, 5mg, 2.5mg Tablett"
 * name.namePart[invented].part = "CO-DALNESSA NEO"
@@ -4599,7 +4599,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6826"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4607,8 +4607,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX14 "C10BX14"
-* classification[atc].coding[ema] = $100000093533#C10BX14 "C10BX14"
+* classification[atc].coding[who] = $who-atc#C10BX14 "amlodipiin, rosuvastatiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C10BX14 "amlodipiin, rosuvastatiin, perindopriil"
 
 * name.productName = "ROXAMPEX 5mg, 4mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "ROXAMPEX"
@@ -4626,7 +4626,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7009"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4634,8 +4634,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA 40mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
@@ -4653,7 +4653,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100007148-7040"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4661,8 +4661,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "amlodipiin, olmesartaanmedoksomiil, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "amlodipiin, olmesartaanmedoksomiil, hüdroklorotiasiid"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD 10mg, 40mg, 12.5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
@@ -4680,7 +4680,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4436"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4688,8 +4688,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, perindopriil, amlodipiin"
 
 * name.productName = "CO-DALNESSA 5mg, 8mg, 2.5mg Tablett"
 * name.namePart[invented].part = "CO-DALNESSA"
@@ -4707,7 +4707,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005744-2470"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4715,8 +4715,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB02 "C09DB02"
-* classification[atc].coding[ema] = $100000093533#C09DB02 "C09DB02"
+* classification[atc].coding[who] = $who-atc#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DB02 "amlodipiin, olmesartaanmedoksomiil"
 
 * name.productName = "SANORAL 40mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "SANORAL"
@@ -4734,7 +4734,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100005744-3390"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4742,8 +4742,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "amlodipiin, hüdroklorotiasiid, olmesartaanmedoksomiil"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "amlodipiin, hüdroklorotiasiid, olmesartaanmedoksomiil"
 
 * name.productName = "SANORAL HCT 12.5mg, 5mg, 40mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "SANORAL HCT"
@@ -4761,7 +4761,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-9478"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4769,8 +4769,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BB07 "C09BB07"
-* classification[atc].coding[ema] = $100000093533#C09BB07 "C09BB07"
+* classification[atc].coding[who] = $who-atc#C09BB07 "amlodipiin, ramipriil"
+* classification[atc].coding[ema] = $100000093533#C09BB07 "amlodipiin, ramipriil"
 
 * name.productName = "RAMDACORDIA 10mg Kõvakapsel"
 * name.namePart[invented].part = "RAMDACORDIA"
@@ -4788,7 +4788,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6456"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4796,8 +4796,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "WAMLOX 10mg, 320mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "WAMLOX"
@@ -4815,7 +4815,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100001873-7459"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4823,8 +4823,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
 
 * name.productName = "PERINDOPRIL/ AMLODIPINE ACTAVIS 5mg Tablett"
 * name.namePart[invented].part = "PERINDOPRIL/ AMLODIPINE ACTAVIS"
@@ -4842,7 +4842,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-7967"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4850,8 +4850,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
 
 * name.productName = "DALNESSANEO 10mg, 5mg Tablett"
 * name.namePart[invented].part = "DALNESSANEO"
@@ -4869,7 +4869,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-13031"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4877,8 +4877,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09DB07 "C09DB07"
-* classification[atc].coding[ema] = $100000093533#C09DB07 "C09DB07"
+* classification[atc].coding[who] = $who-atc#C09DB07 "amlodipiin, kandesartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB07 "amlodipiin, kandesartaan"
 
 * name.productName = "FRAMSYL 10mg, 8mg Kõvakapsel"
 * name.namePart[invented].part = "FRAMSYL"
@@ -4896,7 +4896,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100003164-7241"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4904,8 +4904,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX03 "C09DX03"
-* classification[atc].coding[ema] = $100000093533#C09DX03 "C09DX03"
+* classification[atc].coding[who] = $who-atc#C09DX03 "amlodipiin, olmesartaanmedoksomiil, hüdroklorotiasiid"
+* classification[atc].coding[ema] = $100000093533#C09DX03 "amlodipiin, olmesartaanmedoksomiil, hüdroklorotiasiid"
 
 * name.productName = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA 12.5mg, 40mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
@@ -4923,7 +4923,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100006906-2155"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4931,8 +4931,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPIN-RATIOPHARM 10 MG 10mg Tablett"
 * name.namePart[invented].part = "AMLODIPIN-RATIOPHARM 10 MG"
@@ -4950,7 +4950,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-5255"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4958,8 +4958,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "amlodipiin, valsartaan"
 
 * name.productName = "WAMLOX 80mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "WAMLOX"
@@ -4977,7 +4977,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6827"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -4985,8 +4985,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C10BX14 "C10BX14"
-* classification[atc].coding[ema] = $100000093533#C10BX14 "C10BX14"
+* classification[atc].coding[who] = $who-atc#C10BX14 "perindopriil, rosuvastatiin, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C10BX14 "perindopriil, rosuvastatiin, amlodipiin"
 
 * name.productName = "ROXAMPEX 10mg, 5mg, 8mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "ROXAMPEX"
@@ -5004,7 +5004,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-5256"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5012,8 +5012,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "amlodipiin, valsartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "amlodipiin, valsartaan"
 
 * name.productName = "WAMLOX 160mg, 5mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "WAMLOX"
@@ -5031,7 +5031,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002475-2094"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5039,8 +5039,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLOCARD 5 MG 5mg Tablett"
 * name.namePart[invented].part = "AMLOCARD 5 MG"
@@ -5058,7 +5058,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-2363"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5066,8 +5066,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "COVERAM 10mg Tablett"
 * name.namePart[invented].part = "COVERAM"
@@ -5085,7 +5085,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-8906"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5093,8 +5093,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BX80 "C09BX80"
-* classification[atc].coding[ema] = $100000093533#C09BX80 "C09BX80"
+* classification[atc].coding[who] = $who-atc#C09BX80 "bisoprolool, amlodipiin, indapamiid, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX80 "bisoprolool, amlodipiin, indapamiid, perindopriil"
 
 * name.productName = "QUADRIXAM 5MG/1,25MG/5MG/5MG 5mg, 1.25mg Kõvakapsel"
 * name.namePart[invented].part = "QUADRIXAM 5MG/1,25MG/5MG/5MG"
@@ -5112,7 +5112,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-8907"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5120,8 +5120,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BX80 "C09BX80"
-* classification[atc].coding[ema] = $100000093533#C09BX80 "C09BX80"
+* classification[atc].coding[who] = $who-atc#C09BX80 "bisoprolool, indapamiid, amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BX80 "bisoprolool, indapamiid, amlodipiin, perindopriil"
 
 * name.productName = "QUADRIXAM 10MG/2,5MG/5MG/5MG 5mg, 2.5mg, 10mg Kõvakapsel"
 * name.namePart[invented].part = "QUADRIXAM 10MG/2,5MG/5MG/5MG"
@@ -5139,7 +5139,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-8908"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Pending "Pending"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5147,8 +5147,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BX80 "C09BX80"
-* classification[atc].coding[ema] = $100000093533#C09BX80 "C09BX80"
+* classification[atc].coding[who] = $who-atc#C09BX80 "bisoprolool, indapamiid, perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BX80 "bisoprolool, indapamiid, perindopriil, amlodipiin"
 
 * name.productName = "QUADRIXAM 10MG/2,5MG/10MG/5MG 2.5mg, 10mg, 5mg Kõvakapsel"
 * name.namePart[invented].part = "QUADRIXAM 10MG/2,5MG/10MG/5MG"
@@ -5166,7 +5166,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4590"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5174,8 +5174,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C07FB07 "C07FB07"
-* classification[atc].coding[ema] = $100000093533#C07FB07 "C07FB07"
+* classification[atc].coding[who] = $who-atc#C07FB07 "amlodipiin, bisoprolool"
+* classification[atc].coding[ema] = $100000093533#C07FB07 "amlodipiin, bisoprolool"
 
 * name.productName = "SOBYCOMBI 5mg Tablett"
 * name.namePart[invented].part = "SOBYCOMBI"
@@ -5193,7 +5193,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-3746"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5201,8 +5201,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "DALNESSA 5mg, 8mg Tablett"
 * name.namePart[invented].part = "DALNESSA"
@@ -5220,7 +5220,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-4284"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5228,8 +5228,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, perindopriil, amlodipiin"
 
 * name.productName = "TRIPLIXAM 10mg, 5mg, 1.25mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "TRIPLIXAM"
@@ -5247,7 +5247,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100002893-6321"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5255,8 +5255,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BX03 "C09BX03"
-* classification[atc].coding[ema] = $100000093533#C09BX03 "C09BX03"
+* classification[atc].coding[who] = $who-atc#C09BX03 "hüdroklorotiasiid, amlodipiin, ramipriil"
+* classification[atc].coding[ema] = $100000093533#C09BX03 "hüdroklorotiasiid, amlodipiin, ramipriil"
 
 * name.productName = "RAMDACORDIA HCT 25mg, 10mg Kõvakapsel"
 * name.namePart[invented].part = "RAMDACORDIA HCT"
@@ -5274,7 +5274,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-5686"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5282,8 +5282,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB04 "C09DB04"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "C09DB04"
+* classification[atc].coding[who] = $who-atc#C09DB04 "amlodipiin, telmisartaan"
+* classification[atc].coding[ema] = $100000093533#C09DB04 "amlodipiin, telmisartaan"
 
 * name.productName = "TELDIPIN 10mg, 40mg Tablett"
 * name.namePart[invented].part = "TELDIPIN"
@@ -5301,7 +5301,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100000973-2360"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5309,8 +5309,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BB04 "C09BB04"
-* classification[atc].coding[ema] = $100000093533#C09BB04 "C09BB04"
+* classification[atc].coding[who] = $who-atc#C09BB04 "perindopriil, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "perindopriil, amlodipiin"
 
 * name.productName = "COVERAM 5mg Tablett"
 * name.namePart[invented].part = "COVERAM"
@@ -5328,7 +5328,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4425"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5336,8 +5336,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "perindopriil, amlodipiin, indapamiid"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "perindopriil, amlodipiin, indapamiid"
 
 * name.productName = "CO-DALNESSA 0.625mg, 5mg, 2mg Tablett"
 * name.namePart[invented].part = "CO-DALNESSA"
@@ -5355,7 +5355,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-ML194-3287"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5363,8 +5363,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C08CA01 "C08CA01"
-* classification[atc].coding[ema] = $100000093533#C08CA01 "C08CA01"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE VITABALANS 10mg Tablett"
 * name.namePart[invented].part = "AMLODIPINE VITABALANS"
@@ -5382,7 +5382,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-5257"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5390,8 +5390,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "C09DB01"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "C09DB01"
+* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
 
 * name.productName = "WAMLOX 160mg, 10mg Õhukese polümeerikattega tablett"
 * name.namePart[invented].part = "WAMLOX"
@@ -5409,7 +5409,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-6051"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5417,8 +5417,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB07 "C09DB07"
-* classification[atc].coding[ema] = $100000093533#C09DB07 "C09DB07"
+* classification[atc].coding[who] = $who-atc#C09DB07 "kandesartaan, amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C09DB07 "kandesartaan, amlodipiin"
 
 * name.productName = "CAMDERO 5mg, 8mg Tablett"
 * name.namePart[invented].part = "CAMDERO"
@@ -5436,7 +5436,7 @@ Usage: #example
 //* identifier[pmsid].value = "" 
 * identifier[mpid].value = "EE-100009540-4427"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = http://hl7.org/fhir/medicinal-product-domain#100000000012 "Human use"
+* domain = $100000000004#100000000012 "Human use"
 * status.coding[0] = $200000005003#Valid "Valid"
 //* indication = ""
 //Default: 200000005004 'Current'
@@ -5444,8 +5444,8 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "C09BX01"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "C09BX01"
+* classification[atc].coding[who] = $who-atc#C09BX01 "perindopriil, amlodipiin, indapamiid"
+* classification[atc].coding[ema] = $100000093533#C09BX01 "perindopriil, amlodipiin, indapamiid"
 
 * name.productName = "CO-DALNESSA 4mg, 1.25mg, 10mg Tablett"
 * name.namePart[invented].part = "CO-DALNESSA"
