@@ -1,7 +1,13 @@
 {% for index,row in data["data"].iterrows() %}
 {% if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
 
-Instance: mid-{{ row["Ravimi nimetus"] | lower | regex_replace('[^A-Za-z0-9]+', '') }}
+{% set ns = namespace() %}
+{% set ns.mpone = row['Ravimi nimetus'] %}
+{% set ns.mpthree= row['Ravimi tugevus'] %}
+{% set ns.mp_name_to_has= ns.mpone ~ns.mpthree  %}
+
+
+Instance: mid-{{ ns.mp_name_to_has| create_hash_id}}
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item {{ row["Ravimi nimetus"] }}"
 Description: "{{ row["Ravimi nimetus"] }}"

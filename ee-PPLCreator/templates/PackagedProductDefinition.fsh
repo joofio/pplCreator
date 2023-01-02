@@ -42,18 +42,19 @@ Usage: #example
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 * package
-  * quantity = {{ row["Pakendi suurus"]|get_by_regex("\d+") }}
-
-  {% for idx in range(0,row["Sisepakendi materjal"].count(",")+1) %} 
-
-  * material[+] = $200000003199#{{ row["Sisepakendi materjal"].split(",")[idx]|strip_spaces|get_data_dictionary_info(200000003199,"RMS termini id","RMS termini nimi") }} "{{ row["Sisepakendi materjal"].split(",")[idx] }}"
-
-{%- endfor %}
-
-  * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"] }}"
-  * containedItem.item.reference = Reference(mid-{{ row["Ravimi nimetus"] | lower | regex_replace('[^A-Za-z0-9]+', '') }})
-  * containedItem.amount.value = {{ row["Pakendi suurus"]|get_by_regex("\d+") }}
+  * quantity = 1
+  * type = $100000073346#100000073498 "Box"
   
+
+  * package.
+    * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"] }}"
+    * containedItem.item.reference = Reference(mid-{{ row["Ravimi nimetus"] | lower | regex_replace('[^A-Za-z0-9]+', '') }})
+    * containedItem.amount.value = {{ row["Pakendi suurus"]|get_by_regex("\d+") }}
+    {% for idx in range(0,row["Sisepakendi materjal"].count(",")+1) %} 
+
+    * material[+] = $200000003199#{{ row["Sisepakendi materjal"].split(",")[idx]|strip_spaces|get_data_dictionary_info(200000003199,"RMS termini id","RMS termini nimi") }} "{{ row["Sisepakendi materjal"].split(",")[idx] }}"
+
+  {%- endfor %}
 
 * packageFor = Reference(mp-{{ ns.mp_name_to_has| create_hash_id}})
 
