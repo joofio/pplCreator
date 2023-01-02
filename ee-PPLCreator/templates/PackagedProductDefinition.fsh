@@ -47,7 +47,7 @@ Usage: #example
 
   * package.
     * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"] }}"
-    * containedItem.item.reference = Reference(mid-{{ row["Ravimi nimetus"] | lower | regex_replace('[^A-Za-z0-9]+', '') }})
+    * containedItem.item.reference = Reference(mid-{{ ns.mp_name_to_has| create_hash_id}})
     * containedItem.amount.value = {{ row["Pakendi suurus"]|get_by_regex("\d+") }}
     {% for idx in range(0,row["Sisepakendi materjal"].count(",")+1) %} 
 
