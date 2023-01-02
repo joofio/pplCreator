@@ -6,7 +6,7 @@ Title: "AMLODIPINE/VALSARTAN MYLAN"
 Description: "AMLODIPINE/VALSARTAN MYLAN"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1714384"
+* identifier[pcid].value = "EE-100054211-5799-1714384"
 * name = "AMLODIPINE/VALSARTAN MYLAN"
 
 * description = ""
@@ -40,7 +40,7 @@ Title: "TWYNSTA"
 Description: "TWYNSTA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1499171"
+* identifier[pcid].value = "EE-100018243-3748-1499171"
 * name = "TWYNSTA"
 
 * description = ""
@@ -72,7 +72,7 @@ Title: "COPALIA HCT"
 Description: "COPALIA HCT"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1449031"
+* identifier[pcid].value = "EE-100010531-3310-1449031"
 * name = "COPALIA HCT"
 
 * description = ""
@@ -105,7 +105,7 @@ Title: "DAFIRO HCT"
 Description: "DAFIRO HCT"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1448760"
+* identifier[pcid].value = "EE-100010531-3306-1448760"
 * name = "DAFIRO HCT"
 
 * description = ""
@@ -138,7 +138,7 @@ Title: "EXFORGE HCT"
 Description: "EXFORGE HCT"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1440313"
+* identifier[pcid].value = "EE-100010531-3256-1440313"
 * name = "EXFORGE HCT"
 
 * description = ""
@@ -171,7 +171,7 @@ Title: "COPALIA"
 Description: "COPALIA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1278794"
+* identifier[pcid].value = "EE-100010531-2301-1278794"
 * name = "COPALIA"
 
 * description = ""
@@ -204,7 +204,7 @@ Title: "DAFIRO"
 Description: "DAFIRO"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1278738"
+* identifier[pcid].value = "EE-100010531-2300-1278738"
 * name = "DAFIRO"
 
 * description = ""
@@ -237,7 +237,7 @@ Title: "EXFORGE"
 Description: "EXFORGE"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1235720"
+* identifier[pcid].value = "EE-100010531-2058-1235720"
 * name = "EXFORGE"
 
 * description = ""
@@ -270,7 +270,7 @@ Title: "ROXAMPEX"
 Description: "ROXAMPEX"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1775718"
+* identifier[pcid].value = "EE-100009540-6831-1775718"
 * name = "ROXAMPEX"
 
 * description = ""
@@ -304,7 +304,7 @@ Title: "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1784303"
+* identifier[pcid].value = "EE-100009540-7009-1784303"
 * name = "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
 
 * description = ""
@@ -338,7 +338,7 @@ Title: "DIPPERAM HCT"
 Description: "DIPPERAM HCT"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1761229"
+* identifier[pcid].value = "EE-100002893-13345-1761229"
 * name = "DIPPERAM HCT"
 
 * description = ""
@@ -372,7 +372,7 @@ Title: "VALTRICOM"
 Description: "VALTRICOM"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1760666"
+* identifier[pcid].value = "EE-100009540-6570-1760666"
 * name = "VALTRICOM"
 
 * description = ""
@@ -406,7 +406,7 @@ Title: "RAMDACORDIA HCT"
 Description: "RAMDACORDIA HCT"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1747177"
+* identifier[pcid].value = "EE-100002893-6321-1747177"
 * name = "RAMDACORDIA HCT"
 
 * description = ""
@@ -440,7 +440,7 @@ Title: "WAMLOX"
 Description: "WAMLOX"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1754344"
+* identifier[pcid].value = "EE-100009540-6456-1754344"
 * name = "WAMLOX"
 
 * description = ""
@@ -474,7 +474,7 @@ Title: "DALNESSA"
 Description: "DALNESSA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1749685"
+* identifier[pcid].value = "EE-100009540-6367-1749685"
 * name = "DALNESSA"
 
 * description = ""
@@ -508,7 +508,7 @@ Title: "CAMDERO"
 Description: "CAMDERO"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1732272"
+* identifier[pcid].value = "EE-100009540-6052-1732272"
 * name = "CAMDERO"
 
 * description = ""
@@ -542,7 +542,7 @@ Title: "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1727591"
+* identifier[pcid].value = "EE-100007148-5980-1727591"
 * name = "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
 
 * description = ""
@@ -574,7 +574,7 @@ Title: "OLSSA"
 Description: "OLSSA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1720628"
+* identifier[pcid].value = "EE-100009540-5896-1720628"
 * name = "OLSSA"
 
 * description = ""
@@ -608,7 +608,7 @@ Title: "NORVASC"
 Description: "NORVASC"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1738706"
+* identifier[pcid].value = "EE-100055675-6160-1738706"
 * name = "NORVASC"
 
 * description = ""
@@ -642,7 +642,7 @@ Title: "TELDIPIN"
 Description: "TELDIPIN"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1707094"
+* identifier[pcid].value = "EE-100009540-5688-1707094"
 * name = "TELDIPIN"
 
 * description = ""
@@ -676,7 +676,7 @@ Title: "FRAMSYL"
 Description: "FRAMSYL"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1688340"
+* identifier[pcid].value = "EE-100002893-13028-1688340"
 * name = "FRAMSYL"
 
 * description = ""
@@ -710,7 +710,7 @@ Title: "AMLODIPINE /VALSARTAN SANDOZ"
 Description: "AMLODIPINE /VALSARTAN SANDOZ"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1676909"
+* identifier[pcid].value = "EE-100002893-13026-1676909"
 * name = "AMLODIPINE /VALSARTAN SANDOZ"
 
 * description = ""
@@ -743,7 +743,7 @@ Title: "TRIVERAM 40MG/10MG/10MG"
 Description: "TRIVERAM 40MG/10MG/10MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1774616"
+* identifier[pcid].value = "EE-100000973-9838-1774616"
 * name = "TRIVERAM 40MG/10MG/10MG"
 
 * description = ""
@@ -775,7 +775,7 @@ Title: "TRIVERAM 20MG/5MG/5MG"
 Description: "TRIVERAM 20MG/5MG/5MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1774638"
+* identifier[pcid].value = "EE-100000973-9836-1774638"
 * name = "TRIVERAM 20MG/5MG/5MG"
 
 * description = ""
@@ -807,7 +807,7 @@ Title: "TRIVERAM 20MG/10MG/5MG"
 Description: "TRIVERAM 20MG/10MG/5MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1774571"
+* identifier[pcid].value = "EE-100000973-9837-1774571"
 * name = "TRIVERAM 20MG/10MG/5MG"
 
 * description = ""
@@ -839,7 +839,7 @@ Title: "TRIVERAM 20MG/10MG/10MG"
 Description: "TRIVERAM 20MG/10MG/10MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1774605"
+* identifier[pcid].value = "EE-100000973-9839-1774605"
 * name = "TRIVERAM 20MG/10MG/10MG"
 
 * description = ""
@@ -871,7 +871,7 @@ Title: "TRIVERAM 10MG/5MG/5MG"
 Description: "TRIVERAM 10MG/5MG/5MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1722394"
+* identifier[pcid].value = "EE-100000973-9835-1722394"
 * name = "TRIVERAM 10MG/5MG/5MG"
 
 * description = ""
@@ -903,7 +903,7 @@ Title: "MIXOR"
 Description: "MIXOR"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1643161"
+* identifier[pcid].value = "EE-100002580-4901-1643161"
 * name = "MIXOR"
 
 * description = ""
@@ -937,7 +937,7 @@ Title: "SOBYCOMBI"
 Description: "SOBYCOMBI"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1617689"
+* identifier[pcid].value = "EE-100009540-4592-1617689"
 * name = "SOBYCOMBI"
 
 * description = ""
@@ -971,7 +971,7 @@ Title: "ZENICAMO"
 Description: "ZENICAMO"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1589665"
+* identifier[pcid].value = "EE-100002580-11918-1589665"
 * name = "ZENICAMO"
 
 * description = ""
@@ -1006,7 +1006,7 @@ Title: "AMALORIS"
 Description: "AMALORIS"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1615485"
+* identifier[pcid].value = "EE-100009540-4576-1615485"
 * name = "AMALORIS"
 
 * description = ""
@@ -1040,7 +1040,7 @@ Title: "PERINDOPRIL/AMLODIPINE TEVA"
 Description: "PERINDOPRIL/AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1666964"
+* identifier[pcid].value = "EE-100005270-4430-1666964"
 * name = "PERINDOPRIL/AMLODIPINE TEVA"
 
 * description = ""
@@ -1072,7 +1072,7 @@ Title: "TENLORIS"
 Description: "TENLORIS"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1611896"
+* identifier[pcid].value = "EE-100009540-4531-1611896"
 * name = "TENLORIS"
 
 * description = ""
@@ -1106,7 +1106,7 @@ Title: "TRIPLIXAM"
 Description: "TRIPLIXAM"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1762073"
+* identifier[pcid].value = "EE-100000973-4286-1762073"
 * name = "TRIPLIXAM"
 
 * description = ""
@@ -1138,7 +1138,7 @@ Title: "CO-DALNESSA"
 Description: "CO-DALNESSA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1602751"
+* identifier[pcid].value = "EE-100009540-4436-1602751"
 * name = "CO-DALNESSA"
 
 * description = ""
@@ -1172,7 +1172,7 @@ Title: "NATRIXAM"
 Description: "NATRIXAM"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1588215"
+* identifier[pcid].value = "EE-100000973-4287-1588215"
 * name = "NATRIXAM"
 
 * description = ""
@@ -1204,7 +1204,7 @@ Title: "FLUTENSIF"
 Description: "FLUTENSIF"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1588316"
+* identifier[pcid].value = "EE-100000973-4289-1588316"
 * name = "FLUTENSIF"
 
 * description = ""
@@ -1237,7 +1237,7 @@ Title: "ALNETA"
 Description: "ALNETA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1564163"
+* identifier[pcid].value = "EE-100009540-4196-1564163"
 * name = "ALNETA"
 
 * description = ""
@@ -1271,7 +1271,7 @@ Title: "RAMDACORDIA"
 Description: "RAMDACORDIA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1510355"
+* identifier[pcid].value = "EE-100002893-9562-1510355"
 * name = "RAMDACORDIA"
 
 * description = ""
@@ -1305,7 +1305,7 @@ Title: "DIRONORM"
 Description: "DIRONORM"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1501456"
+* identifier[pcid].value = "EE-100001653-3766-1501456"
 * name = "DIRONORM"
 
 * description = ""
@@ -1340,7 +1340,7 @@ Title: "AMLODIPINE VITABALANS"
 Description: "AMLODIPINE VITABALANS"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1445284"
+* identifier[pcid].value = "EE-ML194-3286-1445284"
 * name = "AMLODIPINE VITABALANS"
 
 * description = ""
@@ -1374,7 +1374,7 @@ Title: "SANORAL HCT"
 Description: "SANORAL HCT"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1453058"
+* identifier[pcid].value = "EE-100005744-13642-1453058"
 * name = "SANORAL HCT"
 
 * description = ""
@@ -1407,7 +1407,7 @@ Title: "SANORAL"
 Description: "SANORAL"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1308462"
+* identifier[pcid].value = "EE-100005744-13638-1308462"
 * name = "SANORAL"
 
 * description = ""
@@ -1441,7 +1441,7 @@ Title: "AMLODIPINE TEVA"
 Description: "AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1318924"
+* identifier[pcid].value = "EE-100005270-2533-1318924"
 * name = "AMLODIPINE TEVA"
 
 * description = ""
@@ -1475,7 +1475,7 @@ Title: "COVERAM"
 Description: "COVERAM"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1288953"
+* identifier[pcid].value = "EE-100000973-2362-1288953"
 * name = "COVERAM"
 
 * description = ""
@@ -1507,7 +1507,7 @@ Title: "AMLODIPINE MEDOCHEMIE"
 Description: "AMLODIPINE MEDOCHEMIE"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1295737"
+* identifier[pcid].value = "EE-ML11502-2393-1295737"
 * name = "AMLODIPINE MEDOCHEMIE"
 
 * description = ""
@@ -1542,7 +1542,7 @@ Title: "AMLOCARD 10MG"
 Description: "AMLOCARD 10MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1243099"
+* identifier[pcid].value = "EE-100002475-2095-1243099"
 * name = "AMLOCARD 10MG"
 
 * description = ""
@@ -1577,7 +1577,7 @@ Title: "AMLOCARD 5 MG"
 Description: "AMLOCARD 5 MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1242830"
+* identifier[pcid].value = "EE-100002475-2094-1242830"
 * name = "AMLOCARD 5 MG"
 
 * description = ""
@@ -1611,7 +1611,7 @@ Title: "AMLODIPIN-RATIOPHARM 5 MG"
 Description: "AMLODIPIN-RATIOPHARM 5 MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1251773"
+* identifier[pcid].value = "EE-100006906-2153-1251773"
 * name = "AMLODIPIN-RATIOPHARM 5 MG"
 
 * description = ""
@@ -1645,7 +1645,7 @@ Title: "AMLODIPIN-RATIOPHARM 10 MG"
 Description: "AMLODIPIN-RATIOPHARM 10 MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1147003"
+* identifier[pcid].value = "EE-100006906-2155-1147003"
 * name = "AMLODIPIN-RATIOPHARM 10 MG"
 
 * description = ""
@@ -1679,7 +1679,7 @@ Title: "AMLODIGAMMA 5MG"
 Description: "AMLODIGAMMA 5MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1241446"
+* identifier[pcid].value = "EE-100054619-2085-1241446"
 * name = "AMLODIGAMMA 5MG"
 
 * description = ""
@@ -1711,7 +1711,7 @@ Title: "AMLODIGAMMA 10MG"
 Description: "AMLODIGAMMA 10MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1241558"
+* identifier[pcid].value = "EE-100054619-2086-1241558"
 * name = "AMLODIGAMMA 10MG"
 
 * description = ""
@@ -1743,7 +1743,7 @@ Title: "HIPRES"
 Description: "HIPRES"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1551406"
+* identifier[pcid].value = "EE-100009540-1289-1551406"
 * name = "HIPRES"
 
 * description = ""
@@ -1775,7 +1775,7 @@ Title: "AGEN 10MG"
 Description: "AGEN 10MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1207055"
+* identifier[pcid].value = "EE-100002580-1209-1207055"
 * name = "AGEN 10MG"
 
 * description = ""
@@ -1809,7 +1809,7 @@ Title: "AGEN 5MG"
 Description: "AGEN 5MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1207066"
+* identifier[pcid].value = "EE-100002580-1208-1207066"
 * name = "AGEN 5MG"
 
 * description = ""
@@ -1843,7 +1843,7 @@ Title: "TELMISARTAN/AMLODIPINE TEVA"
 Description: "TELMISARTAN/AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1832497"
+* identifier[pcid].value = "EE-100003164-7898-1832497"
 * name = "TELMISARTAN/AMLODIPINE TEVA"
 
 * description = ""
@@ -1877,7 +1877,7 @@ Title: "DALNESSANEO"
 Description: "DALNESSANEO"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1835344"
+* identifier[pcid].value = "EE-100009540-7969-1835344"
 * name = "DALNESSANEO"
 
 * description = ""
@@ -1911,7 +1911,7 @@ Title: "PRINDAL"
 Description: "PRINDAL"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1811067"
+* identifier[pcid].value = "EE-100002580-7498-1811067"
 * name = "PRINDAL"
 
 * description = ""
@@ -1945,7 +1945,7 @@ Title: "PERINDOPRIL/ AMLODIPINE ACTAVIS"
 Description: "PERINDOPRIL/ AMLODIPINE ACTAVIS"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1809299"
+* identifier[pcid].value = "EE-100001873-7462-1809299"
 * name = "PERINDOPRIL/ AMLODIPINE ACTAVIS"
 
 * description = ""
@@ -1977,7 +1977,7 @@ Title: "TELMISARTAN/AMLODIPINE ALEMBIC"
 Description: "TELMISARTAN/AMLODIPINE ALEMBIC"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1803585"
+* identifier[pcid].value = "EE-100015977-7367-1803585"
 * name = "TELMISARTAN/AMLODIPINE ALEMBIC"
 
 * description = ""
@@ -2012,7 +2012,7 @@ Title: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1808018"
+* identifier[pcid].value = "EE-100015977-7437-1808018"
 * name = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 
 * description = ""
@@ -2044,7 +2044,7 @@ Title: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1797497"
+* identifier[pcid].value = "EE-100003164-7241-1797497"
 * name = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
 
 * description = ""
@@ -2078,7 +2078,7 @@ Title: "OLSITRI"
 Description: "OLSITRI"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1791019"
+* identifier[pcid].value = "EE-100009540-7132-1791019"
 * name = "OLSITRI"
 
 * description = ""
@@ -2112,7 +2112,7 @@ Title: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1786383"
+* identifier[pcid].value = "EE-100007148-7040-1786383"
 * name = "OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
 
 * description = ""
@@ -2144,7 +2144,7 @@ Title: "GADUAR"
 Description: "GADUAR"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1801527"
+* identifier[pcid].value = "EE-100002580-7338-1801527"
 * name = "GADUAR"
 
 * description = ""
@@ -2176,13 +2176,12 @@ Title: "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
 Description: "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1858484"
+* identifier[pcid].value = "EE-100003164-8728-1858484"
 * name = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
 
 * description = ""
 * status = #active
 // ERROR[3] - no statusDate INDEX:1530
-
 
 //Pakendi suurus
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
@@ -2208,13 +2207,12 @@ Title: "RAMIPRIL/AMLODIPINE SANDOZ"
 Description: "RAMIPRIL/AMLODIPINE SANDOZ"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1855504"
+* identifier[pcid].value = "EE-100002893-8692-1855504"
 * name = "RAMIPRIL/AMLODIPINE SANDOZ"
 
 * description = ""
 * status = #active
 // ERROR[3] - no statusDate INDEX:1532
-
 
 //Pakendi suurus
 * containedItemQuantity = 60 $200000000014#200000002113 "Kapsel"
@@ -2242,13 +2240,12 @@ Title: "QUADRIXAM 10MG/2,5MG/5MG/5MG"
 Description: "QUADRIXAM 10MG/2,5MG/5MG/5MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1876327"
+* identifier[pcid].value = "EE-100000973-8907-1876327"
 * name = "QUADRIXAM 10MG/2,5MG/5MG/5MG"
 
 * description = ""
 * status = #active
 // ERROR[3] - no statusDate INDEX:1537
-
 
 //Pakendi suurus
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
@@ -2274,13 +2271,12 @@ Title: "QUADRIXAM 10MG/2,5MG/10MG/5MG"
 Description: "QUADRIXAM 10MG/2,5MG/10MG/5MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1876338"
+* identifier[pcid].value = "EE-100000973-8908-1876338"
 * name = "QUADRIXAM 10MG/2,5MG/10MG/5MG"
 
 * description = ""
 * status = #active
 // ERROR[3] - no statusDate INDEX:1538
-
 
 //Pakendi suurus
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
@@ -2306,13 +2302,12 @@ Title: "CO-DALNESSA NEO"
 Description: "CO-DALNESSA NEO"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1883347"
+* identifier[pcid].value = "EE-100009540-8961-1883347"
 * name = "CO-DALNESSA NEO"
 
 * description = ""
 * status = #active
 // ERROR[3] - no statusDate INDEX:1539
-
 
 //Pakendi suurus
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
@@ -2340,13 +2335,12 @@ Title: "QUADRIXAM 5MG/1,25MG/5MG/5MG"
 Description: "QUADRIXAM 5MG/1,25MG/5MG/5MG"
 Usage: #example
 //* id = "" 
-* identifier[pcid].value = "MPID-1875898"
+* identifier[pcid].value = "EE-100000973-8906-1875898"
 * name = "QUADRIXAM 5MG/1,25MG/5MG/5MG"
 
 * description = ""
 * status = #active
 // ERROR[3] - no statusDate INDEX:1540
-
 
 //Pakendi suurus
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"

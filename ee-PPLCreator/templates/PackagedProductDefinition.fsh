@@ -14,7 +14,7 @@ Description: "{{ row["Ravimi nimetus"] }}"
 Usage: #example
 //* id = "{{row['id']}}" 
 
-* identifier[pcid].value = "MPID-{{ row["Pakendikood"] }}"
+* identifier[pcid].value = "EE-{{row['Müügiloa hoidja organisatsiooni asukoha LOC ID']| replace('LOC-','')}}-{{row['Ravimikaardi number']}}-{{row['Pakendikood']}}"
 
 * name = "{{ row["Ravimi nimetus"] }}"
 
@@ -27,7 +27,6 @@ Usage: #example
 {% else %} 
 * statusDate = "{{ row["Müügiloa kehtivuse alguse kuupäev"]|format_datetime }}"
 {%- endif %}
-
 
 
 {% if row["quantity"]|string !="nan"  %}

@@ -22,7 +22,9 @@ Usage: #example
 
 * domain = $100000000004#100000000012 "Human use"
 
-* status.coding[0] = $200000005003#{{ row["Müügiloa staatus"]  }} "{{ row["Müügiloa staatus"]  }}"
+//* status.coding[0] = $200000005003#{{ row["Müügiloa staatus"]  }} "{{ row["Müügiloa staatus"]  }}"
+* status.coding[0] = $200000005003#200000005005 "Provisional"
+//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
 
 //{{ "* indication = \"{}\"".format(row.indication) if row.indication|string !="nan"}}
 
