@@ -10,6 +10,7 @@ import uuid
 import re
 import datetime
 import hashlib
+from collections import Counter
 
 # total arguments
 n = len(sys.argv)
@@ -48,6 +49,20 @@ def regex_replace(s, find, replace):
 
 
 env.filters["regex_replace"] = regex_replace
+
+# Custom filter method
+def validate_data(word):
+    """validate data from another issue"""
+    df = pd.read_csv(DATA_FILE, encoding="utf-8", sep=";", skiprows=[1])
+    # print(word)
+    # print(len(df[df["Müügiloa number"] == word]))
+    if len(df[df["Müügiloa number"] == word]) > 0:
+        return True
+    else:
+        return False
+
+
+env.filters["validate_data"] = validate_data
 
 
 def format_datetime(s):
@@ -160,6 +175,9 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
         final_count = {}
         ids_to_skip = {}
         # Strips the newline character
+        messages = []
+        ids = []
+        errors_nr = []
         for line in Lines:
             count += 1
             if "// ERROR" in line:
@@ -181,7 +199,13 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
 
                     # print("{} @{}".format( line.strip(),count))
                 error_count += 1
-        erros[path] = error_count
+                ids.append(id_[0])
+                messages.append(message[0])
+                errors_nr.append(error_nr[0])
+        erros[path] = {
+            "error_count": error_count,
+            "description": dict(Counter(errors_nr)),
+        }
     print(erros)
 
 

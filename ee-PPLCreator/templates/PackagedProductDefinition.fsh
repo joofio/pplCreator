@@ -59,9 +59,16 @@ Usage: #example
     * material[+] = $200000003199#{{ row["Sisepakendi materjal"].split(",")[idx]|strip_spaces|get_data_dictionary_info(200000003199,"RMS termini id","RMS termini nimi") }} "{{ row["Sisepakendi materjal"].split(",")[idx] }}"
 
   {%- endfor %}
-  
+
+//{{row["Müügiloa number"]}} -> {{row["Müügiloa number"]|validate_data}}
+
+{% if row["Müügiloa number"]|validate_data == True  %}
 // for: {{ ns.name_to_has }}
 * packageFor = Reference(mp-{{row["Müügiloa number"]|trim| create_hash_id}})
+{% else %}
+{{"// ERROR[7] - no Müügiloa number: {} for this package in the medicinal sheet for INDEX:{}".format(row["Müügiloa number"],index+1) }}
+
+{%- endif %}
 
 // Reference to Organization: MAH
 //* manufacturer = Reference({{ row['Müügiloa hoidja organisatsiooni ORG ID'] }})

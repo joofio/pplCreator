@@ -30,7 +30,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"  
+    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -65,7 +66,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003212 "PolyChloroTriFluoroEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -100,7 +102,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"  
+    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -136,7 +139,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003212 "PolyChloroTriFluoroEthylene" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -172,7 +176,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003212 "PolyChloroTriFluoroEthylene" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -208,7 +213,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -243,7 +249,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"  
+    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -278,7 +285,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003212 "PolyChloroTriFluoroEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -314,7 +322,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003212 "PolyChloroTriFluoroEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -349,7 +358,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003212 "PolyChloroTriFluoroEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -385,7 +395,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"  
+    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -420,7 +431,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003212 "PolyChloroTriFluoroEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -456,7 +468,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"  
+    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -491,7 +504,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003212 "PolyChloroTriFluoroEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -527,7 +541,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"  
+    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -562,7 +577,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"  
+    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -598,7 +614,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -633,7 +650,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"  
+    * material[+] = $200000003199#200000003212 " PolyChloroTriFluoroEthylene"
+//EU/1/16/1092 -> True
 // for: AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-4f29a807fff14bdd583461050ab611da)
 // Reference to Organization: MAH
@@ -667,7 +685,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett40mg, 5mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -701,7 +720,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett40mg, 5mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -735,7 +755,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 360
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett40mg, 5mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -769,7 +790,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett40mg, 5mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -803,7 +825,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett40mg, 5mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -837,7 +860,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett40mg, 5mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -871,7 +895,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett40mg, 5mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -905,7 +930,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett10mg, 40mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -939,7 +965,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett10mg, 40mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -973,7 +1000,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett10mg, 40mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1007,7 +1035,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett10mg, 40mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1041,7 +1070,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett80mg, 10mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1075,7 +1105,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett80mg, 10mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1109,7 +1140,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett80mg, 10mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1143,7 +1175,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett80mg, 10mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1177,7 +1210,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett5mg, 80mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1211,7 +1245,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett5mg, 80mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1245,7 +1280,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett5mg, 80mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1279,7 +1315,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett5mg, 80mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1313,7 +1350,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett80mg, 10mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1347,7 +1385,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett80mg, 10mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1381,7 +1420,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 360
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett80mg, 10mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1415,7 +1455,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett5mg, 80mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1449,7 +1490,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett10mg, 40mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1483,7 +1525,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett10mg, 40mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1517,7 +1560,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 360
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett10mg, 40mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1551,7 +1595,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 360
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett5mg, 80mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1585,7 +1630,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//EU/1/10/648 -> True
 // for: TWYNSTATablett5mg, 80mg
 * packageFor = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 // Reference to Organization: MAH
@@ -1620,7 +1666,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -1655,7 +1702,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -1690,7 +1738,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 10mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -1725,7 +1774,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -1760,7 +1810,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -1795,7 +1846,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -1830,7 +1882,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -1865,7 +1918,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -1900,7 +1954,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett10mg, 320mg, 25mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -1935,7 +1990,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett10mg, 320mg, 25mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -1970,7 +2026,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2005,7 +2062,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 10mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2040,7 +2098,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 10mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2075,7 +2134,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2110,7 +2170,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2145,7 +2206,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett10mg, 320mg, 25mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2180,7 +2242,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett10mg, 320mg, 25mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2215,7 +2278,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett10mg, 320mg, 25mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2250,7 +2314,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 10mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2285,7 +2350,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 10mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2320,7 +2386,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 10mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2355,7 +2422,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2390,7 +2458,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2425,7 +2494,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2460,7 +2530,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2495,7 +2566,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2530,7 +2602,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2565,7 +2638,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2600,7 +2674,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2635,7 +2710,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett10mg, 320mg, 25mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2670,7 +2746,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2705,7 +2782,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2740,7 +2818,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 10mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2775,7 +2854,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2810,7 +2890,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/575 -> True
 // for: COPALIA HCTÕhukese polümeerikattega tablett10mg, 320mg, 25mg
 * packageFor = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 // Reference to Organization: MAH
@@ -2845,7 +2926,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -2880,7 +2962,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -2915,7 +2998,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -2950,7 +3034,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -2985,7 +3070,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3020,7 +3106,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 10mg, 320mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3055,7 +3142,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3090,7 +3178,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3125,7 +3214,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3160,7 +3250,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3195,7 +3286,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3230,7 +3322,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3265,7 +3358,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 10mg, 320mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3300,7 +3394,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 10mg, 320mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3335,7 +3430,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3370,7 +3466,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3405,7 +3502,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3440,7 +3538,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3475,7 +3574,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3510,7 +3610,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3545,7 +3646,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3580,7 +3682,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3615,7 +3718,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3650,7 +3754,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3685,7 +3790,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3720,7 +3826,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3755,7 +3862,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3790,7 +3898,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3825,7 +3934,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3860,7 +3970,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3895,7 +4006,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 10mg, 320mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3930,7 +4042,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 10mg, 320mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -3965,7 +4078,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 10mg, 320mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -4000,7 +4114,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 10mg, 320mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -4035,7 +4150,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/574 -> True
 // for: DAFIRO HCTÕhukese polümeerikattega tablett25mg, 5mg, 160mg
 * packageFor = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 // Reference to Organization: MAH
@@ -4070,7 +4186,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett5mg, 25mg, 160mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4105,7 +4222,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett10mg, 160mg, 12.5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4140,7 +4258,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett10mg, 160mg, 12.5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4175,7 +4294,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett10mg, 160mg, 12.5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4210,7 +4330,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett320mg, 25mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4245,7 +4366,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett320mg, 25mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4280,7 +4402,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett10mg, 160mg, 12.5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4315,7 +4438,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett10mg, 160mg, 12.5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4350,7 +4474,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett12.5mg, 160mg, 5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4385,7 +4510,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett12.5mg, 160mg, 5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4420,7 +4546,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett12.5mg, 160mg, 5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4455,7 +4582,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett10mg, 160mg, 12.5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4490,7 +4618,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4525,7 +4654,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4560,7 +4690,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett5mg, 25mg, 160mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4595,7 +4726,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett320mg, 25mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4630,7 +4762,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett5mg, 25mg, 160mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4665,7 +4798,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4700,7 +4834,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett320mg, 25mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4735,7 +4870,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett320mg, 25mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4770,7 +4906,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett320mg, 25mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4805,7 +4942,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett320mg, 25mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4840,7 +4978,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett12.5mg, 160mg, 5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4875,7 +5014,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett12.5mg, 160mg, 5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4910,7 +5050,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett12.5mg, 160mg, 5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4945,7 +5086,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett12.5mg, 160mg, 5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -4980,7 +5122,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett5mg, 25mg, 160mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -5015,7 +5158,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett5mg, 25mg, 160mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -5050,7 +5194,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett10mg, 160mg, 12.5mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -5085,7 +5230,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -5120,7 +5266,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -5155,7 +5302,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -5190,7 +5338,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -5225,7 +5374,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett5mg, 25mg, 160mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -5260,7 +5410,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/09/569 -> True
 // for: EXFORGE HCTÕhukese polümeerikattega tablett5mg, 25mg, 160mg
 * packageFor = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 // Reference to Organization: MAH
@@ -5295,7 +5446,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5330,7 +5482,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5365,7 +5518,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5400,7 +5554,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5435,7 +5590,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5470,7 +5626,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5505,7 +5662,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5540,7 +5698,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5575,7 +5734,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5610,7 +5770,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5645,7 +5806,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5680,7 +5842,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5715,7 +5878,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5750,7 +5914,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5785,7 +5950,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5820,7 +5986,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5855,7 +6022,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5890,7 +6058,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5925,7 +6094,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5960,7 +6130,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett5mg, 80mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -5995,7 +6166,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -6030,7 +6202,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -6065,7 +6238,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -6100,7 +6274,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/372 -> True
 // for: COPALIAÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 // Reference to Organization: MAH
@@ -6135,7 +6310,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6170,7 +6346,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6205,7 +6382,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6240,7 +6418,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6275,7 +6454,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6310,7 +6490,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6345,7 +6526,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6380,7 +6562,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6415,7 +6598,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6450,7 +6634,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6485,7 +6670,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6520,7 +6706,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6555,7 +6742,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6590,7 +6778,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6625,7 +6814,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6660,7 +6850,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6695,7 +6886,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6730,7 +6922,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6765,7 +6958,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6800,7 +6994,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6835,7 +7030,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6870,7 +7066,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6905,7 +7102,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6940,7 +7138,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/371 -> True
 // for: DAFIROÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 // Reference to Organization: MAH
@@ -6975,7 +7174,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7010,7 +7210,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett5mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7045,7 +7246,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett5mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7080,7 +7282,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett5mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7115,7 +7318,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7150,7 +7354,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7185,7 +7390,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7220,7 +7426,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7255,7 +7462,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7290,7 +7498,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7325,7 +7534,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7360,7 +7570,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7395,7 +7606,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7430,7 +7642,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett5mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7465,7 +7678,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett5mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7500,7 +7714,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett5mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7535,7 +7750,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7570,7 +7786,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7605,7 +7822,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7640,7 +7858,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett5mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7675,7 +7894,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett5mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7710,7 +7930,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7745,7 +7966,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7780,7 +8002,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//EU/1/06/370 -> True
 // for: EXFORGEÕhukese polümeerikattega tablett10mg, 160mg
 * packageFor = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 // Reference to Organization: MAH
@@ -7816,7 +8039,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996819 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett8mg, 20mg, 10mg
 * packageFor = Reference(mp-15765dbdc2ced1a6cf154b0a0aee9241)
 // Reference to Organization: MAH
@@ -7852,7 +8076,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996819 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett8mg, 20mg, 10mg
 * packageFor = Reference(mp-15765dbdc2ced1a6cf154b0a0aee9241)
 // Reference to Organization: MAH
@@ -7888,7 +8113,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//996819 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett8mg, 20mg, 10mg
 * packageFor = Reference(mp-15765dbdc2ced1a6cf154b0a0aee9241)
 // Reference to Organization: MAH
@@ -7924,7 +8150,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996819 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett8mg, 20mg, 10mg
 * packageFor = Reference(mp-15765dbdc2ced1a6cf154b0a0aee9241)
 // Reference to Organization: MAH
@@ -7960,7 +8187,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996719 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett20mg, 8mg, 5mg
 * packageFor = Reference(mp-573327ee63325ab95570125a87402104)
 // Reference to Organization: MAH
@@ -7996,7 +8224,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//996719 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett20mg, 8mg, 5mg
 * packageFor = Reference(mp-573327ee63325ab95570125a87402104)
 // Reference to Organization: MAH
@@ -8032,7 +8261,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//996719 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett20mg, 8mg, 5mg
 * packageFor = Reference(mp-573327ee63325ab95570125a87402104)
 // Reference to Organization: MAH
@@ -8068,7 +8298,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996719 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett20mg, 8mg, 5mg
 * packageFor = Reference(mp-573327ee63325ab95570125a87402104)
 // Reference to Organization: MAH
@@ -8104,7 +8335,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996619 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 20mg
 * packageFor = Reference(mp-7dca549a13b4eb244b56ce4143da701e)
 // Reference to Organization: MAH
@@ -8140,7 +8372,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996619 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 20mg
 * packageFor = Reference(mp-7dca549a13b4eb244b56ce4143da701e)
 // Reference to Organization: MAH
@@ -8176,7 +8409,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//996619 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 20mg
 * packageFor = Reference(mp-7dca549a13b4eb244b56ce4143da701e)
 // Reference to Organization: MAH
@@ -8212,7 +8446,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996619 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 20mg
 * packageFor = Reference(mp-7dca549a13b4eb244b56ce4143da701e)
 // Reference to Organization: MAH
@@ -8248,7 +8483,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996519 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett10mg, 8mg
 * packageFor = Reference(mp-a27716e21b4d7cc9ffb8f51b000f4ba1)
 // Reference to Organization: MAH
@@ -8284,7 +8520,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//996519 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett10mg, 8mg
 * packageFor = Reference(mp-a27716e21b4d7cc9ffb8f51b000f4ba1)
 // Reference to Organization: MAH
@@ -8320,7 +8557,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//996519 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett10mg, 8mg
 * packageFor = Reference(mp-a27716e21b4d7cc9ffb8f51b000f4ba1)
 // Reference to Organization: MAH
@@ -8356,7 +8594,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//996519 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett10mg, 8mg
 * packageFor = Reference(mp-a27716e21b4d7cc9ffb8f51b000f4ba1)
 // Reference to Organization: MAH
@@ -8392,7 +8631,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996419 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett10mg, 5mg, 8mg
 * packageFor = Reference(mp-6111af384fb679255fb465a3592f66ef)
 // Reference to Organization: MAH
@@ -8428,7 +8668,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996419 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett10mg, 5mg, 8mg
 * packageFor = Reference(mp-6111af384fb679255fb465a3592f66ef)
 // Reference to Organization: MAH
@@ -8464,7 +8705,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996419 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett10mg, 5mg, 8mg
 * packageFor = Reference(mp-6111af384fb679255fb465a3592f66ef)
 // Reference to Organization: MAH
@@ -8500,7 +8742,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//996419 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett10mg, 5mg, 8mg
 * packageFor = Reference(mp-6111af384fb679255fb465a3592f66ef)
 // Reference to Organization: MAH
@@ -8536,7 +8779,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//996319 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 10mg
 * packageFor = Reference(mp-164a8ce3f7e2956d3591764c075e672b)
 // Reference to Organization: MAH
@@ -8572,7 +8816,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//996319 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 10mg
 * packageFor = Reference(mp-164a8ce3f7e2956d3591764c075e672b)
 // Reference to Organization: MAH
@@ -8608,7 +8853,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//996319 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 10mg
 * packageFor = Reference(mp-164a8ce3f7e2956d3591764c075e672b)
 // Reference to Organization: MAH
@@ -8644,7 +8890,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//996319 -> True
 // for: ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 10mg
 * packageFor = Reference(mp-164a8ce3f7e2956d3591764c075e672b)
 // Reference to Organization: MAH
@@ -8680,7 +8927,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//991319 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-c2df63ce4b6e847234f127a936124cee)
 // Reference to Organization: MAH
@@ -8716,7 +8964,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//991319 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-c2df63ce4b6e847234f127a936124cee)
 // Reference to Organization: MAH
@@ -8752,7 +9001,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//991319 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-c2df63ce4b6e847234f127a936124cee)
 // Reference to Organization: MAH
@@ -8788,7 +9038,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//991319 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-c2df63ce4b6e847234f127a936124cee)
 // Reference to Organization: MAH
@@ -8824,7 +9075,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//991319 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-c2df63ce4b6e847234f127a936124cee)
 // Reference to Organization: MAH
@@ -8860,7 +9112,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//991319 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-c2df63ce4b6e847234f127a936124cee)
 // Reference to Organization: MAH
@@ -8896,7 +9149,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//991319 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-c2df63ce4b6e847234f127a936124cee)
 // Reference to Organization: MAH
@@ -8932,7 +9186,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//991319 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-c2df63ce4b6e847234f127a936124cee)
 // Reference to Organization: MAH
@@ -8968,7 +9223,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//991319 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-c2df63ce4b6e847234f127a936124cee)
 // Reference to Organization: MAH
@@ -9004,7 +9260,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//991219 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-9aaf3b0889d558b5811fdb64d375849b)
 // Reference to Organization: MAH
@@ -9040,7 +9297,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//991219 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-9aaf3b0889d558b5811fdb64d375849b)
 // Reference to Organization: MAH
@@ -9076,7 +9334,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//991219 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-9aaf3b0889d558b5811fdb64d375849b)
 // Reference to Organization: MAH
@@ -9112,7 +9371,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//991219 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-9aaf3b0889d558b5811fdb64d375849b)
 // Reference to Organization: MAH
@@ -9148,7 +9408,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//991219 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-9aaf3b0889d558b5811fdb64d375849b)
 // Reference to Organization: MAH
@@ -9184,7 +9445,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//991219 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-9aaf3b0889d558b5811fdb64d375849b)
 // Reference to Organization: MAH
@@ -9220,7 +9482,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//991219 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-9aaf3b0889d558b5811fdb64d375849b)
 // Reference to Organization: MAH
@@ -9256,7 +9519,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//991219 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-9aaf3b0889d558b5811fdb64d375849b)
 // Reference to Organization: MAH
@@ -9292,7 +9556,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//991219 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-9aaf3b0889d558b5811fdb64d375849b)
 // Reference to Organization: MAH
@@ -9328,7 +9593,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//991119 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg
 * packageFor = Reference(mp-928926c8a307b3b3a8d3551a8fc10bde)
 // Reference to Organization: MAH
@@ -9364,7 +9630,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//991119 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg
 * packageFor = Reference(mp-928926c8a307b3b3a8d3551a8fc10bde)
 // Reference to Organization: MAH
@@ -9400,7 +9667,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//991119 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg
 * packageFor = Reference(mp-928926c8a307b3b3a8d3551a8fc10bde)
 // Reference to Organization: MAH
@@ -9436,7 +9704,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//991119 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg
 * packageFor = Reference(mp-928926c8a307b3b3a8d3551a8fc10bde)
 // Reference to Organization: MAH
@@ -9472,7 +9741,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//991119 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg
 * packageFor = Reference(mp-928926c8a307b3b3a8d3551a8fc10bde)
 // Reference to Organization: MAH
@@ -9508,7 +9778,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//991119 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg
 * packageFor = Reference(mp-928926c8a307b3b3a8d3551a8fc10bde)
 // Reference to Organization: MAH
@@ -9544,7 +9815,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//991119 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg
 * packageFor = Reference(mp-928926c8a307b3b3a8d3551a8fc10bde)
 // Reference to Organization: MAH
@@ -9580,7 +9852,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//991119 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg
 * packageFor = Reference(mp-928926c8a307b3b3a8d3551a8fc10bde)
 // Reference to Organization: MAH
@@ -9616,7 +9889,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//991119 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg
 * packageFor = Reference(mp-928926c8a307b3b3a8d3551a8fc10bde)
 // Reference to Organization: MAH
@@ -9652,9 +9926,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett320mg, 10mg, 25mg
-* packageFor = Reference(mp-008fd8389fef8a5c6246e83c4a33ba0d)
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990619 -> False
+// ERROR[7] - no Müügiloa number: 990619 for this package in the medicinal sheet for INDEX:275
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -9688,9 +9962,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett320mg, 10mg, 25mg
-* packageFor = Reference(mp-008fd8389fef8a5c6246e83c4a33ba0d)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990619 -> False
+// ERROR[7] - no Müügiloa number: 990619 for this package in the medicinal sheet for INDEX:276
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -9724,9 +9998,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett320mg, 10mg, 25mg
-* packageFor = Reference(mp-008fd8389fef8a5c6246e83c4a33ba0d)
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990619 -> False
+// ERROR[7] - no Müügiloa number: 990619 for this package in the medicinal sheet for INDEX:277
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -9760,9 +10034,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett320mg, 10mg, 25mg
-* packageFor = Reference(mp-008fd8389fef8a5c6246e83c4a33ba0d)
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990619 -> False
+// ERROR[7] - no Müügiloa number: 990619 for this package in the medicinal sheet for INDEX:278
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -9796,9 +10070,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett320mg, 10mg, 25mg
-* packageFor = Reference(mp-008fd8389fef8a5c6246e83c4a33ba0d)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990619 -> False
+// ERROR[7] - no Müügiloa number: 990619 for this package in the medicinal sheet for INDEX:279
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -9832,9 +10106,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett320mg, 10mg, 25mg
-* packageFor = Reference(mp-008fd8389fef8a5c6246e83c4a33ba0d)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990619 -> False
+// ERROR[7] - no Müügiloa number: 990619 for this package in the medicinal sheet for INDEX:280
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -9868,9 +10142,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett320mg, 10mg, 25mg
-* packageFor = Reference(mp-008fd8389fef8a5c6246e83c4a33ba0d)
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990619 -> False
+// ERROR[7] - no Müügiloa number: 990619 for this package in the medicinal sheet for INDEX:281
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -9904,9 +10178,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett320mg, 10mg, 25mg
-* packageFor = Reference(mp-008fd8389fef8a5c6246e83c4a33ba0d)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990619 -> False
+// ERROR[7] - no Müügiloa number: 990619 for this package in the medicinal sheet for INDEX:282
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -9940,9 +10214,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett320mg, 10mg, 25mg
-* packageFor = Reference(mp-008fd8389fef8a5c6246e83c4a33ba0d)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990619 -> False
+// ERROR[7] - no Müügiloa number: 990619 for this package in the medicinal sheet for INDEX:283
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -9976,7 +10250,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990519 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-04e4154a2d9512b5540cc5bcea914d29)
 // Reference to Organization: MAH
@@ -10012,7 +10287,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990519 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-04e4154a2d9512b5540cc5bcea914d29)
 // Reference to Organization: MAH
@@ -10048,7 +10324,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990519 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-04e4154a2d9512b5540cc5bcea914d29)
 // Reference to Organization: MAH
@@ -10084,7 +10361,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990519 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-04e4154a2d9512b5540cc5bcea914d29)
 // Reference to Organization: MAH
@@ -10120,7 +10398,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990519 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-04e4154a2d9512b5540cc5bcea914d29)
 // Reference to Organization: MAH
@@ -10156,7 +10435,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990519 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-04e4154a2d9512b5540cc5bcea914d29)
 // Reference to Organization: MAH
@@ -10192,7 +10472,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990519 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-04e4154a2d9512b5540cc5bcea914d29)
 // Reference to Organization: MAH
@@ -10228,7 +10509,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990519 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-04e4154a2d9512b5540cc5bcea914d29)
 // Reference to Organization: MAH
@@ -10264,7 +10546,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990519 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg
 * packageFor = Reference(mp-04e4154a2d9512b5540cc5bcea914d29)
 // Reference to Organization: MAH
@@ -10300,9 +10583,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
-* packageFor = Reference(mp-72417d9b21b4f837cb1c419e369081fc)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990419 -> False
+// ERROR[7] - no Müügiloa number: 990419 for this package in the medicinal sheet for INDEX:293
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -10336,9 +10619,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
-* packageFor = Reference(mp-72417d9b21b4f837cb1c419e369081fc)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990419 -> False
+// ERROR[7] - no Müügiloa number: 990419 for this package in the medicinal sheet for INDEX:294
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -10372,9 +10655,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
-* packageFor = Reference(mp-72417d9b21b4f837cb1c419e369081fc)
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990419 -> False
+// ERROR[7] - no Müügiloa number: 990419 for this package in the medicinal sheet for INDEX:295
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -10408,9 +10691,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
-* packageFor = Reference(mp-72417d9b21b4f837cb1c419e369081fc)
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990419 -> False
+// ERROR[7] - no Müügiloa number: 990419 for this package in the medicinal sheet for INDEX:296
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -10444,9 +10727,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
-* packageFor = Reference(mp-72417d9b21b4f837cb1c419e369081fc)
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990419 -> False
+// ERROR[7] - no Müügiloa number: 990419 for this package in the medicinal sheet for INDEX:297
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -10480,9 +10763,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
-* packageFor = Reference(mp-72417d9b21b4f837cb1c419e369081fc)
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990419 -> False
+// ERROR[7] - no Müügiloa number: 990419 for this package in the medicinal sheet for INDEX:298
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -10516,9 +10799,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
-* packageFor = Reference(mp-72417d9b21b4f837cb1c419e369081fc)
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990419 -> False
+// ERROR[7] - no Müügiloa number: 990419 for this package in the medicinal sheet for INDEX:299
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -10552,9 +10835,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
-* packageFor = Reference(mp-72417d9b21b4f837cb1c419e369081fc)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990419 -> False
+// ERROR[7] - no Müügiloa number: 990419 for this package in the medicinal sheet for INDEX:300
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -10588,9 +10871,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
-// for: DIPPERAM HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg
-* packageFor = Reference(mp-72417d9b21b4f837cb1c419e369081fc)
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990419 -> False
+// ERROR[7] - no Müügiloa number: 990419 for this package in the medicinal sheet for INDEX:301
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -10624,7 +10907,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990319 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-fc27658a5ee9b0a60e09b35c85abc590)
 // Reference to Organization: MAH
@@ -10660,7 +10944,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990319 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-fc27658a5ee9b0a60e09b35c85abc590)
 // Reference to Organization: MAH
@@ -10696,7 +10981,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990319 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-fc27658a5ee9b0a60e09b35c85abc590)
 // Reference to Organization: MAH
@@ -10732,7 +11018,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990319 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-fc27658a5ee9b0a60e09b35c85abc590)
 // Reference to Organization: MAH
@@ -10768,7 +11055,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990319 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-fc27658a5ee9b0a60e09b35c85abc590)
 // Reference to Organization: MAH
@@ -10804,7 +11092,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990319 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-fc27658a5ee9b0a60e09b35c85abc590)
 // Reference to Organization: MAH
@@ -10840,7 +11129,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990319 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-fc27658a5ee9b0a60e09b35c85abc590)
 // Reference to Organization: MAH
@@ -10876,7 +11166,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990319 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-fc27658a5ee9b0a60e09b35c85abc590)
 // Reference to Organization: MAH
@@ -10912,7 +11203,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990319 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg
 * packageFor = Reference(mp-fc27658a5ee9b0a60e09b35c85abc590)
 // Reference to Organization: MAH
@@ -10948,7 +11240,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990219 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg
 * packageFor = Reference(mp-ce8886dfb264fe69c15c1bdf0b8ccdbd)
 // Reference to Organization: MAH
@@ -10984,7 +11277,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990219 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg
 * packageFor = Reference(mp-ce8886dfb264fe69c15c1bdf0b8ccdbd)
 // Reference to Organization: MAH
@@ -11020,7 +11314,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990219 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg
 * packageFor = Reference(mp-ce8886dfb264fe69c15c1bdf0b8ccdbd)
 // Reference to Organization: MAH
@@ -11056,7 +11351,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990219 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg
 * packageFor = Reference(mp-ce8886dfb264fe69c15c1bdf0b8ccdbd)
 // Reference to Organization: MAH
@@ -11092,7 +11388,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990219 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg
 * packageFor = Reference(mp-ce8886dfb264fe69c15c1bdf0b8ccdbd)
 // Reference to Organization: MAH
@@ -11128,7 +11425,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//990219 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg
 * packageFor = Reference(mp-ce8886dfb264fe69c15c1bdf0b8ccdbd)
 // Reference to Organization: MAH
@@ -11164,7 +11462,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990219 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg
 * packageFor = Reference(mp-ce8886dfb264fe69c15c1bdf0b8ccdbd)
 // Reference to Organization: MAH
@@ -11200,7 +11499,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//990219 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg
 * packageFor = Reference(mp-ce8886dfb264fe69c15c1bdf0b8ccdbd)
 // Reference to Organization: MAH
@@ -11236,7 +11536,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//990219 -> True
 // for: DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg
 * packageFor = Reference(mp-ce8886dfb264fe69c15c1bdf0b8ccdbd)
 // Reference to Organization: MAH
@@ -11272,7 +11573,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11308,7 +11610,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11344,7 +11647,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11380,7 +11684,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11416,7 +11721,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11452,7 +11758,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11488,7 +11795,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11524,7 +11832,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11560,7 +11869,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11596,7 +11906,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11632,7 +11943,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982819 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg
 * packageFor = Reference(mp-e1834bf21b77833702defeadd9554a94)
 // Reference to Organization: MAH
@@ -11668,7 +11980,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -11704,7 +12017,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -11740,7 +12054,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -11776,7 +12091,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -11812,7 +12128,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -11848,7 +12165,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -11884,7 +12202,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -11920,7 +12239,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -11956,7 +12276,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -11992,7 +12313,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -12028,7 +12350,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982719 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg
 * packageFor = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 // Reference to Organization: MAH
@@ -12064,7 +12387,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12100,7 +12424,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12136,7 +12461,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12172,7 +12498,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12208,7 +12535,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12244,7 +12572,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12280,7 +12609,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12316,7 +12646,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12352,7 +12683,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12388,7 +12720,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12424,7 +12757,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982619 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg
 * packageFor = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 // Reference to Organization: MAH
@@ -12460,7 +12794,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12496,7 +12831,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12532,7 +12868,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12568,7 +12905,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12604,7 +12942,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12640,7 +12979,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12676,7 +13016,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12712,7 +13053,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12748,7 +13090,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12784,7 +13127,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12820,7 +13164,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982519 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg
 * packageFor = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 // Reference to Organization: MAH
@@ -12856,7 +13201,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -12892,7 +13238,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -12928,7 +13275,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -12964,7 +13312,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -13000,7 +13349,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -13036,7 +13386,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -13072,7 +13423,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -13108,7 +13460,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -13144,7 +13497,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -13180,7 +13534,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -13216,7 +13571,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//982419 -> True
 // for: VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg
 * packageFor = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 // Reference to Organization: MAH
@@ -13252,7 +13608,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981719 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 10mg
 * packageFor = Reference(mp-7f36e51dcd3c062fcdfde290213d93fd)
 // Reference to Organization: MAH
@@ -13288,7 +13645,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981719 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 10mg
 * packageFor = Reference(mp-7f36e51dcd3c062fcdfde290213d93fd)
 // Reference to Organization: MAH
@@ -13324,7 +13682,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//981719 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 10mg
 * packageFor = Reference(mp-7f36e51dcd3c062fcdfde290213d93fd)
 // Reference to Organization: MAH
@@ -13360,7 +13719,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//981719 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 10mg
 * packageFor = Reference(mp-7f36e51dcd3c062fcdfde290213d93fd)
 // Reference to Organization: MAH
@@ -13396,7 +13756,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//981719 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 10mg
 * packageFor = Reference(mp-7f36e51dcd3c062fcdfde290213d93fd)
 // Reference to Organization: MAH
@@ -13432,7 +13793,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//981719 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 10mg
 * packageFor = Reference(mp-7f36e51dcd3c062fcdfde290213d93fd)
 // Reference to Organization: MAH
@@ -13468,7 +13830,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//981719 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 10mg
 * packageFor = Reference(mp-7f36e51dcd3c062fcdfde290213d93fd)
 // Reference to Organization: MAH
@@ -13504,7 +13867,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//981619 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 10mg, 25mg
 * packageFor = Reference(mp-e5a5f7e045adf8a26ccfb8c2bf81fd60)
 // Reference to Organization: MAH
@@ -13540,7 +13904,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//981619 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 10mg, 25mg
 * packageFor = Reference(mp-e5a5f7e045adf8a26ccfb8c2bf81fd60)
 // Reference to Organization: MAH
@@ -13576,7 +13941,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//981619 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 10mg, 25mg
 * packageFor = Reference(mp-e5a5f7e045adf8a26ccfb8c2bf81fd60)
 // Reference to Organization: MAH
@@ -13612,7 +13978,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981619 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 10mg, 25mg
 * packageFor = Reference(mp-e5a5f7e045adf8a26ccfb8c2bf81fd60)
 // Reference to Organization: MAH
@@ -13648,7 +14015,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981619 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 10mg, 25mg
 * packageFor = Reference(mp-e5a5f7e045adf8a26ccfb8c2bf81fd60)
 // Reference to Organization: MAH
@@ -13684,7 +14052,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981619 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 10mg, 25mg
 * packageFor = Reference(mp-e5a5f7e045adf8a26ccfb8c2bf81fd60)
 // Reference to Organization: MAH
@@ -13720,7 +14089,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981619 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 10mg, 25mg
 * packageFor = Reference(mp-e5a5f7e045adf8a26ccfb8c2bf81fd60)
 // Reference to Organization: MAH
@@ -13756,7 +14126,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//981519 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 5mg
 * packageFor = Reference(mp-889b2b047c2dbf68778b1904db196833)
 // Reference to Organization: MAH
@@ -13792,7 +14163,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//981519 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 5mg
 * packageFor = Reference(mp-889b2b047c2dbf68778b1904db196833)
 // Reference to Organization: MAH
@@ -13828,7 +14200,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//981519 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 5mg
 * packageFor = Reference(mp-889b2b047c2dbf68778b1904db196833)
 // Reference to Organization: MAH
@@ -13864,7 +14237,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//981519 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 5mg
 * packageFor = Reference(mp-889b2b047c2dbf68778b1904db196833)
 // Reference to Organization: MAH
@@ -13900,7 +14274,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//981519 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 5mg
 * packageFor = Reference(mp-889b2b047c2dbf68778b1904db196833)
 // Reference to Organization: MAH
@@ -13936,7 +14311,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981519 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 5mg
 * packageFor = Reference(mp-889b2b047c2dbf68778b1904db196833)
 // Reference to Organization: MAH
@@ -13972,7 +14348,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981519 -> True
 // for: RAMDACORDIA HCTKõvakapsel25mg, 5mg
 * packageFor = Reference(mp-889b2b047c2dbf68778b1904db196833)
 // Reference to Organization: MAH
@@ -14008,7 +14385,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//981419 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 12.5mg
 * packageFor = Reference(mp-6227ac6b56beba19e4eafb42abf02d63)
 // Reference to Organization: MAH
@@ -14044,7 +14422,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981419 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 12.5mg
 * packageFor = Reference(mp-6227ac6b56beba19e4eafb42abf02d63)
 // Reference to Organization: MAH
@@ -14080,7 +14459,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//981419 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 12.5mg
 * packageFor = Reference(mp-6227ac6b56beba19e4eafb42abf02d63)
 // Reference to Organization: MAH
@@ -14116,7 +14496,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981419 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 12.5mg
 * packageFor = Reference(mp-6227ac6b56beba19e4eafb42abf02d63)
 // Reference to Organization: MAH
@@ -14152,7 +14533,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//981419 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 12.5mg
 * packageFor = Reference(mp-6227ac6b56beba19e4eafb42abf02d63)
 // Reference to Organization: MAH
@@ -14188,7 +14570,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//981419 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 12.5mg
 * packageFor = Reference(mp-6227ac6b56beba19e4eafb42abf02d63)
 // Reference to Organization: MAH
@@ -14224,7 +14607,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//981419 -> True
 // for: RAMDACORDIA HCTKõvakapsel5mg, 12.5mg
 * packageFor = Reference(mp-6227ac6b56beba19e4eafb42abf02d63)
 // Reference to Organization: MAH
@@ -14260,7 +14644,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//979719 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett10mg, 320mg
 * packageFor = Reference(mp-9ff8261eb987e544b8510cd3f9a83372)
 // Reference to Organization: MAH
@@ -14296,7 +14681,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//979719 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett10mg, 320mg
 * packageFor = Reference(mp-9ff8261eb987e544b8510cd3f9a83372)
 // Reference to Organization: MAH
@@ -14332,7 +14718,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//979719 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett10mg, 320mg
 * packageFor = Reference(mp-9ff8261eb987e544b8510cd3f9a83372)
 // Reference to Organization: MAH
@@ -14368,7 +14755,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//979719 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett10mg, 320mg
 * packageFor = Reference(mp-9ff8261eb987e544b8510cd3f9a83372)
 // Reference to Organization: MAH
@@ -14404,7 +14792,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//979719 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett10mg, 320mg
 * packageFor = Reference(mp-9ff8261eb987e544b8510cd3f9a83372)
 // Reference to Organization: MAH
@@ -14440,7 +14829,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//979719 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett10mg, 320mg
 * packageFor = Reference(mp-9ff8261eb987e544b8510cd3f9a83372)
 // Reference to Organization: MAH
@@ -14476,7 +14866,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//979719 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett10mg, 320mg
 * packageFor = Reference(mp-9ff8261eb987e544b8510cd3f9a83372)
 // Reference to Organization: MAH
@@ -14512,7 +14903,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//979719 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett10mg, 320mg
 * packageFor = Reference(mp-9ff8261eb987e544b8510cd3f9a83372)
 // Reference to Organization: MAH
@@ -14548,7 +14940,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//979719 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett10mg, 320mg
 * packageFor = Reference(mp-9ff8261eb987e544b8510cd3f9a83372)
 // Reference to Organization: MAH
@@ -14582,7 +14975,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//979619 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett5mg, 320mg
 * packageFor = Reference(mp-010be9a91927897698bafa89faddff0f)
 // Reference to Organization: MAH
@@ -14616,7 +15010,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//979619 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett5mg, 320mg
 * packageFor = Reference(mp-010be9a91927897698bafa89faddff0f)
 // Reference to Organization: MAH
@@ -14650,7 +15045,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//979619 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett5mg, 320mg
 * packageFor = Reference(mp-010be9a91927897698bafa89faddff0f)
 // Reference to Organization: MAH
@@ -14684,7 +15080,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//979619 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett5mg, 320mg
 * packageFor = Reference(mp-010be9a91927897698bafa89faddff0f)
 // Reference to Organization: MAH
@@ -14718,7 +15115,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//979619 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett5mg, 320mg
 * packageFor = Reference(mp-010be9a91927897698bafa89faddff0f)
 // Reference to Organization: MAH
@@ -14752,7 +15150,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//979619 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett5mg, 320mg
 * packageFor = Reference(mp-010be9a91927897698bafa89faddff0f)
 // Reference to Organization: MAH
@@ -14786,7 +15185,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//979619 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett5mg, 320mg
 * packageFor = Reference(mp-010be9a91927897698bafa89faddff0f)
 // Reference to Organization: MAH
@@ -14822,7 +15222,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//979619 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett5mg, 320mg
 * packageFor = Reference(mp-010be9a91927897698bafa89faddff0f)
 // Reference to Organization: MAH
@@ -14856,7 +15257,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//979619 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett5mg, 320mg
 * packageFor = Reference(mp-010be9a91927897698bafa89faddff0f)
 // Reference to Organization: MAH
@@ -14892,7 +15294,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//969418 -> True
 // for: DALNESSATablett5.7mg, 5mg
 * packageFor = Reference(mp-473963e88b785cfc16808e8769caf412)
 // Reference to Organization: MAH
@@ -14928,7 +15331,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//969418 -> True
 // for: DALNESSATablett5.7mg, 5mg
 * packageFor = Reference(mp-473963e88b785cfc16808e8769caf412)
 // Reference to Organization: MAH
@@ -14964,7 +15368,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//969418 -> True
 // for: DALNESSATablett5.7mg, 5mg
 * packageFor = Reference(mp-473963e88b785cfc16808e8769caf412)
 // Reference to Organization: MAH
@@ -15000,7 +15405,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//969418 -> True
 // for: DALNESSATablett5.7mg, 5mg
 * packageFor = Reference(mp-473963e88b785cfc16808e8769caf412)
 // Reference to Organization: MAH
@@ -15036,7 +15442,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//969418 -> True
 // for: DALNESSATablett5.7mg, 5mg
 * packageFor = Reference(mp-473963e88b785cfc16808e8769caf412)
 // Reference to Organization: MAH
@@ -15072,7 +15479,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//969318 -> True
 // for: DALNESSATablett2.85mg, 2.5mg
 * packageFor = Reference(mp-2d73f2b40745c9beffb94871f14a5b5a)
 // Reference to Organization: MAH
@@ -15108,7 +15516,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//969318 -> True
 // for: DALNESSATablett2.85mg, 2.5mg
 * packageFor = Reference(mp-2d73f2b40745c9beffb94871f14a5b5a)
 // Reference to Organization: MAH
@@ -15144,7 +15553,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//969318 -> True
 // for: DALNESSATablett2.85mg, 2.5mg
 * packageFor = Reference(mp-2d73f2b40745c9beffb94871f14a5b5a)
 // Reference to Organization: MAH
@@ -15180,7 +15590,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//969318 -> True
 // for: DALNESSATablett2.85mg, 2.5mg
 * packageFor = Reference(mp-2d73f2b40745c9beffb94871f14a5b5a)
 // Reference to Organization: MAH
@@ -15216,7 +15627,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//969318 -> True
 // for: DALNESSATablett2.85mg, 2.5mg
 * packageFor = Reference(mp-2d73f2b40745c9beffb94871f14a5b5a)
 // Reference to Organization: MAH
@@ -15252,7 +15664,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15288,7 +15701,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15324,7 +15738,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15360,7 +15775,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15396,7 +15812,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15432,7 +15849,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15468,7 +15886,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15504,7 +15923,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15540,7 +15960,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15576,7 +15997,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15612,7 +16034,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//959018 -> True
 // for: CAMDEROTablett16mg, 5mg
 * packageFor = Reference(mp-3532848b29b671c8226129387571af81)
 // Reference to Organization: MAH
@@ -15648,7 +16071,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -15684,7 +16108,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -15720,7 +16145,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -15756,7 +16182,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -15792,7 +16219,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -15828,7 +16256,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -15864,7 +16293,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -15900,7 +16330,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -15936,7 +16367,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -15972,7 +16404,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -16008,7 +16441,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//958918 -> True
 // for: CAMDEROTablett5mg, 8mg
 * packageFor = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 // Reference to Organization: MAH
@@ -16042,7 +16476,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//957417 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-ebae77533e4c1e728b99e03b2085351b)
 // Reference to Organization: MAH
@@ -16076,7 +16511,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//957417 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-ebae77533e4c1e728b99e03b2085351b)
 // Reference to Organization: MAH
@@ -16111,7 +16547,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//957417 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-ebae77533e4c1e728b99e03b2085351b)
 // Reference to Organization: MAH
@@ -16146,7 +16583,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//957417 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-ebae77533e4c1e728b99e03b2085351b)
 // Reference to Organization: MAH
@@ -16180,7 +16618,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//957417 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-ebae77533e4c1e728b99e03b2085351b)
 // Reference to Organization: MAH
@@ -16214,7 +16653,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//957417 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-ebae77533e4c1e728b99e03b2085351b)
 // Reference to Organization: MAH
@@ -16248,7 +16688,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 1000
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//957417 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-ebae77533e4c1e728b99e03b2085351b)
 // Reference to Organization: MAH
@@ -16283,7 +16724,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//957317 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-92deca0aa200157ff667b54187059631)
 // Reference to Organization: MAH
@@ -16317,7 +16759,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//957317 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-92deca0aa200157ff667b54187059631)
 // Reference to Organization: MAH
@@ -16351,7 +16794,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//957317 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-92deca0aa200157ff667b54187059631)
 // Reference to Organization: MAH
@@ -16385,7 +16829,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 1000
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//957317 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-92deca0aa200157ff667b54187059631)
 // Reference to Organization: MAH
@@ -16419,7 +16864,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//957317 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-92deca0aa200157ff667b54187059631)
 // Reference to Organization: MAH
@@ -16453,7 +16899,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//957317 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-92deca0aa200157ff667b54187059631)
 // Reference to Organization: MAH
@@ -16488,7 +16935,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//957317 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-92deca0aa200157ff667b54187059631)
 // Reference to Organization: MAH
@@ -16522,7 +16970,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//957217 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-15ef7c061f169c5ee0d522812fab8e3e)
 // Reference to Organization: MAH
@@ -16556,7 +17005,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//957217 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-15ef7c061f169c5ee0d522812fab8e3e)
 // Reference to Organization: MAH
@@ -16590,7 +17040,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//957217 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-15ef7c061f169c5ee0d522812fab8e3e)
 // Reference to Organization: MAH
@@ -16625,7 +17076,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//957217 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-15ef7c061f169c5ee0d522812fab8e3e)
 // Reference to Organization: MAH
@@ -16659,7 +17111,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//957217 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-15ef7c061f169c5ee0d522812fab8e3e)
 // Reference to Organization: MAH
@@ -16694,7 +17147,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//957217 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-15ef7c061f169c5ee0d522812fab8e3e)
 // Reference to Organization: MAH
@@ -16728,7 +17182,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 1000
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//957217 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-15ef7c061f169c5ee0d522812fab8e3e)
 // Reference to Organization: MAH
@@ -16764,7 +17219,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//949817 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-992fceef0cf23c5984e1f6197129ac49)
 // Reference to Organization: MAH
@@ -16800,7 +17256,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//949817 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-992fceef0cf23c5984e1f6197129ac49)
 // Reference to Organization: MAH
@@ -16836,7 +17293,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//949817 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-992fceef0cf23c5984e1f6197129ac49)
 // Reference to Organization: MAH
@@ -16872,7 +17330,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//949817 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-992fceef0cf23c5984e1f6197129ac49)
 // Reference to Organization: MAH
@@ -16908,7 +17367,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//949817 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-992fceef0cf23c5984e1f6197129ac49)
 // Reference to Organization: MAH
@@ -16944,7 +17404,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//949817 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-992fceef0cf23c5984e1f6197129ac49)
 // Reference to Organization: MAH
@@ -16980,7 +17441,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//949817 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-992fceef0cf23c5984e1f6197129ac49)
 // Reference to Organization: MAH
@@ -17016,7 +17478,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//949817 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-992fceef0cf23c5984e1f6197129ac49)
 // Reference to Organization: MAH
@@ -17052,7 +17515,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//949717 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-0ecfe6182781ff486fe5156d2e85c11d)
 // Reference to Organization: MAH
@@ -17088,7 +17552,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//949717 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-0ecfe6182781ff486fe5156d2e85c11d)
 // Reference to Organization: MAH
@@ -17124,7 +17589,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//949717 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-0ecfe6182781ff486fe5156d2e85c11d)
 // Reference to Organization: MAH
@@ -17160,7 +17626,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//949717 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-0ecfe6182781ff486fe5156d2e85c11d)
 // Reference to Organization: MAH
@@ -17196,7 +17663,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//949717 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-0ecfe6182781ff486fe5156d2e85c11d)
 // Reference to Organization: MAH
@@ -17232,7 +17700,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//949717 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-0ecfe6182781ff486fe5156d2e85c11d)
 // Reference to Organization: MAH
@@ -17268,7 +17737,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//949717 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-0ecfe6182781ff486fe5156d2e85c11d)
 // Reference to Organization: MAH
@@ -17304,7 +17774,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//949717 -> True
 // for: OLSSAÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-0ecfe6182781ff486fe5156d2e85c11d)
 // Reference to Organization: MAH
@@ -17340,7 +17811,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//949617 -> True
 // for: OLSSAÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-5ce9683130355affc8b16ac3a0a50c7e)
 // Reference to Organization: MAH
@@ -17376,7 +17848,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//949617 -> True
 // for: OLSSAÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-5ce9683130355affc8b16ac3a0a50c7e)
 // Reference to Organization: MAH
@@ -17412,7 +17885,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//949617 -> True
 // for: OLSSAÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-5ce9683130355affc8b16ac3a0a50c7e)
 // Reference to Organization: MAH
@@ -17448,7 +17922,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//949617 -> True
 // for: OLSSAÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-5ce9683130355affc8b16ac3a0a50c7e)
 // Reference to Organization: MAH
@@ -17484,7 +17959,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//949617 -> True
 // for: OLSSAÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-5ce9683130355affc8b16ac3a0a50c7e)
 // Reference to Organization: MAH
@@ -17520,7 +17996,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//949617 -> True
 // for: OLSSAÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-5ce9683130355affc8b16ac3a0a50c7e)
 // Reference to Organization: MAH
@@ -17556,7 +18033,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//949617 -> True
 // for: OLSSAÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-5ce9683130355affc8b16ac3a0a50c7e)
 // Reference to Organization: MAH
@@ -17592,7 +18070,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//949617 -> True
 // for: OLSSAÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-5ce9683130355affc8b16ac3a0a50c7e)
 // Reference to Organization: MAH
@@ -17628,7 +18107,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -17664,7 +18144,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -17700,7 +18181,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -17736,7 +18218,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -17772,7 +18255,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -17808,7 +18292,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -17844,7 +18329,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -17880,7 +18366,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -17916,7 +18403,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -17952,7 +18440,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -17988,7 +18477,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -18024,7 +18514,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -18060,7 +18551,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//942417 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
@@ -18096,7 +18588,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18132,7 +18625,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18168,7 +18662,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18204,7 +18699,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18240,7 +18736,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18276,7 +18773,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18312,7 +18810,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18348,7 +18847,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18384,7 +18884,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18420,7 +18921,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18456,7 +18958,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18492,7 +18995,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//942317 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
@@ -18528,7 +19032,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929816 -> True
 // for: TELDIPINTablett80mg, 10mg
 * packageFor = Reference(mp-48df8f5cf063ad33bbd7174aaec3f4b2)
 // Reference to Organization: MAH
@@ -18564,7 +19069,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929816 -> True
 // for: TELDIPINTablett80mg, 10mg
 * packageFor = Reference(mp-48df8f5cf063ad33bbd7174aaec3f4b2)
 // Reference to Organization: MAH
@@ -18600,7 +19106,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929816 -> True
 // for: TELDIPINTablett80mg, 10mg
 * packageFor = Reference(mp-48df8f5cf063ad33bbd7174aaec3f4b2)
 // Reference to Organization: MAH
@@ -18636,7 +19143,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929816 -> True
 // for: TELDIPINTablett80mg, 10mg
 * packageFor = Reference(mp-48df8f5cf063ad33bbd7174aaec3f4b2)
 // Reference to Organization: MAH
@@ -18672,7 +19180,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//929816 -> True
 // for: TELDIPINTablett80mg, 10mg
 * packageFor = Reference(mp-48df8f5cf063ad33bbd7174aaec3f4b2)
 // Reference to Organization: MAH
@@ -18708,7 +19217,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929816 -> True
 // for: TELDIPINTablett80mg, 10mg
 * packageFor = Reference(mp-48df8f5cf063ad33bbd7174aaec3f4b2)
 // Reference to Organization: MAH
@@ -18744,7 +19254,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//929816 -> True
 // for: TELDIPINTablett80mg, 10mg
 * packageFor = Reference(mp-48df8f5cf063ad33bbd7174aaec3f4b2)
 // Reference to Organization: MAH
@@ -18780,7 +19291,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929816 -> True
 // for: TELDIPINTablett80mg, 10mg
 * packageFor = Reference(mp-48df8f5cf063ad33bbd7174aaec3f4b2)
 // Reference to Organization: MAH
@@ -18816,7 +19328,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929716 -> True
 // for: TELDIPINTablett5mg, 80mg
 * packageFor = Reference(mp-0c80dcb4c4e267a27fb81c3d56855721)
 // Reference to Organization: MAH
@@ -18852,7 +19365,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//929716 -> True
 // for: TELDIPINTablett5mg, 80mg
 * packageFor = Reference(mp-0c80dcb4c4e267a27fb81c3d56855721)
 // Reference to Organization: MAH
@@ -18888,7 +19402,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929716 -> True
 // for: TELDIPINTablett5mg, 80mg
 * packageFor = Reference(mp-0c80dcb4c4e267a27fb81c3d56855721)
 // Reference to Organization: MAH
@@ -18924,7 +19439,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//929716 -> True
 // for: TELDIPINTablett5mg, 80mg
 * packageFor = Reference(mp-0c80dcb4c4e267a27fb81c3d56855721)
 // Reference to Organization: MAH
@@ -18960,7 +19476,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//929716 -> True
 // for: TELDIPINTablett5mg, 80mg
 * packageFor = Reference(mp-0c80dcb4c4e267a27fb81c3d56855721)
 // Reference to Organization: MAH
@@ -18996,7 +19513,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929716 -> True
 // for: TELDIPINTablett5mg, 80mg
 * packageFor = Reference(mp-0c80dcb4c4e267a27fb81c3d56855721)
 // Reference to Organization: MAH
@@ -19032,7 +19550,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929716 -> True
 // for: TELDIPINTablett5mg, 80mg
 * packageFor = Reference(mp-0c80dcb4c4e267a27fb81c3d56855721)
 // Reference to Organization: MAH
@@ -19068,7 +19587,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//929716 -> True
 // for: TELDIPINTablett5mg, 80mg
 * packageFor = Reference(mp-0c80dcb4c4e267a27fb81c3d56855721)
 // Reference to Organization: MAH
@@ -19104,7 +19624,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//929616 -> True
 // for: TELDIPINTablett10mg, 40mg
 * packageFor = Reference(mp-3a50f937e5452c904f583dd60b86c709)
 // Reference to Organization: MAH
@@ -19140,7 +19661,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929616 -> True
 // for: TELDIPINTablett10mg, 40mg
 * packageFor = Reference(mp-3a50f937e5452c904f583dd60b86c709)
 // Reference to Organization: MAH
@@ -19176,7 +19698,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//929616 -> True
 // for: TELDIPINTablett10mg, 40mg
 * packageFor = Reference(mp-3a50f937e5452c904f583dd60b86c709)
 // Reference to Organization: MAH
@@ -19212,7 +19735,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//929616 -> True
 // for: TELDIPINTablett10mg, 40mg
 * packageFor = Reference(mp-3a50f937e5452c904f583dd60b86c709)
 // Reference to Organization: MAH
@@ -19248,7 +19772,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//929616 -> True
 // for: TELDIPINTablett10mg, 40mg
 * packageFor = Reference(mp-3a50f937e5452c904f583dd60b86c709)
 // Reference to Organization: MAH
@@ -19284,7 +19809,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//929616 -> True
 // for: TELDIPINTablett10mg, 40mg
 * packageFor = Reference(mp-3a50f937e5452c904f583dd60b86c709)
 // Reference to Organization: MAH
@@ -19320,7 +19846,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//929616 -> True
 // for: TELDIPINTablett10mg, 40mg
 * packageFor = Reference(mp-3a50f937e5452c904f583dd60b86c709)
 // Reference to Organization: MAH
@@ -19356,7 +19883,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//929616 -> True
 // for: TELDIPINTablett10mg, 40mg
 * packageFor = Reference(mp-3a50f937e5452c904f583dd60b86c709)
 // Reference to Organization: MAH
@@ -19392,7 +19920,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//929516 -> True
 // for: TELDIPINTablett5mg, 40mg
 * packageFor = Reference(mp-d3a126b8227e56f2155ae740e9723dc2)
 // Reference to Organization: MAH
@@ -19428,7 +19957,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929516 -> True
 // for: TELDIPINTablett5mg, 40mg
 * packageFor = Reference(mp-d3a126b8227e56f2155ae740e9723dc2)
 // Reference to Organization: MAH
@@ -19464,7 +19994,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//929516 -> True
 // for: TELDIPINTablett5mg, 40mg
 * packageFor = Reference(mp-d3a126b8227e56f2155ae740e9723dc2)
 // Reference to Organization: MAH
@@ -19500,7 +20031,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//929516 -> True
 // for: TELDIPINTablett5mg, 40mg
 * packageFor = Reference(mp-d3a126b8227e56f2155ae740e9723dc2)
 // Reference to Organization: MAH
@@ -19536,7 +20068,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929516 -> True
 // for: TELDIPINTablett5mg, 40mg
 * packageFor = Reference(mp-d3a126b8227e56f2155ae740e9723dc2)
 // Reference to Organization: MAH
@@ -19572,7 +20105,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929516 -> True
 // for: TELDIPINTablett5mg, 40mg
 * packageFor = Reference(mp-d3a126b8227e56f2155ae740e9723dc2)
 // Reference to Organization: MAH
@@ -19608,7 +20142,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929516 -> True
 // for: TELDIPINTablett5mg, 40mg
 * packageFor = Reference(mp-d3a126b8227e56f2155ae740e9723dc2)
 // Reference to Organization: MAH
@@ -19644,7 +20179,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//929516 -> True
 // for: TELDIPINTablett5mg, 40mg
 * packageFor = Reference(mp-d3a126b8227e56f2155ae740e9723dc2)
 // Reference to Organization: MAH
@@ -19680,7 +20216,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//915916 -> True
 // for: FRAMSYLKõvakapsel10mg, 16mg
 * packageFor = Reference(mp-cf354a0807e9cb815fff08cde088fb4a)
 // Reference to Organization: MAH
@@ -19716,7 +20253,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//915916 -> True
 // for: FRAMSYLKõvakapsel10mg, 16mg
 * packageFor = Reference(mp-cf354a0807e9cb815fff08cde088fb4a)
 // Reference to Organization: MAH
@@ -19752,7 +20290,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//915916 -> True
 // for: FRAMSYLKõvakapsel10mg, 16mg
 * packageFor = Reference(mp-cf354a0807e9cb815fff08cde088fb4a)
 // Reference to Organization: MAH
@@ -19788,7 +20327,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//915816 -> True
 // for: FRAMSYLKõvakapsel5mg, 16mg
 * packageFor = Reference(mp-86b57f03efc0bf7bcdc77d7a8dce3999)
 // Reference to Organization: MAH
@@ -19824,7 +20364,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//915816 -> True
 // for: FRAMSYLKõvakapsel5mg, 16mg
 * packageFor = Reference(mp-86b57f03efc0bf7bcdc77d7a8dce3999)
 // Reference to Organization: MAH
@@ -19860,7 +20401,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//915816 -> True
 // for: FRAMSYLKõvakapsel5mg, 16mg
 * packageFor = Reference(mp-86b57f03efc0bf7bcdc77d7a8dce3999)
 // Reference to Organization: MAH
@@ -19896,7 +20438,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//915716 -> True
 // for: FRAMSYLKõvakapsel10mg, 8mg
 * packageFor = Reference(mp-cc8a2cda608c39747a1735d392904ef2)
 // Reference to Organization: MAH
@@ -19932,7 +20475,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//915716 -> True
 // for: FRAMSYLKõvakapsel10mg, 8mg
 * packageFor = Reference(mp-cc8a2cda608c39747a1735d392904ef2)
 // Reference to Organization: MAH
@@ -19968,7 +20512,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//915716 -> True
 // for: FRAMSYLKõvakapsel10mg, 8mg
 * packageFor = Reference(mp-cc8a2cda608c39747a1735d392904ef2)
 // Reference to Organization: MAH
@@ -20004,7 +20549,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//915616 -> True
 // for: FRAMSYLKõvakapsel5mg, 8mg
 * packageFor = Reference(mp-89329433313d6f161e047e5039bf430e)
 // Reference to Organization: MAH
@@ -20040,7 +20586,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//915616 -> True
 // for: FRAMSYLKõvakapsel5mg, 8mg
 * packageFor = Reference(mp-89329433313d6f161e047e5039bf430e)
 // Reference to Organization: MAH
@@ -20076,7 +20623,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//915616 -> True
 // for: FRAMSYLKõvakapsel5mg, 8mg
 * packageFor = Reference(mp-89329433313d6f161e047e5039bf430e)
 // Reference to Organization: MAH
@@ -20111,7 +20659,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911716 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-4e3a0f064c251c110dafa89a2b27b36d)
 // Reference to Organization: MAH
@@ -20146,7 +20695,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911716 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-4e3a0f064c251c110dafa89a2b27b36d)
 // Reference to Organization: MAH
@@ -20181,7 +20731,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911716 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-4e3a0f064c251c110dafa89a2b27b36d)
 // Reference to Organization: MAH
@@ -20216,7 +20767,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911716 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-4e3a0f064c251c110dafa89a2b27b36d)
 // Reference to Organization: MAH
@@ -20251,7 +20803,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911716 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-4e3a0f064c251c110dafa89a2b27b36d)
 // Reference to Organization: MAH
@@ -20286,7 +20839,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911716 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-4e3a0f064c251c110dafa89a2b27b36d)
 // Reference to Organization: MAH
@@ -20321,7 +20875,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911716 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-4e3a0f064c251c110dafa89a2b27b36d)
 // Reference to Organization: MAH
@@ -20356,7 +20911,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//911716 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-4e3a0f064c251c110dafa89a2b27b36d)
 // Reference to Organization: MAH
@@ -20391,7 +20947,8 @@ Usage: #example
     * containedItem.amount.value = 7
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//911616 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-f4e3bf9b50fac22789ee5d41cd4c5193)
 // Reference to Organization: MAH
@@ -20426,7 +20983,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//911616 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-f4e3bf9b50fac22789ee5d41cd4c5193)
 // Reference to Organization: MAH
@@ -20461,7 +21019,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911616 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-f4e3bf9b50fac22789ee5d41cd4c5193)
 // Reference to Organization: MAH
@@ -20496,7 +21055,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//911616 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-f4e3bf9b50fac22789ee5d41cd4c5193)
 // Reference to Organization: MAH
@@ -20531,7 +21091,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911616 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-f4e3bf9b50fac22789ee5d41cd4c5193)
 // Reference to Organization: MAH
@@ -20566,7 +21127,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//911616 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-f4e3bf9b50fac22789ee5d41cd4c5193)
 // Reference to Organization: MAH
@@ -20601,7 +21163,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911616 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-f4e3bf9b50fac22789ee5d41cd4c5193)
 // Reference to Organization: MAH
@@ -20636,7 +21199,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//911616 -> True
 // for: AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-f4e3bf9b50fac22789ee5d41cd4c5193)
 // Reference to Organization: MAH
@@ -20672,7 +21236,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//903016 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
 // Reference to Organization: MAH
@@ -20708,7 +21273,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//903016 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
 // Reference to Organization: MAH
@@ -20744,7 +21310,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//903016 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
 // Reference to Organization: MAH
@@ -20780,7 +21347,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//903016 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
 // Reference to Organization: MAH
@@ -20816,7 +21384,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//903016 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
 // Reference to Organization: MAH
@@ -20852,7 +21421,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//903016 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
 // Reference to Organization: MAH
@@ -20888,7 +21458,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//903016 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
 // Reference to Organization: MAH
@@ -20922,7 +21493,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//903016 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
 // Reference to Organization: MAH
@@ -20958,7 +21530,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//903016 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
 // Reference to Organization: MAH
@@ -20994,7 +21567,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//903016 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 10mg
 * packageFor = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
 // Reference to Organization: MAH
@@ -21030,7 +21604,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//902916 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-6927a99dccb40876a816618edcdef801)
 // Reference to Organization: MAH
@@ -21066,7 +21641,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//902916 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-6927a99dccb40876a816618edcdef801)
 // Reference to Organization: MAH
@@ -21102,7 +21678,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//902916 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-6927a99dccb40876a816618edcdef801)
 // Reference to Organization: MAH
@@ -21138,7 +21715,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//902916 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-6927a99dccb40876a816618edcdef801)
 // Reference to Organization: MAH
@@ -21174,7 +21752,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//902916 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-6927a99dccb40876a816618edcdef801)
 // Reference to Organization: MAH
@@ -21210,7 +21789,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//902916 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-6927a99dccb40876a816618edcdef801)
 // Reference to Organization: MAH
@@ -21246,7 +21826,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//902916 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-6927a99dccb40876a816618edcdef801)
 // Reference to Organization: MAH
@@ -21282,7 +21863,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//902916 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-6927a99dccb40876a816618edcdef801)
 // Reference to Organization: MAH
@@ -21318,7 +21900,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//902916 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-6927a99dccb40876a816618edcdef801)
 // Reference to Organization: MAH
@@ -21352,7 +21935,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//902916 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett160mg, 5mg
 * packageFor = Reference(mp-6927a99dccb40876a816618edcdef801)
 // Reference to Organization: MAH
@@ -21388,7 +21972,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//902816 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 // Reference to Organization: MAH
@@ -21424,7 +22009,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//902816 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 // Reference to Organization: MAH
@@ -21460,7 +22046,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//902816 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 // Reference to Organization: MAH
@@ -21496,7 +22083,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//902816 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 // Reference to Organization: MAH
@@ -21530,7 +22118,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//902816 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 // Reference to Organization: MAH
@@ -21566,7 +22155,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//902816 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 // Reference to Organization: MAH
@@ -21602,7 +22192,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//902816 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 // Reference to Organization: MAH
@@ -21638,7 +22229,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//902816 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 // Reference to Organization: MAH
@@ -21674,7 +22266,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//902816 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 // Reference to Organization: MAH
@@ -21710,7 +22303,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//902816 -> True
 // for: WAMLOXÕhukese polümeerikattega tablett80mg, 5mg
 * packageFor = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 // Reference to Organization: MAH
@@ -21744,7 +22338,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-d9b6ef48731c98284badcf0786ddae4a)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885515 -> True
 // for: TRIVERAM 40MG/10MG/10MGÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-d9b6ef48731c98284badcf0786ddae4a)
 // Reference to Organization: MAH
@@ -21778,7 +22373,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-d9b6ef48731c98284badcf0786ddae4a)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885515 -> True
 // for: TRIVERAM 40MG/10MG/10MGÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-d9b6ef48731c98284badcf0786ddae4a)
 // Reference to Organization: MAH
@@ -21812,7 +22408,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-d9b6ef48731c98284badcf0786ddae4a)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885515 -> True
 // for: TRIVERAM 40MG/10MG/10MGÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-d9b6ef48731c98284badcf0786ddae4a)
 // Reference to Organization: MAH
@@ -21846,7 +22443,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-d9b6ef48731c98284badcf0786ddae4a)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885515 -> True
 // for: TRIVERAM 40MG/10MG/10MGÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-d9b6ef48731c98284badcf0786ddae4a)
 // Reference to Organization: MAH
@@ -21880,7 +22478,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-d9b6ef48731c98284badcf0786ddae4a)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//885515 -> True
 // for: TRIVERAM 40MG/10MG/10MGÕhukese polümeerikattega tablett40mg, 10mg
 * packageFor = Reference(mp-d9b6ef48731c98284badcf0786ddae4a)
 // Reference to Organization: MAH
@@ -21914,7 +22513,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-f9220c58bd68a6a5525486f4c18ddebc)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885415 -> True
 // for: TRIVERAM 20MG/5MG/5MGÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-f9220c58bd68a6a5525486f4c18ddebc)
 // Reference to Organization: MAH
@@ -21948,7 +22548,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-f9220c58bd68a6a5525486f4c18ddebc)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885415 -> True
 // for: TRIVERAM 20MG/5MG/5MGÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-f9220c58bd68a6a5525486f4c18ddebc)
 // Reference to Organization: MAH
@@ -21982,7 +22583,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-f9220c58bd68a6a5525486f4c18ddebc)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885415 -> True
 // for: TRIVERAM 20MG/5MG/5MGÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-f9220c58bd68a6a5525486f4c18ddebc)
 // Reference to Organization: MAH
@@ -22016,7 +22618,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-f9220c58bd68a6a5525486f4c18ddebc)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885415 -> True
 // for: TRIVERAM 20MG/5MG/5MGÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-f9220c58bd68a6a5525486f4c18ddebc)
 // Reference to Organization: MAH
@@ -22050,7 +22653,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-f9220c58bd68a6a5525486f4c18ddebc)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//885415 -> True
 // for: TRIVERAM 20MG/5MG/5MGÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-f9220c58bd68a6a5525486f4c18ddebc)
 // Reference to Organization: MAH
@@ -22084,7 +22688,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-86425515252bedcd9cee98223732d690)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885315 -> True
 // for: TRIVERAM 20MG/10MG/5MGÕhukese polümeerikattega tablett5mg, 10mg, 20mg
 * packageFor = Reference(mp-86425515252bedcd9cee98223732d690)
 // Reference to Organization: MAH
@@ -22118,7 +22723,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-86425515252bedcd9cee98223732d690)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885315 -> True
 // for: TRIVERAM 20MG/10MG/5MGÕhukese polümeerikattega tablett5mg, 10mg, 20mg
 * packageFor = Reference(mp-86425515252bedcd9cee98223732d690)
 // Reference to Organization: MAH
@@ -22152,7 +22758,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-86425515252bedcd9cee98223732d690)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//885315 -> True
 // for: TRIVERAM 20MG/10MG/5MGÕhukese polümeerikattega tablett5mg, 10mg, 20mg
 * packageFor = Reference(mp-86425515252bedcd9cee98223732d690)
 // Reference to Organization: MAH
@@ -22186,7 +22793,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-86425515252bedcd9cee98223732d690)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885315 -> True
 // for: TRIVERAM 20MG/10MG/5MGÕhukese polümeerikattega tablett5mg, 10mg, 20mg
 * packageFor = Reference(mp-86425515252bedcd9cee98223732d690)
 // Reference to Organization: MAH
@@ -22220,7 +22828,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-86425515252bedcd9cee98223732d690)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885315 -> True
 // for: TRIVERAM 20MG/10MG/5MGÕhukese polümeerikattega tablett5mg, 10mg, 20mg
 * packageFor = Reference(mp-86425515252bedcd9cee98223732d690)
 // Reference to Organization: MAH
@@ -22254,7 +22863,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6709cadec14d34a4ce70af63e9421a1b)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003214 "PolyEthylene"  
+    * material[+] = $200000003199#200000003214 "PolyEthylene"
+//885215 -> True
 // for: TRIVERAM 20MG/10MG/10MGÕhukese polümeerikattega tablett20mg, 10mg
 * packageFor = Reference(mp-6709cadec14d34a4ce70af63e9421a1b)
 // Reference to Organization: MAH
@@ -22288,7 +22898,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6709cadec14d34a4ce70af63e9421a1b)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003214 "PolyEthylene"  
+    * material[+] = $200000003199#200000003214 "PolyEthylene"
+//885215 -> True
 // for: TRIVERAM 20MG/10MG/10MGÕhukese polümeerikattega tablett20mg, 10mg
 * packageFor = Reference(mp-6709cadec14d34a4ce70af63e9421a1b)
 // Reference to Organization: MAH
@@ -22322,7 +22933,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6709cadec14d34a4ce70af63e9421a1b)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003214 "PolyEthylene"  
+    * material[+] = $200000003199#200000003214 "PolyEthylene"
+//885215 -> True
 // for: TRIVERAM 20MG/10MG/10MGÕhukese polümeerikattega tablett20mg, 10mg
 * packageFor = Reference(mp-6709cadec14d34a4ce70af63e9421a1b)
 // Reference to Organization: MAH
@@ -22356,7 +22968,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6709cadec14d34a4ce70af63e9421a1b)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//885215 -> True
 // for: TRIVERAM 20MG/10MG/10MGÕhukese polümeerikattega tablett20mg, 10mg
 * packageFor = Reference(mp-6709cadec14d34a4ce70af63e9421a1b)
 // Reference to Organization: MAH
@@ -22390,7 +23003,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6709cadec14d34a4ce70af63e9421a1b)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003214 "PolyEthylene"  
+    * material[+] = $200000003199#200000003214 "PolyEthylene"
+//885215 -> True
 // for: TRIVERAM 20MG/10MG/10MGÕhukese polümeerikattega tablett20mg, 10mg
 * packageFor = Reference(mp-6709cadec14d34a4ce70af63e9421a1b)
 // Reference to Organization: MAH
@@ -22424,7 +23038,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885115 -> True
 // for: TRIVERAM 10MG/5MG/5MGÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-99095e57e9c62937e8d1830376f48ee1)
 // Reference to Organization: MAH
@@ -22458,7 +23073,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885115 -> True
 // for: TRIVERAM 10MG/5MG/5MGÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-99095e57e9c62937e8d1830376f48ee1)
 // Reference to Organization: MAH
@@ -22492,7 +23108,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//885115 -> True
 // for: TRIVERAM 10MG/5MG/5MGÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-99095e57e9c62937e8d1830376f48ee1)
 // Reference to Organization: MAH
@@ -22526,7 +23143,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885115 -> True
 // for: TRIVERAM 10MG/5MG/5MGÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-99095e57e9c62937e8d1830376f48ee1)
 // Reference to Organization: MAH
@@ -22560,7 +23178,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885115 -> True
 // for: TRIVERAM 10MG/5MG/5MGÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-99095e57e9c62937e8d1830376f48ee1)
 // Reference to Organization: MAH
@@ -22594,7 +23213,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//885115 -> True
 // for: TRIVERAM 10MG/5MG/5MGÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-99095e57e9c62937e8d1830376f48ee1)
 // Reference to Organization: MAH
@@ -22630,7 +23250,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//882415 -> True
 // for: MIXORTablett80mg, 10mg
 * packageFor = Reference(mp-4d3261ec077923bcb748e081b4a9b4f4)
 // Reference to Organization: MAH
@@ -22666,7 +23287,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//882415 -> True
 // for: MIXORTablett80mg, 10mg
 * packageFor = Reference(mp-4d3261ec077923bcb748e081b4a9b4f4)
 // Reference to Organization: MAH
@@ -22702,7 +23324,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//882415 -> True
 // for: MIXORTablett80mg, 10mg
 * packageFor = Reference(mp-4d3261ec077923bcb748e081b4a9b4f4)
 // Reference to Organization: MAH
@@ -22738,7 +23361,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//882415 -> True
 // for: MIXORTablett80mg, 10mg
 * packageFor = Reference(mp-4d3261ec077923bcb748e081b4a9b4f4)
 // Reference to Organization: MAH
@@ -22774,7 +23398,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//882415 -> True
 // for: MIXORTablett80mg, 10mg
 * packageFor = Reference(mp-4d3261ec077923bcb748e081b4a9b4f4)
 // Reference to Organization: MAH
@@ -22810,7 +23435,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//882415 -> True
 // for: MIXORTablett80mg, 10mg
 * packageFor = Reference(mp-4d3261ec077923bcb748e081b4a9b4f4)
 // Reference to Organization: MAH
@@ -22846,7 +23472,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//882315 -> True
 // for: MIXORTablett80mg, 5mg
 * packageFor = Reference(mp-b0cec8f4f684b9a926520e6574e76d6a)
 // Reference to Organization: MAH
@@ -22882,7 +23509,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//882315 -> True
 // for: MIXORTablett80mg, 5mg
 * packageFor = Reference(mp-b0cec8f4f684b9a926520e6574e76d6a)
 // Reference to Organization: MAH
@@ -22918,7 +23546,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//882315 -> True
 // for: MIXORTablett80mg, 5mg
 * packageFor = Reference(mp-b0cec8f4f684b9a926520e6574e76d6a)
 // Reference to Organization: MAH
@@ -22954,7 +23583,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//882315 -> True
 // for: MIXORTablett80mg, 5mg
 * packageFor = Reference(mp-b0cec8f4f684b9a926520e6574e76d6a)
 // Reference to Organization: MAH
@@ -22990,7 +23620,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//882315 -> True
 // for: MIXORTablett80mg, 5mg
 * packageFor = Reference(mp-b0cec8f4f684b9a926520e6574e76d6a)
 // Reference to Organization: MAH
@@ -23026,7 +23657,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//882315 -> True
 // for: MIXORTablett80mg, 5mg
 * packageFor = Reference(mp-b0cec8f4f684b9a926520e6574e76d6a)
 // Reference to Organization: MAH
@@ -23062,7 +23694,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//850714 -> True
 // for: SOBYCOMBITablett10mg, 5mg
 * packageFor = Reference(mp-f3e04259c844917fef0e2e775bf07ab8)
 // Reference to Organization: MAH
@@ -23098,7 +23731,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//850714 -> True
 // for: SOBYCOMBITablett10mg, 5mg
 * packageFor = Reference(mp-f3e04259c844917fef0e2e775bf07ab8)
 // Reference to Organization: MAH
@@ -23134,7 +23768,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//850714 -> True
 // for: SOBYCOMBITablett10mg, 5mg
 * packageFor = Reference(mp-f3e04259c844917fef0e2e775bf07ab8)
 // Reference to Organization: MAH
@@ -23170,7 +23805,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//850714 -> True
 // for: SOBYCOMBITablett10mg, 5mg
 * packageFor = Reference(mp-f3e04259c844917fef0e2e775bf07ab8)
 // Reference to Organization: MAH
@@ -23206,7 +23842,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//850714 -> True
 // for: SOBYCOMBITablett10mg, 5mg
 * packageFor = Reference(mp-f3e04259c844917fef0e2e775bf07ab8)
 // Reference to Organization: MAH
@@ -23242,7 +23879,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//850714 -> True
 // for: SOBYCOMBITablett10mg, 5mg
 * packageFor = Reference(mp-f3e04259c844917fef0e2e775bf07ab8)
 // Reference to Organization: MAH
@@ -23278,7 +23916,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//850614 -> True
 // for: SOBYCOMBITablett5mg
 * packageFor = Reference(mp-75a6f374ecfe6f4521b39ccaf45991db)
 // Reference to Organization: MAH
@@ -23314,7 +23953,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//850614 -> True
 // for: SOBYCOMBITablett5mg
 * packageFor = Reference(mp-75a6f374ecfe6f4521b39ccaf45991db)
 // Reference to Organization: MAH
@@ -23350,7 +23990,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//850614 -> True
 // for: SOBYCOMBITablett5mg
 * packageFor = Reference(mp-75a6f374ecfe6f4521b39ccaf45991db)
 // Reference to Organization: MAH
@@ -23386,7 +24027,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//850614 -> True
 // for: SOBYCOMBITablett5mg
 * packageFor = Reference(mp-75a6f374ecfe6f4521b39ccaf45991db)
 // Reference to Organization: MAH
@@ -23422,7 +24064,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//850614 -> True
 // for: SOBYCOMBITablett5mg
 * packageFor = Reference(mp-75a6f374ecfe6f4521b39ccaf45991db)
 // Reference to Organization: MAH
@@ -23458,7 +24101,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//850614 -> True
 // for: SOBYCOMBITablett5mg
 * packageFor = Reference(mp-75a6f374ecfe6f4521b39ccaf45991db)
 // Reference to Organization: MAH
@@ -23494,7 +24138,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//850514 -> True
 // for: SOBYCOMBITablett10mg
 * packageFor = Reference(mp-7111a5f4581c96aeb3d849b6c329cd37)
 // Reference to Organization: MAH
@@ -23530,7 +24175,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//850514 -> True
 // for: SOBYCOMBITablett10mg
 * packageFor = Reference(mp-7111a5f4581c96aeb3d849b6c329cd37)
 // Reference to Organization: MAH
@@ -23566,7 +24212,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//850514 -> True
 // for: SOBYCOMBITablett10mg
 * packageFor = Reference(mp-7111a5f4581c96aeb3d849b6c329cd37)
 // Reference to Organization: MAH
@@ -23602,7 +24249,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//850514 -> True
 // for: SOBYCOMBITablett10mg
 * packageFor = Reference(mp-7111a5f4581c96aeb3d849b6c329cd37)
 // Reference to Organization: MAH
@@ -23638,7 +24286,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//850514 -> True
 // for: SOBYCOMBITablett10mg
 * packageFor = Reference(mp-7111a5f4581c96aeb3d849b6c329cd37)
 // Reference to Organization: MAH
@@ -23674,7 +24323,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//850514 -> True
 // for: SOBYCOMBITablett10mg
 * packageFor = Reference(mp-7111a5f4581c96aeb3d849b6c329cd37)
 // Reference to Organization: MAH
@@ -23710,7 +24360,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//850414 -> True
 // for: SOBYCOMBITablett5mg, 10mg
 * packageFor = Reference(mp-2e0f5028b41c38f94c1f052e63a6cc35)
 // Reference to Organization: MAH
@@ -23746,7 +24397,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//850414 -> True
 // for: SOBYCOMBITablett5mg, 10mg
 * packageFor = Reference(mp-2e0f5028b41c38f94c1f052e63a6cc35)
 // Reference to Organization: MAH
@@ -23782,7 +24434,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//850414 -> True
 // for: SOBYCOMBITablett5mg, 10mg
 * packageFor = Reference(mp-2e0f5028b41c38f94c1f052e63a6cc35)
 // Reference to Organization: MAH
@@ -23818,7 +24471,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//850414 -> True
 // for: SOBYCOMBITablett5mg, 10mg
 * packageFor = Reference(mp-2e0f5028b41c38f94c1f052e63a6cc35)
 // Reference to Organization: MAH
@@ -23854,7 +24508,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//850414 -> True
 // for: SOBYCOMBITablett5mg, 10mg
 * packageFor = Reference(mp-2e0f5028b41c38f94c1f052e63a6cc35)
 // Reference to Organization: MAH
@@ -23890,7 +24545,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//850414 -> True
 // for: SOBYCOMBITablett5mg, 10mg
 * packageFor = Reference(mp-2e0f5028b41c38f94c1f052e63a6cc35)
 // Reference to Organization: MAH
@@ -23927,7 +24583,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//847914 -> True
 // for: ZENICAMOTablett16mg, 10mg
 * packageFor = Reference(mp-da7b63d04b10c63e7a151cb2ba5ff19e)
 // Reference to Organization: MAH
@@ -23964,7 +24621,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//847914 -> True
 // for: ZENICAMOTablett16mg, 10mg
 * packageFor = Reference(mp-da7b63d04b10c63e7a151cb2ba5ff19e)
 // Reference to Organization: MAH
@@ -24001,7 +24659,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//847914 -> True
 // for: ZENICAMOTablett16mg, 10mg
 * packageFor = Reference(mp-da7b63d04b10c63e7a151cb2ba5ff19e)
 // Reference to Organization: MAH
@@ -24038,7 +24697,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//847914 -> True
 // for: ZENICAMOTablett16mg, 10mg
 * packageFor = Reference(mp-da7b63d04b10c63e7a151cb2ba5ff19e)
 // Reference to Organization: MAH
@@ -24075,7 +24735,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//847914 -> True
 // for: ZENICAMOTablett16mg, 10mg
 * packageFor = Reference(mp-da7b63d04b10c63e7a151cb2ba5ff19e)
 // Reference to Organization: MAH
@@ -24112,7 +24773,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//847914 -> True
 // for: ZENICAMOTablett16mg, 10mg
 * packageFor = Reference(mp-da7b63d04b10c63e7a151cb2ba5ff19e)
 // Reference to Organization: MAH
@@ -24149,7 +24811,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//847914 -> True
 // for: ZENICAMOTablett16mg, 10mg
 * packageFor = Reference(mp-da7b63d04b10c63e7a151cb2ba5ff19e)
 // Reference to Organization: MAH
@@ -24185,7 +24848,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//845714 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 // Reference to Organization: MAH
@@ -24221,7 +24885,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//845714 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 // Reference to Organization: MAH
@@ -24257,7 +24922,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//845714 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 // Reference to Organization: MAH
@@ -24293,7 +24959,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//845714 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 // Reference to Organization: MAH
@@ -24329,7 +24996,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//845714 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 // Reference to Organization: MAH
@@ -24365,7 +25033,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//845714 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 // Reference to Organization: MAH
@@ -24401,7 +25070,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//845714 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 // Reference to Organization: MAH
@@ -24437,7 +25107,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//845714 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 // Reference to Organization: MAH
@@ -24473,7 +25144,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//845714 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 // Reference to Organization: MAH
@@ -24509,7 +25181,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//845714 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg, 5mg
 * packageFor = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 // Reference to Organization: MAH
@@ -24543,7 +25216,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838814 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-dbdeb2055d677f893444bdcb86676431)
 // Reference to Organization: MAH
@@ -24577,7 +25251,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838814 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-dbdeb2055d677f893444bdcb86676431)
 // Reference to Organization: MAH
@@ -24611,7 +25286,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838814 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-dbdeb2055d677f893444bdcb86676431)
 // Reference to Organization: MAH
@@ -24645,7 +25321,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838814 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-dbdeb2055d677f893444bdcb86676431)
 // Reference to Organization: MAH
@@ -24679,7 +25356,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838814 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-dbdeb2055d677f893444bdcb86676431)
 // Reference to Organization: MAH
@@ -24713,7 +25391,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838814 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-dbdeb2055d677f893444bdcb86676431)
 // Reference to Organization: MAH
@@ -24747,7 +25426,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 120
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838814 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-dbdeb2055d677f893444bdcb86676431)
 // Reference to Organization: MAH
@@ -24781,7 +25461,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838714 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg, 5mg
 * packageFor = Reference(mp-7b964a36fdf01a567a11fe1f16af2509)
 // Reference to Organization: MAH
@@ -24815,7 +25496,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 120
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838714 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg, 5mg
 * packageFor = Reference(mp-7b964a36fdf01a567a11fe1f16af2509)
 // Reference to Organization: MAH
@@ -24849,7 +25531,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838714 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg, 5mg
 * packageFor = Reference(mp-7b964a36fdf01a567a11fe1f16af2509)
 // Reference to Organization: MAH
@@ -24883,7 +25566,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838714 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg, 5mg
 * packageFor = Reference(mp-7b964a36fdf01a567a11fe1f16af2509)
 // Reference to Organization: MAH
@@ -24917,7 +25601,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838714 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg, 5mg
 * packageFor = Reference(mp-7b964a36fdf01a567a11fe1f16af2509)
 // Reference to Organization: MAH
@@ -24951,7 +25636,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838714 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg, 5mg
 * packageFor = Reference(mp-7b964a36fdf01a567a11fe1f16af2509)
 // Reference to Organization: MAH
@@ -24985,7 +25671,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 120
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838614 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg, 10mg
 * packageFor = Reference(mp-c586f4681771f89753c2507e0b94c560)
 // Reference to Organization: MAH
@@ -25019,7 +25706,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838614 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg, 10mg
 * packageFor = Reference(mp-c586f4681771f89753c2507e0b94c560)
 // Reference to Organization: MAH
@@ -25053,7 +25741,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//838614 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg, 10mg
 * packageFor = Reference(mp-c586f4681771f89753c2507e0b94c560)
 // Reference to Organization: MAH
@@ -25087,7 +25776,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//838614 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg, 10mg
 * packageFor = Reference(mp-c586f4681771f89753c2507e0b94c560)
 // Reference to Organization: MAH
@@ -25121,7 +25811,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//838614 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg, 10mg
 * packageFor = Reference(mp-c586f4681771f89753c2507e0b94c560)
 // Reference to Organization: MAH
@@ -25155,7 +25846,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//838614 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett5mg, 10mg
 * packageFor = Reference(mp-c586f4681771f89753c2507e0b94c560)
 // Reference to Organization: MAH
@@ -25189,7 +25881,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838414 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-a2573215e0763e21fc8a639392996590)
 // Reference to Organization: MAH
@@ -25223,7 +25916,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 120
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838414 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-a2573215e0763e21fc8a639392996590)
 // Reference to Organization: MAH
@@ -25257,7 +25951,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838414 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-a2573215e0763e21fc8a639392996590)
 // Reference to Organization: MAH
@@ -25291,7 +25986,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838414 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-a2573215e0763e21fc8a639392996590)
 // Reference to Organization: MAH
@@ -25325,7 +26021,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838414 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-a2573215e0763e21fc8a639392996590)
 // Reference to Organization: MAH
@@ -25359,7 +26056,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//838414 -> True
 // for: PERINDOPRIL/AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-a2573215e0763e21fc8a639392996590)
 // Reference to Organization: MAH
@@ -25395,7 +26093,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837914 -> True
 // for: TENLORISÕhukese polümeerikattega tablett10mg, 50mg
 * packageFor = Reference(mp-04f54f0b120da0e4d613148114948db6)
 // Reference to Organization: MAH
@@ -25431,7 +26130,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837914 -> True
 // for: TENLORISÕhukese polümeerikattega tablett10mg, 50mg
 * packageFor = Reference(mp-04f54f0b120da0e4d613148114948db6)
 // Reference to Organization: MAH
@@ -25467,7 +26167,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837914 -> True
 // for: TENLORISÕhukese polümeerikattega tablett10mg, 50mg
 * packageFor = Reference(mp-04f54f0b120da0e4d613148114948db6)
 // Reference to Organization: MAH
@@ -25503,7 +26204,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837914 -> True
 // for: TENLORISÕhukese polümeerikattega tablett10mg, 50mg
 * packageFor = Reference(mp-04f54f0b120da0e4d613148114948db6)
 // Reference to Organization: MAH
@@ -25539,7 +26241,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//837914 -> True
 // for: TENLORISÕhukese polümeerikattega tablett10mg, 50mg
 * packageFor = Reference(mp-04f54f0b120da0e4d613148114948db6)
 // Reference to Organization: MAH
@@ -25575,7 +26278,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837914 -> True
 // for: TENLORISÕhukese polümeerikattega tablett10mg, 50mg
 * packageFor = Reference(mp-04f54f0b120da0e4d613148114948db6)
 // Reference to Organization: MAH
@@ -25611,7 +26315,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//837914 -> True
 // for: TENLORISÕhukese polümeerikattega tablett10mg, 50mg
 * packageFor = Reference(mp-04f54f0b120da0e4d613148114948db6)
 // Reference to Organization: MAH
@@ -25647,7 +26352,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//837814 -> True
 // for: TENLORISÕhukese polümeerikattega tablett50mg, 5mg
 * packageFor = Reference(mp-83c1d9197877904c6c9c2b1ef8d53238)
 // Reference to Organization: MAH
@@ -25683,7 +26389,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//837814 -> True
 // for: TENLORISÕhukese polümeerikattega tablett50mg, 5mg
 * packageFor = Reference(mp-83c1d9197877904c6c9c2b1ef8d53238)
 // Reference to Organization: MAH
@@ -25719,7 +26426,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837814 -> True
 // for: TENLORISÕhukese polümeerikattega tablett50mg, 5mg
 * packageFor = Reference(mp-83c1d9197877904c6c9c2b1ef8d53238)
 // Reference to Organization: MAH
@@ -25755,7 +26463,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//837814 -> True
 // for: TENLORISÕhukese polümeerikattega tablett50mg, 5mg
 * packageFor = Reference(mp-83c1d9197877904c6c9c2b1ef8d53238)
 // Reference to Organization: MAH
@@ -25791,7 +26500,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//837814 -> True
 // for: TENLORISÕhukese polümeerikattega tablett50mg, 5mg
 * packageFor = Reference(mp-83c1d9197877904c6c9c2b1ef8d53238)
 // Reference to Organization: MAH
@@ -25827,7 +26537,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//837814 -> True
 // for: TENLORISÕhukese polümeerikattega tablett50mg, 5mg
 * packageFor = Reference(mp-83c1d9197877904c6c9c2b1ef8d53238)
 // Reference to Organization: MAH
@@ -25863,7 +26574,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837814 -> True
 // for: TENLORISÕhukese polümeerikattega tablett50mg, 5mg
 * packageFor = Reference(mp-83c1d9197877904c6c9c2b1ef8d53238)
 // Reference to Organization: MAH
@@ -25899,7 +26611,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837714 -> True
 // for: TENLORISÕhukese polümeerikattega tablett100mg, 10mg
 * packageFor = Reference(mp-df6f54d028aaf1b44d6e3c437436fe59)
 // Reference to Organization: MAH
@@ -25935,7 +26648,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837714 -> True
 // for: TENLORISÕhukese polümeerikattega tablett100mg, 10mg
 * packageFor = Reference(mp-df6f54d028aaf1b44d6e3c437436fe59)
 // Reference to Organization: MAH
@@ -25971,7 +26685,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837714 -> True
 // for: TENLORISÕhukese polümeerikattega tablett100mg, 10mg
 * packageFor = Reference(mp-df6f54d028aaf1b44d6e3c437436fe59)
 // Reference to Organization: MAH
@@ -26007,7 +26722,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837714 -> True
 // for: TENLORISÕhukese polümeerikattega tablett100mg, 10mg
 * packageFor = Reference(mp-df6f54d028aaf1b44d6e3c437436fe59)
 // Reference to Organization: MAH
@@ -26043,7 +26759,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837714 -> True
 // for: TENLORISÕhukese polümeerikattega tablett100mg, 10mg
 * packageFor = Reference(mp-df6f54d028aaf1b44d6e3c437436fe59)
 // Reference to Organization: MAH
@@ -26079,7 +26796,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//837714 -> True
 // for: TENLORISÕhukese polümeerikattega tablett100mg, 10mg
 * packageFor = Reference(mp-df6f54d028aaf1b44d6e3c437436fe59)
 // Reference to Organization: MAH
@@ -26115,7 +26833,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//837714 -> True
 // for: TENLORISÕhukese polümeerikattega tablett100mg, 10mg
 * packageFor = Reference(mp-df6f54d028aaf1b44d6e3c437436fe59)
 // Reference to Organization: MAH
@@ -26151,7 +26870,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837614 -> True
 // for: TENLORISÕhukese polümeerikattega tablett5mg, 100mg
 * packageFor = Reference(mp-1d67506966cb02a8f8b5eb63e9d7c12f)
 // Reference to Organization: MAH
@@ -26187,7 +26907,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//837614 -> True
 // for: TENLORISÕhukese polümeerikattega tablett5mg, 100mg
 * packageFor = Reference(mp-1d67506966cb02a8f8b5eb63e9d7c12f)
 // Reference to Organization: MAH
@@ -26223,7 +26944,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//837614 -> True
 // for: TENLORISÕhukese polümeerikattega tablett5mg, 100mg
 * packageFor = Reference(mp-1d67506966cb02a8f8b5eb63e9d7c12f)
 // Reference to Organization: MAH
@@ -26259,7 +26981,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//837614 -> True
 // for: TENLORISÕhukese polümeerikattega tablett5mg, 100mg
 * packageFor = Reference(mp-1d67506966cb02a8f8b5eb63e9d7c12f)
 // Reference to Organization: MAH
@@ -26295,7 +27018,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//837614 -> True
 // for: TENLORISÕhukese polümeerikattega tablett5mg, 100mg
 * packageFor = Reference(mp-1d67506966cb02a8f8b5eb63e9d7c12f)
 // Reference to Organization: MAH
@@ -26331,7 +27055,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//837614 -> True
 // for: TENLORISÕhukese polümeerikattega tablett5mg, 100mg
 * packageFor = Reference(mp-1d67506966cb02a8f8b5eb63e9d7c12f)
 // Reference to Organization: MAH
@@ -26367,7 +27092,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//837614 -> True
 // for: TENLORISÕhukese polümeerikattega tablett5mg, 100mg
 * packageFor = Reference(mp-1d67506966cb02a8f8b5eb63e9d7c12f)
 // Reference to Organization: MAH
@@ -26401,7 +27127,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835714 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg
 * packageFor = Reference(mp-6a6e65652a6b7721f4a5f2be70b08b35)
 // Reference to Organization: MAH
@@ -26435,7 +27162,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835714 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg
 * packageFor = Reference(mp-6a6e65652a6b7721f4a5f2be70b08b35)
 // Reference to Organization: MAH
@@ -26469,7 +27197,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835714 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg
 * packageFor = Reference(mp-6a6e65652a6b7721f4a5f2be70b08b35)
 // Reference to Organization: MAH
@@ -26503,7 +27232,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835714 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg
 * packageFor = Reference(mp-6a6e65652a6b7721f4a5f2be70b08b35)
 // Reference to Organization: MAH
@@ -26537,7 +27267,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835714 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg
 * packageFor = Reference(mp-6a6e65652a6b7721f4a5f2be70b08b35)
 // Reference to Organization: MAH
@@ -26571,7 +27302,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835714 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg
 * packageFor = Reference(mp-6a6e65652a6b7721f4a5f2be70b08b35)
 // Reference to Organization: MAH
@@ -26605,7 +27337,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835714 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg
 * packageFor = Reference(mp-6a6e65652a6b7721f4a5f2be70b08b35)
 // Reference to Organization: MAH
@@ -26639,7 +27372,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835714 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg
 * packageFor = Reference(mp-6a6e65652a6b7721f4a5f2be70b08b35)
 // Reference to Organization: MAH
@@ -26673,7 +27407,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835314 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg
 * packageFor = Reference(mp-24891bfe3df12ce0ca603528df3819ec)
 // Reference to Organization: MAH
@@ -26707,7 +27442,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835314 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg
 * packageFor = Reference(mp-24891bfe3df12ce0ca603528df3819ec)
 // Reference to Organization: MAH
@@ -26741,7 +27477,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835314 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg
 * packageFor = Reference(mp-24891bfe3df12ce0ca603528df3819ec)
 // Reference to Organization: MAH
@@ -26775,7 +27512,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835314 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg
 * packageFor = Reference(mp-24891bfe3df12ce0ca603528df3819ec)
 // Reference to Organization: MAH
@@ -26809,7 +27547,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835314 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg
 * packageFor = Reference(mp-24891bfe3df12ce0ca603528df3819ec)
 // Reference to Organization: MAH
@@ -26843,7 +27582,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835314 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg
 * packageFor = Reference(mp-24891bfe3df12ce0ca603528df3819ec)
 // Reference to Organization: MAH
@@ -26877,7 +27617,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835314 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg
 * packageFor = Reference(mp-24891bfe3df12ce0ca603528df3819ec)
 // Reference to Organization: MAH
@@ -26911,7 +27652,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835314 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg
 * packageFor = Reference(mp-24891bfe3df12ce0ca603528df3819ec)
 // Reference to Organization: MAH
@@ -26945,7 +27687,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835014 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg
 * packageFor = Reference(mp-b437fbb92af66ac8602316a292b734a3)
 // Reference to Organization: MAH
@@ -26979,7 +27722,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835014 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg
 * packageFor = Reference(mp-b437fbb92af66ac8602316a292b734a3)
 // Reference to Organization: MAH
@@ -27013,7 +27757,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835014 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg
 * packageFor = Reference(mp-b437fbb92af66ac8602316a292b734a3)
 // Reference to Organization: MAH
@@ -27047,7 +27792,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835014 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg
 * packageFor = Reference(mp-b437fbb92af66ac8602316a292b734a3)
 // Reference to Organization: MAH
@@ -27081,7 +27827,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835014 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg
 * packageFor = Reference(mp-b437fbb92af66ac8602316a292b734a3)
 // Reference to Organization: MAH
@@ -27115,7 +27862,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835014 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg
 * packageFor = Reference(mp-b437fbb92af66ac8602316a292b734a3)
 // Reference to Organization: MAH
@@ -27149,7 +27897,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835014 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg
 * packageFor = Reference(mp-b437fbb92af66ac8602316a292b734a3)
 // Reference to Organization: MAH
@@ -27183,7 +27932,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//835014 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg
 * packageFor = Reference(mp-b437fbb92af66ac8602316a292b734a3)
 // Reference to Organization: MAH
@@ -27217,7 +27967,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//834914 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
 * packageFor = Reference(mp-87eace728cb772bd744d4c9bd663f8e7)
 // Reference to Organization: MAH
@@ -27251,7 +28002,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//834914 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
 * packageFor = Reference(mp-87eace728cb772bd744d4c9bd663f8e7)
 // Reference to Organization: MAH
@@ -27285,7 +28037,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//834914 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
 * packageFor = Reference(mp-87eace728cb772bd744d4c9bd663f8e7)
 // Reference to Organization: MAH
@@ -27319,7 +28072,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//834914 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
 * packageFor = Reference(mp-87eace728cb772bd744d4c9bd663f8e7)
 // Reference to Organization: MAH
@@ -27353,7 +28107,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//834914 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
 * packageFor = Reference(mp-87eace728cb772bd744d4c9bd663f8e7)
 // Reference to Organization: MAH
@@ -27387,7 +28142,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//834914 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
 * packageFor = Reference(mp-87eace728cb772bd744d4c9bd663f8e7)
 // Reference to Organization: MAH
@@ -27421,7 +28177,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//834914 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
 * packageFor = Reference(mp-87eace728cb772bd744d4c9bd663f8e7)
 // Reference to Organization: MAH
@@ -27455,7 +28212,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//834914 -> True
 // for: TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
 * packageFor = Reference(mp-87eace728cb772bd744d4c9bd663f8e7)
 // Reference to Organization: MAH
@@ -27491,7 +28249,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833313 -> True
 // for: CO-DALNESSATablett5mg, 8mg, 2.5mg
 * packageFor = Reference(mp-0522fe195a75b4ffa60e98e2b065d29f)
 // Reference to Organization: MAH
@@ -27527,7 +28286,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//833313 -> True
 // for: CO-DALNESSATablett5mg, 8mg, 2.5mg
 * packageFor = Reference(mp-0522fe195a75b4ffa60e98e2b065d29f)
 // Reference to Organization: MAH
@@ -27563,7 +28323,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833313 -> True
 // for: CO-DALNESSATablett5mg, 8mg, 2.5mg
 * packageFor = Reference(mp-0522fe195a75b4ffa60e98e2b065d29f)
 // Reference to Organization: MAH
@@ -27599,7 +28360,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//833313 -> True
 // for: CO-DALNESSATablett5mg, 8mg, 2.5mg
 * packageFor = Reference(mp-0522fe195a75b4ffa60e98e2b065d29f)
 // Reference to Organization: MAH
@@ -27635,7 +28397,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833313 -> True
 // for: CO-DALNESSATablett5mg, 8mg, 2.5mg
 * packageFor = Reference(mp-0522fe195a75b4ffa60e98e2b065d29f)
 // Reference to Organization: MAH
@@ -27671,7 +28434,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//833313 -> True
 // for: CO-DALNESSATablett5mg, 8mg, 2.5mg
 * packageFor = Reference(mp-0522fe195a75b4ffa60e98e2b065d29f)
 // Reference to Organization: MAH
@@ -27707,7 +28471,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833313 -> True
 // for: CO-DALNESSATablett5mg, 8mg, 2.5mg
 * packageFor = Reference(mp-0522fe195a75b4ffa60e98e2b065d29f)
 // Reference to Organization: MAH
@@ -27743,7 +28508,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//833313 -> True
 // for: CO-DALNESSATablett5mg, 8mg, 2.5mg
 * packageFor = Reference(mp-0522fe195a75b4ffa60e98e2b065d29f)
 // Reference to Organization: MAH
@@ -27779,7 +28545,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833313 -> True
 // for: CO-DALNESSATablett5mg, 8mg, 2.5mg
 * packageFor = Reference(mp-0522fe195a75b4ffa60e98e2b065d29f)
 // Reference to Organization: MAH
@@ -27815,7 +28582,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833213 -> True
 // for: CO-DALNESSATablett8mg, 2.5mg, 10mg
 * packageFor = Reference(mp-2df1fd096ea2119e34f58eeaf76f3361)
 // Reference to Organization: MAH
@@ -27851,7 +28619,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833213 -> True
 // for: CO-DALNESSATablett8mg, 2.5mg, 10mg
 * packageFor = Reference(mp-2df1fd096ea2119e34f58eeaf76f3361)
 // Reference to Organization: MAH
@@ -27887,7 +28656,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833213 -> True
 // for: CO-DALNESSATablett8mg, 2.5mg, 10mg
 * packageFor = Reference(mp-2df1fd096ea2119e34f58eeaf76f3361)
 // Reference to Organization: MAH
@@ -27923,7 +28693,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833213 -> True
 // for: CO-DALNESSATablett8mg, 2.5mg, 10mg
 * packageFor = Reference(mp-2df1fd096ea2119e34f58eeaf76f3361)
 // Reference to Organization: MAH
@@ -27959,7 +28730,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833213 -> True
 // for: CO-DALNESSATablett8mg, 2.5mg, 10mg
 * packageFor = Reference(mp-2df1fd096ea2119e34f58eeaf76f3361)
 // Reference to Organization: MAH
@@ -27995,7 +28767,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833213 -> True
 // for: CO-DALNESSATablett8mg, 2.5mg, 10mg
 * packageFor = Reference(mp-2df1fd096ea2119e34f58eeaf76f3361)
 // Reference to Organization: MAH
@@ -28031,7 +28804,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833213 -> True
 // for: CO-DALNESSATablett8mg, 2.5mg, 10mg
 * packageFor = Reference(mp-2df1fd096ea2119e34f58eeaf76f3361)
 // Reference to Organization: MAH
@@ -28067,7 +28841,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//833213 -> True
 // for: CO-DALNESSATablett8mg, 2.5mg, 10mg
 * packageFor = Reference(mp-2df1fd096ea2119e34f58eeaf76f3361)
 // Reference to Organization: MAH
@@ -28103,7 +28878,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833213 -> True
 // for: CO-DALNESSATablett8mg, 2.5mg, 10mg
 * packageFor = Reference(mp-2df1fd096ea2119e34f58eeaf76f3361)
 // Reference to Organization: MAH
@@ -28139,7 +28915,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833113 -> True
 // for: CO-DALNESSATablett1.25mg, 5mg, 4mg
 * packageFor = Reference(mp-1141aae8513eb520117974def513abbe)
 // Reference to Organization: MAH
@@ -28175,7 +28952,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833113 -> True
 // for: CO-DALNESSATablett1.25mg, 5mg, 4mg
 * packageFor = Reference(mp-1141aae8513eb520117974def513abbe)
 // Reference to Organization: MAH
@@ -28211,7 +28989,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833113 -> True
 // for: CO-DALNESSATablett1.25mg, 5mg, 4mg
 * packageFor = Reference(mp-1141aae8513eb520117974def513abbe)
 // Reference to Organization: MAH
@@ -28247,7 +29026,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//833113 -> True
 // for: CO-DALNESSATablett1.25mg, 5mg, 4mg
 * packageFor = Reference(mp-1141aae8513eb520117974def513abbe)
 // Reference to Organization: MAH
@@ -28283,7 +29063,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833113 -> True
 // for: CO-DALNESSATablett1.25mg, 5mg, 4mg
 * packageFor = Reference(mp-1141aae8513eb520117974def513abbe)
 // Reference to Organization: MAH
@@ -28319,7 +29100,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833113 -> True
 // for: CO-DALNESSATablett1.25mg, 5mg, 4mg
 * packageFor = Reference(mp-1141aae8513eb520117974def513abbe)
 // Reference to Organization: MAH
@@ -28355,7 +29137,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833113 -> True
 // for: CO-DALNESSATablett1.25mg, 5mg, 4mg
 * packageFor = Reference(mp-1141aae8513eb520117974def513abbe)
 // Reference to Organization: MAH
@@ -28391,7 +29174,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//833113 -> True
 // for: CO-DALNESSATablett1.25mg, 5mg, 4mg
 * packageFor = Reference(mp-1141aae8513eb520117974def513abbe)
 // Reference to Organization: MAH
@@ -28427,7 +29211,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833113 -> True
 // for: CO-DALNESSATablett1.25mg, 5mg, 4mg
 * packageFor = Reference(mp-1141aae8513eb520117974def513abbe)
 // Reference to Organization: MAH
@@ -28463,7 +29248,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833013 -> True
 // for: CO-DALNESSATablett0.625mg, 5mg, 2mg
 * packageFor = Reference(mp-da9bd57613b8c0bd0c6e0174c4b7323f)
 // Reference to Organization: MAH
@@ -28499,7 +29285,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833013 -> True
 // for: CO-DALNESSATablett0.625mg, 5mg, 2mg
 * packageFor = Reference(mp-da9bd57613b8c0bd0c6e0174c4b7323f)
 // Reference to Organization: MAH
@@ -28535,7 +29322,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833013 -> True
 // for: CO-DALNESSATablett0.625mg, 5mg, 2mg
 * packageFor = Reference(mp-da9bd57613b8c0bd0c6e0174c4b7323f)
 // Reference to Organization: MAH
@@ -28571,7 +29359,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833013 -> True
 // for: CO-DALNESSATablett0.625mg, 5mg, 2mg
 * packageFor = Reference(mp-da9bd57613b8c0bd0c6e0174c4b7323f)
 // Reference to Organization: MAH
@@ -28607,7 +29396,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//833013 -> True
 // for: CO-DALNESSATablett0.625mg, 5mg, 2mg
 * packageFor = Reference(mp-da9bd57613b8c0bd0c6e0174c4b7323f)
 // Reference to Organization: MAH
@@ -28643,7 +29433,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833013 -> True
 // for: CO-DALNESSATablett0.625mg, 5mg, 2mg
 * packageFor = Reference(mp-da9bd57613b8c0bd0c6e0174c4b7323f)
 // Reference to Organization: MAH
@@ -28679,7 +29470,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833013 -> True
 // for: CO-DALNESSATablett0.625mg, 5mg, 2mg
 * packageFor = Reference(mp-da9bd57613b8c0bd0c6e0174c4b7323f)
 // Reference to Organization: MAH
@@ -28715,7 +29507,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//833013 -> True
 // for: CO-DALNESSATablett0.625mg, 5mg, 2mg
 * packageFor = Reference(mp-da9bd57613b8c0bd0c6e0174c4b7323f)
 // Reference to Organization: MAH
@@ -28751,7 +29544,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//833013 -> True
 // for: CO-DALNESSATablett0.625mg, 5mg, 2mg
 * packageFor = Reference(mp-da9bd57613b8c0bd0c6e0174c4b7323f)
 // Reference to Organization: MAH
@@ -28787,7 +29581,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//832813 -> True
 // for: CO-DALNESSATablett4mg, 1.25mg, 10mg
 * packageFor = Reference(mp-3ce5ba0615d73ef5c32173a29faaa66a)
 // Reference to Organization: MAH
@@ -28823,7 +29618,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//832813 -> True
 // for: CO-DALNESSATablett4mg, 1.25mg, 10mg
 * packageFor = Reference(mp-3ce5ba0615d73ef5c32173a29faaa66a)
 // Reference to Organization: MAH
@@ -28859,7 +29655,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//832813 -> True
 // for: CO-DALNESSATablett4mg, 1.25mg, 10mg
 * packageFor = Reference(mp-3ce5ba0615d73ef5c32173a29faaa66a)
 // Reference to Organization: MAH
@@ -28895,7 +29692,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//832813 -> True
 // for: CO-DALNESSATablett4mg, 1.25mg, 10mg
 * packageFor = Reference(mp-3ce5ba0615d73ef5c32173a29faaa66a)
 // Reference to Organization: MAH
@@ -28931,7 +29729,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//832813 -> True
 // for: CO-DALNESSATablett4mg, 1.25mg, 10mg
 * packageFor = Reference(mp-3ce5ba0615d73ef5c32173a29faaa66a)
 // Reference to Organization: MAH
@@ -28967,7 +29766,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//832813 -> True
 // for: CO-DALNESSATablett4mg, 1.25mg, 10mg
 * packageFor = Reference(mp-3ce5ba0615d73ef5c32173a29faaa66a)
 // Reference to Organization: MAH
@@ -29003,7 +29803,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//832813 -> True
 // for: CO-DALNESSATablett4mg, 1.25mg, 10mg
 * packageFor = Reference(mp-3ce5ba0615d73ef5c32173a29faaa66a)
 // Reference to Organization: MAH
@@ -29039,7 +29840,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//832813 -> True
 // for: CO-DALNESSATablett4mg, 1.25mg, 10mg
 * packageFor = Reference(mp-3ce5ba0615d73ef5c32173a29faaa66a)
 // Reference to Organization: MAH
@@ -29075,7 +29877,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//832813 -> True
 // for: CO-DALNESSATablett4mg, 1.25mg, 10mg
 * packageFor = Reference(mp-3ce5ba0615d73ef5c32173a29faaa66a)
 // Reference to Organization: MAH
@@ -29109,7 +29912,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a7d9b11d7516e2c592b590e952fc976a)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//825313 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-a7d9b11d7516e2c592b590e952fc976a)
 // Reference to Organization: MAH
@@ -29144,7 +29948,8 @@ Usage: #example
     * containedItem.amount.value = 15
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//825313 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-a7d9b11d7516e2c592b590e952fc976a)
 // Reference to Organization: MAH
@@ -29179,7 +29984,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//825313 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-a7d9b11d7516e2c592b590e952fc976a)
 // Reference to Organization: MAH
@@ -29214,7 +30020,8 @@ Usage: #example
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//825313 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-a7d9b11d7516e2c592b590e952fc976a)
 // Reference to Organization: MAH
@@ -29249,7 +30056,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//825313 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-a7d9b11d7516e2c592b590e952fc976a)
 // Reference to Organization: MAH
@@ -29283,7 +30091,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a7d9b11d7516e2c592b590e952fc976a)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//825313 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-a7d9b11d7516e2c592b590e952fc976a)
 // Reference to Organization: MAH
@@ -29318,7 +30127,8 @@ Usage: #example
     * containedItem.amount.value = 15
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//825213 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-f561bcd9597099da88e683385eb84d34)
 // Reference to Organization: MAH
@@ -29353,7 +30163,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//825213 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-f561bcd9597099da88e683385eb84d34)
 // Reference to Organization: MAH
@@ -29388,7 +30199,8 @@ Usage: #example
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//825213 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-f561bcd9597099da88e683385eb84d34)
 // Reference to Organization: MAH
@@ -29422,7 +30234,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-f561bcd9597099da88e683385eb84d34)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//825213 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-f561bcd9597099da88e683385eb84d34)
 // Reference to Organization: MAH
@@ -29456,7 +30269,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-f561bcd9597099da88e683385eb84d34)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//825213 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-f561bcd9597099da88e683385eb84d34)
 // Reference to Organization: MAH
@@ -29491,7 +30305,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//825213 -> True
 // for: NATRIXAMToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-f561bcd9597099da88e683385eb84d34)
 // Reference to Organization: MAH
@@ -29526,7 +30341,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//824513 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-974541f2156d6f33e2a803fa33453176)
 // Reference to Organization: MAH
@@ -29560,7 +30376,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-974541f2156d6f33e2a803fa33453176)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//824513 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-974541f2156d6f33e2a803fa33453176)
 // Reference to Organization: MAH
@@ -29594,7 +30411,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-974541f2156d6f33e2a803fa33453176)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//824513 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-974541f2156d6f33e2a803fa33453176)
 // Reference to Organization: MAH
@@ -29629,7 +30447,8 @@ Usage: #example
     * containedItem.amount.value = 15
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//824513 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-974541f2156d6f33e2a803fa33453176)
 // Reference to Organization: MAH
@@ -29664,7 +30483,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//824513 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-974541f2156d6f33e2a803fa33453176)
 // Reference to Organization: MAH
@@ -29699,7 +30519,8 @@ Usage: #example
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//824513 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett5mg, 1.5mg
 * packageFor = Reference(mp-974541f2156d6f33e2a803fa33453176)
 // Reference to Organization: MAH
@@ -29733,7 +30554,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b0492c36fe06c5c43abac09862a8849a)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//824413 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-b0492c36fe06c5c43abac09862a8849a)
 // Reference to Organization: MAH
@@ -29768,7 +30590,8 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//824413 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-b0492c36fe06c5c43abac09862a8849a)
 // Reference to Organization: MAH
@@ -29803,7 +30626,8 @@ Usage: #example
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//824413 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-b0492c36fe06c5c43abac09862a8849a)
 // Reference to Organization: MAH
@@ -29837,7 +30661,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b0492c36fe06c5c43abac09862a8849a)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//824413 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-b0492c36fe06c5c43abac09862a8849a)
 // Reference to Organization: MAH
@@ -29872,7 +30697,8 @@ Usage: #example
     * containedItem.amount.value = 15
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//824413 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-b0492c36fe06c5c43abac09862a8849a)
 // Reference to Organization: MAH
@@ -29907,7 +30733,8 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//824413 -> True
 // for: FLUTENSIFToimeainet modifitseeritult vabastav tablett10mg, 1.5mg
 * packageFor = Reference(mp-b0492c36fe06c5c43abac09862a8849a)
 // Reference to Organization: MAH
@@ -29943,7 +30770,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//811513 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg
 * packageFor = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 // Reference to Organization: MAH
@@ -29979,7 +30807,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//811513 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg
 * packageFor = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 // Reference to Organization: MAH
@@ -30015,7 +30844,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//811513 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg
 * packageFor = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 // Reference to Organization: MAH
@@ -30051,7 +30881,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//811513 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg
 * packageFor = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 // Reference to Organization: MAH
@@ -30087,7 +30918,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//811513 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg
 * packageFor = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 // Reference to Organization: MAH
@@ -30123,7 +30955,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//811513 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg
 * packageFor = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 // Reference to Organization: MAH
@@ -30159,7 +30992,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//811513 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg
 * packageFor = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 // Reference to Organization: MAH
@@ -30195,7 +31029,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//811513 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg
 * packageFor = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 // Reference to Organization: MAH
@@ -30231,7 +31066,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//811513 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg
 * packageFor = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 // Reference to Organization: MAH
@@ -30267,7 +31103,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//811513 -> True
 // for: AMALORISÕhukese polümeerikattega tablett10mg
 * packageFor = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 // Reference to Organization: MAH
@@ -30303,7 +31140,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//808213 -> True
 // for: ALNETATablett10mg
 * packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
@@ -30339,7 +31177,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//808213 -> True
 // for: ALNETATablett10mg
 * packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
@@ -30375,7 +31214,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//808213 -> True
 // for: ALNETATablett10mg
 * packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
@@ -30411,7 +31251,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//808213 -> True
 // for: ALNETATablett10mg
 * packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
@@ -30447,7 +31288,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//808213 -> True
 // for: ALNETATablett10mg
 * packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
@@ -30483,7 +31325,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//808213 -> True
 // for: ALNETATablett10mg
 * packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
@@ -30519,7 +31362,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//808213 -> True
 // for: ALNETATablett10mg
 * packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
@@ -30555,7 +31399,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//808213 -> True
 // for: ALNETATablett10mg
 * packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
@@ -30591,7 +31436,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//808113 -> True
 // for: ALNETATablett5mg
 * packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
@@ -30627,7 +31473,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//808113 -> True
 // for: ALNETATablett5mg
 * packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
@@ -30663,7 +31510,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//808113 -> True
 // for: ALNETATablett5mg
 * packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
@@ -30699,7 +31547,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//808113 -> True
 // for: ALNETATablett5mg
 * packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
@@ -30735,7 +31584,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//808113 -> True
 // for: ALNETATablett5mg
 * packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
@@ -30771,7 +31621,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//808113 -> True
 // for: ALNETATablett5mg
 * packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
@@ -30807,7 +31658,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//808113 -> True
 // for: ALNETATablett5mg
 * packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
@@ -30843,7 +31695,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//808113 -> True
 // for: ALNETATablett5mg
 * packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
@@ -30879,7 +31732,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//802312 -> True
 // for: DALNESSATablett4mg, 10mg
 * packageFor = Reference(mp-8b716ee61fa4aa41e504fb7b8cc10966)
 // Reference to Organization: MAH
@@ -30915,7 +31769,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//802312 -> True
 // for: DALNESSATablett4mg, 10mg
 * packageFor = Reference(mp-8b716ee61fa4aa41e504fb7b8cc10966)
 // Reference to Organization: MAH
@@ -30951,7 +31806,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//802312 -> True
 // for: DALNESSATablett4mg, 10mg
 * packageFor = Reference(mp-8b716ee61fa4aa41e504fb7b8cc10966)
 // Reference to Organization: MAH
@@ -30987,7 +31843,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//802312 -> True
 // for: DALNESSATablett4mg, 10mg
 * packageFor = Reference(mp-8b716ee61fa4aa41e504fb7b8cc10966)
 // Reference to Organization: MAH
@@ -31023,7 +31880,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//802312 -> True
 // for: DALNESSATablett4mg, 10mg
 * packageFor = Reference(mp-8b716ee61fa4aa41e504fb7b8cc10966)
 // Reference to Organization: MAH
@@ -31059,7 +31917,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//802312 -> True
 // for: DALNESSATablett4mg, 10mg
 * packageFor = Reference(mp-8b716ee61fa4aa41e504fb7b8cc10966)
 // Reference to Organization: MAH
@@ -31095,7 +31954,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//802212 -> True
 // for: DALNESSATablett4mg, 5mg
 * packageFor = Reference(mp-8ba5ffcc8e6daba03e3877db10902477)
 // Reference to Organization: MAH
@@ -31131,7 +31991,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//802212 -> True
 // for: DALNESSATablett4mg, 5mg
 * packageFor = Reference(mp-8ba5ffcc8e6daba03e3877db10902477)
 // Reference to Organization: MAH
@@ -31167,7 +32028,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//802212 -> True
 // for: DALNESSATablett4mg, 5mg
 * packageFor = Reference(mp-8ba5ffcc8e6daba03e3877db10902477)
 // Reference to Organization: MAH
@@ -31203,7 +32065,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//802212 -> True
 // for: DALNESSATablett4mg, 5mg
 * packageFor = Reference(mp-8ba5ffcc8e6daba03e3877db10902477)
 // Reference to Organization: MAH
@@ -31239,7 +32102,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//802212 -> True
 // for: DALNESSATablett4mg, 5mg
 * packageFor = Reference(mp-8ba5ffcc8e6daba03e3877db10902477)
 // Reference to Organization: MAH
@@ -31275,7 +32139,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//802212 -> True
 // for: DALNESSATablett4mg, 5mg
 * packageFor = Reference(mp-8ba5ffcc8e6daba03e3877db10902477)
 // Reference to Organization: MAH
@@ -31311,7 +32176,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//802112 -> True
 // for: DALNESSATablett5mg, 8mg
 * packageFor = Reference(mp-4ae2ae7f133292e2edd393b837ba7475)
 // Reference to Organization: MAH
@@ -31347,7 +32213,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//802112 -> True
 // for: DALNESSATablett5mg, 8mg
 * packageFor = Reference(mp-4ae2ae7f133292e2edd393b837ba7475)
 // Reference to Organization: MAH
@@ -31383,7 +32250,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//802112 -> True
 // for: DALNESSATablett5mg, 8mg
 * packageFor = Reference(mp-4ae2ae7f133292e2edd393b837ba7475)
 // Reference to Organization: MAH
@@ -31419,7 +32287,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//802112 -> True
 // for: DALNESSATablett5mg, 8mg
 * packageFor = Reference(mp-4ae2ae7f133292e2edd393b837ba7475)
 // Reference to Organization: MAH
@@ -31455,7 +32324,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//802112 -> True
 // for: DALNESSATablett5mg, 8mg
 * packageFor = Reference(mp-4ae2ae7f133292e2edd393b837ba7475)
 // Reference to Organization: MAH
@@ -31491,7 +32361,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//802112 -> True
 // for: DALNESSATablett5mg, 8mg
 * packageFor = Reference(mp-4ae2ae7f133292e2edd393b837ba7475)
 // Reference to Organization: MAH
@@ -31527,7 +32398,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//802012 -> True
 // for: DALNESSATablett10mg, 8mg
 * packageFor = Reference(mp-36612c13eefc42ade6ee4c308534674d)
 // Reference to Organization: MAH
@@ -31563,7 +32435,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//802012 -> True
 // for: DALNESSATablett10mg, 8mg
 * packageFor = Reference(mp-36612c13eefc42ade6ee4c308534674d)
 // Reference to Organization: MAH
@@ -31599,7 +32472,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//802012 -> True
 // for: DALNESSATablett10mg, 8mg
 * packageFor = Reference(mp-36612c13eefc42ade6ee4c308534674d)
 // Reference to Organization: MAH
@@ -31635,7 +32509,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//802012 -> True
 // for: DALNESSATablett10mg, 8mg
 * packageFor = Reference(mp-36612c13eefc42ade6ee4c308534674d)
 // Reference to Organization: MAH
@@ -31671,7 +32546,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//802012 -> True
 // for: DALNESSATablett10mg, 8mg
 * packageFor = Reference(mp-36612c13eefc42ade6ee4c308534674d)
 // Reference to Organization: MAH
@@ -31707,7 +32583,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//802012 -> True
 // for: DALNESSATablett10mg, 8mg
 * packageFor = Reference(mp-36612c13eefc42ade6ee4c308534674d)
 // Reference to Organization: MAH
@@ -31743,7 +32620,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//785912 -> True
 // for: RAMDACORDIAKõvakapsel5mg
 * packageFor = Reference(mp-bd1758b2cb3e910f68820e915408a2af)
 // Reference to Organization: MAH
@@ -31779,7 +32657,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785912 -> True
 // for: RAMDACORDIAKõvakapsel5mg
 * packageFor = Reference(mp-bd1758b2cb3e910f68820e915408a2af)
 // Reference to Organization: MAH
@@ -31815,7 +32694,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//785912 -> True
 // for: RAMDACORDIAKõvakapsel5mg
 * packageFor = Reference(mp-bd1758b2cb3e910f68820e915408a2af)
 // Reference to Organization: MAH
@@ -31851,7 +32731,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//785912 -> True
 // for: RAMDACORDIAKõvakapsel5mg
 * packageFor = Reference(mp-bd1758b2cb3e910f68820e915408a2af)
 // Reference to Organization: MAH
@@ -31887,7 +32768,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785912 -> True
 // for: RAMDACORDIAKõvakapsel5mg
 * packageFor = Reference(mp-bd1758b2cb3e910f68820e915408a2af)
 // Reference to Organization: MAH
@@ -31923,7 +32805,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//785912 -> True
 // for: RAMDACORDIAKõvakapsel5mg
 * packageFor = Reference(mp-bd1758b2cb3e910f68820e915408a2af)
 // Reference to Organization: MAH
@@ -31959,7 +32842,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785812 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-14e2357708838872a1c59cb5ba1b29be)
 // Reference to Organization: MAH
@@ -31995,7 +32879,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785812 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-14e2357708838872a1c59cb5ba1b29be)
 // Reference to Organization: MAH
@@ -32031,7 +32916,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//785812 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-14e2357708838872a1c59cb5ba1b29be)
 // Reference to Organization: MAH
@@ -32067,7 +32953,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785812 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-14e2357708838872a1c59cb5ba1b29be)
 // Reference to Organization: MAH
@@ -32103,7 +32990,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//785812 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-14e2357708838872a1c59cb5ba1b29be)
 // Reference to Organization: MAH
@@ -32139,7 +33027,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//785812 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-14e2357708838872a1c59cb5ba1b29be)
 // Reference to Organization: MAH
@@ -32175,7 +33064,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785712 -> True
 // for: RAMDACORDIAKõvakapsel10mg
 * packageFor = Reference(mp-1d507303f7d371853f158ef9ca580b39)
 // Reference to Organization: MAH
@@ -32211,7 +33101,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785712 -> True
 // for: RAMDACORDIAKõvakapsel10mg
 * packageFor = Reference(mp-1d507303f7d371853f158ef9ca580b39)
 // Reference to Organization: MAH
@@ -32247,7 +33138,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785712 -> True
 // for: RAMDACORDIAKõvakapsel10mg
 * packageFor = Reference(mp-1d507303f7d371853f158ef9ca580b39)
 // Reference to Organization: MAH
@@ -32283,7 +33175,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785712 -> True
 // for: RAMDACORDIAKõvakapsel10mg
 * packageFor = Reference(mp-1d507303f7d371853f158ef9ca580b39)
 // Reference to Organization: MAH
@@ -32319,7 +33212,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//785712 -> True
 // for: RAMDACORDIAKõvakapsel10mg
 * packageFor = Reference(mp-1d507303f7d371853f158ef9ca580b39)
 // Reference to Organization: MAH
@@ -32355,7 +33249,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//785712 -> True
 // for: RAMDACORDIAKõvakapsel10mg
 * packageFor = Reference(mp-1d507303f7d371853f158ef9ca580b39)
 // Reference to Organization: MAH
@@ -32391,7 +33286,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785612 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-d89ec52c740c99583c8334e1d265efd2)
 // Reference to Organization: MAH
@@ -32427,7 +33323,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//785612 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-d89ec52c740c99583c8334e1d265efd2)
 // Reference to Organization: MAH
@@ -32463,7 +33360,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//785612 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-d89ec52c740c99583c8334e1d265efd2)
 // Reference to Organization: MAH
@@ -32499,7 +33397,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//785612 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-d89ec52c740c99583c8334e1d265efd2)
 // Reference to Organization: MAH
@@ -32535,7 +33434,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//785612 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-d89ec52c740c99583c8334e1d265efd2)
 // Reference to Organization: MAH
@@ -32571,7 +33471,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//785612 -> True
 // for: RAMDACORDIAKõvakapsel10mg, 5mg
 * packageFor = Reference(mp-d89ec52c740c99583c8334e1d265efd2)
 // Reference to Organization: MAH
@@ -32608,7 +33509,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//780112 -> True
 // for: DIRONORMTablett20mg, 5mg
 * packageFor = Reference(mp-d59d10dac3a35bfeb925aebce3fcfa04)
 // Reference to Organization: MAH
@@ -32645,7 +33547,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//780112 -> True
 // for: DIRONORMTablett20mg, 5mg
 * packageFor = Reference(mp-d59d10dac3a35bfeb925aebce3fcfa04)
 // Reference to Organization: MAH
@@ -32681,7 +33584,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//744511 -> True
 // for: AMLODIPINE VITABALANSTablett5mg
 * packageFor = Reference(mp-4b4b41bca51db4ce2a7ae1853bc6ea85)
 // Reference to Organization: MAH
@@ -32717,7 +33621,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//744511 -> True
 // for: AMLODIPINE VITABALANSTablett5mg
 * packageFor = Reference(mp-4b4b41bca51db4ce2a7ae1853bc6ea85)
 // Reference to Organization: MAH
@@ -32753,7 +33658,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//744511 -> True
 // for: AMLODIPINE VITABALANSTablett5mg
 * packageFor = Reference(mp-4b4b41bca51db4ce2a7ae1853bc6ea85)
 // Reference to Organization: MAH
@@ -32789,7 +33695,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//744511 -> True
 // for: AMLODIPINE VITABALANSTablett5mg
 * packageFor = Reference(mp-4b4b41bca51db4ce2a7ae1853bc6ea85)
 // Reference to Organization: MAH
@@ -32825,7 +33732,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//744411 -> True
 // for: AMLODIPINE VITABALANSTablett10mg
 * packageFor = Reference(mp-938b248e75affacf29383e0738b98ea2)
 // Reference to Organization: MAH
@@ -32861,7 +33769,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//744411 -> True
 // for: AMLODIPINE VITABALANSTablett10mg
 * packageFor = Reference(mp-938b248e75affacf29383e0738b98ea2)
 // Reference to Organization: MAH
@@ -32897,7 +33806,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//744411 -> True
 // for: AMLODIPINE VITABALANSTablett10mg
 * packageFor = Reference(mp-938b248e75affacf29383e0738b98ea2)
 // Reference to Organization: MAH
@@ -32933,7 +33843,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//744411 -> True
 // for: AMLODIPINE VITABALANSTablett10mg
 * packageFor = Reference(mp-938b248e75affacf29383e0738b98ea2)
 // Reference to Organization: MAH
@@ -32968,7 +33879,8 @@ Usage: #example
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33003,7 +33915,8 @@ Usage: #example
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33039,7 +33952,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33074,7 +33988,8 @@ Usage: #example
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33109,7 +34024,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33144,7 +34060,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33179,7 +34096,8 @@ Usage: #example
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33214,7 +34132,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33249,7 +34168,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33284,7 +34204,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33320,7 +34241,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33354,7 +34276,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33388,7 +34311,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//730511 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 // Reference to Organization: MAH
@@ -33422,7 +34346,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33457,7 +34382,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33491,7 +34417,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33526,7 +34453,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33562,7 +34490,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33598,7 +34527,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33633,7 +34563,8 @@ Usage: #example
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33668,7 +34599,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33703,7 +34635,8 @@ Usage: #example
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33738,7 +34671,8 @@ Usage: #example
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33773,7 +34707,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33808,7 +34743,8 @@ Usage: #example
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33843,7 +34779,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730411 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 // Reference to Organization: MAH
@@ -33878,7 +34815,8 @@ Usage: #example
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -33913,7 +34851,8 @@ Usage: #example
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -33948,7 +34887,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -33982,7 +34922,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -34016,7 +34957,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -34052,7 +34994,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -34087,7 +35030,8 @@ Usage: #example
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -34122,7 +35066,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -34158,7 +35103,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -34193,7 +35139,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -34228,7 +35175,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -34263,7 +35211,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -34298,7 +35247,8 @@ Usage: #example
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730311 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett5mg, 40mg, 12.5mg
 * packageFor = Reference(mp-43a794a22110d2df504819ad48a456ad)
 // Reference to Organization: MAH
@@ -34333,7 +35283,8 @@ Usage: #example
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34368,7 +35319,8 @@ Usage: #example
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34402,7 +35354,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34437,7 +35390,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34473,7 +35427,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34508,7 +35463,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34543,7 +35499,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34577,7 +35534,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34612,7 +35570,8 @@ Usage: #example
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34647,7 +35606,8 @@ Usage: #example
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34682,7 +35642,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34717,7 +35678,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34753,7 +35715,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730211 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 // Reference to Organization: MAH
@@ -34788,7 +35751,8 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -34823,7 +35787,8 @@ Usage: #example
     * containedItem.amount.value = 280
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -34858,7 +35823,8 @@ Usage: #example
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -34893,7 +35859,8 @@ Usage: #example
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -34928,7 +35895,8 @@ Usage: #example
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -34964,7 +35932,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -34999,7 +35968,8 @@ Usage: #example
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -35034,7 +36004,8 @@ Usage: #example
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -35069,7 +36040,8 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -35103,7 +36075,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -35137,7 +36110,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -35173,7 +36147,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -35208,7 +36183,8 @@ Usage: #example
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//730111 -> True
 // for: SANORAL HCTÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 // Reference to Organization: MAH
@@ -35245,7 +36221,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//616709 -> True
 // for: DIRONORMTablett10mg, 5mg
 * packageFor = Reference(mp-a452ad2a480e81cd3737925a60ec302c)
 // Reference to Organization: MAH
@@ -35282,7 +36259,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//616709 -> True
 // for: DIRONORMTablett10mg, 5mg
 * packageFor = Reference(mp-a452ad2a480e81cd3737925a60ec302c)
 // Reference to Organization: MAH
@@ -35318,7 +36296,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35354,7 +36333,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35390,7 +36370,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35426,7 +36407,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35462,7 +36444,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35498,7 +36481,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35534,7 +36518,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35570,7 +36555,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35606,7 +36592,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35642,7 +36629,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35678,7 +36666,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606408 -> True
 // for: SANORALÕhukese polümeerikattega tablett40mg, 5mg
 * packageFor = Reference(mp-5c042bbd83eb6153724ad890c2412039)
 // Reference to Organization: MAH
@@ -35714,7 +36703,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -35750,7 +36740,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -35786,7 +36777,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -35822,7 +36814,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -35858,7 +36851,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -35894,7 +36888,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -35930,7 +36925,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -35966,7 +36962,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -36002,7 +36999,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -36038,7 +37036,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -36074,7 +37073,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606308 -> True
 // for: SANORALÕhukese polümeerikattega tablett10mg, 40mg
 * packageFor = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 // Reference to Organization: MAH
@@ -36110,7 +37110,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36146,7 +37147,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36182,7 +37184,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36218,7 +37221,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36254,7 +37258,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36290,7 +37295,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36326,7 +37332,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36362,7 +37369,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36398,7 +37406,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36434,7 +37443,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36470,7 +37480,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//606208 -> True
 // for: SANORALÕhukese polümeerikattega tablett20mg, 5mg
 * packageFor = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 // Reference to Organization: MAH
@@ -36506,7 +37517,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36542,7 +37554,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36579,7 +37592,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36616,7 +37630,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36652,7 +37667,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36688,7 +37704,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36725,7 +37742,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36761,7 +37779,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36797,7 +37816,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36833,7 +37853,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36869,7 +37890,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36905,7 +37927,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36942,7 +37965,8 @@ Usage: #example
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -36979,7 +38003,8 @@ Usage: #example
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -37015,7 +38040,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//589308 -> True
 // for: AMLODIPINE TEVATablett10mg
 * packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
@@ -37052,7 +38078,8 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37088,7 +38115,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37125,7 +38153,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37161,7 +38190,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37197,7 +38227,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37234,7 +38265,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37270,7 +38302,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37307,7 +38340,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37344,7 +38378,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37380,7 +38415,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37416,7 +38452,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37452,7 +38489,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37488,7 +38526,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37524,7 +38563,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37560,7 +38600,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//589208 -> True
 // for: AMLODIPINE TEVATablett5mg
 * packageFor = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 // Reference to Organization: MAH
@@ -37594,7 +38635,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37628,7 +38670,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 5
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37662,7 +38705,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37696,7 +38740,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37730,7 +38775,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37764,7 +38810,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37798,7 +38845,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37832,7 +38880,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37866,7 +38915,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37900,7 +38950,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37934,7 +38985,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 20
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -37968,7 +39020,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -38002,7 +39055,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -38036,7 +39090,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 120
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -38070,7 +39125,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584408 -> True
 // for: COVERAMTablett5mg, 10mg
 * packageFor = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 // Reference to Organization: MAH
@@ -38104,7 +39160,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38138,7 +39195,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 120
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38172,7 +39230,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38206,7 +39265,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38240,7 +39300,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38274,7 +39335,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38308,7 +39370,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38342,7 +39405,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38376,7 +39440,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38410,7 +39475,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38444,7 +39510,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 20
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38478,7 +39545,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38512,7 +39580,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38546,7 +39615,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 5
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38580,7 +39650,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584308 -> True
 // for: COVERAMTablett10mg, 5mg
 * packageFor = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 // Reference to Organization: MAH
@@ -38614,7 +39685,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38648,7 +39720,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38682,7 +39755,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38716,7 +39790,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38750,7 +39825,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 120
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38784,7 +39860,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 20
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38818,7 +39895,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38852,7 +39930,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38886,7 +39965,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38920,7 +40000,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38954,7 +40035,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -38988,7 +40070,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -39022,7 +40105,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -39056,7 +40140,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -39090,7 +40175,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 5
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584208 -> True
 // for: COVERAMTablett10mg
 * packageFor = Reference(mp-3d3624f68235986f61c909321318e1ef)
 // Reference to Organization: MAH
@@ -39124,7 +40210,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 5
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39158,7 +40245,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39192,7 +40280,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39226,7 +40315,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39260,7 +40350,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39294,7 +40385,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39328,7 +40420,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39362,7 +40455,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39396,7 +40490,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39430,7 +40525,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 120
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39464,7 +40560,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39498,7 +40595,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39532,7 +40630,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 20
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39566,7 +40665,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39600,7 +40700,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//584108 -> True
 // for: COVERAMTablett5mg
 * packageFor = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
 // Reference to Organization: MAH
@@ -39637,7 +40738,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//567307 -> True
 // for: AMLODIPINE MEDOCHEMIETablett5mg
 * packageFor = Reference(mp-790c3262fcb36ab4153d147d79fb4390)
 // Reference to Organization: MAH
@@ -39674,7 +40776,8 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//567207 -> True
 // for: AMLODIPINE MEDOCHEMIETablett10mg
 * packageFor = Reference(mp-9030bbd21e461a4d7993890e64808084)
 // Reference to Organization: MAH
@@ -39711,7 +40814,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -39748,7 +40852,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -39782,7 +40887,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 250
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -39819,7 +40925,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -39855,7 +40962,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -39892,7 +41000,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -39928,7 +41037,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -39962,7 +41072,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -39996,7 +41107,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 105
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -40032,7 +41144,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -40066,7 +41179,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 200
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -40103,7 +41217,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -40140,7 +41255,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//538707 -> True
 // for: AMLOCARD 10MGTablett10mg
 * packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
@@ -40176,7 +41292,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40213,7 +41330,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40250,7 +41368,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40287,7 +41406,8 @@ Usage: #example
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40324,7 +41444,8 @@ Usage: #example
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40358,7 +41479,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40394,7 +41516,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40430,7 +41553,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40464,7 +41588,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 250
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40501,7 +41626,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40535,7 +41661,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 105
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40572,7 +41699,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40606,7 +41734,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 200
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//538507 -> True
 // for: AMLOCARD 5 MGTablett5mg
 * packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
@@ -40642,7 +41771,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -40678,7 +41808,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -40714,7 +41845,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -40750,7 +41882,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -40786,7 +41919,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -40822,7 +41956,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -40859,7 +41994,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -40895,7 +42031,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -40931,7 +42068,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -40967,7 +42105,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -41004,7 +42143,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -41040,7 +42180,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -41076,7 +42217,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//537307 -> True
 // for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
 * packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
@@ -41112,7 +42254,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41149,7 +42292,8 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41185,7 +42329,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41221,7 +42366,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41258,7 +42404,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41294,7 +42441,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41330,7 +42478,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41366,7 +42515,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41402,7 +42552,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41438,7 +42589,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41474,7 +42626,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41510,7 +42663,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41546,7 +42700,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//537207 -> True
 // for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
 * packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
@@ -41580,7 +42735,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//527206 -> True
 // for: AMLODIGAMMA 5MGTablett5mg
 * packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
@@ -41614,7 +42770,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//527206 -> True
 // for: AMLODIGAMMA 5MGTablett5mg
 * packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
@@ -41648,7 +42805,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//527206 -> True
 // for: AMLODIGAMMA 5MGTablett5mg
 * packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
@@ -41682,7 +42840,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 300
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//527206 -> True
 // for: AMLODIGAMMA 5MGTablett5mg
 * packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
@@ -41716,7 +42875,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//527206 -> True
 // for: AMLODIGAMMA 5MGTablett5mg
 * packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
@@ -41750,7 +42910,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//527206 -> True
 // for: AMLODIGAMMA 5MGTablett5mg
 * packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
@@ -41784,7 +42945,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//527206 -> True
 // for: AMLODIGAMMA 5MGTablett5mg
 * packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
@@ -41818,7 +42980,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 20
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//527206 -> True
 // for: AMLODIGAMMA 5MGTablett5mg
 * packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
@@ -41855,7 +43018,8 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+//527206 -> True
 // for: AMLODIGAMMA 5MGTablett5mg
 * packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
@@ -41889,7 +43053,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 300
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//527106 -> True
 // for: AMLODIGAMMA 10MGTablett10mg
 * packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
@@ -41923,7 +43088,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//527106 -> True
 // for: AMLODIGAMMA 10MGTablett10mg
 * packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
@@ -41957,7 +43123,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//527106 -> True
 // for: AMLODIGAMMA 10MGTablett10mg
 * packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
@@ -41991,7 +43158,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//527106 -> True
 // for: AMLODIGAMMA 10MGTablett10mg
 * packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
@@ -42025,7 +43193,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//527106 -> True
 // for: AMLODIGAMMA 10MGTablett10mg
 * packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
@@ -42059,7 +43228,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"  
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
+//527106 -> True
 // for: AMLODIGAMMA 10MGTablett10mg
 * packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
@@ -42096,7 +43266,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//527106 -> True
 // for: AMLODIGAMMA 10MGTablett10mg
 * packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
@@ -42130,7 +43301,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 20
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//527106 -> True
 // for: AMLODIGAMMA 10MGTablett10mg
 * packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
@@ -42164,7 +43336,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//527106 -> True
 // for: AMLODIGAMMA 10MGTablett10mg
 * packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
@@ -42198,7 +43371,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b8c9a0c3039b6e095804bb4753c0c9a2)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//441504 -> True
 // for: HIPRESTablett10mg
 * packageFor = Reference(mp-b8c9a0c3039b6e095804bb4753c0c9a2)
 // Reference to Organization: MAH
@@ -42232,7 +43406,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b8c9a0c3039b6e095804bb4753c0c9a2)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//441504 -> True
 // for: HIPRESTablett10mg
 * packageFor = Reference(mp-b8c9a0c3039b6e095804bb4753c0c9a2)
 // Reference to Organization: MAH
@@ -42266,7 +43441,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b8c9a0c3039b6e095804bb4753c0c9a2)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//441504 -> True
 // for: HIPRESTablett10mg
 * packageFor = Reference(mp-b8c9a0c3039b6e095804bb4753c0c9a2)
 // Reference to Organization: MAH
@@ -42300,7 +43476,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-9959fedb3a2dfee5867b44aa925ad2ec)
     * containedItem.amount.value = 60
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//439004 -> True
 // for: HIPRESTablett5mg
 * packageFor = Reference(mp-9959fedb3a2dfee5867b44aa925ad2ec)
 // Reference to Organization: MAH
@@ -42334,7 +43511,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-9959fedb3a2dfee5867b44aa925ad2ec)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//439004 -> True
 // for: HIPRESTablett5mg
 * packageFor = Reference(mp-9959fedb3a2dfee5867b44aa925ad2ec)
 // Reference to Organization: MAH
@@ -42368,7 +43546,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-9959fedb3a2dfee5867b44aa925ad2ec)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//439004 -> True
 // for: HIPRESTablett5mg
 * packageFor = Reference(mp-9959fedb3a2dfee5867b44aa925ad2ec)
 // Reference to Organization: MAH
@@ -42404,7 +43583,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//418403 -> True
 // for: AGEN 10MGTablett10mg
 * packageFor = Reference(mp-bb4c6f95eaf1d70ad88821100fa7adf9)
 // Reference to Organization: MAH
@@ -42440,7 +43620,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//418403 -> True
 // for: AGEN 10MGTablett10mg
 * packageFor = Reference(mp-bb4c6f95eaf1d70ad88821100fa7adf9)
 // Reference to Organization: MAH
@@ -42476,7 +43657,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//418403 -> True
 // for: AGEN 10MGTablett10mg
 * packageFor = Reference(mp-bb4c6f95eaf1d70ad88821100fa7adf9)
 // Reference to Organization: MAH
@@ -42512,7 +43694,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//418303 -> True
 // for: AGEN 5MGTablett5mg
 * packageFor = Reference(mp-fedf52f451906e74f251473ff122a768)
 // Reference to Organization: MAH
@@ -42548,7 +43731,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//418303 -> True
 // for: AGEN 5MGTablett5mg
 * packageFor = Reference(mp-fedf52f451906e74f251473ff122a768)
 // Reference to Organization: MAH
@@ -42584,7 +43768,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//418303 -> True
 // for: AGEN 5MGTablett5mg
 * packageFor = Reference(mp-fedf52f451906e74f251473ff122a768)
 // Reference to Organization: MAH
@@ -42620,7 +43805,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -42656,7 +43842,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -42692,7 +43879,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -42728,7 +43916,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -42764,7 +43953,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -42800,7 +43990,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -42836,7 +44027,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -42872,7 +44064,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -42908,7 +44101,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -42944,7 +44138,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -42980,7 +44175,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -43016,7 +44212,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -43052,7 +44249,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176397 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
@@ -43088,7 +44286,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43124,7 +44323,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43160,7 +44360,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43196,7 +44397,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43232,7 +44434,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43268,7 +44471,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43304,7 +44508,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43340,7 +44545,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43376,7 +44582,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43412,7 +44619,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43448,7 +44656,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"  
+    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43484,7 +44693,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//176297 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
@@ -43520,7 +44730,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1062622 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett10mg, 80mg
 * packageFor = Reference(mp-56dfd3ef23616a17c8516e86c896c63b)
 // Reference to Organization: MAH
@@ -43556,7 +44767,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1062622 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett10mg, 80mg
 * packageFor = Reference(mp-56dfd3ef23616a17c8516e86c896c63b)
 // Reference to Organization: MAH
@@ -43592,7 +44804,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1062622 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett10mg, 80mg
 * packageFor = Reference(mp-56dfd3ef23616a17c8516e86c896c63b)
 // Reference to Organization: MAH
@@ -43628,7 +44841,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1062622 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett10mg, 80mg
 * packageFor = Reference(mp-56dfd3ef23616a17c8516e86c896c63b)
 // Reference to Organization: MAH
@@ -43664,7 +44878,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1062622 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett10mg, 80mg
 * packageFor = Reference(mp-56dfd3ef23616a17c8516e86c896c63b)
 // Reference to Organization: MAH
@@ -43700,7 +44915,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1062622 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett10mg, 80mg
 * packageFor = Reference(mp-56dfd3ef23616a17c8516e86c896c63b)
 // Reference to Organization: MAH
@@ -43736,7 +44952,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1062522 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett80mg, 5mg
 * packageFor = Reference(mp-a380cadd3016c2a5d946b4f3003865c0)
 // Reference to Organization: MAH
@@ -43772,7 +44989,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1062522 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett80mg, 5mg
 * packageFor = Reference(mp-a380cadd3016c2a5d946b4f3003865c0)
 // Reference to Organization: MAH
@@ -43808,7 +45026,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1062522 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett80mg, 5mg
 * packageFor = Reference(mp-a380cadd3016c2a5d946b4f3003865c0)
 // Reference to Organization: MAH
@@ -43844,7 +45063,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1062522 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett80mg, 5mg
 * packageFor = Reference(mp-a380cadd3016c2a5d946b4f3003865c0)
 // Reference to Organization: MAH
@@ -43880,7 +45100,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1062522 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett80mg, 5mg
 * packageFor = Reference(mp-a380cadd3016c2a5d946b4f3003865c0)
 // Reference to Organization: MAH
@@ -43916,7 +45137,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1062522 -> True
 // for: TELMISARTAN/AMLODIPINE TEVATablett80mg, 5mg
 * packageFor = Reference(mp-a380cadd3016c2a5d946b4f3003865c0)
 // Reference to Organization: MAH
@@ -43952,7 +45174,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1051722 -> True
 // for: DALNESSANEOTablett10mg
 * packageFor = Reference(mp-4648373e4938d96c51d667392632f991)
 // Reference to Organization: MAH
@@ -43988,7 +45211,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1051722 -> True
 // for: DALNESSANEOTablett10mg
 * packageFor = Reference(mp-4648373e4938d96c51d667392632f991)
 // Reference to Organization: MAH
@@ -44024,7 +45248,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1051722 -> True
 // for: DALNESSANEOTablett10mg
 * packageFor = Reference(mp-4648373e4938d96c51d667392632f991)
 // Reference to Organization: MAH
@@ -44060,7 +45285,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1051722 -> True
 // for: DALNESSANEOTablett10mg
 * packageFor = Reference(mp-4648373e4938d96c51d667392632f991)
 // Reference to Organization: MAH
@@ -44096,7 +45322,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1051722 -> True
 // for: DALNESSANEOTablett10mg
 * packageFor = Reference(mp-4648373e4938d96c51d667392632f991)
 // Reference to Organization: MAH
@@ -44132,7 +45359,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1051722 -> True
 // for: DALNESSANEOTablett10mg
 * packageFor = Reference(mp-4648373e4938d96c51d667392632f991)
 // Reference to Organization: MAH
@@ -44168,7 +45396,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1051622 -> True
 // for: DALNESSANEOTablett5mg, 10mg
 * packageFor = Reference(mp-0d047d5dd4bce354fa4d853f93a71330)
 // Reference to Organization: MAH
@@ -44204,7 +45433,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1051622 -> True
 // for: DALNESSANEOTablett5mg, 10mg
 * packageFor = Reference(mp-0d047d5dd4bce354fa4d853f93a71330)
 // Reference to Organization: MAH
@@ -44240,7 +45470,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1051622 -> True
 // for: DALNESSANEOTablett5mg, 10mg
 * packageFor = Reference(mp-0d047d5dd4bce354fa4d853f93a71330)
 // Reference to Organization: MAH
@@ -44276,7 +45507,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1051622 -> True
 // for: DALNESSANEOTablett5mg, 10mg
 * packageFor = Reference(mp-0d047d5dd4bce354fa4d853f93a71330)
 // Reference to Organization: MAH
@@ -44312,7 +45544,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1051622 -> True
 // for: DALNESSANEOTablett5mg, 10mg
 * packageFor = Reference(mp-0d047d5dd4bce354fa4d853f93a71330)
 // Reference to Organization: MAH
@@ -44348,7 +45581,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1051622 -> True
 // for: DALNESSANEOTablett5mg, 10mg
 * packageFor = Reference(mp-0d047d5dd4bce354fa4d853f93a71330)
 // Reference to Organization: MAH
@@ -44384,7 +45618,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1051522 -> True
 // for: DALNESSANEOTablett10mg, 5mg
 * packageFor = Reference(mp-e8ce73afbb42811b992f84492a92b044)
 // Reference to Organization: MAH
@@ -44420,7 +45655,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1051522 -> True
 // for: DALNESSANEOTablett10mg, 5mg
 * packageFor = Reference(mp-e8ce73afbb42811b992f84492a92b044)
 // Reference to Organization: MAH
@@ -44456,7 +45692,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1051522 -> True
 // for: DALNESSANEOTablett10mg, 5mg
 * packageFor = Reference(mp-e8ce73afbb42811b992f84492a92b044)
 // Reference to Organization: MAH
@@ -44492,7 +45729,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1051522 -> True
 // for: DALNESSANEOTablett10mg, 5mg
 * packageFor = Reference(mp-e8ce73afbb42811b992f84492a92b044)
 // Reference to Organization: MAH
@@ -44528,7 +45766,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1051522 -> True
 // for: DALNESSANEOTablett10mg, 5mg
 * packageFor = Reference(mp-e8ce73afbb42811b992f84492a92b044)
 // Reference to Organization: MAH
@@ -44564,7 +45803,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1051522 -> True
 // for: DALNESSANEOTablett10mg, 5mg
 * packageFor = Reference(mp-e8ce73afbb42811b992f84492a92b044)
 // Reference to Organization: MAH
@@ -44600,7 +45840,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1051422 -> True
 // for: DALNESSANEOTablett5mg
 * packageFor = Reference(mp-04ef0a7061a4691dec54feb8074836ce)
 // Reference to Organization: MAH
@@ -44636,7 +45877,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1051422 -> True
 // for: DALNESSANEOTablett5mg
 * packageFor = Reference(mp-04ef0a7061a4691dec54feb8074836ce)
 // Reference to Organization: MAH
@@ -44672,7 +45914,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1051422 -> True
 // for: DALNESSANEOTablett5mg
 * packageFor = Reference(mp-04ef0a7061a4691dec54feb8074836ce)
 // Reference to Organization: MAH
@@ -44708,7 +45951,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1051422 -> True
 // for: DALNESSANEOTablett5mg
 * packageFor = Reference(mp-04ef0a7061a4691dec54feb8074836ce)
 // Reference to Organization: MAH
@@ -44744,7 +45988,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1051422 -> True
 // for: DALNESSANEOTablett5mg
 * packageFor = Reference(mp-04ef0a7061a4691dec54feb8074836ce)
 // Reference to Organization: MAH
@@ -44780,7 +46025,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1051422 -> True
 // for: DALNESSANEOTablett5mg
 * packageFor = Reference(mp-04ef0a7061a4691dec54feb8074836ce)
 // Reference to Organization: MAH
@@ -44816,7 +46062,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1040921 -> True
 // for: PRINDALTablett10mg, 2.5mg, 8mg
 * packageFor = Reference(mp-5196a3ed0766610246524f22c6dfcb0b)
 // Reference to Organization: MAH
@@ -44852,7 +46099,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1040921 -> True
 // for: PRINDALTablett10mg, 2.5mg, 8mg
 * packageFor = Reference(mp-5196a3ed0766610246524f22c6dfcb0b)
 // Reference to Organization: MAH
@@ -44888,7 +46136,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1040921 -> True
 // for: PRINDALTablett10mg, 2.5mg, 8mg
 * packageFor = Reference(mp-5196a3ed0766610246524f22c6dfcb0b)
 // Reference to Organization: MAH
@@ -44924,7 +46173,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1040821 -> True
 // for: PRINDALTablett8mg, 5mg, 2.5mg
 * packageFor = Reference(mp-9f441068e75d101a49305a458a1bb12c)
 // Reference to Organization: MAH
@@ -44960,7 +46210,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1040821 -> True
 // for: PRINDALTablett8mg, 5mg, 2.5mg
 * packageFor = Reference(mp-9f441068e75d101a49305a458a1bb12c)
 // Reference to Organization: MAH
@@ -44996,7 +46247,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1040821 -> True
 // for: PRINDALTablett8mg, 5mg, 2.5mg
 * packageFor = Reference(mp-9f441068e75d101a49305a458a1bb12c)
 // Reference to Organization: MAH
@@ -45032,7 +46284,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1040721 -> True
 // for: PRINDALTablett10mg, 4mg, 1.25mg
 * packageFor = Reference(mp-accccddd018b8143ee1f6f3ac998ea17)
 // Reference to Organization: MAH
@@ -45068,7 +46321,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1040721 -> True
 // for: PRINDALTablett10mg, 4mg, 1.25mg
 * packageFor = Reference(mp-accccddd018b8143ee1f6f3ac998ea17)
 // Reference to Organization: MAH
@@ -45104,7 +46358,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1040721 -> True
 // for: PRINDALTablett10mg, 4mg, 1.25mg
 * packageFor = Reference(mp-accccddd018b8143ee1f6f3ac998ea17)
 // Reference to Organization: MAH
@@ -45140,7 +46395,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1040621 -> True
 // for: PRINDALTablett4mg, 1.25mg, 5mg
 * packageFor = Reference(mp-643ee4aafe3a5f6160418089c8bc144f)
 // Reference to Organization: MAH
@@ -45176,7 +46432,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1040621 -> True
 // for: PRINDALTablett4mg, 1.25mg, 5mg
 * packageFor = Reference(mp-643ee4aafe3a5f6160418089c8bc144f)
 // Reference to Organization: MAH
@@ -45212,7 +46469,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1040621 -> True
 // for: PRINDALTablett4mg, 1.25mg, 5mg
 * packageFor = Reference(mp-643ee4aafe3a5f6160418089c8bc144f)
 // Reference to Organization: MAH
@@ -45246,7 +46504,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-78d84c5aa9afd2a1393c6c16dc88821e)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1040521 -> True
 // for: PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg
 * packageFor = Reference(mp-78d84c5aa9afd2a1393c6c16dc88821e)
 // Reference to Organization: MAH
@@ -45280,7 +46539,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-78d84c5aa9afd2a1393c6c16dc88821e)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1040521 -> True
 // for: PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg
 * packageFor = Reference(mp-78d84c5aa9afd2a1393c6c16dc88821e)
 // Reference to Organization: MAH
@@ -45314,7 +46574,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-57c88696b92540a20d8687d5705cc3a7)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1040421 -> True
 // for: PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg, 5mg
 * packageFor = Reference(mp-57c88696b92540a20d8687d5705cc3a7)
 // Reference to Organization: MAH
@@ -45348,7 +46609,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-57c88696b92540a20d8687d5705cc3a7)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1040421 -> True
 // for: PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg, 5mg
 * packageFor = Reference(mp-57c88696b92540a20d8687d5705cc3a7)
 // Reference to Organization: MAH
@@ -45382,7 +46644,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a10c712d5e22defbadaacf5c590d91c1)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1040321 -> True
 // for: PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg, 5mg
 * packageFor = Reference(mp-a10c712d5e22defbadaacf5c590d91c1)
 // Reference to Organization: MAH
@@ -45416,7 +46679,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a10c712d5e22defbadaacf5c590d91c1)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1040321 -> True
 // for: PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg, 5mg
 * packageFor = Reference(mp-a10c712d5e22defbadaacf5c590d91c1)
 // Reference to Organization: MAH
@@ -45450,7 +46714,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-37ceb237ec18c2826b5fb5e68f9b2ab7)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1040221 -> True
 // for: PERINDOPRIL/ AMLODIPINE ACTAVISTablett5mg
 * packageFor = Reference(mp-37ceb237ec18c2826b5fb5e68f9b2ab7)
 // Reference to Organization: MAH
@@ -45484,7 +46749,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-37ceb237ec18c2826b5fb5e68f9b2ab7)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1040221 -> True
 // for: PERINDOPRIL/ AMLODIPINE ACTAVISTablett5mg
 * packageFor = Reference(mp-37ceb237ec18c2826b5fb5e68f9b2ab7)
 // Reference to Organization: MAH
@@ -45518,7 +46784,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-37ceb237ec18c2826b5fb5e68f9b2ab7)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1040221 -> True
 // for: PERINDOPRIL/ AMLODIPINE ACTAVISTablett5mg
 * packageFor = Reference(mp-37ceb237ec18c2826b5fb5e68f9b2ab7)
 // Reference to Organization: MAH
@@ -45555,7 +46822,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024421 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg
 * packageFor = Reference(mp-94ca8b2b6607663f81de9d9de6f86cc4)
 // Reference to Organization: MAH
@@ -45592,7 +46860,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024421 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg
 * packageFor = Reference(mp-94ca8b2b6607663f81de9d9de6f86cc4)
 // Reference to Organization: MAH
@@ -45629,7 +46898,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024421 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg
 * packageFor = Reference(mp-94ca8b2b6607663f81de9d9de6f86cc4)
 // Reference to Organization: MAH
@@ -45666,7 +46936,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024421 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg
 * packageFor = Reference(mp-94ca8b2b6607663f81de9d9de6f86cc4)
 // Reference to Organization: MAH
@@ -45703,7 +46974,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024421 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg
 * packageFor = Reference(mp-94ca8b2b6607663f81de9d9de6f86cc4)
 // Reference to Organization: MAH
@@ -45740,7 +47012,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024421 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg
 * packageFor = Reference(mp-94ca8b2b6607663f81de9d9de6f86cc4)
 // Reference to Organization: MAH
@@ -45777,7 +47050,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024421 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg
 * packageFor = Reference(mp-94ca8b2b6607663f81de9d9de6f86cc4)
 // Reference to Organization: MAH
@@ -45814,7 +47088,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024421 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg
 * packageFor = Reference(mp-94ca8b2b6607663f81de9d9de6f86cc4)
 // Reference to Organization: MAH
@@ -45851,7 +47126,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//1024421 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg
 * packageFor = Reference(mp-94ca8b2b6607663f81de9d9de6f86cc4)
 // Reference to Organization: MAH
@@ -45888,7 +47164,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024321 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg
 * packageFor = Reference(mp-4b344cb66e0bc241725ca467be44dc84)
 // Reference to Organization: MAH
@@ -45925,7 +47202,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024321 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg
 * packageFor = Reference(mp-4b344cb66e0bc241725ca467be44dc84)
 // Reference to Organization: MAH
@@ -45962,7 +47240,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024321 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg
 * packageFor = Reference(mp-4b344cb66e0bc241725ca467be44dc84)
 // Reference to Organization: MAH
@@ -45999,7 +47278,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024321 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg
 * packageFor = Reference(mp-4b344cb66e0bc241725ca467be44dc84)
 // Reference to Organization: MAH
@@ -46036,7 +47316,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024321 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg
 * packageFor = Reference(mp-4b344cb66e0bc241725ca467be44dc84)
 // Reference to Organization: MAH
@@ -46073,7 +47354,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1024321 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg
 * packageFor = Reference(mp-4b344cb66e0bc241725ca467be44dc84)
 // Reference to Organization: MAH
@@ -46110,7 +47392,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024321 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg
 * packageFor = Reference(mp-4b344cb66e0bc241725ca467be44dc84)
 // Reference to Organization: MAH
@@ -46147,7 +47430,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//1024321 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg
 * packageFor = Reference(mp-4b344cb66e0bc241725ca467be44dc84)
 // Reference to Organization: MAH
@@ -46184,7 +47468,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024321 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg
 * packageFor = Reference(mp-4b344cb66e0bc241725ca467be44dc84)
 // Reference to Organization: MAH
@@ -46221,7 +47506,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024221 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg
 * packageFor = Reference(mp-94c09fe7996b6f1c26c7ef488b62c37d)
 // Reference to Organization: MAH
@@ -46258,7 +47544,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024221 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg
 * packageFor = Reference(mp-94c09fe7996b6f1c26c7ef488b62c37d)
 // Reference to Organization: MAH
@@ -46295,7 +47582,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024221 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg
 * packageFor = Reference(mp-94c09fe7996b6f1c26c7ef488b62c37d)
 // Reference to Organization: MAH
@@ -46332,7 +47620,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024221 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg
 * packageFor = Reference(mp-94c09fe7996b6f1c26c7ef488b62c37d)
 // Reference to Organization: MAH
@@ -46369,7 +47658,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024221 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg
 * packageFor = Reference(mp-94c09fe7996b6f1c26c7ef488b62c37d)
 // Reference to Organization: MAH
@@ -46406,7 +47696,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//1024221 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg
 * packageFor = Reference(mp-94c09fe7996b6f1c26c7ef488b62c37d)
 // Reference to Organization: MAH
@@ -46443,7 +47734,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//1024221 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg
 * packageFor = Reference(mp-94c09fe7996b6f1c26c7ef488b62c37d)
 // Reference to Organization: MAH
@@ -46480,7 +47772,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024221 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg
 * packageFor = Reference(mp-94c09fe7996b6f1c26c7ef488b62c37d)
 // Reference to Organization: MAH
@@ -46517,7 +47810,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024221 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg
 * packageFor = Reference(mp-94c09fe7996b6f1c26c7ef488b62c37d)
 // Reference to Organization: MAH
@@ -46554,7 +47848,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024121 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg
 * packageFor = Reference(mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
 // Reference to Organization: MAH
@@ -46591,7 +47886,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024121 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg
 * packageFor = Reference(mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
 // Reference to Organization: MAH
@@ -46628,7 +47924,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024121 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg
 * packageFor = Reference(mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
 // Reference to Organization: MAH
@@ -46665,7 +47962,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024121 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg
 * packageFor = Reference(mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
 // Reference to Organization: MAH
@@ -46702,7 +48000,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1024121 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg
 * packageFor = Reference(mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
 // Reference to Organization: MAH
@@ -46739,7 +48038,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024121 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg
 * packageFor = Reference(mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
 // Reference to Organization: MAH
@@ -46776,7 +48076,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1024121 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg
 * packageFor = Reference(mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
 // Reference to Organization: MAH
@@ -46813,7 +48114,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//1024121 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg
 * packageFor = Reference(mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
 // Reference to Organization: MAH
@@ -46850,7 +48152,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1024121 -> True
 // for: TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg
 * packageFor = Reference(mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
 // Reference to Organization: MAH
@@ -46884,7 +48187,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -46918,7 +48222,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -46952,7 +48257,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -46986,7 +48292,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -47020,7 +48327,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -47057,7 +48365,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -47094,7 +48403,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -47131,7 +48441,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -47168,7 +48479,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -47205,7 +48517,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -47242,7 +48555,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -47279,7 +48593,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -47316,7 +48631,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023821 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg
 * packageFor = Reference(mp-b180105b4594b1a235b80b581b787e88)
 // Reference to Organization: MAH
@@ -47353,7 +48669,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47390,7 +48707,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47427,7 +48745,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47464,7 +48783,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47501,7 +48821,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47538,7 +48859,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47572,7 +48894,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47606,7 +48929,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47643,7 +48967,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47680,7 +49005,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47717,7 +49043,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47751,7 +49078,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47788,7 +49116,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1023721 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg
 * packageFor = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 // Reference to Organization: MAH
@@ -47822,7 +49151,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -47856,7 +49186,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -47890,7 +49221,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -47927,7 +49259,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003209 " PolyAmide"  
+    * material[+] = $200000003199#200000003209 " PolyAmide"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -47961,7 +49294,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -47995,7 +49329,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -48029,7 +49364,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -48063,7 +49399,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -48100,7 +49437,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -48137,7 +49475,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -48171,7 +49510,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -48208,7 +49548,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -48245,7 +49586,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023621 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg
 * packageFor = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 // Reference to Organization: MAH
@@ -48282,7 +49624,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48319,7 +49662,8 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48356,7 +49700,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48393,7 +49738,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48430,7 +49776,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48467,7 +49814,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48504,7 +49852,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48541,7 +49890,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48578,7 +49928,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48615,7 +49966,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003209 " PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48652,7 +50004,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48689,7 +50042,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48726,7 +50080,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023521 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg
 * packageFor = Reference(mp-13860393e0d6201d8bced905eab31694)
 // Reference to Organization: MAH
@@ -48760,7 +50115,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 500
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -48794,7 +50150,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -48828,7 +50185,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -48862,7 +50220,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -48896,7 +50255,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 300
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -48930,7 +50290,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 50
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -48964,7 +50325,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -48998,7 +50360,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 84
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -49035,7 +50398,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
     * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -49069,7 +50433,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 7
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -49103,7 +50468,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -49137,7 +50503,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -49174,7 +50541,8 @@ Usage: #example
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene"  
+    * material[+] = $200000003199#200000003214 " PolyEthylene"
+//1023421 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg
 * packageFor = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 // Reference to Organization: MAH
@@ -49210,7 +50578,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1017520 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-61e636582ddb3a8fe7f052c5963552b3)
 // Reference to Organization: MAH
@@ -49246,7 +50615,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1017520 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-61e636582ddb3a8fe7f052c5963552b3)
 // Reference to Organization: MAH
@@ -49282,7 +50652,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1017520 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-61e636582ddb3a8fe7f052c5963552b3)
 // Reference to Organization: MAH
@@ -49318,7 +50689,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1017520 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg
 * packageFor = Reference(mp-61e636582ddb3a8fe7f052c5963552b3)
 // Reference to Organization: MAH
@@ -49354,7 +50726,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1017420 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg
 * packageFor = Reference(mp-31917c274c465c03872ca5e6afa9d272)
 // Reference to Organization: MAH
@@ -49390,7 +50763,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1017420 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg
 * packageFor = Reference(mp-31917c274c465c03872ca5e6afa9d272)
 // Reference to Organization: MAH
@@ -49426,7 +50800,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1017420 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg
 * packageFor = Reference(mp-31917c274c465c03872ca5e6afa9d272)
 // Reference to Organization: MAH
@@ -49462,7 +50837,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1017420 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg
 * packageFor = Reference(mp-31917c274c465c03872ca5e6afa9d272)
 // Reference to Organization: MAH
@@ -49498,7 +50874,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1017320 -> True
 // for: NORVASCTablett10mg
 * packageFor = Reference(mp-a0a5c6fec3f94cc85dd264a42dc34740)
 // Reference to Organization: MAH
@@ -49534,7 +50911,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1017220 -> True
 // for: NORVASCTablett5mg
 * packageFor = Reference(mp-7622a96b7cdac59b9ebbffcc7e1a4fa4)
 // Reference to Organization: MAH
@@ -49570,7 +50948,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1008120 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-119dda1fbe0cbb4d5766c20a38da5ee0)
 // Reference to Organization: MAH
@@ -49606,7 +50985,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1008120 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-119dda1fbe0cbb4d5766c20a38da5ee0)
 // Reference to Organization: MAH
@@ -49642,7 +51022,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1008120 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-119dda1fbe0cbb4d5766c20a38da5ee0)
 // Reference to Organization: MAH
@@ -49678,7 +51059,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1008120 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-119dda1fbe0cbb4d5766c20a38da5ee0)
 // Reference to Organization: MAH
@@ -49714,7 +51096,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1008120 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-119dda1fbe0cbb4d5766c20a38da5ee0)
 // Reference to Organization: MAH
@@ -49750,7 +51133,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1008120 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-119dda1fbe0cbb4d5766c20a38da5ee0)
 // Reference to Organization: MAH
@@ -49786,7 +51170,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1008120 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-119dda1fbe0cbb4d5766c20a38da5ee0)
 // Reference to Organization: MAH
@@ -49822,7 +51207,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1008120 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg
 * packageFor = Reference(mp-119dda1fbe0cbb4d5766c20a38da5ee0)
 // Reference to Organization: MAH
@@ -49858,7 +51244,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1008020 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-b5313c5cbaa184b004949e74d53d9507)
 // Reference to Organization: MAH
@@ -49894,7 +51281,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1008020 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-b5313c5cbaa184b004949e74d53d9507)
 // Reference to Organization: MAH
@@ -49930,7 +51318,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1008020 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-b5313c5cbaa184b004949e74d53d9507)
 // Reference to Organization: MAH
@@ -49966,7 +51355,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1008020 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-b5313c5cbaa184b004949e74d53d9507)
 // Reference to Organization: MAH
@@ -50002,7 +51392,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1008020 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-b5313c5cbaa184b004949e74d53d9507)
 // Reference to Organization: MAH
@@ -50038,7 +51429,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1008020 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-b5313c5cbaa184b004949e74d53d9507)
 // Reference to Organization: MAH
@@ -50074,7 +51466,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1008020 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-b5313c5cbaa184b004949e74d53d9507)
 // Reference to Organization: MAH
@@ -50110,7 +51503,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1008020 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-b5313c5cbaa184b004949e74d53d9507)
 // Reference to Organization: MAH
@@ -50146,7 +51540,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007920 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-822bf262c1257145abe4a7e648bb8314)
 // Reference to Organization: MAH
@@ -50182,7 +51577,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1007920 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-822bf262c1257145abe4a7e648bb8314)
 // Reference to Organization: MAH
@@ -50218,7 +51614,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1007920 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-822bf262c1257145abe4a7e648bb8314)
 // Reference to Organization: MAH
@@ -50254,7 +51651,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1007920 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-822bf262c1257145abe4a7e648bb8314)
 // Reference to Organization: MAH
@@ -50290,7 +51688,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007920 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-822bf262c1257145abe4a7e648bb8314)
 // Reference to Organization: MAH
@@ -50326,7 +51725,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1007920 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-822bf262c1257145abe4a7e648bb8314)
 // Reference to Organization: MAH
@@ -50362,7 +51762,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007920 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-822bf262c1257145abe4a7e648bb8314)
 // Reference to Organization: MAH
@@ -50398,7 +51799,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007920 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg
 * packageFor = Reference(mp-822bf262c1257145abe4a7e648bb8314)
 // Reference to Organization: MAH
@@ -50434,7 +51836,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007820 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg
 * packageFor = Reference(mp-c070bacb375a778ab6acb3e41d9f05be)
 // Reference to Organization: MAH
@@ -50470,7 +51873,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007820 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg
 * packageFor = Reference(mp-c070bacb375a778ab6acb3e41d9f05be)
 // Reference to Organization: MAH
@@ -50506,7 +51910,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1007820 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg
 * packageFor = Reference(mp-c070bacb375a778ab6acb3e41d9f05be)
 // Reference to Organization: MAH
@@ -50542,7 +51947,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1007820 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg
 * packageFor = Reference(mp-c070bacb375a778ab6acb3e41d9f05be)
 // Reference to Organization: MAH
@@ -50578,7 +51984,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//1007820 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg
 * packageFor = Reference(mp-c070bacb375a778ab6acb3e41d9f05be)
 // Reference to Organization: MAH
@@ -50614,7 +52021,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007820 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg
 * packageFor = Reference(mp-c070bacb375a778ab6acb3e41d9f05be)
 // Reference to Organization: MAH
@@ -50650,7 +52058,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007820 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg
 * packageFor = Reference(mp-c070bacb375a778ab6acb3e41d9f05be)
 // Reference to Organization: MAH
@@ -50686,7 +52095,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007820 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg
 * packageFor = Reference(mp-c070bacb375a778ab6acb3e41d9f05be)
 // Reference to Organization: MAH
@@ -50722,7 +52132,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007720 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-e7d221583fda37b88426e5b3dd80a1b7)
 // Reference to Organization: MAH
@@ -50758,7 +52169,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007720 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-e7d221583fda37b88426e5b3dd80a1b7)
 // Reference to Organization: MAH
@@ -50794,7 +52206,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1007720 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-e7d221583fda37b88426e5b3dd80a1b7)
 // Reference to Organization: MAH
@@ -50830,7 +52243,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//1007720 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-e7d221583fda37b88426e5b3dd80a1b7)
 // Reference to Organization: MAH
@@ -50866,7 +52280,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007720 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-e7d221583fda37b88426e5b3dd80a1b7)
 // Reference to Organization: MAH
@@ -50902,7 +52317,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007720 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-e7d221583fda37b88426e5b3dd80a1b7)
 // Reference to Organization: MAH
@@ -50938,7 +52354,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007720 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-e7d221583fda37b88426e5b3dd80a1b7)
 // Reference to Organization: MAH
@@ -50974,7 +52391,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//1007720 -> True
 // for: OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg
 * packageFor = Reference(mp-e7d221583fda37b88426e5b3dd80a1b7)
 // Reference to Organization: MAH
@@ -51008,7 +52426,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-91f76beabfa57c6be6d029c68a5ddf5f)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//1007620 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-91f76beabfa57c6be6d029c68a5ddf5f)
 // Reference to Organization: MAH
@@ -51042,7 +52461,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-91f76beabfa57c6be6d029c68a5ddf5f)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//1007620 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-91f76beabfa57c6be6d029c68a5ddf5f)
 // Reference to Organization: MAH
@@ -51076,7 +52496,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-91f76beabfa57c6be6d029c68a5ddf5f)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//1007620 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-91f76beabfa57c6be6d029c68a5ddf5f)
 // Reference to Organization: MAH
@@ -51110,7 +52531,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-91f76beabfa57c6be6d029c68a5ddf5f)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//1007620 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg
 * packageFor = Reference(mp-91f76beabfa57c6be6d029c68a5ddf5f)
 // Reference to Organization: MAH
@@ -51144,7 +52566,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3744649b31f6f96644d8fdd289e37a6a)
     * containedItem.amount.value = 14
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1007520 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg
 * packageFor = Reference(mp-3744649b31f6f96644d8fdd289e37a6a)
 // Reference to Organization: MAH
@@ -51178,7 +52601,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3744649b31f6f96644d8fdd289e37a6a)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1007520 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg
 * packageFor = Reference(mp-3744649b31f6f96644d8fdd289e37a6a)
 // Reference to Organization: MAH
@@ -51212,7 +52636,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3744649b31f6f96644d8fdd289e37a6a)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1007520 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg
 * packageFor = Reference(mp-3744649b31f6f96644d8fdd289e37a6a)
 // Reference to Organization: MAH
@@ -51246,7 +52671,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-3744649b31f6f96644d8fdd289e37a6a)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1007520 -> True
 // for: OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg
 * packageFor = Reference(mp-3744649b31f6f96644d8fdd289e37a6a)
 // Reference to Organization: MAH
@@ -51280,7 +52706,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-9ca15499bf1142e8576b8b6e580bd9e1)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1004620 -> True
 // for: GADUARÕhukese polümeerikattega tablett10mg, 12.5mg, 40mg
 * packageFor = Reference(mp-9ca15499bf1142e8576b8b6e580bd9e1)
 // Reference to Organization: MAH
@@ -51314,7 +52741,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-9ca15499bf1142e8576b8b6e580bd9e1)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1004620 -> True
 // for: GADUARÕhukese polümeerikattega tablett10mg, 12.5mg, 40mg
 * packageFor = Reference(mp-9ca15499bf1142e8576b8b6e580bd9e1)
 // Reference to Organization: MAH
@@ -51348,7 +52776,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-9ca15499bf1142e8576b8b6e580bd9e1)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1004620 -> True
 // for: GADUARÕhukese polümeerikattega tablett10mg, 12.5mg, 40mg
 * packageFor = Reference(mp-9ca15499bf1142e8576b8b6e580bd9e1)
 // Reference to Organization: MAH
@@ -51382,7 +52811,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a5b03160e1d68a9d92705962ec17d8e)
     * containedItem.amount.value = 28
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1004520 -> True
 // for: GADUARÕhukese polümeerikattega tablett40mg, 12.5mg, 5mg
 * packageFor = Reference(mp-6a5b03160e1d68a9d92705962ec17d8e)
 // Reference to Organization: MAH
@@ -51416,7 +52846,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a5b03160e1d68a9d92705962ec17d8e)
     * containedItem.amount.value = 56
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1004520 -> True
 // for: GADUARÕhukese polümeerikattega tablett40mg, 12.5mg, 5mg
 * packageFor = Reference(mp-6a5b03160e1d68a9d92705962ec17d8e)
 // Reference to Organization: MAH
@@ -51450,7 +52881,8 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-6a5b03160e1d68a9d92705962ec17d8e)
     * containedItem.amount.value = 98
      
-    * material[+] = $200000003199#None "nan"  
+    * material[+] = $200000003199#None "nan"
+//1004520 -> True
 // for: GADUARÕhukese polümeerikattega tablett40mg, 12.5mg, 5mg
 * packageFor = Reference(mp-6a5b03160e1d68a9d92705962ec17d8e)
 // Reference to Organization: MAH
@@ -51483,9 +52915,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1530
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -51516,9 +52948,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1531
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -51551,9 +52983,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1532
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -51586,9 +53018,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1533
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -51621,9 +53053,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1534
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -51656,9 +53088,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1535
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -51691,9 +53123,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1536
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -51724,9 +53156,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
-// for: QUADRIXAM 10MG/2,5MG/5MG/5MGKõvakapsel5mg, 2.5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1537
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000964)
 
@@ -51757,9 +53189,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
-// for: QUADRIXAM 10MG/2,5MG/10MG/5MGKõvakapsel2.5mg, 10mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1538
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000964)
 
@@ -51792,9 +53224,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: CO-DALNESSA NEOTablett5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1539
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -51825,9 +53257,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003219 "PolyPropylene"  
-// for: QUADRIXAM 5MG/1,25MG/5MG/5MGKõvakapsel5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003219 "PolyPropylene"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1540
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000964)
 
@@ -51860,9 +53292,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1541
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -51895,9 +53327,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1542
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -51930,9 +53362,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1543
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -51965,9 +53397,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
-// for: CO-DALNESSA NEOTablett5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1544
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -52000,9 +53432,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: CO-DALNESSA NEOTablett5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1545
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -52035,9 +53467,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1546
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -52070,9 +53502,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1547
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -52105,9 +53537,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1548
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -52140,9 +53572,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1549
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -52175,9 +53607,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1550
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -52210,9 +53642,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1551
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -52245,9 +53677,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1552
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -52280,9 +53712,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1553
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -52313,9 +53745,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1554
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52346,9 +53778,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1555
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52379,9 +53811,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 2.5mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1556
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52412,9 +53844,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 2.5mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1557
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52445,9 +53877,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 2.5mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1558
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52478,9 +53910,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 2.5mg, 5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1559
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52513,9 +53945,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1560
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -52546,9 +53978,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1561
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52579,9 +54011,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1562
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52612,9 +54044,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1563
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52645,9 +54077,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1564
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52678,9 +54110,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 2.5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1565
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52711,9 +54143,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 2.5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1566
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -52746,9 +54178,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: CO-DALNESSA NEOTablett2.5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1567
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -52781,9 +54213,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: CO-DALNESSA NEOTablett2.5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1568
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -52816,9 +54248,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
-// for: CO-DALNESSA NEOTablett2.5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1569
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -52851,9 +54283,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: CO-DALNESSA NEOTablett2.5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1570
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -52886,9 +54318,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: CO-DALNESSA NEOTablett2.5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1571
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -52921,9 +54353,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: CO-DALNESSA NEOTablett5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1572
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -52956,9 +54388,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: CO-DALNESSA NEOTablett10mg, 5mg, 2.5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1573
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -52989,9 +54421,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 2.5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1574
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -53022,9 +54454,9 @@ Usage: #example
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
      
-    * material[+] = $200000003199#200000003200 "Aluminium"  
-// for: PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVAÕhukese polümeerikattega tablett10mg, 2.5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1575
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002999)
 
@@ -53057,9 +54489,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1576
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53092,9 +54524,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
-// for: CO-DALNESSA NEOTablett10mg, 5mg, 2.5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1577
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -53127,9 +54559,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: CO-DALNESSA NEOTablett10mg, 5mg, 2.5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1578
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -53162,9 +54594,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: CO-DALNESSA NEOTablett10mg, 5mg, 2.5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1579
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -53197,9 +54629,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1580
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53232,9 +54664,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1581
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53267,9 +54699,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1582
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53302,9 +54734,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1583
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53337,9 +54769,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1584
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53372,9 +54804,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1585
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53407,9 +54839,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1586
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53442,9 +54874,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1587
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53477,9 +54909,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1588
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53512,9 +54944,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"  
-// for: RAMIPRIL/AMLODIPINE SANDOZKõvakapsel5mg, 10mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003200 " Aluminium"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1589
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100002040)
 
@@ -53547,9 +54979,9 @@ Usage: #example
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"  
-// for: CO-DALNESSA NEOTablett5mg, 1.25mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1590
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -53582,8 +55014,8 @@ Usage: #example
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"  
-// for: CO-DALNESSA NEOTablett10mg, 5mg, 2.5mg
-* packageFor = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
+    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+//nan -> False
+// ERROR[7] - no Müügiloa number: nan for this package in the medicinal sheet for INDEX:1591
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
