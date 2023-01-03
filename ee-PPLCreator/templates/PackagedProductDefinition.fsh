@@ -3,20 +3,25 @@
 
 {% set ns = namespace() %}
 {% set ns.mpone = row['Ravimi nimetus'] %}
+
 {% set ns.mpthree= row['Ravimi tugevus'] %}
+{% set ns.ppdone = row['Pakendikood'] %}
+
+
 {% set ns.mp_name_to_has= ns.mpone ~ns.mpthree  %}
+{% set ns.ppd_name_to_has= ns.mpone ~ns.mpthree ~ns.ppdone  %}
 
 
-Instance: ppd-{{ row["Ravimi nimetus"]| lower | regex_replace('[^A-Za-z0-9]+', '')}}
+Instance: ppd-{{ ns.ppd_name_to_has| create_hash_id}}
 InstanceOf: PPLPackagedProductDefinition
-Title: "{{ row["Ravimi nimetus"] }}"
-Description: "{{ row["Ravimi nimetus"] }}"
+Title: "{{ row["Ravimi nimetus"] }} - {{row["Ravimi tugevus"]}} - {{ row["Pakendi suurus"] }}"
+Description: "{{ row["Ravimi nimetus"] }} - {{row["Ravimi tugevus"]}} - {{ row["Pakendi suurus"] }}"
 Usage: #example
 //* id = "{{row['id']}}" 
 
 * identifier[pcid].value = "EE-{{row['Müügiloa hoidja organisatsiooni asukoha LOC ID']| replace('LOC-','')}}-{{row['Ravimikaardi number']}}-{{row['Pakendikood']}}"
 
-* name = "{{ row["Ravimi nimetus"] }}"
+* name = "{{ row["Ravimi nimetus"] }} - {{row["Ravimi tugevus"]}} - {{ row["Pakendi suurus"] }}"
 
 
 * description = ""
@@ -54,7 +59,8 @@ Usage: #example
     * material[+] = $200000003199#{{ row["Sisepakendi materjal"].split(",")[idx]|strip_spaces|get_data_dictionary_info(200000003199,"RMS termini id","RMS termini nimi") }} "{{ row["Sisepakendi materjal"].split(",")[idx] }}"
 
   {%- endfor %}
-
+  
+// for: {{ ns.mp_name_to_has }}
 * packageFor = Reference(mp-{{ ns.mp_name_to_has| create_hash_id}})
 
 // Reference to Organization: MAH
