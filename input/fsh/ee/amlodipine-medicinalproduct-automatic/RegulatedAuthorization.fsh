@@ -1,8 +1,8 @@
 
 
-Instance: auth-for-45f0935e8c6afee1cac2e42562b88f23
+Instance: auth-for-164134620f00a6ad7d864c07d28d7b1e
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
+Title: "Regulated Authorization for COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 10mg"
 Description: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
 Usage: #example
 //* id = "" 
@@ -11,7 +11,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-45f0935e8c6afee1cac2e42562b88f23)
+* subject = Reference(mp-164134620f00a6ad7d864c07d28d7b1e)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -21,9 +21,9 @@ Usage: #example
 * statusDate = "2009-11-04"
 * holder = Reference(ORG-100007373)
 
-Instance: auth-for-79d94ef7008f11d676a4adb2f00ebf9c
+Instance: auth-for-04f54f0b120da0e4d613148114948db6
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, losartaan"
+Title: "Regulated Authorization for TENLORISÕhukese polümeerikattega tablett10mg, 50mg"
 Description: "Regulated Authorization for amlodipiin, losartaan"
 Usage: #example
 //* id = "" 
@@ -32,7 +32,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-79d94ef7008f11d676a4adb2f00ebf9c)
+* subject = Reference(mp-04f54f0b120da0e4d613148114948db6)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -42,9 +42,9 @@ Usage: #example
 * statusDate = "2014-02-28"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-0a031421e9bcacd66a18c1675483f31f
+Instance: auth-for-d9b6ef48731c98284badcf0786ddae4a
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, atorvastatiin, perindopriil"
+Title: "Regulated Authorization for TRIVERAM 40MG/10MG/10MGÕhukese polümeerikattega tablett40mg, 10mg"
 Description: "Regulated Authorization for amlodipiin, atorvastatiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -53,7 +53,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-0a031421e9bcacd66a18c1675483f31f)
+* subject = Reference(mp-d9b6ef48731c98284badcf0786ddae4a)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -63,9 +63,9 @@ Usage: #example
 * statusDate = "2015-09-16"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-f882e68544af7ff49caa3b421488962b
+Instance: auth-for-b437fbb92af66ac8602316a292b734a3
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for indapamiid, amlodipiin, perindopriil"
+Title: "Regulated Authorization for TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg"
 Description: "Regulated Authorization for indapamiid, amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -74,7 +74,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-f882e68544af7ff49caa3b421488962b)
+* subject = Reference(mp-b437fbb92af66ac8602316a292b734a3)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -84,9 +84,9 @@ Usage: #example
 * statusDate = "2014-01-27"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-adcabea100f781d707218f571c4f037f
+Instance: auth-for-f561bcd9597099da88e683385eb84d34
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for indapamiid, amlodipiin"
+Title: "Regulated Authorization for NATRIXAMToimeainet modifitseeritult vabastav tablett10mg, 1.5mg"
 Description: "Regulated Authorization for indapamiid, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -95,7 +95,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-adcabea100f781d707218f571c4f037f)
+* subject = Reference(mp-f561bcd9597099da88e683385eb84d34)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -105,9 +105,9 @@ Usage: #example
 * statusDate = "2013-10-03"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-17e91c9786af1c33ef3711746fdd699f
+Instance: auth-for-c7b7b3ad9b130f95a3ad36a56478ef8c
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
+Title: "Regulated Authorization for COPALIAÕhukese polümeerikattega tablett160mg, 10mg"
 Description: "Regulated Authorization for valsartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -116,7 +116,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-17e91c9786af1c33ef3711746fdd699f)
+* subject = Reference(mp-c7b7b3ad9b130f95a3ad36a56478ef8c)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -126,9 +126,9 @@ Usage: #example
 * statusDate = "2007-01-16"
 * holder = Reference(ORG-100007373)
 
-Instance: auth-for-c647a5eaa7f88cc677cc523cd4489f33
+Instance: auth-for-8bcd4c6a63a2a4521739bcbe4ff922e6
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
+Title: "Regulated Authorization for EXFORGE HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg"
 Description: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
 Usage: #example
 //* id = "" 
@@ -137,7 +137,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-c647a5eaa7f88cc677cc523cd4489f33)
+* subject = Reference(mp-8bcd4c6a63a2a4521739bcbe4ff922e6)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -147,51 +147,9 @@ Usage: #example
 * statusDate = "2009-10-16"
 * holder = Reference(ORG-100007373)
 
-Instance: auth-for-35d09173235f772753a77e53a9ea7cf5
+Instance: auth-for-4f323eeb72eeb1f1fd12be728657ab61
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, valsartaan, amlodipiin"
-Description: "Regulated Authorization for hüdroklorotiasiid, valsartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/569"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-35d09173235f772753a77e53a9ea7cf5)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-10-16"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-92d33ee71b4da091e8b7e9f612b8e1ff
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, valsartaan"
-Description: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, valsartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/575"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-92d33ee71b4da091e8b7e9f612b8e1ff)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-11-04"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-f731a02dc6726c193e888eb8473bce7c
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, telmisartaan"
+Title: "Regulated Authorization for TWYNSTATablett40mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, telmisartaan"
 Usage: #example
 //* id = "" 
@@ -200,7 +158,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-f731a02dc6726c193e888eb8473bce7c)
+* subject = Reference(mp-4f323eeb72eeb1f1fd12be728657ab61)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -210,9 +168,9 @@ Usage: #example
 * statusDate = "2010-10-07"
 * holder = Reference(ORG-100012432)
 
-Instance: auth-for-cbb5b7c3355aa4ad4452daa5ccf361d8
+Instance: auth-for-1679e02bd535d5bf19f330ce4bcf681e
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for ALNETATablett5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -221,7 +179,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-cbb5b7c3355aa4ad4452daa5ccf361d8)
+* subject = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -231,9 +189,9 @@ Usage: #example
 * statusDate = "2013-03-04"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-35853d394af67d440318431128545504
+Instance: auth-for-4b4b41bca51db4ce2a7ae1853bc6ea85
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AMLODIPINE VITABALANSTablett5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -242,7 +200,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-35853d394af67d440318431128545504)
+* subject = Reference(mp-4b4b41bca51db4ce2a7ae1853bc6ea85)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -252,9 +210,9 @@ Usage: #example
 * statusDate = "2011-06-10"
 * holder = Reference(MO193)
 
-Instance: auth-for-5247de08b58896d4604494db80171dbb
+Instance: auth-for-13860393e0d6201d8bced905eab31694
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -263,7 +221,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-5247de08b58896d4604494db80171dbb)
+* subject = Reference(mp-13860393e0d6201d8bced905eab31694)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -273,30 +231,9 @@ Usage: #example
 * statusDate = "2021-03-03"
 * holder = Reference(ORG-100007006)
 
-Instance: auth-for-b7b1332419d9664bd0a99267c5ca5d15
+Instance: auth-for-15a3485fca0150bf08be1d4cb03d6e36
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, valsartaan"
-Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, valsartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/575"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-b7b1332419d9664bd0a99267c5ca5d15)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-11-04"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-c3588d5de2aa94d14dfc321e47b53873
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for NORVASCTablett10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -305,7 +242,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-c3588d5de2aa94d14dfc321e47b53873)
+* subject = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -315,9 +252,9 @@ Usage: #example
 * statusDate = "1997-08-22"
 * holder = Reference(ORG-100023206)
 
-Instance: auth-for-a1678839878d289a5d59bc56a5c851c3
+Instance: auth-for-32358d5ad82c1915617c683c151c43b5
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
+Title: "Regulated Authorization for SANORAL HCTÕhukese polümeerikattega tablett25mg, 40mg, 10mg"
 Description: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
 Usage: #example
 //* id = "" 
@@ -326,7 +263,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-a1678839878d289a5d59bc56a5c851c3)
+* subject = Reference(mp-32358d5ad82c1915617c683c151c43b5)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -336,9 +273,9 @@ Usage: #example
 * statusDate = "2011-02-01"
 * holder = Reference(ORG-100001429)
 
-Instance: auth-for-9bc7efd141bacc1f239a88bf248c4a49
+Instance: auth-for-7622a96b7cdac59b9ebbffcc7e1a4fa4
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for NORVASCTablett5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -347,7 +284,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-9bc7efd141bacc1f239a88bf248c4a49)
+* subject = Reference(mp-7622a96b7cdac59b9ebbffcc7e1a4fa4)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -357,9 +294,9 @@ Usage: #example
 * statusDate = "2021-01-06"
 * holder = Reference(ORG-100010645)
 
-Instance: auth-for-16567a37a49722b6efb051ab302e0806
+Instance: auth-for-010be9a91927897698bafa89faddff0f
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
+Title: "Regulated Authorization for WAMLOXÕhukese polümeerikattega tablett5mg, 320mg"
 Description: "Regulated Authorization for valsartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -368,7 +305,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-16567a37a49722b6efb051ab302e0806)
+* subject = Reference(mp-010be9a91927897698bafa89faddff0f)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -378,9 +315,9 @@ Usage: #example
 * statusDate = "2019-02-05"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-751982d36267f6af45f89450a66228d5
+Instance: auth-for-b5313c5cbaa184b004949e74d53d9507
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg"
 Description: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -389,7 +326,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-751982d36267f6af45f89450a66228d5)
+* subject = Reference(mp-b5313c5cbaa184b004949e74d53d9507)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -399,9 +336,9 @@ Usage: #example
 * statusDate = "2020-06-25"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-8bd0ba4c333aa18d77bf0705a8ced0ba
+Instance: auth-for-263ba0af301b3e5c7965d3c03cfc9f36
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
+Title: "Regulated Authorization for SANORAL HCTÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg"
 Description: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
 Usage: #example
 //* id = "" 
@@ -410,7 +347,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-8bd0ba4c333aa18d77bf0705a8ced0ba)
+* subject = Reference(mp-263ba0af301b3e5c7965d3c03cfc9f36)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -420,9 +357,9 @@ Usage: #example
 * statusDate = "2011-02-01"
 * holder = Reference(ORG-100001429)
 
-Instance: auth-for-7fcb407288ad62b918b13e365fbd54cc
+Instance: auth-for-c6a4d07400af5debe7a409ff078672ac
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
+Title: "Regulated Authorization for VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg"
 Description: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
 Usage: #example
 //* id = "" 
@@ -431,7 +368,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-7fcb407288ad62b918b13e365fbd54cc)
+* subject = Reference(mp-c6a4d07400af5debe7a409ff078672ac)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -441,9 +378,9 @@ Usage: #example
 * statusDate = "2019-03-05"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-110a0c04656125cfacee1f7d25d7b2a4
+Instance: auth-for-0626809da44619b0d2c792566acd5a8a
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for SANORALÕhukese polümeerikattega tablett10mg, 40mg"
 Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -452,7 +389,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-110a0c04656125cfacee1f7d25d7b2a4)
+* subject = Reference(mp-0626809da44619b0d2c792566acd5a8a)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -462,9 +399,9 @@ Usage: #example
 * statusDate = "2008-10-31"
 * holder = Reference(ORG-100001429)
 
-Instance: auth-for-8824260f5cc166a9c5c9fcebf6d2daad
+Instance: auth-for-5ce9683130355affc8b16ac3a0a50c7e
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for OLSSAÕhukese polümeerikattega tablett20mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -473,7 +410,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-8824260f5cc166a9c5c9fcebf6d2daad)
+* subject = Reference(mp-5ce9683130355affc8b16ac3a0a50c7e)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -483,9 +420,9 @@ Usage: #example
 * statusDate = "2017-09-12"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-03965de418b25ef6cb5db065291a7f06
+Instance: auth-for-119dda1fbe0cbb4d5766c20a38da5ee0
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
+Title: "Regulated Authorization for OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg"
 Description: "Regulated Authorization for olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -494,7 +431,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-03965de418b25ef6cb5db065291a7f06)
+* subject = Reference(mp-119dda1fbe0cbb4d5766c20a38da5ee0)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -504,9 +441,9 @@ Usage: #example
 * statusDate = "2020-06-25"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-018b2aca0bd97853048671b255066e99
+Instance: auth-for-d60f852183ec7c722cb53397956b2ae7
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, hüdroklorotiasiid, amlodipiin"
+Title: "Regulated Authorization for VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg"
 Description: "Regulated Authorization for valsartaan, hüdroklorotiasiid, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -515,7 +452,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-018b2aca0bd97853048671b255066e99)
+* subject = Reference(mp-d60f852183ec7c722cb53397956b2ae7)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -525,9 +462,9 @@ Usage: #example
 * statusDate = "2019-03-05"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-fb0b7baa5d9eda64115a890415e80475
+Instance: auth-for-de741236fa2f76511dce73889ad8e0ea
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
+Title: "Regulated Authorization for SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg"
 Description: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
 Usage: #example
 //* id = "" 
@@ -536,7 +473,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-fb0b7baa5d9eda64115a890415e80475)
+* subject = Reference(mp-de741236fa2f76511dce73889ad8e0ea)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -546,9 +483,9 @@ Usage: #example
 * statusDate = "2011-02-01"
 * holder = Reference(ORG-100001429)
 
-Instance: auth-for-1eb740d7e18811fcb9c04e22b23627d2
+Instance: auth-for-613be9b5571f706096c8eacc2b9907ee
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
+Title: "Regulated Authorization for DAFIROÕhukese polümeerikattega tablett160mg, 5mg"
 Description: "Regulated Authorization for valsartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -557,7 +494,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-1eb740d7e18811fcb9c04e22b23627d2)
+* subject = Reference(mp-613be9b5571f706096c8eacc2b9907ee)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -567,9 +504,9 @@ Usage: #example
 * statusDate = "2007-01-16"
 * holder = Reference(ORG-100007373)
 
-Instance: auth-for-48e9dc9be347304877f019cdb587cb6f
+Instance: auth-for-7201bd4cdc4828fe6ce1387234eb80d6
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
+Title: "Regulated Authorization for DAFIRO HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg"
 Description: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
 Usage: #example
 //* id = "" 
@@ -578,7 +515,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-48e9dc9be347304877f019cdb587cb6f)
+* subject = Reference(mp-7201bd4cdc4828fe6ce1387234eb80d6)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -588,9 +525,9 @@ Usage: #example
 * statusDate = "2009-11-04"
 * holder = Reference(ORG-100007373)
 
-Instance: auth-for-4b80c9797bfb38a9ee6bdb59d74bd7b1
+Instance: auth-for-accccddd018b8143ee1f6f3ac998ea17
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
+Title: "Regulated Authorization for PRINDALTablett10mg, 4mg, 1.25mg"
 Description: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
 Usage: #example
 //* id = "" 
@@ -599,7 +536,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-4b80c9797bfb38a9ee6bdb59d74bd7b1)
+* subject = Reference(mp-accccddd018b8143ee1f6f3ac998ea17)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -609,9 +546,9 @@ Usage: #example
 * statusDate = "2021-09-15"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-7d8038aee37a8ee6fbbba9733a63ad82
+Instance: auth-for-ad5fa36f0a37f7988fe97a35b64703c3
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for SANORAL HCTÕhukese polümeerikattega tablett40mg, 25mg, 5mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -620,7 +557,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-7d8038aee37a8ee6fbbba9733a63ad82)
+* subject = Reference(mp-ad5fa36f0a37f7988fe97a35b64703c3)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -630,9 +567,9 @@ Usage: #example
 * statusDate = "2011-02-01"
 * holder = Reference(ORG-100001429)
 
-Instance: auth-for-988b0afba39c079462ec0e0709b0b508
+Instance: auth-for-78d84c5aa9afd2a1393c6c16dc88821e
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
+Title: "Regulated Authorization for PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg"
 Description: "Regulated Authorization for perindopriil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -641,7 +578,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-988b0afba39c079462ec0e0709b0b508)
+* subject = Reference(mp-78d84c5aa9afd2a1393c6c16dc88821e)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -651,9 +588,9 @@ Usage: #example
 * statusDate = "2021-09-15"
 * holder = Reference(ORG-100000064)
 
-Instance: auth-for-a2bef397893b54b8eae7940bb907c558
+Instance: auth-for-c586f4681771f89753c2507e0b94c560
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil"
+Title: "Regulated Authorization for PERINDOPRIL/AMLODIPINE TEVATablett5mg, 10mg"
 Description: "Regulated Authorization for amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -662,7 +599,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-a2bef397893b54b8eae7940bb907c558)
+* subject = Reference(mp-c586f4681771f89753c2507e0b94c560)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -672,9 +609,9 @@ Usage: #example
 * statusDate = "2014-02-28"
 * holder = Reference(ORG-100000229)
 
-Instance: auth-for-092b46c08330d1ca1bae308f5e4b937b
+Instance: auth-for-9030bbd21e461a4d7993890e64808084
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AMLODIPINE MEDOCHEMIETablett10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -683,7 +620,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-092b46c08330d1ca1bae308f5e4b937b)
+* subject = Reference(mp-9030bbd21e461a4d7993890e64808084)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -693,9 +630,30 @@ Usage: #example
 * statusDate = "2007-12-14"
 * holder = Reference(MO11501)
 
-Instance: auth-for-16642694776ad41637e51f838bf36e59
+Instance: auth-for-ab811c9807131a6fe102e644fd451c1f
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for rosuvastatiin, amlodipiin, perindopriil"
+Title: "Regulated Authorization for NORVASCTablett5mg"
+Description: "Regulated Authorization for amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "942317"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2017-06-06"
+* holder = Reference(ORG-100009587)
+
+Instance: auth-for-573327ee63325ab95570125a87402104
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for ROXAMPEXÕhukese polümeerikattega tablett20mg, 8mg, 5mg"
 Description: "Regulated Authorization for rosuvastatiin, amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -704,7 +662,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-16642694776ad41637e51f838bf36e59)
+* subject = Reference(mp-573327ee63325ab95570125a87402104)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -714,9 +672,9 @@ Usage: #example
 * statusDate = "2019-11-04"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-57321416664c7aa448e26e4435b8d832
+Instance: auth-for-e83a5f55fb8df6937682eb3505af15a9
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVAÕhukese polümeerikattega tablett5mg, 40mg"
 Description: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -725,7 +683,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-57321416664c7aa448e26e4435b8d832)
+* subject = Reference(mp-e83a5f55fb8df6937682eb3505af15a9)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -735,9 +693,9 @@ Usage: #example
 * statusDate = "2017-11-07"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-de308c5750783b4c65d5394796ab1031
+Instance: auth-for-cf354a0807e9cb815fff08cde088fb4a
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for kandesartaan, amlodipiin"
+Title: "Regulated Authorization for FRAMSYLKõvakapsel10mg, 16mg"
 Description: "Regulated Authorization for kandesartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -746,7 +704,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-de308c5750783b4c65d5394796ab1031)
+* subject = Reference(mp-cf354a0807e9cb815fff08cde088fb4a)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -756,9 +714,9 @@ Usage: #example
 * statusDate = "2016-09-13"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-ad2c494913abfd1d3251a1d63c46d80b
+Instance: auth-for-e7d221583fda37b88426e5b3dd80a1b7
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
+Title: "Regulated Authorization for OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -767,7 +725,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-ad2c494913abfd1d3251a1d63c46d80b)
+* subject = Reference(mp-e7d221583fda37b88426e5b3dd80a1b7)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -777,9 +735,9 @@ Usage: #example
 * statusDate = "2020-06-25"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-2f5b81f0974784e0d5e5a493bb64b687
+Instance: auth-for-df6f54d028aaf1b44d6e3c437436fe59
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, losartaan"
+Title: "Regulated Authorization for TENLORISÕhukese polümeerikattega tablett100mg, 10mg"
 Description: "Regulated Authorization for amlodipiin, losartaan"
 Usage: #example
 //* id = "" 
@@ -788,7 +746,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-2f5b81f0974784e0d5e5a493bb64b687)
+* subject = Reference(mp-df6f54d028aaf1b44d6e3c437436fe59)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -798,9 +756,9 @@ Usage: #example
 * statusDate = "2014-02-28"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-7163d35a4bbf42862b1a21653e2a3fb8
+Instance: auth-for-a7d9b11d7516e2c592b590e952fc976a
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, indapamiid"
+Title: "Regulated Authorization for NATRIXAMToimeainet modifitseeritult vabastav tablett5mg, 1.5mg"
 Description: "Regulated Authorization for amlodipiin, indapamiid"
 Usage: #example
 //* id = "" 
@@ -809,7 +767,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-7163d35a4bbf42862b1a21653e2a3fb8)
+* subject = Reference(mp-a7d9b11d7516e2c592b590e952fc976a)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -819,9 +777,9 @@ Usage: #example
 * statusDate = "2013-10-03"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-199f1c0c9ac4de4f24f1558dd5a3ab3b
+Instance: auth-for-99095e57e9c62937e8d1830376f48ee1
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, atorvastatiin, amlodipiin"
+Title: "Regulated Authorization for TRIVERAM 10MG/5MG/5MGÕhukese polümeerikattega tablett10mg, 5mg"
 Description: "Regulated Authorization for perindopriil, atorvastatiin, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -830,7 +788,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-199f1c0c9ac4de4f24f1558dd5a3ab3b)
+* subject = Reference(mp-99095e57e9c62937e8d1830376f48ee1)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -840,9 +798,9 @@ Usage: #example
 * statusDate = "2015-09-16"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-120a9fe8ffb97fba32388a9003b0acd6
+Instance: auth-for-6a6e65652a6b7721f4a5f2be70b08b35
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for indapamiid, amlodipiin, perindopriil"
+Title: "Regulated Authorization for TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg"
 Description: "Regulated Authorization for indapamiid, amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -851,7 +809,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-120a9fe8ffb97fba32388a9003b0acd6)
+* subject = Reference(mp-6a6e65652a6b7721f4a5f2be70b08b35)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -861,9 +819,9 @@ Usage: #example
 * statusDate = "2014-01-27"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-daf7a27e4f2cefda4f055fdac2f30736
+Instance: auth-for-da7b63d04b10c63e7a151cb2ba5ff19e
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for kandesartaan, amlodipiin"
+Title: "Regulated Authorization for ZENICAMOTablett16mg, 10mg"
 Description: "Regulated Authorization for kandesartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -872,7 +830,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-daf7a27e4f2cefda4f055fdac2f30736)
+* subject = Reference(mp-da7b63d04b10c63e7a151cb2ba5ff19e)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -882,9 +840,9 @@ Usage: #example
 * statusDate = "2014-06-27"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-37f8128853136f233f44e712f4619741
+Instance: auth-for-a1851b4aa535d52d0d2ac4a11fb50172
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AMLODIPINE TEVATablett5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -893,7 +851,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-37f8128853136f233f44e712f4619741)
+* subject = Reference(mp-a1851b4aa535d52d0d2ac4a11fb50172)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -903,9 +861,9 @@ Usage: #example
 * statusDate = "2008-06-20"
 * holder = Reference(ORG-100000229)
 
-Instance: auth-for-eff1a621eaa44e230dbc8202935fa9f9
+Instance: auth-for-b0492c36fe06c5c43abac09862a8849a
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, indapamiid"
+Title: "Regulated Authorization for FLUTENSIFToimeainet modifitseeritult vabastav tablett10mg, 1.5mg"
 Description: "Regulated Authorization for amlodipiin, indapamiid"
 Usage: #example
 //* id = "" 
@@ -914,7 +872,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-eff1a621eaa44e230dbc8202935fa9f9)
+* subject = Reference(mp-b0492c36fe06c5c43abac09862a8849a)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -924,9 +882,9 @@ Usage: #example
 * statusDate = "2013-10-03"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-c6be6843aaa3cbf4327d96a2295712ce
+Instance: auth-for-7dca549a13b4eb244b56ce4143da701e
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, rosuvastatiin, perindopriil"
+Title: "Regulated Authorization for ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 20mg"
 Description: "Regulated Authorization for amlodipiin, rosuvastatiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -935,7 +893,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-c6be6843aaa3cbf4327d96a2295712ce)
+* subject = Reference(mp-7dca549a13b4eb244b56ce4143da701e)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -945,9 +903,9 @@ Usage: #example
 * statusDate = "2019-11-04"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-a99e9ee77f8a50d0042744aa6c1a3d7b
+Instance: auth-for-b180105b4594b1a235b80b581b787e88
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg"
 Description: "Regulated Authorization for olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -956,7 +914,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-a99e9ee77f8a50d0042744aa6c1a3d7b)
+* subject = Reference(mp-b180105b4594b1a235b80b581b787e88)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -966,9 +924,9 @@ Usage: #example
 * statusDate = "2021-03-03"
 * holder = Reference(ORG-100007006)
 
-Instance: auth-for-adc445ece170145f48fdc5e25c29934c
+Instance: auth-for-a2573215e0763e21fc8a639392996590
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
+Title: "Regulated Authorization for PERINDOPRIL/AMLODIPINE TEVATablett10mg"
 Description: "Regulated Authorization for perindopriil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -977,7 +935,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-adc445ece170145f48fdc5e25c29934c)
+* subject = Reference(mp-a2573215e0763e21fc8a639392996590)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -987,9 +945,9 @@ Usage: #example
 * statusDate = "2014-02-28"
 * holder = Reference(ORG-100000229)
 
-Instance: auth-for-40ddf0f34f98046f27a2be3a5b39afe7
+Instance: auth-for-bb4c6f95eaf1d70ad88821100fa7adf9
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AGEN 10MGTablett10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -998,7 +956,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-40ddf0f34f98046f27a2be3a5b39afe7)
+* subject = Reference(mp-bb4c6f95eaf1d70ad88821100fa7adf9)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1008,9 +966,9 @@ Usage: #example
 * statusDate = "2003-08-08"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-b5a26b3c5e3c9ecab032122846a7ef5e
+Instance: auth-for-b0cec8f4f684b9a926520e6574e76d6a
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for telmisartaan, amlodipiin"
+Title: "Regulated Authorization for MIXORTablett80mg, 5mg"
 Description: "Regulated Authorization for telmisartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -1019,7 +977,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-b5a26b3c5e3c9ecab032122846a7ef5e)
+* subject = Reference(mp-b0cec8f4f684b9a926520e6574e76d6a)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1029,9 +987,9 @@ Usage: #example
 * statusDate = "2015-09-16"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-5a003a4d377b6cb57262a8f7c0d376f1
+Instance: auth-for-9f441068e75d101a49305a458a1bb12c
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil, indapamiid"
+Title: "Regulated Authorization for PRINDALTablett8mg, 5mg, 2.5mg"
 Description: "Regulated Authorization for amlodipiin, perindopriil, indapamiid"
 Usage: #example
 //* id = "" 
@@ -1040,7 +998,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-5a003a4d377b6cb57262a8f7c0d376f1)
+* subject = Reference(mp-9f441068e75d101a49305a458a1bb12c)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1050,9 +1008,9 @@ Usage: #example
 * statusDate = "2021-09-15"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-bf040138a13adaa280a2271e87c6f253
+Instance: auth-for-15765dbdc2ced1a6cf154b0a0aee9241
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for rosuvastatiin, amlodipiin, perindopriil"
+Title: "Regulated Authorization for ROXAMPEXÕhukese polümeerikattega tablett8mg, 20mg, 10mg"
 Description: "Regulated Authorization for rosuvastatiin, amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -1061,7 +1019,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-bf040138a13adaa280a2271e87c6f253)
+* subject = Reference(mp-15765dbdc2ced1a6cf154b0a0aee9241)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1071,9 +1029,9 @@ Usage: #example
 * statusDate = "2019-11-04"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-9074e4ce1245d96020e62afdb2505327
+Instance: auth-for-a3d2de7675556553a5f08e4c88d2c228
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, ramipriil"
+Title: "Regulated Authorization for RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg"
 Description: "Regulated Authorization for amlodipiin, ramipriil"
 Usage: #example
 //* id = "" 
@@ -1082,7 +1040,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-9074e4ce1245d96020e62afdb2505327)
+* subject = Reference(mp-a3d2de7675556553a5f08e4c88d2c228)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1091,9 +1049,9 @@ Usage: #example
 // ERROR[3] - no statusDate INDEX:53
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-446c3f0a7c1b513b021f1df2fadfee3c
+Instance: auth-for-45b27b7f250cda110709d2d99ecb83a3
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, valsartaan"
+Title: "Regulated Authorization for VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, valsartaan"
 Usage: #example
 //* id = "" 
@@ -1102,7 +1060,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-446c3f0a7c1b513b021f1df2fadfee3c)
+* subject = Reference(mp-45b27b7f250cda110709d2d99ecb83a3)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1112,9 +1070,9 @@ Usage: #example
 * statusDate = "2019-03-05"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-4c9bfeb261f0bb3bde9569d02f5b9452
+Instance: auth-for-e1834bf21b77833702defeadd9554a94
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
+Title: "Regulated Authorization for VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg"
 Description: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
 Usage: #example
 //* id = "" 
@@ -1123,7 +1081,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-4c9bfeb261f0bb3bde9569d02f5b9452)
+* subject = Reference(mp-e1834bf21b77833702defeadd9554a94)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1133,9 +1091,30 @@ Usage: #example
 * statusDate = "2019-03-05"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-25271f42d1512b756038bd83377006e2
+Instance: auth-for-78ea828e8c2e0f9915b779973ab0c27c
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for indapamiid, amlodipiin, perindopriil"
+Title: "Regulated Authorization for NORVASCTablett10mg"
+Description: "Regulated Authorization for amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "942417"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2017-06-06"
+* holder = Reference(ORG-100009587)
+
+Instance: auth-for-24891bfe3df12ce0ca603528df3819ec
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg"
 Description: "Regulated Authorization for indapamiid, amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -1144,7 +1123,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-25271f42d1512b756038bd83377006e2)
+* subject = Reference(mp-24891bfe3df12ce0ca603528df3819ec)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1154,9 +1133,9 @@ Usage: #example
 * statusDate = "2014-01-27"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-ea24a3ba02de5b428a814ead61a56403
+Instance: auth-for-6709cadec14d34a4ce70af63e9421a1b
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil, atorvastatiin"
+Title: "Regulated Authorization for TRIVERAM 20MG/10MG/10MGÕhukese polümeerikattega tablett20mg, 10mg"
 Description: "Regulated Authorization for amlodipiin, perindopriil, atorvastatiin"
 Usage: #example
 //* id = "" 
@@ -1165,7 +1144,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-ea24a3ba02de5b428a814ead61a56403)
+* subject = Reference(mp-6709cadec14d34a4ce70af63e9421a1b)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1175,9 +1154,9 @@ Usage: #example
 * statusDate = "2015-09-16"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-507e037e7b53f108597aa8104023b0ee
+Instance: auth-for-fedf52f451906e74f251473ff122a768
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AGEN 5MGTablett5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -1186,7 +1165,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-507e037e7b53f108597aa8104023b0ee)
+* subject = Reference(mp-fedf52f451906e74f251473ff122a768)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1196,9 +1175,9 @@ Usage: #example
 * statusDate = "2003-08-08"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-14a9e800c9c8b7337e6c27b0d7936d33
+Instance: auth-for-643ee4aafe3a5f6160418089c8bc144f
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
+Title: "Regulated Authorization for PRINDALTablett4mg, 1.25mg, 5mg"
 Description: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -1207,7 +1186,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-14a9e800c9c8b7337e6c27b0d7936d33)
+* subject = Reference(mp-643ee4aafe3a5f6160418089c8bc144f)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1217,29 +1196,9 @@ Usage: #example
 * statusDate = "2021-09-15"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-5eb8039a47a953161c3d809407e075f8
+Instance: auth-for-a10c712d5e22defbadaacf5c590d91c1
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
-Description: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-5eb8039a47a953161c3d809407e075f8)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:61
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-b3f629f916b3516763c75a379143140b
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
+Title: "Regulated Authorization for PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg, 5mg"
 Description: "Regulated Authorization for perindopriil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -1248,7 +1207,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-b3f629f916b3516763c75a379143140b)
+* subject = Reference(mp-a10c712d5e22defbadaacf5c590d91c1)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1258,9 +1217,9 @@ Usage: #example
 * statusDate = "2021-09-15"
 * holder = Reference(ORG-100000064)
 
-Instance: auth-for-b62ef02d7f298c872473be81d6a2776f
+Instance: auth-for-7111a5f4581c96aeb3d849b6c329cd37
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for bisoprolool, amlodipiin"
+Title: "Regulated Authorization for SOBYCOMBITablett10mg"
 Description: "Regulated Authorization for bisoprolool, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -1269,7 +1228,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-b62ef02d7f298c872473be81d6a2776f)
+* subject = Reference(mp-7111a5f4581c96aeb3d849b6c329cd37)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1279,9 +1238,9 @@ Usage: #example
 * statusDate = "2014-09-17"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-98e252160d8a05b3b34432da98ede78b
+Instance: auth-for-3532848b29b671c8226129387571af81
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, kandesartaan"
+Title: "Regulated Authorization for CAMDEROTablett16mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, kandesartaan"
 Usage: #example
 //* id = "" 
@@ -1290,7 +1249,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-98e252160d8a05b3b34432da98ede78b)
+* subject = Reference(mp-3532848b29b671c8226129387571af81)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1300,9 +1259,9 @@ Usage: #example
 * statusDate = "2018-02-13"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-5aa7a85004ead5b3c25b02647c3d7b13
+Instance: auth-for-5196a3ed0766610246524f22c6dfcb0b
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
+Title: "Regulated Authorization for PRINDALTablett10mg, 2.5mg, 8mg"
 Description: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -1311,7 +1270,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-5aa7a85004ead5b3c25b02647c3d7b13)
+* subject = Reference(mp-5196a3ed0766610246524f22c6dfcb0b)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1321,9 +1280,9 @@ Usage: #example
 * statusDate = "2021-09-15"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-a3548265bcf8910bf529bb3c5fe52082
+Instance: auth-for-e5a5f7e045adf8a26ccfb8c2bf81fd60
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, ramipriil"
+Title: "Regulated Authorization for RAMDACORDIA HCTKõvakapsel5mg, 10mg, 25mg"
 Description: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, ramipriil"
 Usage: #example
 //* id = "" 
@@ -1332,7 +1291,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-a3548265bcf8910bf529bb3c5fe52082)
+* subject = Reference(mp-e5a5f7e045adf8a26ccfb8c2bf81fd60)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1342,72 +1301,9 @@ Usage: #example
 * statusDate = "2019-03-05"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-1c1bc64e3b67621b00457a9b5c25e531
+Instance: auth-for-4f29a807fff14bdd583461050ab611da
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, valsartaan"
-Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, valsartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/569"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-1c1bc64e3b67621b00457a9b5c25e531)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-10-16"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-3016a3bb802bbb12cee9684604486b11
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, telmisartaan"
-Description: "Regulated Authorization for amlodipiin, telmisartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/10/648"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-3016a3bb802bbb12cee9684604486b11)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2010-10-07"
-* holder = Reference(ORG-100012432)
-
-Instance: auth-for-b5f4e393330007a97324b18215887a56
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for telmisartaan, amlodipiin"
-Description: "Regulated Authorization for telmisartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/10/648"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-b5f4e393330007a97324b18215887a56)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2010-10-07"
-* holder = Reference(ORG-100012432)
-
-Instance: auth-for-1cd4d52bdfe0cb782a5e7a5b0dfbc00a
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan"
+Title: "Regulated Authorization for AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett160mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, valsartaan"
 Usage: #example
 //* id = "" 
@@ -1416,7 +1312,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-1cd4d52bdfe0cb782a5e7a5b0dfbc00a)
+* subject = Reference(mp-4f29a807fff14bdd583461050ab611da)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1426,9 +1322,9 @@ Usage: #example
 * statusDate = "2016-03-22"
 * holder = Reference(ORG-100034257)
 
-Instance: auth-for-00a9676f55edb021c8f82b87d5b52738
+Instance: auth-for-c070bacb375a778ab6acb3e41d9f05be
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
+Title: "Regulated Authorization for OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg"
 Description: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin, hüdroklorotiasiid"
 Usage: #example
 //* id = "" 
@@ -1437,7 +1333,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-00a9676f55edb021c8f82b87d5b52738)
+* subject = Reference(mp-c070bacb375a778ab6acb3e41d9f05be)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1447,9 +1343,9 @@ Usage: #example
 * statusDate = "2020-06-25"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-cce6878d1173c2e5a657fbd6c7af3ab0
+Instance: auth-for-8ba5ffcc8e6daba03e3877db10902477
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil"
+Title: "Regulated Authorization for DALNESSATablett4mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -1458,7 +1354,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-cce6878d1173c2e5a657fbd6c7af3ab0)
+* subject = Reference(mp-8ba5ffcc8e6daba03e3877db10902477)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1468,9 +1364,9 @@ Usage: #example
 * statusDate = "2012-11-30"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-cf2aa8017868f4fefa99f3d5b8dfb316
+Instance: auth-for-9aaf3b0889d558b5811fdb64d375849b
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -1479,7 +1375,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-cf2aa8017868f4fefa99f3d5b8dfb316)
+* subject = Reference(mp-9aaf3b0889d558b5811fdb64d375849b)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1489,9 +1385,9 @@ Usage: #example
 * statusDate = "2019-07-02"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-2b0f21f21ccdaec01ec0c8fa01d0bb48
+Instance: auth-for-0c80dcb4c4e267a27fb81c3d56855721
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for telmisartaan, amlodipiin"
+Title: "Regulated Authorization for TELDIPINTablett5mg, 80mg"
 Description: "Regulated Authorization for telmisartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -1500,7 +1396,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-2b0f21f21ccdaec01ec0c8fa01d0bb48)
+* subject = Reference(mp-0c80dcb4c4e267a27fb81c3d56855721)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1510,9 +1406,9 @@ Usage: #example
 * statusDate = "2017-01-10"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-9df0a169966437f49f03b26709bab8da
+Instance: auth-for-94ca8b2b6607663f81de9d9de6f86cc4
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for telmisartaan, amlodipiin"
+Title: "Regulated Authorization for TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg"
 Description: "Regulated Authorization for telmisartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -1521,7 +1417,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-9df0a169966437f49f03b26709bab8da)
+* subject = Reference(mp-94ca8b2b6607663f81de9d9de6f86cc4)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1531,9 +1427,9 @@ Usage: #example
 * statusDate = "2021-03-03"
 * holder = Reference(ORG-100007006)
 
-Instance: auth-for-c80822ec8c3a18e165e480aa4d5d06f7
+Instance: auth-for-73a4218f437534c6c8ed0a098a21a879
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan"
+Title: "Regulated Authorization for EXFORGEÕhukese polümeerikattega tablett10mg, 160mg"
 Description: "Regulated Authorization for amlodipiin, valsartaan"
 Usage: #example
 //* id = "" 
@@ -1542,7 +1438,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-c80822ec8c3a18e165e480aa4d5d06f7)
+* subject = Reference(mp-73a4218f437534c6c8ed0a098a21a879)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1552,9 +1448,9 @@ Usage: #example
 * statusDate = "2007-01-17"
 * holder = Reference(ORG-100007373)
 
-Instance: auth-for-67a139480dff8125f40f189027f4b683
+Instance: auth-for-2d73f2b40745c9beffb94871f14a5b5a
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil"
+Title: "Regulated Authorization for DALNESSATablett2.85mg, 2.5mg"
 Description: "Regulated Authorization for amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -1563,7 +1459,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-67a139480dff8125f40f189027f4b683)
+* subject = Reference(mp-2d73f2b40745c9beffb94871f14a5b5a)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1573,29 +1469,9 @@ Usage: #example
 * statusDate = "2018-09-11"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-265adbf06e4021602cc0f4aeaf17a261
+Instance: auth-for-86425515252bedcd9cee98223732d690
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
-Description: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-265adbf06e4021602cc0f4aeaf17a261)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:78
-* holder = Reference(ORG-100002999)
-
-Instance: auth-for-8b106e5ac0f5025acae166f5726a78f8
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin, atorvastatiin"
+Title: "Regulated Authorization for TRIVERAM 20MG/10MG/5MGÕhukese polümeerikattega tablett5mg, 10mg, 20mg"
 Description: "Regulated Authorization for perindopriil, amlodipiin, atorvastatiin"
 Usage: #example
 //* id = "" 
@@ -1604,7 +1480,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-8b106e5ac0f5025acae166f5726a78f8)
+* subject = Reference(mp-86425515252bedcd9cee98223732d690)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1614,72 +1490,9 @@ Usage: #example
 * statusDate = "2015-09-16"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-df31ead1e31acef5c5d2c545fd5f3cab
+Instance: auth-for-9959fedb3a2dfee5867b44aa925ad2ec
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, telmisartaan"
-Description: "Regulated Authorization for amlodipiin, telmisartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/10/648"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-df31ead1e31acef5c5d2c545fd5f3cab)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2010-10-07"
-* holder = Reference(ORG-100012432)
-
-Instance: auth-for-400ce3a781f8dd283dd26879dbd7bade
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, valsartaan, amlodipiin"
-Description: "Regulated Authorization for hüdroklorotiasiid, valsartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/569"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-400ce3a781f8dd283dd26879dbd7bade)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-10-16"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-cef56e8f5244811ba5d8c6623b685120
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan"
-Description: "Regulated Authorization for amlodipiin, valsartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/16/1092"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-cef56e8f5244811ba5d8c6623b685120)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2016-03-22"
-* holder = Reference(ORG-100034257)
-
-Instance: auth-for-a06039568a76a455e165a849723b6eeb
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for HIPRESTablett5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -1688,7 +1501,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-a06039568a76a455e165a849723b6eeb)
+* subject = Reference(mp-9959fedb3a2dfee5867b44aa925ad2ec)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1698,51 +1511,9 @@ Usage: #example
 * statusDate = "2004-03-26"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-e3ec0d38af3d33762962f6f5a8e3948a
+Instance: auth-for-48df8f5cf063ad33bbd7174aaec3f4b2
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin, hüdroklorotiasiid"
-Description: "Regulated Authorization for valsartaan, amlodipiin, hüdroklorotiasiid"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/569"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-e3ec0d38af3d33762962f6f5a8e3948a)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-10-16"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-1d58916b8dd3a00bafe27af1e3fb67db
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, valsartaan"
-Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, valsartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/574"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-1d58916b8dd3a00bafe27af1e3fb67db)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-11-04"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-72b0b826f032f65457e53298f4fda370
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for telmisartaan, amlodipiin"
+Title: "Regulated Authorization for TELDIPINTablett80mg, 10mg"
 Description: "Regulated Authorization for telmisartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -1751,7 +1522,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-72b0b826f032f65457e53298f4fda370)
+* subject = Reference(mp-48df8f5cf063ad33bbd7174aaec3f4b2)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1761,30 +1532,9 @@ Usage: #example
 * statusDate = "2017-01-10"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-16eb42ad8683f7cc606e77be16bb3a84
+Instance: auth-for-1d67506966cb02a8f8b5eb63e9d7c12f
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
-Description: "Regulated Authorization for valsartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/06/370"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-16eb42ad8683f7cc606e77be16bb3a84)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2007-01-17"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-b766474f18c4eda952b845a9e42c80d0
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, losartaan"
+Title: "Regulated Authorization for TENLORISÕhukese polümeerikattega tablett5mg, 100mg"
 Description: "Regulated Authorization for amlodipiin, losartaan"
 Usage: #example
 //* id = "" 
@@ -1793,7 +1543,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-b766474f18c4eda952b845a9e42c80d0)
+* subject = Reference(mp-1d67506966cb02a8f8b5eb63e9d7c12f)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1803,51 +1553,9 @@ Usage: #example
 * statusDate = "2014-02-28"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-6093f3b783bf08f6c470e560a3ffbf18
+Instance: auth-for-7800811ca04d63e52a89c94bc3369489
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, valsartaan, amlodipiin"
-Description: "Regulated Authorization for hüdroklorotiasiid, valsartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/575"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-6093f3b783bf08f6c470e560a3ffbf18)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-11-04"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-e7996c1ed086541c262eeb9fe47910a3
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, valsartaan"
-Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, valsartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/575"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-e7996c1ed086541c262eeb9fe47910a3)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-11-04"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-c2fd25101e6e09f73810290b84f82748
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil"
+Title: "Regulated Authorization for COVERAMTablett10mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -1856,7 +1564,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-c2fd25101e6e09f73810290b84f82748)
+* subject = Reference(mp-7800811ca04d63e52a89c94bc3369489)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -1866,177 +1574,30 @@ Usage: #example
 * statusDate = "2008-05-16"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-eaf37ed582d5c8bc71bb4ef0f169cf33
+Instance: auth-for-820a0f5b4d1867edcdb92826125560f3
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan"
-Description: "Regulated Authorization for amlodipiin, valsartaan"
+Title: "Regulated Authorization for NORVASCTablett5mg"
+Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
 //* identifier.system = $spor-prod
-* identifier.value = "EU/1/06/370"
+* identifier.value = "176297"
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-eaf37ed582d5c8bc71bb4ef0f169cf33)
+* subject = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
 * status = $100000072049#100000072099  "Valid"
 
  
-* statusDate = "2007-01-17"
-* holder = Reference(ORG-100007373)
+* statusDate = "1997-08-22"
+* holder = Reference(ORG-100023206)
 
-Instance: auth-for-3f21503a5cd188ccf9be98428d0804da
+Instance: auth-for-b8c9a0c3039b6e095804bb4753c0c9a2
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
-Description: "Regulated Authorization for valsartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/06/371"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-3f21503a5cd188ccf9be98428d0804da)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2007-01-16"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-0a8c3cc316fe4b88649ef88e8d59107a
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
-Description: "Regulated Authorization for valsartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/06/372"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-0a8c3cc316fe4b88649ef88e8d59107a)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2007-01-16"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-515e409fcbcec32db7d621e8235dbbd4
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
-Description: "Regulated Authorization for valsartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/06/372"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-515e409fcbcec32db7d621e8235dbbd4)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2007-01-16"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-60519618dfee43c919c39ed35a78bd3c
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, hüdroklorotiasiid, amlodipiin"
-Description: "Regulated Authorization for valsartaan, hüdroklorotiasiid, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/574"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-60519618dfee43c919c39ed35a78bd3c)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-11-04"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-56381f9ed6e2414526be302a64026af1
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan"
-Description: "Regulated Authorization for amlodipiin, valsartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/16/1092"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-56381f9ed6e2414526be302a64026af1)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2016-03-22"
-* holder = Reference(ORG-100034257)
-
-Instance: auth-for-2cbed639cdf7e77b747fac391470a475
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
-Description: "Regulated Authorization for amlodipiin, valsartaan, hüdroklorotiasiid"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/574"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-2cbed639cdf7e77b747fac391470a475)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-11-04"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-25b4fc8e45300bba6eff5ef9106d2efd
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, valsartaan"
-Description: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, valsartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/09/574"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-25b4fc8e45300bba6eff5ef9106d2efd)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-11-04"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-fbcd64d55a1ff7960f0f368ea66001c5
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for HIPRESTablett10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2045,7 +1606,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-fbcd64d55a1ff7960f0f368ea66001c5)
+* subject = Reference(mp-b8c9a0c3039b6e095804bb4753c0c9a2)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2055,30 +1616,9 @@ Usage: #example
 * statusDate = "2004-03-26"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-2cfa1681029065b8d3b986a18d159145
+Instance: auth-for-f4e3bf9b50fac22789ee5d41cd4c5193
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
-Description: "Regulated Authorization for valsartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "EU/1/06/371"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-2cfa1681029065b8d3b986a18d159145)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2007-01-16"
-* holder = Reference(ORG-100007373)
-
-Instance: auth-for-053d71fa46984cffd297f11462a29d28
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
+Title: "Regulated Authorization for AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg"
 Description: "Regulated Authorization for valsartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2087,7 +1627,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-053d71fa46984cffd297f11462a29d28)
+* subject = Reference(mp-f4e3bf9b50fac22789ee5d41cd4c5193)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2097,9 +1637,9 @@ Usage: #example
 * statusDate = "2016-06-07"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-e741aee8f50c989496e1e5ac8b29ce21
+Instance: auth-for-974541f2156d6f33e2a803fa33453176
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, indapamiid"
+Title: "Regulated Authorization for FLUTENSIFToimeainet modifitseeritult vabastav tablett5mg, 1.5mg"
 Description: "Regulated Authorization for amlodipiin, indapamiid"
 Usage: #example
 //* id = "" 
@@ -2108,7 +1648,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-e741aee8f50c989496e1e5ac8b29ce21)
+* subject = Reference(mp-974541f2156d6f33e2a803fa33453176)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2118,29 +1658,9 @@ Usage: #example
 * statusDate = "2013-10-03"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-b1d0fed59f6bd5f0d338293040ef2cf3
+Instance: auth-for-8ecdc31c688fde866ba554202ab24480
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil, indapamiid"
-Description: "Regulated Authorization for amlodipiin, perindopriil, indapamiid"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-b1d0fed59f6bd5f0d338293040ef2cf3)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:105
-* holder = Reference(ORG-100002999)
-
-Instance: auth-for-b4276e86dc83fab6ac5f6ee8041212de
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AMLODIGAMMA 10MGTablett10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2149,7 +1669,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-b4276e86dc83fab6ac5f6ee8041212de)
+* subject = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2159,9 +1679,9 @@ Usage: #example
 * statusDate = "2006-10-20"
 * holder = Reference(ORG-100000454)
 
-Instance: auth-for-5f96802d7b0497e6b5aa29026f16ccc3
+Instance: auth-for-f9220c58bd68a6a5525486f4c18ddebc
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for atorvastatiin, amlodipiin, perindopriil"
+Title: "Regulated Authorization for TRIVERAM 20MG/5MG/5MGÕhukese polümeerikattega tablett20mg, 5mg"
 Description: "Regulated Authorization for atorvastatiin, amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -2170,7 +1690,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-5f96802d7b0497e6b5aa29026f16ccc3)
+* subject = Reference(mp-f9220c58bd68a6a5525486f4c18ddebc)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2180,9 +1700,9 @@ Usage: #example
 * statusDate = "2015-09-16"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-270e2aaac11638ede04c5cafd1c60030
+Instance: auth-for-83c1d9197877904c6c9c2b1ef8d53238
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for losartaan, amlodipiin"
+Title: "Regulated Authorization for TENLORISÕhukese polümeerikattega tablett50mg, 5mg"
 Description: "Regulated Authorization for losartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2191,7 +1711,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-270e2aaac11638ede04c5cafd1c60030)
+* subject = Reference(mp-83c1d9197877904c6c9c2b1ef8d53238)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2201,9 +1721,9 @@ Usage: #example
 * statusDate = "2014-02-28"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-9b76be13d25f96c7d0b81cdfdb9d3ac5
+Instance: auth-for-15ef7c061f169c5ee0d522812fab8e3e
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett20mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -2212,7 +1732,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-9b76be13d25f96c7d0b81cdfdb9d3ac5)
+* subject = Reference(mp-15ef7c061f169c5ee0d522812fab8e3e)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2222,9 +1742,30 @@ Usage: #example
 * statusDate = "2018-01-08"
 * holder = Reference(ORG-100003704)
 
-Instance: auth-for-212cd043ef53b839386c625b4918ab9d
+Instance: auth-for-a0a5c6fec3f94cc85dd264a42dc34740
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, kandesartaan"
+Title: "Regulated Authorization for NORVASCTablett10mg"
+Description: "Regulated Authorization for amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "1017320"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-a0a5c6fec3f94cc85dd264a42dc34740)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2021-01-06"
+* holder = Reference(ORG-100010645)
+
+Instance: auth-for-89329433313d6f161e047e5039bf430e
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for FRAMSYLKõvakapsel5mg, 8mg"
 Description: "Regulated Authorization for amlodipiin, kandesartaan"
 Usage: #example
 //* id = "" 
@@ -2233,7 +1774,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-212cd043ef53b839386c625b4918ab9d)
+* subject = Reference(mp-89329433313d6f161e047e5039bf430e)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2243,9 +1784,9 @@ Usage: #example
 * statusDate = "2016-09-13"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-351249d58e654827f9e59ebe4626963c
+Instance: auth-for-4e3a0f064c251c110dafa89a2b27b36d
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
+Title: "Regulated Authorization for AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg"
 Description: "Regulated Authorization for valsartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2254,7 +1795,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-351249d58e654827f9e59ebe4626963c)
+* subject = Reference(mp-4e3a0f064c251c110dafa89a2b27b36d)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2264,9 +1805,9 @@ Usage: #example
 * statusDate = "2016-06-07"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-18a11144c23574e21f39161510d12517
+Instance: auth-for-6a5b03160e1d68a9d92705962ec17d8e
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for GADUARÕhukese polümeerikattega tablett40mg, 12.5mg, 5mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -2275,7 +1816,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-18a11144c23574e21f39161510d12517)
+* subject = Reference(mp-6a5b03160e1d68a9d92705962ec17d8e)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2285,9 +1826,9 @@ Usage: #example
 * statusDate = "2020-04-23"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-98ec367fc2ab431c093c4207da8e27f6
+Instance: auth-for-7237aa8d3abcc0e1ce1df7ef512a0eb0
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AMLODIPINE TEVATablett10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2296,7 +1837,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-98ec367fc2ab431c093c4207da8e27f6)
+* subject = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2306,9 +1847,9 @@ Usage: #example
 * statusDate = "2008-06-20"
 * holder = Reference(ORG-100000229)
 
-Instance: auth-for-c758d56e4501a3ee5b48ae919095b749
+Instance: auth-for-625cd2885187aca8e4bb01067c8390d4
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2317,7 +1858,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-c758d56e4501a3ee5b48ae919095b749)
+* subject = Reference(mp-625cd2885187aca8e4bb01067c8390d4)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2327,9 +1868,9 @@ Usage: #example
 * statusDate = "2021-03-03"
 * holder = Reference(ORG-100007006)
 
-Instance: auth-for-127820ddf691e8710504e3da06c47543
+Instance: auth-for-94b112c9f717e648a3e1ba8b0b9746eb
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -2338,7 +1879,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-127820ddf691e8710504e3da06c47543)
+* subject = Reference(mp-94b112c9f717e648a3e1ba8b0b9746eb)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2348,9 +1889,9 @@ Usage: #example
 * statusDate = "2021-03-03"
 * holder = Reference(ORG-100007006)
 
-Instance: auth-for-c37f6c31746a28e13ffc2f89183f0eb9
+Instance: auth-for-0117d414f0e94ef69e054e81654d62c7
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AMLODIPIN-RATIOPHARM 5 MGTablett5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2359,7 +1900,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-c37f6c31746a28e13ffc2f89183f0eb9)
+* subject = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2369,9 +1910,9 @@ Usage: #example
 * statusDate = "2007-02-12"
 * holder = Reference(ORG-100001437)
 
-Instance: auth-for-eff5e4b813b65fd0b5c708608e84e643
+Instance: auth-for-5dec8cae99ee2a66435dd08db660c4f6
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
+Title: "Regulated Authorization for COVERAMTablett5mg, 10mg"
 Description: "Regulated Authorization for perindopriil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2380,7 +1921,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-eff5e4b813b65fd0b5c708608e84e643)
+* subject = Reference(mp-5dec8cae99ee2a66435dd08db660c4f6)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2390,9 +1931,9 @@ Usage: #example
 * statusDate = "2008-05-16"
 * holder = Reference(ORG-100000964)
 
-Instance: auth-for-8f1ab6bb7eff134f758bc01a7a11400f
+Instance: auth-for-04ef0a7061a4691dec54feb8074836ce
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil"
+Title: "Regulated Authorization for DALNESSANEOTablett5mg"
 Description: "Regulated Authorization for amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -2401,7 +1942,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-8f1ab6bb7eff134f758bc01a7a11400f)
+* subject = Reference(mp-04ef0a7061a4691dec54feb8074836ce)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2411,9 +1952,9 @@ Usage: #example
 * statusDate = "2022-02-08"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-9d8b9f0f088c4fa91458edba48e8eceb
+Instance: auth-for-2e5db5eb34247c26e6a5068649e59e59
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AMLODIGAMMA 5MGTablett5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2422,7 +1963,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-9d8b9f0f088c4fa91458edba48e8eceb)
+* subject = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2432,9 +1973,9 @@ Usage: #example
 * statusDate = "2006-10-20"
 * holder = Reference(ORG-100000454)
 
-Instance: auth-for-e3d47a63d7d03d401fdd9419c0ffa7e1
+Instance: auth-for-7b964a36fdf01a567a11fe1f16af2509
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil"
+Title: "Regulated Authorization for PERINDOPRIL/AMLODIPINE TEVATablett10mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -2443,7 +1984,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-e3d47a63d7d03d401fdd9419c0ffa7e1)
+* subject = Reference(mp-7b964a36fdf01a567a11fe1f16af2509)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2453,9 +1994,9 @@ Usage: #example
 * statusDate = "2014-02-28"
 * holder = Reference(ORG-100000229)
 
-Instance: auth-for-06b4952a39fc49dc5878454af1c22b0b
+Instance: auth-for-1cdcca6fa730ec5b4058006fad6b601d
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for atorvastatiin, amlodipiin"
+Title: "Regulated Authorization for AMALORISÕhukese polümeerikattega tablett10mg"
 Description: "Regulated Authorization for atorvastatiin, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2464,7 +2005,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-06b4952a39fc49dc5878454af1c22b0b)
+* subject = Reference(mp-1cdcca6fa730ec5b4058006fad6b601d)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2474,9 +2015,9 @@ Usage: #example
 * statusDate = "2013-03-28"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-007b8b30d1ed07c9c9fc8ed462ca5be9
+Instance: auth-for-822bf262c1257145abe4a7e648bb8314
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
+Title: "Regulated Authorization for OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2485,7 +2026,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-007b8b30d1ed07c9c9fc8ed462ca5be9)
+* subject = Reference(mp-822bf262c1257145abe4a7e648bb8314)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2495,9 +2036,9 @@ Usage: #example
 * statusDate = "2020-06-25"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-a83b513233a4b315436d504b5a431a94
+Instance: auth-for-bd1758b2cb3e910f68820e915408a2af
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, ramipriil"
+Title: "Regulated Authorization for RAMDACORDIAKõvakapsel5mg"
 Description: "Regulated Authorization for amlodipiin, ramipriil"
 Usage: #example
 //* id = "" 
@@ -2506,7 +2047,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-a83b513233a4b315436d504b5a431a94)
+* subject = Reference(mp-bd1758b2cb3e910f68820e915408a2af)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2516,9 +2057,9 @@ Usage: #example
 * statusDate = "2012-05-04"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-abce44b07100a3e005c95e3fdb3baba2
+Instance: auth-for-9ca15499bf1142e8576b8b6e580bd9e1
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
+Title: "Regulated Authorization for GADUARÕhukese polümeerikattega tablett10mg, 12.5mg, 40mg"
 Description: "Regulated Authorization for olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2527,7 +2068,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-abce44b07100a3e005c95e3fdb3baba2)
+* subject = Reference(mp-9ca15499bf1142e8576b8b6e580bd9e1)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2537,9 +2078,9 @@ Usage: #example
 * statusDate = "2020-04-23"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-28d1353d30356ce33a526805a61a8d3f
+Instance: auth-for-2e0f5028b41c38f94c1f052e63a6cc35
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, bisoprolool"
+Title: "Regulated Authorization for SOBYCOMBITablett5mg, 10mg"
 Description: "Regulated Authorization for amlodipiin, bisoprolool"
 Usage: #example
 //* id = "" 
@@ -2548,7 +2089,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-28d1353d30356ce33a526805a61a8d3f)
+* subject = Reference(mp-2e0f5028b41c38f94c1f052e63a6cc35)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2558,9 +2099,9 @@ Usage: #example
 * statusDate = "2014-09-15"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-46f0c8aa3bd650910d5e1e9cabcd6c05
+Instance: auth-for-36612c13eefc42ade6ee4c308534674d
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil"
+Title: "Regulated Authorization for DALNESSATablett8mg, 10mg"
 Description: "Regulated Authorization for amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -2569,7 +2110,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-46f0c8aa3bd650910d5e1e9cabcd6c05)
+* subject = Reference(mp-36612c13eefc42ade6ee4c308534674d)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2579,9 +2120,9 @@ Usage: #example
 * statusDate = "2012-11-30"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-7fda85c6289c75f0d2ad509f773145c5
+Instance: auth-for-24cd67e3d39b3520d2989d16e5c021b0
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin"
+Title: "Regulated Authorization for SANORALÕhukese polümeerikattega tablett5mg, 20mg"
 Description: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2590,7 +2131,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-7fda85c6289c75f0d2ad509f773145c5)
+* subject = Reference(mp-24cd67e3d39b3520d2989d16e5c021b0)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2600,29 +2141,9 @@ Usage: #example
 * statusDate = "2008-10-31"
 * holder = Reference(ORG-100001429)
 
-Instance: auth-for-bc73ec108516cdb2e554ae8e01c12bbb
+Instance: auth-for-4b344cb66e0bc241725ca467be44dc84
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, indapamiid, amlodipiin"
-Description: "Regulated Authorization for perindopriil, indapamiid, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-bc73ec108516cdb2e554ae8e01c12bbb)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:129
-* holder = Reference(ORG-100002999)
-
-Instance: auth-for-cce3df3d436666685cccca50295b0a1d
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, telmisartaan"
+Title: "Regulated Authorization for TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, telmisartaan"
 Usage: #example
 //* id = "" 
@@ -2631,7 +2152,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-cce3df3d436666685cccca50295b0a1d)
+* subject = Reference(mp-4b344cb66e0bc241725ca467be44dc84)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2641,9 +2162,9 @@ Usage: #example
 * statusDate = "2021-03-03"
 * holder = Reference(ORG-100007006)
 
-Instance: auth-for-49410c5a96b5cd2f1358e2e0039a13fd
+Instance: auth-for-f3e04259c844917fef0e2e775bf07ab8
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, bisoprolool"
+Title: "Regulated Authorization for SOBYCOMBITablett10mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, bisoprolool"
 Usage: #example
 //* id = "" 
@@ -2652,7 +2173,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-49410c5a96b5cd2f1358e2e0039a13fd)
+* subject = Reference(mp-f3e04259c844917fef0e2e775bf07ab8)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2662,9 +2183,9 @@ Usage: #example
 * statusDate = "2014-09-15"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-f4dadbbfdc8437dd8469c5a5eeb22d3b
+Instance: auth-for-0ecfe6182781ff486fe5156d2e85c11d
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for OLSSAÕhukese polümeerikattega tablett40mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -2673,7 +2194,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-f4dadbbfdc8437dd8469c5a5eeb22d3b)
+* subject = Reference(mp-0ecfe6182781ff486fe5156d2e85c11d)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2683,9 +2204,9 @@ Usage: #example
 * statusDate = "2017-09-12"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-8be326b6a2d2f7dc8e9a0b1ecdde5daa
+Instance: auth-for-fc27658a5ee9b0a60e09b35c85abc590
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin, hüdroklorotiasiid"
+Title: "Regulated Authorization for DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg"
 Description: "Regulated Authorization for valsartaan, amlodipiin, hüdroklorotiasiid"
 Usage: #example
 //* id = "" 
@@ -2694,7 +2215,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-8be326b6a2d2f7dc8e9a0b1ecdde5daa)
+* subject = Reference(mp-fc27658a5ee9b0a60e09b35c85abc590)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2704,9 +2225,9 @@ Usage: #example
 * statusDate = "2019-07-02"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-75e7d65e2b8194b4150706d5827e40f6
+Instance: auth-for-04e4154a2d9512b5540cc5bcea914d29
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, valsartaan, amlodipiin"
+Title: "Regulated Authorization for DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, valsartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2715,7 +2236,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-75e7d65e2b8194b4150706d5827e40f6)
+* subject = Reference(mp-04e4154a2d9512b5540cc5bcea914d29)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2725,9 +2246,9 @@ Usage: #example
 * statusDate = "2019-07-02"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-28cb804532c711106f195b49b04beedc
+Instance: auth-for-ce8886dfb264fe69c15c1bdf0b8ccdbd
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, valsartaan, amlodipiin"
+Title: "Regulated Authorization for DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, valsartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2736,7 +2257,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-28cb804532c711106f195b49b04beedc)
+* subject = Reference(mp-ce8886dfb264fe69c15c1bdf0b8ccdbd)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2746,9 +2267,9 @@ Usage: #example
 * statusDate = "2019-07-02"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-3baefb02235da077affb7060a586a6ef
+Instance: auth-for-992fceef0cf23c5984e1f6197129ac49
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for OLSSAÕhukese polümeerikattega tablett40mg, 10mg"
 Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -2757,7 +2278,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-3baefb02235da077affb7060a586a6ef)
+* subject = Reference(mp-992fceef0cf23c5984e1f6197129ac49)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2767,9 +2288,9 @@ Usage: #example
 * statusDate = "2017-09-12"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-5d169b2472129d50928a7c3e7513efd5
+Instance: auth-for-6227ac6b56beba19e4eafb42abf02d63
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for ramipriil, hüdroklorotiasiid, amlodipiin"
+Title: "Regulated Authorization for RAMDACORDIA HCTKõvakapsel5mg, 12.5mg"
 Description: "Regulated Authorization for ramipriil, hüdroklorotiasiid, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2778,7 +2299,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-5d169b2472129d50928a7c3e7513efd5)
+* subject = Reference(mp-6227ac6b56beba19e4eafb42abf02d63)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2788,9 +2309,9 @@ Usage: #example
 * statusDate = "2019-03-05"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-e7529ee95844ec2c273540d5abef2b66
+Instance: auth-for-3744649b31f6f96644d8fdd289e37a6a
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg"
 Description: "Regulated Authorization for olmesartaanmedoksomiil, hüdroklorotiasiid, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2799,7 +2320,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-e7529ee95844ec2c273540d5abef2b66)
+* subject = Reference(mp-3744649b31f6f96644d8fdd289e37a6a)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2809,9 +2330,9 @@ Usage: #example
 * statusDate = "2020-06-25"
 * holder = Reference(ORG-100003704)
 
-Instance: auth-for-068f9138187e2397183319ac380a813a
+Instance: auth-for-0d047d5dd4bce354fa4d853f93a71330
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil"
+Title: "Regulated Authorization for DALNESSANEOTablett5mg, 10mg"
 Description: "Regulated Authorization for amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -2820,7 +2341,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-068f9138187e2397183319ac380a813a)
+* subject = Reference(mp-0d047d5dd4bce354fa4d853f93a71330)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2830,9 +2351,9 @@ Usage: #example
 * statusDate = "2022-02-08"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-588fb3df5122e598df9909289a0315de
+Instance: auth-for-31917c274c465c03872ca5e6afa9d272
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, olmesartaanmedoksomiil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2841,7 +2362,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-588fb3df5122e598df9909289a0315de)
+* subject = Reference(mp-31917c274c465c03872ca5e6afa9d272)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2851,9 +2372,9 @@ Usage: #example
 * statusDate = "2020-12-29"
 * holder = Reference(ORG-100002999)
 
-Instance: auth-for-e74020ba7a7045e9a3ca022fff4479fd
+Instance: auth-for-14e2357708838872a1c59cb5ba1b29be
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, ramipriil"
+Title: "Regulated Authorization for RAMDACORDIAKõvakapsel10mg, 5mg"
 Description: "Regulated Authorization for amlodipiin, ramipriil"
 Usage: #example
 //* id = "" 
@@ -2862,7 +2383,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-e74020ba7a7045e9a3ca022fff4479fd)
+* subject = Reference(mp-14e2357708838872a1c59cb5ba1b29be)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2872,9 +2393,9 @@ Usage: #example
 * statusDate = "2012-05-04"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-d18569adbb7a50827bc06998679d86d0
+Instance: auth-for-a27716e21b4d7cc9ffb8f51b000f4ba1
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for rosuvastatiin, amlodipiin, perindopriil"
+Title: "Regulated Authorization for ROXAMPEXÕhukese polümeerikattega tablett10mg, 8mg"
 Description: "Regulated Authorization for rosuvastatiin, amlodipiin, perindopriil"
 Usage: #example
 //* id = "" 
@@ -2883,7 +2404,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-d18569adbb7a50827bc06998679d86d0)
+* subject = Reference(mp-a27716e21b4d7cc9ffb8f51b000f4ba1)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2893,9 +2414,9 @@ Usage: #example
 * statusDate = "2019-11-04"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-b711418bd211ce74cee3bdddc71076a6
+Instance: auth-for-4d3261ec077923bcb748e081b4a9b4f4
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for telmisartaan, amlodipiin"
+Title: "Regulated Authorization for MIXORTablett80mg, 10mg"
 Description: "Regulated Authorization for telmisartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2904,7 +2425,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-b711418bd211ce74cee3bdddc71076a6)
+* subject = Reference(mp-4d3261ec077923bcb748e081b4a9b4f4)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2914,9 +2435,9 @@ Usage: #example
 * statusDate = "2015-09-16"
 * holder = Reference(ORG-100004108)
 
-Instance: auth-for-faa4b39968d13ba8165b496b2ebba475
+Instance: auth-for-60912ca23996a0bb672d0ccf853fe7b4
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for atorvastatiin, amlodipiin"
+Title: "Regulated Authorization for AMALORISÕhukese polümeerikattega tablett10mg, 5mg"
 Description: "Regulated Authorization for atorvastatiin, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2925,7 +2446,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-faa4b39968d13ba8165b496b2ebba475)
+* subject = Reference(mp-60912ca23996a0bb672d0ccf853fe7b4)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2935,9 +2456,9 @@ Usage: #example
 * statusDate = "2014-05-26"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-9b59dc37d121c774366d4501f09c83d7
+Instance: auth-for-94c09fe7996b6f1c26c7ef488b62c37d
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for telmisartaan, amlodipiin"
+Title: "Regulated Authorization for TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg"
 Description: "Regulated Authorization for telmisartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2946,7 +2467,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-9b59dc37d121c774366d4501f09c83d7)
+* subject = Reference(mp-94c09fe7996b6f1c26c7ef488b62c37d)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2956,29 +2477,9 @@ Usage: #example
 * statusDate = "2021-03-03"
 * holder = Reference(ORG-100007006)
 
-Instance: auth-for-11ad222d0ac25f364d86265b5234a6ed
+Instance: auth-for-4569c44a7c8e676897f534300d7dbbaa
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, ramipriil"
-Description: "Regulated Authorization for amlodipiin, ramipriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-11ad222d0ac25f364d86265b5234a6ed)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:146
-* holder = Reference(ORG-100002040)
-
-Instance: auth-for-a59663efbf81a6a60d21ac51f359bde6
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, hüdroklorotiasiid, amlodipiin"
+Title: "Regulated Authorization for VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg"
 Description: "Regulated Authorization for valsartaan, hüdroklorotiasiid, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -2987,7 +2488,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-a59663efbf81a6a60d21ac51f359bde6)
+* subject = Reference(mp-4569c44a7c8e676897f534300d7dbbaa)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -2997,9 +2498,9 @@ Usage: #example
 * statusDate = "2019-03-05"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-8c59da0e27a89ee78fb22b2fd4cf0ce2
+Instance: auth-for-889b2b047c2dbf68778b1904db196833
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, ramipriil, amlodipiin"
+Title: "Regulated Authorization for RAMDACORDIA HCTKõvakapsel25mg, 5mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, ramipriil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -3008,7 +2509,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-8c59da0e27a89ee78fb22b2fd4cf0ce2)
+* subject = Reference(mp-889b2b047c2dbf68778b1904db196833)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -3018,9 +2519,9 @@ Usage: #example
 * statusDate = "2019-03-05"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-f05a11959e96ff31465b787144cb26e6
+Instance: auth-for-04fd98885e4ce4db86cf32c2d36e5aa8
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg"
 Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
@@ -3029,7 +2530,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-f05a11959e96ff31465b787144cb26e6)
+* subject = Reference(mp-04fd98885e4ce4db86cf32c2d36e5aa8)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -3039,9 +2540,9 @@ Usage: #example
 * statusDate = "2021-03-03"
 * holder = Reference(ORG-100007006)
 
-Instance: auth-for-388a4bbc76bc7bd93f5012a225a99d01
+Instance: auth-for-8b716ee61fa4aa41e504fb7b8cc10966
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
+Title: "Regulated Authorization for DALNESSATablett4mg, 10mg"
 Description: "Regulated Authorization for perindopriil, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -3050,7 +2551,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-388a4bbc76bc7bd93f5012a225a99d01)
+* subject = Reference(mp-8b716ee61fa4aa41e504fb7b8cc10966)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -3060,643 +2561,18 @@ Usage: #example
 * statusDate = "2012-11-30"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-5f467326a610f24df4c1f79655358e7e
+Instance: auth-for-d89ec52c740c99583c8334e1d265efd2
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for ramipriil, amlodipiin"
+Title: "Regulated Authorization for RAMDACORDIAKõvakapsel10mg, 5mg"
 Description: "Regulated Authorization for ramipriil, amlodipiin"
 Usage: #example
 //* id = "" 
 //* identifier.system = $spor-prod
-* identifier.value = "nan"
+* identifier.value = "785612"
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-5f467326a610f24df4c1f79655358e7e)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:152
-* holder = Reference(ORG-100002040)
-
-Instance: auth-for-b2d2d3244086f38209295506c37f3d7a
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for indapamiid, amlodipiin, perindopriil"
-Description: "Regulated Authorization for indapamiid, amlodipiin, perindopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-b2d2d3244086f38209295506c37f3d7a)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:153
-* holder = Reference(ORG-100002999)
-
-Instance: auth-for-22186d9267d30078aa10e42fb71e0a79
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
-Description: "Regulated Authorization for amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "567307"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-22186d9267d30078aa10e42fb71e0a79)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2007-12-14"
-* holder = Reference(MO11501)
-
-Instance: auth-for-a3ba23c13d9d6e610bdbdffbb09ca778
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
-Description: "Regulated Authorization for amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "538707"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-a3ba23c13d9d6e610bdbdffbb09ca778)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2007-02-12"
-* holder = Reference(ORG-100000313)
-
-Instance: auth-for-46abe5cdecd5f83da98c44d0fcd2c099
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, telmisartaan"
-Description: "Regulated Authorization for amlodipiin, telmisartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "1062622"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-46abe5cdecd5f83da98c44d0fcd2c099)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2022-05-09"
-* holder = Reference(ORG-100002999)
-
-Instance: auth-for-9d77052c80c2ae593323615fc802e55f
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for ramipriil, amlodipiin"
-Description: "Regulated Authorization for ramipriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-9d77052c80c2ae593323615fc802e55f)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:157
-* holder = Reference(ORG-100002040)
-
-Instance: auth-for-6a1189806502f55e216dfdd0bee4727d
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin"
-Description: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "991119"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-6a1189806502f55e216dfdd0bee4727d)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2019-07-02"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-f3aa4a484f1143ad5ff67ce0e478cf5c
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for lisinopriil, amlodipiin"
-Description: "Regulated Authorization for lisinopriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "780112"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-f3aa4a484f1143ad5ff67ce0e478cf5c)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2012-03-01"
-* holder = Reference(ORG-100000640)
-
-Instance: auth-for-c70fe54fd6d33b760f19c13dfd878c2c
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for telmisartaan, amlodipiin"
-Description: "Regulated Authorization for telmisartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "929516"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-c70fe54fd6d33b760f19c13dfd878c2c)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2017-01-10"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-eb67a770a9ee3dc5cb17b96bfcaedb05
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for telmisartaan, amlodipiin"
-Description: "Regulated Authorization for telmisartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "1024121"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-eb67a770a9ee3dc5cb17b96bfcaedb05)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2021-03-03"
-* holder = Reference(ORG-100007006)
-
-Instance: auth-for-f44976d24a835e4741c853c50e646a1e
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
-Description: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-f44976d24a835e4741c853c50e646a1e)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:162
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-af348be1267291423cc55035662a5840
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
-Description: "Regulated Authorization for amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "808213"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-af348be1267291423cc55035662a5840)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2013-03-04"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-48dc55ed617c44a0a2e6a56b13bf119b
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
-Description: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "833113"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-48dc55ed617c44a0a2e6a56b13bf119b)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2013-12-20"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-83ec097167c802d9a2494c51504dc58f
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
-Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "957417"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-83ec097167c802d9a2494c51504dc58f)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2018-01-08"
-* holder = Reference(ORG-100003704)
-
-Instance: auth-for-34f980a7c12da71aa5f92f1eab18daf4
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
-Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "954617"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-34f980a7c12da71aa5f92f1eab18daf4)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2017-11-07"
-* holder = Reference(ORG-100004108)
-
-Instance: auth-for-5b530bc63011afbb19c29e6105b77192
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for kandesartaan, amlodipiin"
-Description: "Regulated Authorization for kandesartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "915816"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-5b530bc63011afbb19c29e6105b77192)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2016-09-13"
-* holder = Reference(ORG-100002040)
-
-Instance: auth-for-af58a2226a7bb27bbfd3c9897e1448ec
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
-Description: "Regulated Authorization for perindopriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "969418"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-af58a2226a7bb27bbfd3c9897e1448ec)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2018-09-11"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-0ee5f36f8afc81c706a42b5387a0023d
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for telmisartaan, amlodipiin"
-Description: "Regulated Authorization for telmisartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "1062522"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-0ee5f36f8afc81c706a42b5387a0023d)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2022-05-09"
-* holder = Reference(ORG-100002999)
-
-Instance: auth-for-3d8f1b0949339d791a41309aa852b94a
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
-Description: "Regulated Authorization for perindopriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "1051722"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-3d8f1b0949339d791a41309aa852b94a)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2022-02-08"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-6a80df7d34a2b3298d68828963032d6b
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
-Description: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "833213"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-6a80df7d34a2b3298d68828963032d6b)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2013-12-20"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-8bfa8f1d8c3a452345270984e2f0d034
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
-Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "957317"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-8bfa8f1d8c3a452345270984e2f0d034)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2018-01-08"
-* holder = Reference(ORG-100003704)
-
-Instance: auth-for-90d70636b1ce513642d96625810caf9e
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, lisinopriil"
-Description: "Regulated Authorization for amlodipiin, lisinopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "616709"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-90d70636b1ce513642d96625810caf9e)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2009-02-06"
-* holder = Reference(ORG-100000640)
-
-Instance: auth-for-5b5ab6ed59e596b83f12e9c13432da7f
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
-Description: "Regulated Authorization for perindopriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "838814"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-5b5ab6ed59e596b83f12e9c13432da7f)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2014-02-28"
-* holder = Reference(ORG-100000229)
-
-Instance: auth-for-9349259056595533d5e0208b7251050d
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, indapamiid, amlodipiin"
-Description: "Regulated Authorization for perindopriil, indapamiid, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-9349259056595533d5e0208b7251050d)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:176
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-e4e66eb770f9b7e5bce50cb0baeba199
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, rosuvastatiin, perindopriil"
-Description: "Regulated Authorization for amlodipiin, rosuvastatiin, perindopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "996319"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-e4e66eb770f9b7e5bce50cb0baeba199)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2019-11-04"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-e4cc654eca03efb8ddc99706d49c5d4a
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
-Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "991319"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-e4cc654eca03efb8ddc99706d49c5d4a)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2019-07-02"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-b6b6eb359f886b600641d33c3acb531d
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil, hüdroklorotiasiid"
-Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil, hüdroklorotiasiid"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "1007620"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-b6b6eb359f886b600641d33c3acb531d)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2020-06-25"
-* holder = Reference(ORG-100003704)
-
-Instance: auth-for-181d1f77341ba85797d3b15314a57d95
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
-Description: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "833313"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-181d1f77341ba85797d3b15314a57d95)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2013-12-20"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-b266c791591aaccd13a58c3bf77c89cd
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
-Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "606408"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-b266c791591aaccd13a58c3bf77c89cd)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2008-10-31"
-* holder = Reference(ORG-100001429)
-
-Instance: auth-for-a36e6fc54f1b590dc525751e9804edb9
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, olmesartaanmedoksomiil"
-Description: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, olmesartaanmedoksomiil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "730311"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-a36e6fc54f1b590dc525751e9804edb9)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2011-02-01"
-* holder = Reference(ORG-100001429)
-
-Instance: auth-for-9316836251e46376e324ea1a2e6d0d96
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, ramipriil"
-Description: "Regulated Authorization for amlodipiin, ramipriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "785712"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-9316836251e46376e324ea1a2e6d0d96)
+* subject = Reference(mp-d89ec52c740c99583c8334e1d265efd2)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -3706,207 +2582,39 @@ Usage: #example
 * statusDate = "2012-05-04"
 * holder = Reference(ORG-100002040)
 
-Instance: auth-for-b918b2653c3a9b1ca27fbb3731915827
+Instance: auth-for-790c3262fcb36ab4153d147d79fb4390
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
-Description: "Regulated Authorization for valsartaan, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "979719"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-b918b2653c3a9b1ca27fbb3731915827)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2019-02-05"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-0787020ca0af8dcad1d90da2cce4a035
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil"
-Description: "Regulated Authorization for amlodipiin, perindopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "1040221"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-0787020ca0af8dcad1d90da2cce4a035)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2021-09-15"
-* holder = Reference(ORG-100000064)
-
-Instance: auth-for-aa9b6f0d7403c46c7bca8779b1504b95
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, perindopriil"
-Description: "Regulated Authorization for amlodipiin, perindopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "1051522"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-aa9b6f0d7403c46c7bca8779b1504b95)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2022-02-08"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-bda000a34704c31621c052c4156e4b1f
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, kandesartaan"
-Description: "Regulated Authorization for amlodipiin, kandesartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "915716"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-bda000a34704c31621c052c4156e4b1f)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2016-09-13"
-* holder = Reference(ORG-100002040)
-
-Instance: auth-for-3d4395f477464cfd8826050164337d6f
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil, hüdroklorotiasiid"
-Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil, hüdroklorotiasiid"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "1017520"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-3d4395f477464cfd8826050164337d6f)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2020-12-29"
-* holder = Reference(ORG-100002999)
-
-Instance: auth-for-6747a4bfd435b641b93387c863011a5d
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AMLODIPINE MEDOCHEMIETablett5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
 //* identifier.system = $spor-prod
-* identifier.value = "537207"
+* identifier.value = "567307"
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-6747a4bfd435b641b93387c863011a5d)
+* subject = Reference(mp-790c3262fcb36ab4153d147d79fb4390)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
 * status = $100000072049#100000072099  "Valid"
 
  
-* statusDate = "2007-02-12"
-* holder = Reference(ORG-100001437)
+* statusDate = "2007-12-14"
+* holder = Reference(MO11501)
 
-Instance: auth-for-6d5da028900f96a26f7c9f06325375bf
+Instance: auth-for-e7ee4d9735c9b48b2998e52eb7179ed5
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan"
-Description: "Regulated Authorization for amlodipiin, valsartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "902816"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-6d5da028900f96a26f7c9f06325375bf)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2016-02-09"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-66febb4bc6a57acc1e91c35c8b9dd7f1
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, rosuvastatiin, amlodipiin"
-Description: "Regulated Authorization for perindopriil, rosuvastatiin, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "996419"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-66febb4bc6a57acc1e91c35c8b9dd7f1)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2019-11-04"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-11afb183155f9b8c8adf9a81b1bd6af6
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, valsartaan"
-Description: "Regulated Authorization for amlodipiin, valsartaan"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "902916"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-11afb183155f9b8c8adf9a81b1bd6af6)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2016-02-09"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-bc8bc4a1d8df47334af4ef22a6835761
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for AMLOCARD 10MGTablett10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
 //* identifier.system = $spor-prod
-* identifier.value = "538507"
+* identifier.value = "538707"
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-bc8bc4a1d8df47334af4ef22a6835761)
+* subject = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -3916,183 +2624,81 @@ Usage: #example
 * statusDate = "2007-02-12"
 * holder = Reference(ORG-100000313)
 
-Instance: auth-for-c6294a4fd23138ca98050c50354cacde
+Instance: auth-for-56dfd3ef23616a17c8516e86c896c63b
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
-Description: "Regulated Authorization for perindopriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "584208"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-c6294a4fd23138ca98050c50354cacde)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2008-05-16"
-* holder = Reference(ORG-100000964)
-
-Instance: auth-for-4f40f701d57db89cf85b48a087ad9b50
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for bisoprolool, amlodipiin, indapamiid, perindopriil"
-Description: "Regulated Authorization for bisoprolool, amlodipiin, indapamiid, perindopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-4f40f701d57db89cf85b48a087ad9b50)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:195
-* holder = Reference(ORG-100000964)
-
-Instance: auth-for-893424ac2190440016f463dcdd864711
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for bisoprolool, indapamiid, amlodipiin, perindopriil"
-Description: "Regulated Authorization for bisoprolool, indapamiid, amlodipiin, perindopriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-893424ac2190440016f463dcdd864711)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:196
-* holder = Reference(ORG-100000964)
-
-Instance: auth-for-48b6f97bd1a6af63c22d77e326f555dc
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for bisoprolool, indapamiid, perindopriil, amlodipiin"
-Description: "Regulated Authorization for bisoprolool, indapamiid, perindopriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "nan"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-48b6f97bd1a6af63c22d77e326f555dc)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#220000000066  "Pending"
-
-// ERROR[3] - no statusDate INDEX:197
-* holder = Reference(ORG-100000964)
-
-Instance: auth-for-5eb9a75bbbd9b52f4e32493ab201f639
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, bisoprolool"
-Description: "Regulated Authorization for amlodipiin, bisoprolool"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "850614"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-5eb9a75bbbd9b52f4e32493ab201f639)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2014-09-15"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-1a1967e651e3965fe8dcc42dbf2c59c0
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
-Description: "Regulated Authorization for perindopriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "802112"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-1a1967e651e3965fe8dcc42dbf2c59c0)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2012-11-30"
-* holder = Reference(ORG-100000627)
-
-Instance: auth-for-eca439c8de0e2c1f38798a029c7a86cc
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
-Description: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "834914"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-eca439c8de0e2c1f38798a029c7a86cc)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2014-01-27"
-* holder = Reference(ORG-100000964)
-
-Instance: auth-for-aa2413344919aea47e26545abb272d2e
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, ramipriil"
-Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, ramipriil"
-Usage: #example
-//* id = "" 
-//* identifier.system = $spor-prod
-* identifier.value = "981719"
-//* identifier.use = #official
-// Reference to MedicinalProductDefinition:
-//MPD
-* subject = Reference(mp-aa2413344919aea47e26545abb272d2e)
-
-* type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002#100000000388 "Republic of Estonia"
-* status = $100000072049#100000072099  "Valid"
-
- 
-* statusDate = "2019-03-05"
-* holder = Reference(ORG-100002040)
-
-Instance: auth-for-eaf399ed7ec71ae5059bbbd769cd45a1
-InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin, telmisartaan"
+Title: "Regulated Authorization for TELMISARTAN/AMLODIPINE TEVATablett10mg, 80mg"
 Description: "Regulated Authorization for amlodipiin, telmisartaan"
 Usage: #example
 //* id = "" 
 //* identifier.system = $spor-prod
-* identifier.value = "929616"
+* identifier.value = "1062622"
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-eaf399ed7ec71ae5059bbbd769cd45a1)
+* subject = Reference(mp-56dfd3ef23616a17c8516e86c896c63b)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2022-05-09"
+* holder = Reference(ORG-100002999)
+
+Instance: auth-for-928926c8a307b3b3a8d3551a8fc10bde
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg"
+Description: "Regulated Authorization for olmesartaanmedoksomiil, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "991119"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-928926c8a307b3b3a8d3551a8fc10bde)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2019-07-02"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-d59d10dac3a35bfeb925aebce3fcfa04
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for DIRONORMTablett20mg, 5mg"
+Description: "Regulated Authorization for lisinopriil, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "780112"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-d59d10dac3a35bfeb925aebce3fcfa04)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2012-03-01"
+* holder = Reference(ORG-100000640)
+
+Instance: auth-for-d3a126b8227e56f2155ae740e9723dc2
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for TELDIPINTablett5mg, 40mg"
+Description: "Regulated Authorization for telmisartaan, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "929516"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-d3a126b8227e56f2155ae740e9723dc2)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -4102,39 +2708,60 @@ Usage: #example
 * statusDate = "2017-01-10"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-a9ee7448b2ace7e26afced7673ae186c
+Instance: auth-for-a823dbe22a8d12bb4bc87e4bdbdbb0b9
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin"
-Description: "Regulated Authorization for perindopriil, amlodipiin"
+Title: "Regulated Authorization for TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg"
+Description: "Regulated Authorization for telmisartaan, amlodipiin"
 Usage: #example
 //* id = "" 
 //* identifier.system = $spor-prod
-* identifier.value = "584108"
+* identifier.value = "1024121"
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-a9ee7448b2ace7e26afced7673ae186c)
+* subject = Reference(mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
 * status = $100000072049#100000072099  "Valid"
 
  
-* statusDate = "2008-05-16"
-* holder = Reference(ORG-100000964)
+* statusDate = "2021-03-03"
+* holder = Reference(ORG-100007006)
 
-Instance: auth-for-d44d030d32eb73aa70a8d37d06ae0be4
+Instance: auth-for-0b5de376a6e3694afd4c906d71a20a93
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin, indapamiid"
-Description: "Regulated Authorization for perindopriil, amlodipiin, indapamiid"
+Title: "Regulated Authorization for ALNETATablett10mg"
+Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
 //* identifier.system = $spor-prod
-* identifier.value = "833013"
+* identifier.value = "808213"
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-d44d030d32eb73aa70a8d37d06ae0be4)
+* subject = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2013-03-04"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-1141aae8513eb520117974def513abbe
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for CO-DALNESSATablett1.25mg, 5mg, 4mg"
+Description: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "833113"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-1141aae8513eb520117974def513abbe)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -4144,39 +2771,522 @@ Usage: #example
 * statusDate = "2013-12-20"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-012fb5c373e2b13010dd8531088f8f9b
+Instance: auth-for-ebae77533e4c1e728b99e03b2085351b
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for amlodipiin"
-Description: "Regulated Authorization for amlodipiin"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 10mg"
+Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
 Usage: #example
 //* id = "" 
 //* identifier.system = $spor-prod
-* identifier.value = "744411"
+* identifier.value = "957417"
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-012fb5c373e2b13010dd8531088f8f9b)
+* subject = Reference(mp-ebae77533e4c1e728b99e03b2085351b)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
 * status = $100000072049#100000072099  "Valid"
 
  
-* statusDate = "2011-06-10"
-* holder = Reference(MO193)
+* statusDate = "2018-01-08"
+* holder = Reference(ORG-100003704)
 
-Instance: auth-for-7905b76d1074ee4441710f74916654ed
+Instance: auth-for-ea0760856f322e401f457fd499eae073
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for valsartaan, amlodipiin"
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVAÕhukese polümeerikattega tablett40mg, 10mg"
+Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "954617"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-ea0760856f322e401f457fd499eae073)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2017-11-07"
+* holder = Reference(ORG-100004108)
+
+Instance: auth-for-86b57f03efc0bf7bcdc77d7a8dce3999
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for FRAMSYLKõvakapsel5mg, 16mg"
+Description: "Regulated Authorization for kandesartaan, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "915816"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-86b57f03efc0bf7bcdc77d7a8dce3999)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2016-09-13"
+* holder = Reference(ORG-100002040)
+
+Instance: auth-for-473963e88b785cfc16808e8769caf412
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for DALNESSATablett5.7mg, 5mg"
+Description: "Regulated Authorization for perindopriil, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "969418"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-473963e88b785cfc16808e8769caf412)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2018-09-11"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-a380cadd3016c2a5d946b4f3003865c0
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for TELMISARTAN/AMLODIPINE TEVATablett80mg, 5mg"
+Description: "Regulated Authorization for telmisartaan, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "1062522"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-a380cadd3016c2a5d946b4f3003865c0)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2022-05-09"
+* holder = Reference(ORG-100002999)
+
+Instance: auth-for-4648373e4938d96c51d667392632f991
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for DALNESSANEOTablett10mg"
+Description: "Regulated Authorization for perindopriil, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "1051722"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-4648373e4938d96c51d667392632f991)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2022-02-08"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-57c88696b92540a20d8687d5705cc3a7
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg, 5mg"
+Description: "Regulated Authorization for amlodipiin, perindopriil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "1040421"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-57c88696b92540a20d8687d5705cc3a7)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2021-09-15"
+* holder = Reference(ORG-100000064)
+
+Instance: auth-for-2df1fd096ea2119e34f58eeaf76f3361
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for CO-DALNESSATablett8mg, 2.5mg, 10mg"
+Description: "Regulated Authorization for amlodipiin, indapamiid, perindopriil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "833213"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-2df1fd096ea2119e34f58eeaf76f3361)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2013-12-20"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-92deca0aa200157ff667b54187059631
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 5mg"
+Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "957317"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-92deca0aa200157ff667b54187059631)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2018-01-08"
+* holder = Reference(ORG-100003704)
+
+Instance: auth-for-a452ad2a480e81cd3737925a60ec302c
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for DIRONORMTablett10mg, 5mg"
+Description: "Regulated Authorization for amlodipiin, lisinopriil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "616709"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-a452ad2a480e81cd3737925a60ec302c)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2009-02-06"
+* holder = Reference(ORG-100000640)
+
+Instance: auth-for-dbdeb2055d677f893444bdcb86676431
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for PERINDOPRIL/AMLODIPINE TEVATablett5mg"
+Description: "Regulated Authorization for perindopriil, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "838814"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-dbdeb2055d677f893444bdcb86676431)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2014-02-28"
+* holder = Reference(ORG-100000229)
+
+Instance: auth-for-164a8ce3f7e2956d3591764c075e672b
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 10mg"
+Description: "Regulated Authorization for amlodipiin, rosuvastatiin, perindopriil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "996319"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-164a8ce3f7e2956d3591764c075e672b)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2019-11-04"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-c2df63ce4b6e847234f127a936124cee
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg"
+Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "991319"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-c2df63ce4b6e847234f127a936124cee)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2019-07-02"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-91f76beabfa57c6be6d029c68a5ddf5f
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg"
+Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil, hüdroklorotiasiid"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "1007620"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-91f76beabfa57c6be6d029c68a5ddf5f)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2020-06-25"
+* holder = Reference(ORG-100003704)
+
+Instance: auth-for-0522fe195a75b4ffa60e98e2b065d29f
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for CO-DALNESSATablett5mg, 8mg, 2.5mg"
+Description: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "833313"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-0522fe195a75b4ffa60e98e2b065d29f)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2013-12-20"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-5c042bbd83eb6153724ad890c2412039
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for SANORALÕhukese polümeerikattega tablett40mg, 5mg"
+Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "606408"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-5c042bbd83eb6153724ad890c2412039)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2008-10-31"
+* holder = Reference(ORG-100001429)
+
+Instance: auth-for-43a794a22110d2df504819ad48a456ad
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg"
+Description: "Regulated Authorization for amlodipiin, hüdroklorotiasiid, olmesartaanmedoksomiil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "730311"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-43a794a22110d2df504819ad48a456ad)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2011-02-01"
+* holder = Reference(ORG-100001429)
+
+Instance: auth-for-1d507303f7d371853f158ef9ca580b39
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for RAMDACORDIAKõvakapsel10mg"
+Description: "Regulated Authorization for amlodipiin, ramipriil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "785712"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-1d507303f7d371853f158ef9ca580b39)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2012-05-04"
+* holder = Reference(ORG-100002040)
+
+Instance: auth-for-9ff8261eb987e544b8510cd3f9a83372
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for WAMLOXÕhukese polümeerikattega tablett10mg, 320mg"
 Description: "Regulated Authorization for valsartaan, amlodipiin"
 Usage: #example
 //* id = "" 
 //* identifier.system = $spor-prod
-* identifier.value = "903016"
+* identifier.value = "979719"
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-7905b76d1074ee4441710f74916654ed)
+* subject = Reference(mp-9ff8261eb987e544b8510cd3f9a83372)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2019-02-05"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-37ceb237ec18c2826b5fb5e68f9b2ab7
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for PERINDOPRIL/ AMLODIPINE ACTAVISTablett5mg"
+Description: "Regulated Authorization for amlodipiin, perindopriil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "1040221"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-37ceb237ec18c2826b5fb5e68f9b2ab7)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2021-09-15"
+* holder = Reference(ORG-100000064)
+
+Instance: auth-for-e8ce73afbb42811b992f84492a92b044
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for DALNESSANEOTablett10mg, 5mg"
+Description: "Regulated Authorization for amlodipiin, perindopriil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "1051522"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-e8ce73afbb42811b992f84492a92b044)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2022-02-08"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-cc8a2cda608c39747a1735d392904ef2
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for FRAMSYLKõvakapsel10mg, 8mg"
+Description: "Regulated Authorization for amlodipiin, kandesartaan"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "915716"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-cc8a2cda608c39747a1735d392904ef2)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2016-09-13"
+* holder = Reference(ORG-100002040)
+
+Instance: auth-for-61e636582ddb3a8fe7f052c5963552b3
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg"
+Description: "Regulated Authorization for amlodipiin, olmesartaanmedoksomiil, hüdroklorotiasiid"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "1017520"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-61e636582ddb3a8fe7f052c5963552b3)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2020-12-29"
+* holder = Reference(ORG-100002999)
+
+Instance: auth-for-17aa3bb6faec404ef2e078cb38f6d778
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for AMLODIPIN-RATIOPHARM 10 MGTablett10mg"
+Description: "Regulated Authorization for amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "537207"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2007-02-12"
+* holder = Reference(ORG-100001437)
+
+Instance: auth-for-45c118b40b2c28e9ac6cab91e4e07174
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for WAMLOXÕhukese polümeerikattega tablett80mg, 5mg"
+Description: "Regulated Authorization for amlodipiin, valsartaan"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "902816"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-45c118b40b2c28e9ac6cab91e4e07174)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -4186,9 +3296,282 @@ Usage: #example
 * statusDate = "2016-02-09"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-0ee4e3323e22b8e8c60a7c929872c9a3
+Instance: auth-for-6111af384fb679255fb465a3592f66ef
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for kandesartaan, amlodipiin"
+Title: "Regulated Authorization for ROXAMPEXÕhukese polümeerikattega tablett10mg, 5mg, 8mg"
+Description: "Regulated Authorization for perindopriil, rosuvastatiin, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "996419"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-6111af384fb679255fb465a3592f66ef)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2019-11-04"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-6927a99dccb40876a816618edcdef801
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for WAMLOXÕhukese polümeerikattega tablett160mg, 5mg"
+Description: "Regulated Authorization for amlodipiin, valsartaan"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "902916"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-6927a99dccb40876a816618edcdef801)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2016-02-09"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-9cddcc96feade261665f0a3ef5dbe6ea
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for AMLOCARD 5 MGTablett5mg"
+Description: "Regulated Authorization for amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "538507"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2007-02-12"
+* holder = Reference(ORG-100000313)
+
+Instance: auth-for-3d3624f68235986f61c909321318e1ef
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for COVERAMTablett10mg"
+Description: "Regulated Authorization for perindopriil, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "584208"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-3d3624f68235986f61c909321318e1ef)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2008-05-16"
+* holder = Reference(ORG-100000964)
+
+Instance: auth-for-75a6f374ecfe6f4521b39ccaf45991db
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for SOBYCOMBITablett5mg"
+Description: "Regulated Authorization for amlodipiin, bisoprolool"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "850614"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-75a6f374ecfe6f4521b39ccaf45991db)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2014-09-15"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-4ae2ae7f133292e2edd393b837ba7475
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for DALNESSATablett5mg, 8mg"
+Description: "Regulated Authorization for perindopriil, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "802112"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-4ae2ae7f133292e2edd393b837ba7475)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2012-11-30"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-87eace728cb772bd744d4c9bd663f8e7
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg"
+Description: "Regulated Authorization for indapamiid, perindopriil, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "834914"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-87eace728cb772bd744d4c9bd663f8e7)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2014-01-27"
+* holder = Reference(ORG-100000964)
+
+Instance: auth-for-7f36e51dcd3c062fcdfde290213d93fd
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for RAMDACORDIA HCTKõvakapsel25mg, 10mg"
+Description: "Regulated Authorization for hüdroklorotiasiid, amlodipiin, ramipriil"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "981719"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-7f36e51dcd3c062fcdfde290213d93fd)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2019-03-05"
+* holder = Reference(ORG-100002040)
+
+Instance: auth-for-3a50f937e5452c904f583dd60b86c709
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for TELDIPINTablett10mg, 40mg"
+Description: "Regulated Authorization for amlodipiin, telmisartaan"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "929616"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-3a50f937e5452c904f583dd60b86c709)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2017-01-10"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-adace13de52a7dd9afa46fe7ab924022
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for COVERAMTablett5mg"
+Description: "Regulated Authorization for perindopriil, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "584108"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-adace13de52a7dd9afa46fe7ab924022)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2008-05-16"
+* holder = Reference(ORG-100000964)
+
+Instance: auth-for-da9bd57613b8c0bd0c6e0174c4b7323f
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for CO-DALNESSATablett0.625mg, 5mg, 2mg"
+Description: "Regulated Authorization for perindopriil, amlodipiin, indapamiid"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "833013"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-da9bd57613b8c0bd0c6e0174c4b7323f)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2013-12-20"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-938b248e75affacf29383e0738b98ea2
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for AMLODIPINE VITABALANSTablett10mg"
+Description: "Regulated Authorization for amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "744411"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-938b248e75affacf29383e0738b98ea2)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2011-06-10"
+* holder = Reference(MO193)
+
+Instance: auth-for-6a7dda4d31325ba4037a7b5ca32568f2
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for WAMLOXÕhukese polümeerikattega tablett160mg, 10mg"
+Description: "Regulated Authorization for valsartaan, amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "903016"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-6a7dda4d31325ba4037a7b5ca32568f2)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2016-02-09"
+* holder = Reference(ORG-100000627)
+
+Instance: auth-for-87a121d8ef14832e3e60f39822818fec
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for CAMDEROTablett5mg, 8mg"
 Description: "Regulated Authorization for kandesartaan, amlodipiin"
 Usage: #example
 //* id = "" 
@@ -4197,7 +3580,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-0ee4e3323e22b8e8c60a7c929872c9a3)
+* subject = Reference(mp-87a121d8ef14832e3e60f39822818fec)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"
@@ -4207,9 +3590,9 @@ Usage: #example
 * statusDate = "2018-02-13"
 * holder = Reference(ORG-100000627)
 
-Instance: auth-for-78b1ed9622fd52a8962a69ccc5e4a3be
+Instance: auth-for-3ce5ba0615d73ef5c32173a29faaa66a
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for perindopriil, amlodipiin, indapamiid"
+Title: "Regulated Authorization for CO-DALNESSATablett4mg, 1.25mg, 10mg"
 Description: "Regulated Authorization for perindopriil, amlodipiin, indapamiid"
 Usage: #example
 //* id = "" 
@@ -4218,7 +3601,7 @@ Usage: #example
 //* identifier.use = #official
 // Reference to MedicinalProductDefinition:
 //MPD
-* subject = Reference(mp-78b1ed9622fd52a8962a69ccc5e4a3be)
+* subject = Reference(mp-3ce5ba0615d73ef5c32173a29faaa66a)
 
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000388 "Republic of Estonia"

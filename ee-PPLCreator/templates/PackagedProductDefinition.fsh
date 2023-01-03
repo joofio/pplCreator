@@ -2,14 +2,14 @@
 {% if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
 
 {% set ns = namespace() %}
-{% set ns.mpone = row['Ravimi nimetus'] %}
 
-{% set ns.mpthree= row['Ravimi tugevus'] %}
-{% set ns.ppdone = row['Pakendikood'] %}
+{% set ns.one = row['Ravimi nimetus']|trim %}
+{% set ns.two = row['Ravimvorm']|trim %}
+{% set ns.three= row['Ravimi tugevus']|trim %}
+{% set ns.four = row['Pakendikood']|trim %}
 
-
-{% set ns.mp_name_to_has= ns.mpone ~ns.mpthree  %}
-{% set ns.ppd_name_to_has= ns.mpone ~ns.mpthree ~ns.ppdone  %}
+{% set ns.ppd_name_to_has= ns.one ~ ns.two ~ns.three ~ ns.four  %}
+{% set ns.name_to_has= ns.one ~ ns.two ~ns.three  %}
 
 
 Instance: ppd-{{ ns.ppd_name_to_has| create_hash_id}}
@@ -52,7 +52,7 @@ Usage: #example
 
   * package.
     * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"] }}"
-    * containedItem.item.reference = Reference(mid-{{ ns.mp_name_to_has| create_hash_id}})
+    * containedItem.item.reference = Reference(mid-{{row["Müügiloa number"]|trim|create_hash_id}})
     * containedItem.amount.value = {{ row["Pakendi suurus"]|get_by_regex("\d+") }}
     {% for idx in range(0,row["Sisepakendi materjal"].count(",")+1) %} 
 
@@ -60,8 +60,8 @@ Usage: #example
 
   {%- endfor %}
   
-// for: {{ ns.mp_name_to_has }}
-* packageFor = Reference(mp-{{ ns.mp_name_to_has| create_hash_id}})
+// for: {{ ns.name_to_has }}
+* packageFor = Reference(mp-{{row["Müügiloa number"]|trim| create_hash_id}})
 
 // Reference to Organization: MAH
 //* manufacturer = Reference({{ row['Müügiloa hoidja organisatsiooni ORG ID'] }})

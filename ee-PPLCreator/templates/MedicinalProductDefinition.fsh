@@ -2,13 +2,15 @@
 {% if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
 
 {% set ns = namespace() %}
-{% set ns.one = row['Ravimi nimetus'] %}
-{% set ns.three= row['Ravimi tugevus'] %}
-{% set ns.name_to_has= ns.one ~ns.three  %}
 
-Instance: mp-{{ ns.name_to_has| create_hash_id}}
+{% set ns.one = row['Ravimi nimetus'] %}
+{% set ns.two = row['Ravimvorm'] %}
+{% set ns.three= row['Ravimi tugevus'] %}
+{% set ns.name_to_has= ns.one ~ ns.two ~ns.three  %}
+
+Instance: mp-{{ row["Müügiloa number"]|trim| create_hash_id}}
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product {{ row["Ravimi nimetus"]}}"
+Title: "Medicinal Product {{ ns.name_to_has}}"
 Description: "{{row["Müügiloa number"]}} {{ row["Ravimi nimetus"]}}"
 Usage: #example
 

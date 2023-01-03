@@ -1,7 +1,8 @@
 
-Instance: mp-45f0935e8c6afee1cac2e42562b88f23
+
+Instance: mp-164134620f00a6ad7d864c07d28d7b1e
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COPALIA HCT"
+Title: "Medicinal Product COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 10mg"
 Description: "EU/1/09/575 COPALIA HCT"
 Usage: #example
 //* id = "" 
@@ -28,9 +29,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-79d94ef7008f11d676a4adb2f00ebf9c
+
+Instance: mp-04f54f0b120da0e4d613148114948db6
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TENLORIS"
+Title: "Medicinal Product TENLORISÕhukese polümeerikattega tablett10mg, 50mg"
 Description: "837914 TENLORIS"
 Usage: #example
 //* id = "" 
@@ -57,9 +59,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-0a031421e9bcacd66a18c1675483f31f
+
+Instance: mp-d9b6ef48731c98284badcf0786ddae4a
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TRIVERAM 40MG/10MG/10MG"
+Title: "Medicinal Product TRIVERAM 40MG/10MG/10MGÕhukese polümeerikattega tablett40mg, 10mg"
 Description: "885515 TRIVERAM 40MG/10MG/10MG"
 Usage: #example
 //* id = "" 
@@ -86,9 +89,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-f882e68544af7ff49caa3b421488962b
+
+Instance: mp-b437fbb92af66ac8602316a292b734a3
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TRIPLIXAM"
+Title: "Medicinal Product TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg"
 Description: "835014 TRIPLIXAM"
 Usage: #example
 //* id = "" 
@@ -115,9 +119,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-adcabea100f781d707218f571c4f037f
+
+Instance: mp-f561bcd9597099da88e683385eb84d34
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product NATRIXAM"
+Title: "Medicinal Product NATRIXAMToimeainet modifitseeritult vabastav tablett10mg, 1.5mg"
 Description: "825213 NATRIXAM"
 Usage: #example
 //* id = "" 
@@ -144,9 +149,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Toimeainet modifitseeritult vabastav tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-17e91c9786af1c33ef3711746fdd699f
+
+Instance: mp-c7b7b3ad9b130f95a3ad36a56478ef8c
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COPALIA"
+Title: "Medicinal Product COPALIAÕhukese polümeerikattega tablett160mg, 10mg"
 Description: "EU/1/06/372 COPALIA"
 Usage: #example
 //* id = "" 
@@ -173,9 +179,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-c647a5eaa7f88cc677cc523cd4489f33
+
+Instance: mp-8bcd4c6a63a2a4521739bcbe4ff922e6
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product EXFORGE HCT"
+Title: "Medicinal Product EXFORGE HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg"
 Description: "EU/1/09/569 EXFORGE HCT"
 Usage: #example
 //* id = "" 
@@ -202,67 +209,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-35d09173235f772753a77e53a9ea7cf5
+
+Instance: mp-4f323eeb72eeb1f1fd12be728657ab61
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product EXFORGE HCT"
-Description: "EU/1/09/569 EXFORGE HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3256"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
-
-* name.productName = "EXFORGE HCT 5mg, 25mg, 160mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "EXFORGE HCT"
-* name.namePart[strength].part = "5mg, 25mg, 160mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-92d33ee71b4da091e8b7e9f612b8e1ff
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COPALIA HCT"
-Description: "EU/1/09/575 COPALIA HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3311"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, hüdroklorotiasiid, valsartaan"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, hüdroklorotiasiid, valsartaan"
-
-* name.productName = "COPALIA HCT 25mg, 10mg, 160mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "COPALIA HCT"
-* name.namePart[strength].part = "25mg, 10mg, 160mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-f731a02dc6726c193e888eb8473bce7c
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TWYNSTA"
+Title: "Medicinal Product TWYNSTATablett40mg, 5mg"
 Description: "EU/1/10/648 TWYNSTA"
 Usage: #example
 //* id = "" 
@@ -289,9 +239,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-cbb5b7c3355aa4ad4452daa5ccf361d8
+
+Instance: mp-1679e02bd535d5bf19f330ce4bcf681e
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product ALNETA"
+Title: "Medicinal Product ALNETATablett5mg"
 Description: "808113 ALNETA"
 Usage: #example
 //* id = "" 
@@ -318,9 +269,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-35853d394af67d440318431128545504
+
+Instance: mp-4b4b41bca51db4ce2a7ae1853bc6ea85
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE VITABALANS"
+Title: "Medicinal Product AMLODIPINE VITABALANSTablett5mg"
 Description: "744511 AMLODIPINE VITABALANS"
 Usage: #example
 //* id = "" 
@@ -347,9 +299,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-5247de08b58896d4604494db80171dbb
+
+Instance: mp-13860393e0d6201d8bced905eab31694
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg"
 Description: "1023521 OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 //* id = "" 
@@ -376,38 +329,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b7b1332419d9664bd0a99267c5ca5d15
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COPALIA HCT"
-Description: "EU/1/09/575 COPALIA HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3312"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
-
-* name.productName = "COPALIA HCT 10mg, 320mg, 25mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "COPALIA HCT"
-* name.namePart[strength].part = "10mg, 320mg, 25mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-c3588d5de2aa94d14dfc321e47b53873
+Instance: mp-15a3485fca0150bf08be1d4cb03d6e36
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product NORVASC"
+Title: "Medicinal Product NORVASCTablett10mg"
 Description: "176397 NORVASC"
 Usage: #example
 //* id = "" 
@@ -434,9 +359,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-a1678839878d289a5d59bc56a5c851c3
+
+Instance: mp-32358d5ad82c1915617c683c151c43b5
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SANORAL HCT"
+Title: "Medicinal Product SANORAL HCTÕhukese polümeerikattega tablett25mg, 40mg, 10mg"
 Description: "730111 SANORAL HCT"
 Usage: #example
 //* id = "" 
@@ -463,9 +389,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-9bc7efd141bacc1f239a88bf248c4a49
+
+Instance: mp-7622a96b7cdac59b9ebbffcc7e1a4fa4
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product NORVASC"
+Title: "Medicinal Product NORVASCTablett5mg"
 Description: "1017220 NORVASC"
 Usage: #example
 //* id = "" 
@@ -492,9 +419,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-16567a37a49722b6efb051ab302e0806
+
+Instance: mp-010be9a91927897698bafa89faddff0f
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product WAMLOX"
+Title: "Medicinal Product WAMLOXÕhukese polümeerikattega tablett5mg, 320mg"
 Description: "979619 WAMLOX"
 Usage: #example
 //* id = "" 
@@ -521,9 +449,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-751982d36267f6af45f89450a66228d5
+
+Instance: mp-b5313c5cbaa184b004949e74d53d9507
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLSITRI"
+Title: "Medicinal Product OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg"
 Description: "1008020 OLSITRI"
 Usage: #example
 //* id = "" 
@@ -550,9 +479,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-8bd0ba4c333aa18d77bf0705a8ced0ba
+
+Instance: mp-263ba0af301b3e5c7965d3c03cfc9f36
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SANORAL HCT"
+Title: "Medicinal Product SANORAL HCTÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg"
 Description: "730411 SANORAL HCT"
 Usage: #example
 //* id = "" 
@@ -579,9 +509,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-7fcb407288ad62b918b13e365fbd54cc
+
+Instance: mp-c6a4d07400af5debe7a409ff078672ac
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product VALTRICOM"
+Title: "Medicinal Product VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg"
 Description: "982419 VALTRICOM"
 Usage: #example
 //* id = "" 
@@ -608,9 +539,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-110a0c04656125cfacee1f7d25d7b2a4
+
+Instance: mp-0626809da44619b0d2c792566acd5a8a
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SANORAL"
+Title: "Medicinal Product SANORALÕhukese polümeerikattega tablett10mg, 40mg"
 Description: "606308 SANORAL"
 Usage: #example
 //* id = "" 
@@ -637,9 +569,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-8824260f5cc166a9c5c9fcebf6d2daad
+
+Instance: mp-5ce9683130355affc8b16ac3a0a50c7e
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLSSA"
+Title: "Medicinal Product OLSSAÕhukese polümeerikattega tablett20mg, 5mg"
 Description: "949617 OLSSA"
 Usage: #example
 //* id = "" 
@@ -666,9 +599,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-03965de418b25ef6cb5db065291a7f06
+
+Instance: mp-119dda1fbe0cbb4d5766c20a38da5ee0
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLSITRI"
+Title: "Medicinal Product OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg"
 Description: "1008120 OLSITRI"
 Usage: #example
 //* id = "" 
@@ -695,9 +629,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-018b2aca0bd97853048671b255066e99
+
+Instance: mp-d60f852183ec7c722cb53397956b2ae7
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product VALTRICOM"
+Title: "Medicinal Product VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg"
 Description: "982719 VALTRICOM"
 Usage: #example
 //* id = "" 
@@ -724,9 +659,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-fb0b7baa5d9eda64115a890415e80475
+
+Instance: mp-de741236fa2f76511dce73889ad8e0ea
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SANORAL HCT"
+Title: "Medicinal Product SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg"
 Description: "730211 SANORAL HCT"
 Usage: #example
 //* id = "" 
@@ -753,9 +689,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-1eb740d7e18811fcb9c04e22b23627d2
+
+Instance: mp-613be9b5571f706096c8eacc2b9907ee
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DAFIRO"
+Title: "Medicinal Product DAFIROÕhukese polümeerikattega tablett160mg, 5mg"
 Description: "EU/1/06/371 DAFIRO"
 Usage: #example
 //* id = "" 
@@ -782,9 +719,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-48e9dc9be347304877f019cdb587cb6f
+
+Instance: mp-7201bd4cdc4828fe6ce1387234eb80d6
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DAFIRO HCT"
+Title: "Medicinal Product DAFIRO HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg"
 Description: "EU/1/09/574 DAFIRO HCT"
 Usage: #example
 //* id = "" 
@@ -811,9 +749,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-4b80c9797bfb38a9ee6bdb59d74bd7b1
+
+Instance: mp-accccddd018b8143ee1f6f3ac998ea17
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PRINDAL"
+Title: "Medicinal Product PRINDALTablett10mg, 4mg, 1.25mg"
 Description: "1040721 PRINDAL"
 Usage: #example
 //* id = "" 
@@ -840,9 +779,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-7d8038aee37a8ee6fbbba9733a63ad82
+
+Instance: mp-ad5fa36f0a37f7988fe97a35b64703c3
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SANORAL HCT"
+Title: "Medicinal Product SANORAL HCTÕhukese polümeerikattega tablett40mg, 25mg, 5mg"
 Description: "730511 SANORAL HCT"
 Usage: #example
 //* id = "" 
@@ -869,9 +809,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-988b0afba39c079462ec0e0709b0b508
+
+Instance: mp-78d84c5aa9afd2a1393c6c16dc88821e
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL/ AMLODIPINE ACTAVIS"
+Title: "Medicinal Product PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg"
 Description: "1040521 PERINDOPRIL/ AMLODIPINE ACTAVIS"
 Usage: #example
 //* id = "" 
@@ -898,9 +839,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-a2bef397893b54b8eae7940bb907c558
+
+Instance: mp-c586f4681771f89753c2507e0b94c560
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL/AMLODIPINE TEVA"
+Title: "Medicinal Product PERINDOPRIL/AMLODIPINE TEVATablett5mg, 10mg"
 Description: "838614 PERINDOPRIL/AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
@@ -927,9 +869,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-092b46c08330d1ca1bae308f5e4b937b
+
+Instance: mp-9030bbd21e461a4d7993890e64808084
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE MEDOCHEMIE"
+Title: "Medicinal Product AMLODIPINE MEDOCHEMIETablett10mg"
 Description: "567207 AMLODIPINE MEDOCHEMIE"
 Usage: #example
 //* id = "" 
@@ -956,9 +899,40 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-16642694776ad41637e51f838bf36e59
+
+Instance: mp-ab811c9807131a6fe102e644fd451c1f
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product ROXAMPEX"
+Title: "Medicinal Product NORVASCTablett5mg"
+Description: "942317 NORVASC"
+Usage: #example
+//* id = "" 
+// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
+//* identifier[pmsid].value = "" 
+* identifier[mpid].value = "EE-100055675-6159"
+* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
+* domain = $100000000004#100000000012 "Human use"
+//* status.coding[0] = $200000005003#Valid "Valid"
+* status.coding[0] = $200000005003#200000005005 "Provisional"
+//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
+//* indication = ""
+//Default: 200000005004 'Current'
+//* legalStatusOfSupply = $100000072051# ""
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
+
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
+
+* name.productName = "NORVASC 5mg Tablett"
+* name.namePart[invented].part = "NORVASC"
+* name.namePart[strength].part = "5mg"
+* name.namePart[doseForm].part = "Tablett"
+* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
+* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+
+Instance: mp-573327ee63325ab95570125a87402104
+InstanceOf: PPLMedicinalProductDefinition
+Title: "Medicinal Product ROXAMPEXÕhukese polümeerikattega tablett20mg, 8mg, 5mg"
 Description: "996719 ROXAMPEX"
 Usage: #example
 //* id = "" 
@@ -985,9 +959,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-57321416664c7aa448e26e4435b8d832
+
+Instance: mp-e83a5f55fb8df6937682eb3505af15a9
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVAÕhukese polümeerikattega tablett5mg, 40mg"
 Description: "954517 OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
 Usage: #example
 //* id = "" 
@@ -1014,9 +989,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-de308c5750783b4c65d5394796ab1031
+
+Instance: mp-cf354a0807e9cb815fff08cde088fb4a
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product FRAMSYL"
+Title: "Medicinal Product FRAMSYLKõvakapsel10mg, 16mg"
 Description: "915916 FRAMSYL"
 Usage: #example
 //* id = "" 
@@ -1043,9 +1019,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-ad2c494913abfd1d3251a1d63c46d80b
+
+Instance: mp-e7d221583fda37b88426e5b3dd80a1b7
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLSITRI"
+Title: "Medicinal Product OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg"
 Description: "1007720 OLSITRI"
 Usage: #example
 //* id = "" 
@@ -1072,9 +1049,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-2f5b81f0974784e0d5e5a493bb64b687
+
+Instance: mp-df6f54d028aaf1b44d6e3c437436fe59
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TENLORIS"
+Title: "Medicinal Product TENLORISÕhukese polümeerikattega tablett100mg, 10mg"
 Description: "837714 TENLORIS"
 Usage: #example
 //* id = "" 
@@ -1101,9 +1079,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-7163d35a4bbf42862b1a21653e2a3fb8
+
+Instance: mp-a7d9b11d7516e2c592b590e952fc976a
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product NATRIXAM"
+Title: "Medicinal Product NATRIXAMToimeainet modifitseeritult vabastav tablett5mg, 1.5mg"
 Description: "825313 NATRIXAM"
 Usage: #example
 //* id = "" 
@@ -1130,9 +1109,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Toimeainet modifitseeritult vabastav tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-199f1c0c9ac4de4f24f1558dd5a3ab3b
+
+Instance: mp-99095e57e9c62937e8d1830376f48ee1
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TRIVERAM 10MG/5MG/5MG"
+Title: "Medicinal Product TRIVERAM 10MG/5MG/5MGÕhukese polümeerikattega tablett10mg, 5mg"
 Description: "885115 TRIVERAM 10MG/5MG/5MG"
 Usage: #example
 //* id = "" 
@@ -1159,9 +1139,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-120a9fe8ffb97fba32388a9003b0acd6
+
+Instance: mp-6a6e65652a6b7721f4a5f2be70b08b35
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TRIPLIXAM"
+Title: "Medicinal Product TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg"
 Description: "835714 TRIPLIXAM"
 Usage: #example
 //* id = "" 
@@ -1188,9 +1169,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-daf7a27e4f2cefda4f055fdac2f30736
+
+Instance: mp-da7b63d04b10c63e7a151cb2ba5ff19e
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product ZENICAMO"
+Title: "Medicinal Product ZENICAMOTablett16mg, 10mg"
 Description: "847914 ZENICAMO"
 Usage: #example
 //* id = "" 
@@ -1217,9 +1199,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-37f8128853136f233f44e712f4619741
+
+Instance: mp-a1851b4aa535d52d0d2ac4a11fb50172
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE TEVA"
+Title: "Medicinal Product AMLODIPINE TEVATablett5mg"
 Description: "589208 AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
@@ -1246,9 +1229,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-eff1a621eaa44e230dbc8202935fa9f9
+
+Instance: mp-b0492c36fe06c5c43abac09862a8849a
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product FLUTENSIF"
+Title: "Medicinal Product FLUTENSIFToimeainet modifitseeritult vabastav tablett10mg, 1.5mg"
 Description: "824413 FLUTENSIF"
 Usage: #example
 //* id = "" 
@@ -1275,9 +1259,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Toimeainet modifitseeritult vabastav tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-c6be6843aaa3cbf4327d96a2295712ce
+
+Instance: mp-7dca549a13b4eb244b56ce4143da701e
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product ROXAMPEX"
+Title: "Medicinal Product ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 20mg"
 Description: "996619 ROXAMPEX"
 Usage: #example
 //* id = "" 
@@ -1304,9 +1289,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-a99e9ee77f8a50d0042744aa6c1a3d7b
+
+Instance: mp-b180105b4594b1a235b80b581b787e88
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg"
 Description: "1023821 OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 //* id = "" 
@@ -1333,9 +1319,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-adc445ece170145f48fdc5e25c29934c
+
+Instance: mp-a2573215e0763e21fc8a639392996590
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL/AMLODIPINE TEVA"
+Title: "Medicinal Product PERINDOPRIL/AMLODIPINE TEVATablett10mg"
 Description: "838414 PERINDOPRIL/AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
@@ -1362,9 +1349,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-40ddf0f34f98046f27a2be3a5b39afe7
+
+Instance: mp-bb4c6f95eaf1d70ad88821100fa7adf9
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AGEN 10MG"
+Title: "Medicinal Product AGEN 10MGTablett10mg"
 Description: "418403 AGEN 10MG"
 Usage: #example
 //* id = "" 
@@ -1391,9 +1379,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b5a26b3c5e3c9ecab032122846a7ef5e
+
+Instance: mp-b0cec8f4f684b9a926520e6574e76d6a
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product MIXOR"
+Title: "Medicinal Product MIXORTablett80mg, 5mg"
 Description: "882315 MIXOR"
 Usage: #example
 //* id = "" 
@@ -1420,9 +1409,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-5a003a4d377b6cb57262a8f7c0d376f1
+
+Instance: mp-9f441068e75d101a49305a458a1bb12c
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PRINDAL"
+Title: "Medicinal Product PRINDALTablett8mg, 5mg, 2.5mg"
 Description: "1040821 PRINDAL"
 Usage: #example
 //* id = "" 
@@ -1449,9 +1439,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-bf040138a13adaa280a2271e87c6f253
+
+Instance: mp-15765dbdc2ced1a6cf154b0a0aee9241
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product ROXAMPEX"
+Title: "Medicinal Product ROXAMPEXÕhukese polümeerikattega tablett8mg, 20mg, 10mg"
 Description: "996819 ROXAMPEX"
 Usage: #example
 //* id = "" 
@@ -1478,9 +1469,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-9074e4ce1245d96020e62afdb2505327
+
+Instance: mp-a3d2de7675556553a5f08e4c88d2c228
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMIPRIL/AMLODIPINE SANDOZ"
+Title: "Medicinal Product RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg"
 Description: "nan RAMIPRIL/AMLODIPINE SANDOZ"
 Usage: #example
 //* id = "" 
@@ -1507,9 +1499,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-446c3f0a7c1b513b021f1df2fadfee3c
+
+Instance: mp-45b27b7f250cda110709d2d99ecb83a3
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product VALTRICOM"
+Title: "Medicinal Product VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg"
 Description: "982619 VALTRICOM"
 Usage: #example
 //* id = "" 
@@ -1536,9 +1529,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-4c9bfeb261f0bb3bde9569d02f5b9452
+
+Instance: mp-e1834bf21b77833702defeadd9554a94
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product VALTRICOM"
+Title: "Medicinal Product VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg"
 Description: "982819 VALTRICOM"
 Usage: #example
 //* id = "" 
@@ -1565,9 +1559,40 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-25271f42d1512b756038bd83377006e2
+
+Instance: mp-78ea828e8c2e0f9915b779973ab0c27c
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TRIPLIXAM"
+Title: "Medicinal Product NORVASCTablett10mg"
+Description: "942417 NORVASC"
+Usage: #example
+//* id = "" 
+// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
+//* identifier[pmsid].value = "" 
+* identifier[mpid].value = "EE-100055675-6160"
+* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
+* domain = $100000000004#100000000012 "Human use"
+//* status.coding[0] = $200000005003#Valid "Valid"
+* status.coding[0] = $200000005003#200000005005 "Provisional"
+//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
+//* indication = ""
+//Default: 200000005004 'Current'
+//* legalStatusOfSupply = $100000072051# ""
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
+
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
+
+* name.productName = "NORVASC 10mg Tablett"
+* name.namePart[invented].part = "NORVASC"
+* name.namePart[strength].part = "10mg"
+* name.namePart[doseForm].part = "Tablett"
+* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
+* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+
+Instance: mp-24891bfe3df12ce0ca603528df3819ec
+InstanceOf: PPLMedicinalProductDefinition
+Title: "Medicinal Product TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg"
 Description: "835314 TRIPLIXAM"
 Usage: #example
 //* id = "" 
@@ -1594,9 +1619,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-ea24a3ba02de5b428a814ead61a56403
+
+Instance: mp-6709cadec14d34a4ce70af63e9421a1b
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TRIVERAM 20MG/10MG/10MG"
+Title: "Medicinal Product TRIVERAM 20MG/10MG/10MGÕhukese polümeerikattega tablett20mg, 10mg"
 Description: "885215 TRIVERAM 20MG/10MG/10MG"
 Usage: #example
 //* id = "" 
@@ -1623,9 +1649,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-507e037e7b53f108597aa8104023b0ee
+
+Instance: mp-fedf52f451906e74f251473ff122a768
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AGEN 5MG"
+Title: "Medicinal Product AGEN 5MGTablett5mg"
 Description: "418303 AGEN 5MG"
 Usage: #example
 //* id = "" 
@@ -1652,9 +1679,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-14a9e800c9c8b7337e6c27b0d7936d33
+
+Instance: mp-643ee4aafe3a5f6160418089c8bc144f
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PRINDAL"
+Title: "Medicinal Product PRINDALTablett4mg, 1.25mg, 5mg"
 Description: "1040621 PRINDAL"
 Usage: #example
 //* id = "" 
@@ -1681,38 +1709,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-5eb8039a47a953161c3d809407e075f8
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product CO-DALNESSA NEO"
-Description: "nan CO-DALNESSA NEO"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100009540-8961"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, perindopriil, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, perindopriil, amlodipiin"
-
-* name.productName = "CO-DALNESSA NEO 5mg, 1.25mg Tablett"
-* name.namePart[invented].part = "CO-DALNESSA NEO"
-* name.namePart[strength].part = "5mg, 1.25mg"
-* name.namePart[doseForm].part = "Tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b3f629f916b3516763c75a379143140b
+Instance: mp-a10c712d5e22defbadaacf5c590d91c1
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL/ AMLODIPINE ACTAVIS"
+Title: "Medicinal Product PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg, 5mg"
 Description: "1040321 PERINDOPRIL/ AMLODIPINE ACTAVIS"
 Usage: #example
 //* id = "" 
@@ -1739,9 +1739,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b62ef02d7f298c872473be81d6a2776f
+
+Instance: mp-7111a5f4581c96aeb3d849b6c329cd37
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SOBYCOMBI"
+Title: "Medicinal Product SOBYCOMBITablett10mg"
 Description: "850514 SOBYCOMBI"
 Usage: #example
 //* id = "" 
@@ -1768,9 +1769,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-98e252160d8a05b3b34432da98ede78b
+
+Instance: mp-3532848b29b671c8226129387571af81
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product CAMDERO"
+Title: "Medicinal Product CAMDEROTablett16mg, 5mg"
 Description: "959018 CAMDERO"
 Usage: #example
 //* id = "" 
@@ -1797,9 +1799,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-5aa7a85004ead5b3c25b02647c3d7b13
+
+Instance: mp-5196a3ed0766610246524f22c6dfcb0b
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PRINDAL"
+Title: "Medicinal Product PRINDALTablett10mg, 2.5mg, 8mg"
 Description: "1040921 PRINDAL"
 Usage: #example
 //* id = "" 
@@ -1826,9 +1829,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-a3548265bcf8910bf529bb3c5fe52082
+
+Instance: mp-e5a5f7e045adf8a26ccfb8c2bf81fd60
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMDACORDIA HCT"
+Title: "Medicinal Product RAMDACORDIA HCTKõvakapsel5mg, 10mg, 25mg"
 Description: "981619 RAMDACORDIA HCT"
 Usage: #example
 //* id = "" 
@@ -1855,96 +1859,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-1c1bc64e3b67621b00457a9b5c25e531
+
+Instance: mp-4f29a807fff14bdd583461050ab611da
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product EXFORGE HCT"
-Description: "EU/1/09/569 EXFORGE HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3258"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
-
-* name.productName = "EXFORGE HCT 320mg, 25mg, 10mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "EXFORGE HCT"
-* name.namePart[strength].part = "320mg, 25mg, 10mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-3016a3bb802bbb12cee9684604486b11
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TWYNSTA"
-Description: "EU/1/10/648 TWYNSTA"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100018243-3752"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DB04 "amlodipiin, telmisartaan"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "amlodipiin, telmisartaan"
-
-* name.productName = "TWYNSTA 80mg, 10mg Tablett"
-* name.namePart[invented].part = "TWYNSTA"
-* name.namePart[strength].part = "80mg, 10mg"
-* name.namePart[doseForm].part = "Tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b5f4e393330007a97324b18215887a56
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TWYNSTA"
-Description: "EU/1/10/648 TWYNSTA"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100018243-3750"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DB04 "telmisartaan, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "telmisartaan, amlodipiin"
-
-* name.productName = "TWYNSTA 10mg, 40mg Tablett"
-* name.namePart[invented].part = "TWYNSTA"
-* name.namePart[strength].part = "10mg, 40mg"
-* name.namePart[doseForm].part = "Tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-1cd4d52bdfe0cb782a5e7a5b0dfbc00a
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE/VALSARTAN MYLAN"
+Title: "Medicinal Product AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett160mg, 5mg"
 Description: "EU/1/16/1092 AMLODIPINE/VALSARTAN MYLAN"
 Usage: #example
 //* id = "" 
@@ -1971,9 +1889,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-00a9676f55edb021c8f82b87d5b52738
+
+Instance: mp-c070bacb375a778ab6acb3e41d9f05be
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLSITRI"
+Title: "Medicinal Product OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg"
 Description: "1007820 OLSITRI"
 Usage: #example
 //* id = "" 
@@ -2000,9 +1919,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-cce6878d1173c2e5a657fbd6c7af3ab0
+
+Instance: mp-8ba5ffcc8e6daba03e3877db10902477
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DALNESSA"
+Title: "Medicinal Product DALNESSATablett4mg, 5mg"
 Description: "802212 DALNESSA"
 Usage: #example
 //* id = "" 
@@ -2029,9 +1949,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-cf2aa8017868f4fefa99f3d5b8dfb316
+
+Instance: mp-9aaf3b0889d558b5811fdb64d375849b
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg"
 Description: "991219 OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
 Usage: #example
 //* id = "" 
@@ -2058,9 +1979,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-2b0f21f21ccdaec01ec0c8fa01d0bb48
+
+Instance: mp-0c80dcb4c4e267a27fb81c3d56855721
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TELDIPIN"
+Title: "Medicinal Product TELDIPINTablett5mg, 80mg"
 Description: "929716 TELDIPIN"
 Usage: #example
 //* id = "" 
@@ -2087,9 +2009,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-9df0a169966437f49f03b26709bab8da
+
+Instance: mp-94ca8b2b6607663f81de9d9de6f86cc4
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TELMISARTAN/AMLODIPINE ALEMBIC"
+Title: "Medicinal Product TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg"
 Description: "1024421 TELMISARTAN/AMLODIPINE ALEMBIC"
 Usage: #example
 //* id = "" 
@@ -2116,9 +2039,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-c80822ec8c3a18e165e480aa4d5d06f7
+
+Instance: mp-73a4218f437534c6c8ed0a098a21a879
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product EXFORGE"
+Title: "Medicinal Product EXFORGEÕhukese polümeerikattega tablett10mg, 160mg"
 Description: "EU/1/06/370 EXFORGE"
 Usage: #example
 //* id = "" 
@@ -2145,9 +2069,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-67a139480dff8125f40f189027f4b683
+
+Instance: mp-2d73f2b40745c9beffb94871f14a5b5a
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DALNESSA"
+Title: "Medicinal Product DALNESSATablett2.85mg, 2.5mg"
 Description: "969318 DALNESSA"
 Usage: #example
 //* id = "" 
@@ -2174,38 +2099,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-265adbf06e4021602cc0f4aeaf17a261
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Description: "nan PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100003164-8730"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "amlodipiin, indapamiid, perindopriil"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "amlodipiin, indapamiid, perindopriil"
-
-* name.productName = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA 10mg, 2.5mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-* name.namePart[strength].part = "10mg, 2.5mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-8b106e5ac0f5025acae166f5726a78f8
+Instance: mp-86425515252bedcd9cee98223732d690
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TRIVERAM 20MG/10MG/5MG"
+Title: "Medicinal Product TRIVERAM 20MG/10MG/5MGÕhukese polümeerikattega tablett5mg, 10mg, 20mg"
 Description: "885315 TRIVERAM 20MG/10MG/5MG"
 Usage: #example
 //* id = "" 
@@ -2232,96 +2129,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-df31ead1e31acef5c5d2c545fd5f3cab
+
+Instance: mp-9959fedb3a2dfee5867b44aa925ad2ec
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TWYNSTA"
-Description: "EU/1/10/648 TWYNSTA"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100018243-3751"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DB04 "amlodipiin, telmisartaan"
-* classification[atc].coding[ema] = $100000093533#C09DB04 "amlodipiin, telmisartaan"
-
-* name.productName = "TWYNSTA 5mg, 80mg Tablett"
-* name.namePart[invented].part = "TWYNSTA"
-* name.namePart[strength].part = "5mg, 80mg"
-* name.namePart[doseForm].part = "Tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-400ce3a781f8dd283dd26879dbd7bade
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product EXFORGE HCT"
-Description: "EU/1/09/569 EXFORGE HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3255"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
-
-* name.productName = "EXFORGE HCT 10mg, 160mg, 12.5mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "EXFORGE HCT"
-* name.namePart[strength].part = "10mg, 160mg, 12.5mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-cef56e8f5244811ba5d8c6623b685120
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE/VALSARTAN MYLAN"
-Description: "EU/1/16/1092 AMLODIPINE/VALSARTAN MYLAN"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100054211-5800"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DB01 "amlodipiin, valsartaan"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "amlodipiin, valsartaan"
-
-* name.productName = "AMLODIPINE/VALSARTAN MYLAN 10mg, 160mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "AMLODIPINE/VALSARTAN MYLAN"
-* name.namePart[strength].part = "10mg, 160mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-a06039568a76a455e165a849723b6eeb
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product HIPRES"
+Title: "Medicinal Product HIPRESTablett5mg"
 Description: "439004 HIPRES"
 Usage: #example
 //* id = "" 
@@ -2348,67 +2159,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-e3ec0d38af3d33762962f6f5a8e3948a
+
+Instance: mp-48df8f5cf063ad33bbd7174aaec3f4b2
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product EXFORGE HCT"
-Description: "EU/1/09/569 EXFORGE HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3254"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "valsartaan, amlodipiin, hüdroklorotiasiid"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "valsartaan, amlodipiin, hüdroklorotiasiid"
-
-* name.productName = "EXFORGE HCT 12.5mg, 160mg, 5mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "EXFORGE HCT"
-* name.namePart[strength].part = "12.5mg, 160mg, 5mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-1d58916b8dd3a00bafe27af1e3fb67db
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DAFIRO HCT"
-Description: "EU/1/09/574 DAFIRO HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3307"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
-
-* name.productName = "DAFIRO HCT 25mg, 10mg, 320mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "DAFIRO HCT"
-* name.namePart[strength].part = "25mg, 10mg, 320mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-72b0b826f032f65457e53298f4fda370
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TELDIPIN"
+Title: "Medicinal Product TELDIPINTablett80mg, 10mg"
 Description: "929816 TELDIPIN"
 Usage: #example
 //* id = "" 
@@ -2435,38 +2189,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-16eb42ad8683f7cc606e77be16bb3a84
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product EXFORGE"
-Description: "EU/1/06/370 EXFORGE"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-2057"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
-
-* name.productName = "EXFORGE 5mg, 160mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "EXFORGE"
-* name.namePart[strength].part = "5mg, 160mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b766474f18c4eda952b845a9e42c80d0
+Instance: mp-1d67506966cb02a8f8b5eb63e9d7c12f
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TENLORIS"
+Title: "Medicinal Product TENLORISÕhukese polümeerikattega tablett5mg, 100mg"
 Description: "837614 TENLORIS"
 Usage: #example
 //* id = "" 
@@ -2493,67 +2219,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-6093f3b783bf08f6c470e560a3ffbf18
+
+Instance: mp-7800811ca04d63e52a89c94bc3369489
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COPALIA HCT"
-Description: "EU/1/09/575 COPALIA HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3310"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, valsartaan, amlodipiin"
-
-* name.productName = "COPALIA HCT 25mg, 160mg, 5mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "COPALIA HCT"
-* name.namePart[strength].part = "25mg, 160mg, 5mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-e7996c1ed086541c262eeb9fe47910a3
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COPALIA HCT"
-Description: "EU/1/09/575 COPALIA HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3308"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "hüdroklorotiasiid, amlodipiin, valsartaan"
-
-* name.productName = "COPALIA HCT 160mg, 12.5mg, 5mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "COPALIA HCT"
-* name.namePart[strength].part = "160mg, 12.5mg, 5mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-c2fd25101e6e09f73810290b84f82748
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COVERAM"
+Title: "Medicinal Product COVERAMTablett10mg, 5mg"
 Description: "584308 COVERAM"
 Usage: #example
 //* id = "" 
@@ -2580,15 +2249,16 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-eaf37ed582d5c8bc71bb4ef0f169cf33
+
+Instance: mp-820a0f5b4d1867edcdb92826125560f3
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product EXFORGE"
-Description: "EU/1/06/370 EXFORGE"
+Title: "Medicinal Product NORVASCTablett5mg"
+Description: "176297 NORVASC"
 Usage: #example
 //* id = "" 
 // MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
 //* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-2056"
+* identifier[mpid].value = "EE-100032008-240"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
 * domain = $100000000004#100000000012 "Human use"
 //* status.coding[0] = $200000005003#Valid "Valid"
@@ -2598,223 +2268,21 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "amlodipiin, valsartaan"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "amlodipiin, valsartaan"
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
-* name.productName = "EXFORGE 80mg, 5mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "EXFORGE"
-* name.namePart[strength].part = "80mg, 5mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
+* name.productName = "NORVASC 5mg Tablett"
+* name.namePart[invented].part = "NORVASC"
+* name.namePart[strength].part = "5mg"
+* name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-3f21503a5cd188ccf9be98428d0804da
+
+Instance: mp-b8c9a0c3039b6e095804bb4753c0c9a2
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DAFIRO"
-Description: "EU/1/06/371 DAFIRO"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-2298"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
-
-* name.productName = "DAFIRO 160mg, 10mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "DAFIRO"
-* name.namePart[strength].part = "160mg, 10mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-0a8c3cc316fe4b88649ef88e8d59107a
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COPALIA"
-Description: "EU/1/06/372 COPALIA"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-2302"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
-
-* name.productName = "COPALIA 160mg, 5mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "COPALIA"
-* name.namePart[strength].part = "160mg, 5mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-515e409fcbcec32db7d621e8235dbbd4
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COPALIA"
-Description: "EU/1/06/372 COPALIA"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-2301"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
-
-* name.productName = "COPALIA 5mg, 80mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "COPALIA"
-* name.namePart[strength].part = "5mg, 80mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-60519618dfee43c919c39ed35a78bd3c
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DAFIRO HCT"
-Description: "EU/1/09/574 DAFIRO HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3305"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "valsartaan, hüdroklorotiasiid, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "valsartaan, hüdroklorotiasiid, amlodipiin"
-
-* name.productName = "DAFIRO HCT 25mg, 5mg, 160mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "DAFIRO HCT"
-* name.namePart[strength].part = "25mg, 5mg, 160mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-56381f9ed6e2414526be302a64026af1
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE/VALSARTAN MYLAN"
-Description: "EU/1/16/1092 AMLODIPINE/VALSARTAN MYLAN"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100054211-5798"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DB01 "amlodipiin, valsartaan"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "amlodipiin, valsartaan"
-
-* name.productName = "AMLODIPINE/VALSARTAN MYLAN 5mg, 80mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "AMLODIPINE/VALSARTAN MYLAN"
-* name.namePart[strength].part = "5mg, 80mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-2cbed639cdf7e77b747fac391470a475
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DAFIRO HCT"
-Description: "EU/1/09/574 DAFIRO HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3303"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, valsartaan, hüdroklorotiasiid"
-
-* name.productName = "DAFIRO HCT 160mg, 5mg, 12.5mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "DAFIRO HCT"
-* name.namePart[strength].part = "160mg, 5mg, 12.5mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-25b4fc8e45300bba6eff5ef9106d2efd
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DAFIRO HCT"
-Description: "EU/1/09/574 DAFIRO HCT"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-3306"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-
-* classification[atc].coding[who] = $who-atc#C09DX01 "amlodipiin, hüdroklorotiasiid, valsartaan"
-* classification[atc].coding[ema] = $100000093533#C09DX01 "amlodipiin, hüdroklorotiasiid, valsartaan"
-
-* name.productName = "DAFIRO HCT 25mg, 160mg, 10mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "DAFIRO HCT"
-* name.namePart[strength].part = "25mg, 160mg, 10mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-fbcd64d55a1ff7960f0f368ea66001c5
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product HIPRES"
+Title: "Medicinal Product HIPRESTablett10mg"
 Description: "441504 HIPRES"
 Usage: #example
 //* id = "" 
@@ -2841,38 +2309,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-2cfa1681029065b8d3b986a18d159145
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DAFIRO"
-Description: "EU/1/06/371 DAFIRO"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100010531-2300"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Valid "Valid"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09DB01 "valsartaan, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09DB01 "valsartaan, amlodipiin"
-
-* name.productName = "DAFIRO 80mg, 5mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "DAFIRO"
-* name.namePart[strength].part = "80mg, 5mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-053d71fa46984cffd297f11462a29d28
+Instance: mp-f4e3bf9b50fac22789ee5d41cd4c5193
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE /VALSARTAN SANDOZ"
+Title: "Medicinal Product AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg"
 Description: "911616 AMLODIPINE /VALSARTAN SANDOZ"
 Usage: #example
 //* id = "" 
@@ -2899,9 +2339,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-e741aee8f50c989496e1e5ac8b29ce21
+
+Instance: mp-974541f2156d6f33e2a803fa33453176
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product FLUTENSIF"
+Title: "Medicinal Product FLUTENSIFToimeainet modifitseeritult vabastav tablett5mg, 1.5mg"
 Description: "824513 FLUTENSIF"
 Usage: #example
 //* id = "" 
@@ -2928,38 +2369,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Toimeainet modifitseeritult vabastav tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b1d0fed59f6bd5f0d338293040ef2cf3
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Description: "nan PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100003164-8728"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "amlodipiin, perindopriil, indapamiid"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "amlodipiin, perindopriil, indapamiid"
-
-* name.productName = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA 10mg, 5mg, 1.25mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-* name.namePart[strength].part = "10mg, 5mg, 1.25mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b4276e86dc83fab6ac5f6ee8041212de
+Instance: mp-8ecdc31c688fde866ba554202ab24480
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIGAMMA 10MG"
+Title: "Medicinal Product AMLODIGAMMA 10MGTablett10mg"
 Description: "527106 AMLODIGAMMA 10MG"
 Usage: #example
 //* id = "" 
@@ -2986,9 +2399,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-5f96802d7b0497e6b5aa29026f16ccc3
+
+Instance: mp-f9220c58bd68a6a5525486f4c18ddebc
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TRIVERAM 20MG/5MG/5MG"
+Title: "Medicinal Product TRIVERAM 20MG/5MG/5MGÕhukese polümeerikattega tablett20mg, 5mg"
 Description: "885415 TRIVERAM 20MG/5MG/5MG"
 Usage: #example
 //* id = "" 
@@ -3015,9 +2429,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-270e2aaac11638ede04c5cafd1c60030
+
+Instance: mp-83c1d9197877904c6c9c2b1ef8d53238
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TENLORIS"
+Title: "Medicinal Product TENLORISÕhukese polümeerikattega tablett50mg, 5mg"
 Description: "837814 TENLORIS"
 Usage: #example
 //* id = "" 
@@ -3044,9 +2459,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-9b76be13d25f96c7d0b81cdfdb9d3ac5
+
+Instance: mp-15ef7c061f169c5ee0d522812fab8e3e
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett20mg, 5mg"
 Description: "957217 OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
 Usage: #example
 //* id = "" 
@@ -3073,9 +2489,40 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-212cd043ef53b839386c625b4918ab9d
+
+Instance: mp-a0a5c6fec3f94cc85dd264a42dc34740
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product FRAMSYL"
+Title: "Medicinal Product NORVASCTablett10mg"
+Description: "1017320 NORVASC"
+Usage: #example
+//* id = "" 
+// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
+//* identifier[pmsid].value = "" 
+* identifier[mpid].value = "EE-100044049-7864"
+* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
+* domain = $100000000004#100000000012 "Human use"
+//* status.coding[0] = $200000005003#Valid "Valid"
+* status.coding[0] = $200000005003#200000005005 "Provisional"
+//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
+//* indication = ""
+//Default: 200000005004 'Current'
+//* legalStatusOfSupply = $100000072051# ""
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
+
+* classification[atc].coding[who] = $who-atc#C08CA01 "amlodipiin"
+* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
+
+* name.productName = "NORVASC 10mg Tablett"
+* name.namePart[invented].part = "NORVASC"
+* name.namePart[strength].part = "10mg"
+* name.namePart[doseForm].part = "Tablett"
+* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
+* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+
+Instance: mp-89329433313d6f161e047e5039bf430e
+InstanceOf: PPLMedicinalProductDefinition
+Title: "Medicinal Product FRAMSYLKõvakapsel5mg, 8mg"
 Description: "915616 FRAMSYL"
 Usage: #example
 //* id = "" 
@@ -3102,9 +2549,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-351249d58e654827f9e59ebe4626963c
+
+Instance: mp-4e3a0f064c251c110dafa89a2b27b36d
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE /VALSARTAN SANDOZ"
+Title: "Medicinal Product AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg"
 Description: "911716 AMLODIPINE /VALSARTAN SANDOZ"
 Usage: #example
 //* id = "" 
@@ -3131,9 +2579,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-18a11144c23574e21f39161510d12517
+
+Instance: mp-6a5b03160e1d68a9d92705962ec17d8e
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product GADUAR"
+Title: "Medicinal Product GADUARÕhukese polümeerikattega tablett40mg, 12.5mg, 5mg"
 Description: "1004520 GADUAR"
 Usage: #example
 //* id = "" 
@@ -3160,9 +2609,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-98ec367fc2ab431c093c4207da8e27f6
+
+Instance: mp-7237aa8d3abcc0e1ce1df7ef512a0eb0
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE TEVA"
+Title: "Medicinal Product AMLODIPINE TEVATablett10mg"
 Description: "589308 AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
@@ -3189,9 +2639,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-c758d56e4501a3ee5b48ae919095b749
+
+Instance: mp-625cd2885187aca8e4bb01067c8390d4
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg"
 Description: "1023421 OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 //* id = "" 
@@ -3218,9 +2669,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-127820ddf691e8710504e3da06c47543
+
+Instance: mp-94b112c9f717e648a3e1ba8b0b9746eb
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg"
 Description: "1023721 OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 //* id = "" 
@@ -3247,9 +2699,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-c37f6c31746a28e13ffc2f89183f0eb9
+
+Instance: mp-0117d414f0e94ef69e054e81654d62c7
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPIN-RATIOPHARM 5 MG"
+Title: "Medicinal Product AMLODIPIN-RATIOPHARM 5 MGTablett5mg"
 Description: "537307 AMLODIPIN-RATIOPHARM 5 MG"
 Usage: #example
 //* id = "" 
@@ -3276,9 +2729,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-eff5e4b813b65fd0b5c708608e84e643
+
+Instance: mp-5dec8cae99ee2a66435dd08db660c4f6
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COVERAM"
+Title: "Medicinal Product COVERAMTablett5mg, 10mg"
 Description: "584408 COVERAM"
 Usage: #example
 //* id = "" 
@@ -3305,9 +2759,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-8f1ab6bb7eff134f758bc01a7a11400f
+
+Instance: mp-04ef0a7061a4691dec54feb8074836ce
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DALNESSANEO"
+Title: "Medicinal Product DALNESSANEOTablett5mg"
 Description: "1051422 DALNESSANEO"
 Usage: #example
 //* id = "" 
@@ -3334,9 +2789,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-9d8b9f0f088c4fa91458edba48e8eceb
+
+Instance: mp-2e5db5eb34247c26e6a5068649e59e59
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIGAMMA 5MG"
+Title: "Medicinal Product AMLODIGAMMA 5MGTablett5mg"
 Description: "527206 AMLODIGAMMA 5MG"
 Usage: #example
 //* id = "" 
@@ -3363,9 +2819,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-e3d47a63d7d03d401fdd9419c0ffa7e1
+
+Instance: mp-7b964a36fdf01a567a11fe1f16af2509
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL/AMLODIPINE TEVA"
+Title: "Medicinal Product PERINDOPRIL/AMLODIPINE TEVATablett10mg, 5mg"
 Description: "838714 PERINDOPRIL/AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
@@ -3392,9 +2849,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-06b4952a39fc49dc5878454af1c22b0b
+
+Instance: mp-1cdcca6fa730ec5b4058006fad6b601d
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMALORIS"
+Title: "Medicinal Product AMALORISÕhukese polümeerikattega tablett10mg"
 Description: "811513 AMALORIS"
 Usage: #example
 //* id = "" 
@@ -3421,9 +2879,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-007b8b30d1ed07c9c9fc8ed462ca5be9
+
+Instance: mp-822bf262c1257145abe4a7e648bb8314
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLSITRI"
+Title: "Medicinal Product OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg"
 Description: "1007920 OLSITRI"
 Usage: #example
 //* id = "" 
@@ -3450,9 +2909,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-a83b513233a4b315436d504b5a431a94
+
+Instance: mp-bd1758b2cb3e910f68820e915408a2af
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMDACORDIA"
+Title: "Medicinal Product RAMDACORDIAKõvakapsel5mg"
 Description: "785912 RAMDACORDIA"
 Usage: #example
 //* id = "" 
@@ -3479,9 +2939,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-abce44b07100a3e005c95e3fdb3baba2
+
+Instance: mp-9ca15499bf1142e8576b8b6e580bd9e1
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product GADUAR"
+Title: "Medicinal Product GADUARÕhukese polümeerikattega tablett10mg, 12.5mg, 40mg"
 Description: "1004620 GADUAR"
 Usage: #example
 //* id = "" 
@@ -3508,9 +2969,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-28d1353d30356ce33a526805a61a8d3f
+
+Instance: mp-2e0f5028b41c38f94c1f052e63a6cc35
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SOBYCOMBI"
+Title: "Medicinal Product SOBYCOMBITablett5mg, 10mg"
 Description: "850414 SOBYCOMBI"
 Usage: #example
 //* id = "" 
@@ -3537,9 +2999,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-46f0c8aa3bd650910d5e1e9cabcd6c05
+
+Instance: mp-36612c13eefc42ade6ee4c308534674d
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DALNESSA"
+Title: "Medicinal Product DALNESSATablett8mg, 10mg"
 Description: "802012 DALNESSA"
 Usage: #example
 //* id = "" 
@@ -3566,9 +3029,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-7fda85c6289c75f0d2ad509f773145c5
+
+Instance: mp-24cd67e3d39b3520d2989d16e5c021b0
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SANORAL"
+Title: "Medicinal Product SANORALÕhukese polümeerikattega tablett5mg, 20mg"
 Description: "606208 SANORAL"
 Usage: #example
 //* id = "" 
@@ -3595,38 +3059,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-bc73ec108516cdb2e554ae8e01c12bbb
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Description: "nan PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100003164-8729"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "perindopriil, indapamiid, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "perindopriil, indapamiid, amlodipiin"
-
-* name.productName = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA 10mg, 2.5mg, 5mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-* name.namePart[strength].part = "10mg, 2.5mg, 5mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-cce3df3d436666685cccca50295b0a1d
+Instance: mp-4b344cb66e0bc241725ca467be44dc84
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TELMISARTAN/AMLODIPINE ALEMBIC"
+Title: "Medicinal Product TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg"
 Description: "1024321 TELMISARTAN/AMLODIPINE ALEMBIC"
 Usage: #example
 //* id = "" 
@@ -3653,9 +3089,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-49410c5a96b5cd2f1358e2e0039a13fd
+
+Instance: mp-f3e04259c844917fef0e2e775bf07ab8
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SOBYCOMBI"
+Title: "Medicinal Product SOBYCOMBITablett10mg, 5mg"
 Description: "850714 SOBYCOMBI"
 Usage: #example
 //* id = "" 
@@ -3682,9 +3119,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-f4dadbbfdc8437dd8469c5a5eeb22d3b
+
+Instance: mp-0ecfe6182781ff486fe5156d2e85c11d
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLSSA"
+Title: "Medicinal Product OLSSAÕhukese polümeerikattega tablett40mg, 5mg"
 Description: "949717 OLSSA"
 Usage: #example
 //* id = "" 
@@ -3711,9 +3149,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-8be326b6a2d2f7dc8e9a0b1ecdde5daa
+
+Instance: mp-fc27658a5ee9b0a60e09b35c85abc590
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DIPPERAM HCT"
+Title: "Medicinal Product DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg"
 Description: "990319 DIPPERAM HCT"
 Usage: #example
 //* id = "" 
@@ -3740,9 +3179,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-75e7d65e2b8194b4150706d5827e40f6
+
+Instance: mp-04e4154a2d9512b5540cc5bcea914d29
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DIPPERAM HCT"
+Title: "Medicinal Product DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg"
 Description: "990519 DIPPERAM HCT"
 Usage: #example
 //* id = "" 
@@ -3769,9 +3209,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-28cb804532c711106f195b49b04beedc
+
+Instance: mp-ce8886dfb264fe69c15c1bdf0b8ccdbd
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DIPPERAM HCT"
+Title: "Medicinal Product DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg"
 Description: "990219 DIPPERAM HCT"
 Usage: #example
 //* id = "" 
@@ -3798,9 +3239,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-3baefb02235da077affb7060a586a6ef
+
+Instance: mp-992fceef0cf23c5984e1f6197129ac49
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLSSA"
+Title: "Medicinal Product OLSSAÕhukese polümeerikattega tablett40mg, 10mg"
 Description: "949817 OLSSA"
 Usage: #example
 //* id = "" 
@@ -3827,9 +3269,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-5d169b2472129d50928a7c3e7513efd5
+
+Instance: mp-6227ac6b56beba19e4eafb42abf02d63
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMDACORDIA HCT"
+Title: "Medicinal Product RAMDACORDIA HCTKõvakapsel5mg, 12.5mg"
 Description: "981419 RAMDACORDIA HCT"
 Usage: #example
 //* id = "" 
@@ -3856,9 +3299,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-e7529ee95844ec2c273540d5abef2b66
+
+Instance: mp-3744649b31f6f96644d8fdd289e37a6a
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg"
 Description: "1007520 OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
 Usage: #example
 //* id = "" 
@@ -3885,9 +3329,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-068f9138187e2397183319ac380a813a
+
+Instance: mp-0d047d5dd4bce354fa4d853f93a71330
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DALNESSANEO"
+Title: "Medicinal Product DALNESSANEOTablett5mg, 10mg"
 Description: "1051622 DALNESSANEO"
 Usage: #example
 //* id = "" 
@@ -3914,9 +3359,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-588fb3df5122e598df9909289a0315de
+
+Instance: mp-31917c274c465c03872ca5e6afa9d272
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg"
 Description: "1017420 OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
 Usage: #example
 //* id = "" 
@@ -3943,9 +3389,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-e74020ba7a7045e9a3ca022fff4479fd
+
+Instance: mp-14e2357708838872a1c59cb5ba1b29be
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMDACORDIA"
+Title: "Medicinal Product RAMDACORDIAKõvakapsel10mg, 5mg"
 Description: "785812 RAMDACORDIA"
 Usage: #example
 //* id = "" 
@@ -3972,9 +3419,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-d18569adbb7a50827bc06998679d86d0
+
+Instance: mp-a27716e21b4d7cc9ffb8f51b000f4ba1
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product ROXAMPEX"
+Title: "Medicinal Product ROXAMPEXÕhukese polümeerikattega tablett10mg, 8mg"
 Description: "996519 ROXAMPEX"
 Usage: #example
 //* id = "" 
@@ -4001,9 +3449,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b711418bd211ce74cee3bdddc71076a6
+
+Instance: mp-4d3261ec077923bcb748e081b4a9b4f4
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product MIXOR"
+Title: "Medicinal Product MIXORTablett80mg, 10mg"
 Description: "882415 MIXOR"
 Usage: #example
 //* id = "" 
@@ -4030,9 +3479,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-faa4b39968d13ba8165b496b2ebba475
+
+Instance: mp-60912ca23996a0bb672d0ccf853fe7b4
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMALORIS"
+Title: "Medicinal Product AMALORISÕhukese polümeerikattega tablett10mg, 5mg"
 Description: "845714 AMALORIS"
 Usage: #example
 //* id = "" 
@@ -4059,9 +3509,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-9b59dc37d121c774366d4501f09c83d7
+
+Instance: mp-94c09fe7996b6f1c26c7ef488b62c37d
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TELMISARTAN/AMLODIPINE ALEMBIC"
+Title: "Medicinal Product TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg"
 Description: "1024221 TELMISARTAN/AMLODIPINE ALEMBIC"
 Usage: #example
 //* id = "" 
@@ -4088,38 +3539,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-11ad222d0ac25f364d86265b5234a6ed
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMIPRIL/AMLODIPINE SANDOZ"
-Description: "nan RAMIPRIL/AMLODIPINE SANDOZ"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100002893-8691"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BB07 "amlodipiin, ramipriil"
-* classification[atc].coding[ema] = $100000093533#C09BB07 "amlodipiin, ramipriil"
-
-* name.productName = "RAMIPRIL/AMLODIPINE SANDOZ 5mg Kõvakapsel"
-* name.namePart[invented].part = "RAMIPRIL/AMLODIPINE SANDOZ"
-* name.namePart[strength].part = "5mg"
-* name.namePart[doseForm].part = "Kõvakapsel"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-a59663efbf81a6a60d21ac51f359bde6
+Instance: mp-4569c44a7c8e676897f534300d7dbbaa
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product VALTRICOM"
+Title: "Medicinal Product VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg"
 Description: "982519 VALTRICOM"
 Usage: #example
 //* id = "" 
@@ -4146,9 +3569,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-8c59da0e27a89ee78fb22b2fd4cf0ce2
+
+Instance: mp-889b2b047c2dbf68778b1904db196833
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMDACORDIA HCT"
+Title: "Medicinal Product RAMDACORDIA HCTKõvakapsel25mg, 5mg"
 Description: "981519 RAMDACORDIA HCT"
 Usage: #example
 //* id = "" 
@@ -4175,9 +3599,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-f05a11959e96ff31465b787144cb26e6
+
+Instance: mp-04fd98885e4ce4db86cf32c2d36e5aa8
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg"
 Description: "1023621 OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 //* id = "" 
@@ -4204,9 +3629,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-388a4bbc76bc7bd93f5012a225a99d01
+
+Instance: mp-8b716ee61fa4aa41e504fb7b8cc10966
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DALNESSA"
+Title: "Medicinal Product DALNESSATablett4mg, 10mg"
 Description: "802312 DALNESSA"
 Usage: #example
 //* id = "" 
@@ -4233,18 +3659,19 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-5f467326a610f24df4c1f79655358e7e
+
+Instance: mp-d89ec52c740c99583c8334e1d265efd2
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMIPRIL/AMLODIPINE SANDOZ"
-Description: "nan RAMIPRIL/AMLODIPINE SANDOZ"
+Title: "Medicinal Product RAMDACORDIAKõvakapsel10mg, 5mg"
+Description: "785612 RAMDACORDIA"
 Usage: #example
 //* id = "" 
 // MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
 //* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100002893-8692"
+* identifier[mpid].value = "EE-100002893-9566"
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
 * domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
+//* status.coding[0] = $200000005003#Valid "Valid"
 * status.coding[0] = $200000005003#200000005005 "Provisional"
 //* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
 //* indication = ""
@@ -4256,44 +3683,16 @@ Usage: #example
 * classification[atc].coding[who] = $who-atc#C09BB07 "ramipriil, amlodipiin"
 * classification[atc].coding[ema] = $100000093533#C09BB07 "ramipriil, amlodipiin"
 
-* name.productName = "RAMIPRIL/AMLODIPINE SANDOZ 10mg, 5mg Kõvakapsel"
-* name.namePart[invented].part = "RAMIPRIL/AMLODIPINE SANDOZ"
+* name.productName = "RAMDACORDIA 10mg, 5mg Kõvakapsel"
+* name.namePart[invented].part = "RAMDACORDIA"
 * name.namePart[strength].part = "10mg, 5mg"
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b2d2d3244086f38209295506c37f3d7a
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Description: "nan PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100003164-8727"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "indapamiid, amlodipiin, perindopriil"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "indapamiid, amlodipiin, perindopriil"
-
-* name.productName = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA 5mg, 1.25mg Õhukese polümeerikattega tablett"
-* name.namePart[invented].part = "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-* name.namePart[strength].part = "5mg, 1.25mg"
-* name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-22186d9267d30078aa10e42fb71e0a79
+Instance: mp-790c3262fcb36ab4153d147d79fb4390
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE MEDOCHEMIE"
+Title: "Medicinal Product AMLODIPINE MEDOCHEMIETablett5mg"
 Description: "567307 AMLODIPINE MEDOCHEMIE"
 Usage: #example
 //* id = "" 
@@ -4320,9 +3719,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-a3ba23c13d9d6e610bdbdffbb09ca778
+
+Instance: mp-e7ee4d9735c9b48b2998e52eb7179ed5
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLOCARD 10MG"
+Title: "Medicinal Product AMLOCARD 10MGTablett10mg"
 Description: "538707 AMLOCARD 10MG"
 Usage: #example
 //* id = "" 
@@ -4349,9 +3749,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-46abe5cdecd5f83da98c44d0fcd2c099
+
+Instance: mp-56dfd3ef23616a17c8516e86c896c63b
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TELMISARTAN/AMLODIPINE TEVA"
+Title: "Medicinal Product TELMISARTAN/AMLODIPINE TEVATablett10mg, 80mg"
 Description: "1062622 TELMISARTAN/AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
@@ -4378,38 +3779,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-9d77052c80c2ae593323615fc802e55f
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMIPRIL/AMLODIPINE SANDOZ"
-Description: "nan RAMIPRIL/AMLODIPINE SANDOZ"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100002893-8693"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
 
-* classification[atc].coding[who] = $who-atc#C09BB07 "ramipriil, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09BB07 "ramipriil, amlodipiin"
-
-* name.productName = "RAMIPRIL/AMLODIPINE SANDOZ 5mg, 10mg Kõvakapsel"
-* name.namePart[invented].part = "RAMIPRIL/AMLODIPINE SANDOZ"
-* name.namePart[strength].part = "5mg, 10mg"
-* name.namePart[doseForm].part = "Kõvakapsel"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-6a1189806502f55e216dfdd0bee4727d
+Instance: mp-928926c8a307b3b3a8d3551a8fc10bde
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg"
 Description: "991119 OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
 Usage: #example
 //* id = "" 
@@ -4436,9 +3809,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-f3aa4a484f1143ad5ff67ce0e478cf5c
+
+Instance: mp-d59d10dac3a35bfeb925aebce3fcfa04
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DIRONORM"
+Title: "Medicinal Product DIRONORMTablett20mg, 5mg"
 Description: "780112 DIRONORM"
 Usage: #example
 //* id = "" 
@@ -4465,9 +3839,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-c70fe54fd6d33b760f19c13dfd878c2c
+
+Instance: mp-d3a126b8227e56f2155ae740e9723dc2
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TELDIPIN"
+Title: "Medicinal Product TELDIPINTablett5mg, 40mg"
 Description: "929516 TELDIPIN"
 Usage: #example
 //* id = "" 
@@ -4494,9 +3869,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-eb67a770a9ee3dc5cb17b96bfcaedb05
+
+Instance: mp-a823dbe22a8d12bb4bc87e4bdbdbb0b9
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TELMISARTAN/AMLODIPINE ALEMBIC"
+Title: "Medicinal Product TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg"
 Description: "1024121 TELMISARTAN/AMLODIPINE ALEMBIC"
 Usage: #example
 //* id = "" 
@@ -4523,38 +3899,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-f44976d24a835e4741c853c50e646a1e
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product CO-DALNESSA NEO"
-Description: "nan CO-DALNESSA NEO"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100009540-8963"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "amlodipiin, indapamiid, perindopriil"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "amlodipiin, indapamiid, perindopriil"
-
-* name.productName = "CO-DALNESSA NEO 2.5mg, 10mg Tablett"
-* name.namePart[invented].part = "CO-DALNESSA NEO"
-* name.namePart[strength].part = "2.5mg, 10mg"
-* name.namePart[doseForm].part = "Tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-af348be1267291423cc55035662a5840
+Instance: mp-0b5de376a6e3694afd4c906d71a20a93
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product ALNETA"
+Title: "Medicinal Product ALNETATablett10mg"
 Description: "808213 ALNETA"
 Usage: #example
 //* id = "" 
@@ -4581,9 +3929,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-48dc55ed617c44a0a2e6a56b13bf119b
+
+Instance: mp-1141aae8513eb520117974def513abbe
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product CO-DALNESSA"
+Title: "Medicinal Product CO-DALNESSATablett1.25mg, 5mg, 4mg"
 Description: "833113 CO-DALNESSA"
 Usage: #example
 //* id = "" 
@@ -4610,9 +3959,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-83ec097167c802d9a2494c51504dc58f
+
+Instance: mp-ebae77533e4c1e728b99e03b2085351b
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 10mg"
 Description: "957417 OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
 Usage: #example
 //* id = "" 
@@ -4639,9 +3989,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-34f980a7c12da71aa5f92f1eab18daf4
+
+Instance: mp-ea0760856f322e401f457fd499eae073
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVAÕhukese polümeerikattega tablett40mg, 10mg"
 Description: "954617 OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
 Usage: #example
 //* id = "" 
@@ -4668,9 +4019,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-5b530bc63011afbb19c29e6105b77192
+
+Instance: mp-86b57f03efc0bf7bcdc77d7a8dce3999
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product FRAMSYL"
+Title: "Medicinal Product FRAMSYLKõvakapsel5mg, 16mg"
 Description: "915816 FRAMSYL"
 Usage: #example
 //* id = "" 
@@ -4697,9 +4049,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-af58a2226a7bb27bbfd3c9897e1448ec
+
+Instance: mp-473963e88b785cfc16808e8769caf412
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DALNESSA"
+Title: "Medicinal Product DALNESSATablett5.7mg, 5mg"
 Description: "969418 DALNESSA"
 Usage: #example
 //* id = "" 
@@ -4726,9 +4079,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-0ee5f36f8afc81c706a42b5387a0023d
+
+Instance: mp-a380cadd3016c2a5d946b4f3003865c0
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TELMISARTAN/AMLODIPINE TEVA"
+Title: "Medicinal Product TELMISARTAN/AMLODIPINE TEVATablett80mg, 5mg"
 Description: "1062522 TELMISARTAN/AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
@@ -4755,9 +4109,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-3d8f1b0949339d791a41309aa852b94a
+
+Instance: mp-4648373e4938d96c51d667392632f991
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DALNESSANEO"
+Title: "Medicinal Product DALNESSANEOTablett10mg"
 Description: "1051722 DALNESSANEO"
 Usage: #example
 //* id = "" 
@@ -4784,9 +4139,40 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-6a80df7d34a2b3298d68828963032d6b
+
+Instance: mp-57c88696b92540a20d8687d5705cc3a7
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product CO-DALNESSA"
+Title: "Medicinal Product PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg, 5mg"
+Description: "1040421 PERINDOPRIL/ AMLODIPINE ACTAVIS"
+Usage: #example
+//* id = "" 
+// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
+//* identifier[pmsid].value = "" 
+* identifier[mpid].value = "EE-100001873-7461"
+* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
+* domain = $100000000004#100000000012 "Human use"
+//* status.coding[0] = $200000005003#Valid "Valid"
+* status.coding[0] = $200000005003#200000005005 "Provisional"
+//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
+//* indication = ""
+//Default: 200000005004 'Current'
+//* legalStatusOfSupply = $100000072051# ""
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
+
+* classification[atc].coding[who] = $who-atc#C09BB04 "amlodipiin, perindopriil"
+* classification[atc].coding[ema] = $100000093533#C09BB04 "amlodipiin, perindopriil"
+
+* name.productName = "PERINDOPRIL/ AMLODIPINE ACTAVIS 10mg, 5mg Tablett"
+* name.namePart[invented].part = "PERINDOPRIL/ AMLODIPINE ACTAVIS"
+* name.namePart[strength].part = "10mg, 5mg"
+* name.namePart[doseForm].part = "Tablett"
+* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
+* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+
+Instance: mp-2df1fd096ea2119e34f58eeaf76f3361
+InstanceOf: PPLMedicinalProductDefinition
+Title: "Medicinal Product CO-DALNESSATablett8mg, 2.5mg, 10mg"
 Description: "833213 CO-DALNESSA"
 Usage: #example
 //* id = "" 
@@ -4813,9 +4199,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-8bfa8f1d8c3a452345270984e2f0d034
+
+Instance: mp-92deca0aa200157ff667b54187059631
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 5mg"
 Description: "957317 OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
 Usage: #example
 //* id = "" 
@@ -4842,9 +4229,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-90d70636b1ce513642d96625810caf9e
+
+Instance: mp-a452ad2a480e81cd3737925a60ec302c
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DIRONORM"
+Title: "Medicinal Product DIRONORMTablett10mg, 5mg"
 Description: "616709 DIRONORM"
 Usage: #example
 //* id = "" 
@@ -4871,9 +4259,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-5b5ab6ed59e596b83f12e9c13432da7f
+
+Instance: mp-dbdeb2055d677f893444bdcb86676431
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL/AMLODIPINE TEVA"
+Title: "Medicinal Product PERINDOPRIL/AMLODIPINE TEVATablett5mg"
 Description: "838814 PERINDOPRIL/AMLODIPINE TEVA"
 Usage: #example
 //* id = "" 
@@ -4900,38 +4289,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-9349259056595533d5e0208b7251050d
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product CO-DALNESSA NEO"
-Description: "nan CO-DALNESSA NEO"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100009540-8962"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablett"
 
-* classification[atc].coding[who] = $who-atc#C09BX01 "perindopriil, indapamiid, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09BX01 "perindopriil, indapamiid, amlodipiin"
-
-* name.productName = "CO-DALNESSA NEO 10mg, 5mg, 2.5mg Tablett"
-* name.namePart[invented].part = "CO-DALNESSA NEO"
-* name.namePart[strength].part = "10mg, 5mg, 2.5mg"
-* name.namePart[doseForm].part = "Tablett"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-e4e66eb770f9b7e5bce50cb0baeba199
+Instance: mp-164a8ce3f7e2956d3591764c075e672b
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product ROXAMPEX"
+Title: "Medicinal Product ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 10mg"
 Description: "996319 ROXAMPEX"
 Usage: #example
 //* id = "" 
@@ -4958,9 +4319,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-e4cc654eca03efb8ddc99706d49c5d4a
+
+Instance: mp-c2df63ce4b6e847234f127a936124cee
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg"
 Description: "991319 OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
 Usage: #example
 //* id = "" 
@@ -4987,9 +4349,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b6b6eb359f886b600641d33c3acb531d
+
+Instance: mp-91f76beabfa57c6be6d029c68a5ddf5f
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg"
 Description: "1007620 OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
 Usage: #example
 //* id = "" 
@@ -5016,9 +4379,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-181d1f77341ba85797d3b15314a57d95
+
+Instance: mp-0522fe195a75b4ffa60e98e2b065d29f
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product CO-DALNESSA"
+Title: "Medicinal Product CO-DALNESSATablett5mg, 8mg, 2.5mg"
 Description: "833313 CO-DALNESSA"
 Usage: #example
 //* id = "" 
@@ -5045,9 +4409,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b266c791591aaccd13a58c3bf77c89cd
+
+Instance: mp-5c042bbd83eb6153724ad890c2412039
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SANORAL"
+Title: "Medicinal Product SANORALÕhukese polümeerikattega tablett40mg, 5mg"
 Description: "606408 SANORAL"
 Usage: #example
 //* id = "" 
@@ -5074,9 +4439,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-a36e6fc54f1b590dc525751e9804edb9
+
+Instance: mp-43a794a22110d2df504819ad48a456ad
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SANORAL HCT"
+Title: "Medicinal Product SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg"
 Description: "730311 SANORAL HCT"
 Usage: #example
 //* id = "" 
@@ -5103,9 +4469,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-9316836251e46376e324ea1a2e6d0d96
+
+Instance: mp-1d507303f7d371853f158ef9ca580b39
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMDACORDIA"
+Title: "Medicinal Product RAMDACORDIAKõvakapsel10mg"
 Description: "785712 RAMDACORDIA"
 Usage: #example
 //* id = "" 
@@ -5132,9 +4499,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-b918b2653c3a9b1ca27fbb3731915827
+
+Instance: mp-9ff8261eb987e544b8510cd3f9a83372
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product WAMLOX"
+Title: "Medicinal Product WAMLOXÕhukese polümeerikattega tablett10mg, 320mg"
 Description: "979719 WAMLOX"
 Usage: #example
 //* id = "" 
@@ -5161,9 +4529,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-0787020ca0af8dcad1d90da2cce4a035
+
+Instance: mp-37ceb237ec18c2826b5fb5e68f9b2ab7
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product PERINDOPRIL/ AMLODIPINE ACTAVIS"
+Title: "Medicinal Product PERINDOPRIL/ AMLODIPINE ACTAVISTablett5mg"
 Description: "1040221 PERINDOPRIL/ AMLODIPINE ACTAVIS"
 Usage: #example
 //* id = "" 
@@ -5190,9 +4559,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-aa9b6f0d7403c46c7bca8779b1504b95
+
+Instance: mp-e8ce73afbb42811b992f84492a92b044
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DALNESSANEO"
+Title: "Medicinal Product DALNESSANEOTablett10mg, 5mg"
 Description: "1051522 DALNESSANEO"
 Usage: #example
 //* id = "" 
@@ -5219,9 +4589,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-bda000a34704c31621c052c4156e4b1f
+
+Instance: mp-cc8a2cda608c39747a1735d392904ef2
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product FRAMSYL"
+Title: "Medicinal Product FRAMSYLKõvakapsel10mg, 8mg"
 Description: "915716 FRAMSYL"
 Usage: #example
 //* id = "" 
@@ -5248,9 +4619,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-3d4395f477464cfd8826050164337d6f
+
+Instance: mp-61e636582ddb3a8fe7f052c5963552b3
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
+Title: "Medicinal Product OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg"
 Description: "1017520 OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
 Usage: #example
 //* id = "" 
@@ -5277,9 +4649,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-6747a4bfd435b641b93387c863011a5d
+
+Instance: mp-17aa3bb6faec404ef2e078cb38f6d778
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPIN-RATIOPHARM 10 MG"
+Title: "Medicinal Product AMLODIPIN-RATIOPHARM 10 MGTablett10mg"
 Description: "537207 AMLODIPIN-RATIOPHARM 10 MG"
 Usage: #example
 //* id = "" 
@@ -5306,9 +4679,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-6d5da028900f96a26f7c9f06325375bf
+
+Instance: mp-45c118b40b2c28e9ac6cab91e4e07174
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product WAMLOX"
+Title: "Medicinal Product WAMLOXÕhukese polümeerikattega tablett80mg, 5mg"
 Description: "902816 WAMLOX"
 Usage: #example
 //* id = "" 
@@ -5335,9 +4709,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-66febb4bc6a57acc1e91c35c8b9dd7f1
+
+Instance: mp-6111af384fb679255fb465a3592f66ef
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product ROXAMPEX"
+Title: "Medicinal Product ROXAMPEXÕhukese polümeerikattega tablett10mg, 5mg, 8mg"
 Description: "996419 ROXAMPEX"
 Usage: #example
 //* id = "" 
@@ -5364,9 +4739,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-11afb183155f9b8c8adf9a81b1bd6af6
+
+Instance: mp-6927a99dccb40876a816618edcdef801
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product WAMLOX"
+Title: "Medicinal Product WAMLOXÕhukese polümeerikattega tablett160mg, 5mg"
 Description: "902916 WAMLOX"
 Usage: #example
 //* id = "" 
@@ -5393,9 +4769,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-bc8bc4a1d8df47334af4ef22a6835761
+
+Instance: mp-9cddcc96feade261665f0a3ef5dbe6ea
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLOCARD 5 MG"
+Title: "Medicinal Product AMLOCARD 5 MGTablett5mg"
 Description: "538507 AMLOCARD 5 MG"
 Usage: #example
 //* id = "" 
@@ -5422,9 +4799,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-c6294a4fd23138ca98050c50354cacde
+
+Instance: mp-3d3624f68235986f61c909321318e1ef
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COVERAM"
+Title: "Medicinal Product COVERAMTablett10mg"
 Description: "584208 COVERAM"
 Usage: #example
 //* id = "" 
@@ -5451,96 +4829,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-4f40f701d57db89cf85b48a087ad9b50
+
+Instance: mp-75a6f374ecfe6f4521b39ccaf45991db
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product QUADRIXAM 5MG/1,25MG/5MG/5MG"
-Description: "nan QUADRIXAM 5MG/1,25MG/5MG/5MG"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100000973-8906"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
-
-* classification[atc].coding[who] = $who-atc#C09BX80 "bisoprolool, amlodipiin, indapamiid, perindopriil"
-* classification[atc].coding[ema] = $100000093533#C09BX80 "bisoprolool, amlodipiin, indapamiid, perindopriil"
-
-* name.productName = "QUADRIXAM 5MG/1,25MG/5MG/5MG 5mg, 1.25mg Kõvakapsel"
-* name.namePart[invented].part = "QUADRIXAM 5MG/1,25MG/5MG/5MG"
-* name.namePart[strength].part = "5mg, 1.25mg"
-* name.namePart[doseForm].part = "Kõvakapsel"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-893424ac2190440016f463dcdd864711
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product QUADRIXAM 10MG/2,5MG/5MG/5MG"
-Description: "nan QUADRIXAM 10MG/2,5MG/5MG/5MG"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100000973-8907"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
-
-* classification[atc].coding[who] = $who-atc#C09BX80 "bisoprolool, indapamiid, amlodipiin, perindopriil"
-* classification[atc].coding[ema] = $100000093533#C09BX80 "bisoprolool, indapamiid, amlodipiin, perindopriil"
-
-* name.productName = "QUADRIXAM 10MG/2,5MG/5MG/5MG 5mg, 2.5mg, 10mg Kõvakapsel"
-* name.namePart[invented].part = "QUADRIXAM 10MG/2,5MG/5MG/5MG"
-* name.namePart[strength].part = "5mg, 2.5mg, 10mg"
-* name.namePart[doseForm].part = "Kõvakapsel"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-48b6f97bd1a6af63c22d77e326f555dc
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product QUADRIXAM 10MG/2,5MG/10MG/5MG"
-Description: "nan QUADRIXAM 10MG/2,5MG/10MG/5MG"
-Usage: #example
-//* id = "" 
-// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
-//* identifier[pmsid].value = "" 
-* identifier[mpid].value = "EE-100000973-8908"
-* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
-* domain = $100000000004#100000000012 "Human use"
-//* status.coding[0] = $200000005003#Pending "Pending"
-* status.coding[0] = $200000005003#200000005005 "Provisional"
-//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
-//* indication = ""
-//Default: 200000005004 'Current'
-//* legalStatusOfSupply = $100000072051# ""
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Kõvakapsel"
-
-* classification[atc].coding[who] = $who-atc#C09BX80 "bisoprolool, indapamiid, perindopriil, amlodipiin"
-* classification[atc].coding[ema] = $100000093533#C09BX80 "bisoprolool, indapamiid, perindopriil, amlodipiin"
-
-* name.productName = "QUADRIXAM 10MG/2,5MG/10MG/5MG 2.5mg, 10mg, 5mg Kõvakapsel"
-* name.namePart[invented].part = "QUADRIXAM 10MG/2,5MG/10MG/5MG"
-* name.namePart[strength].part = "2.5mg, 10mg, 5mg"
-* name.namePart[doseForm].part = "Kõvakapsel"
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-5eb9a75bbbd9b52f4e32493ab201f639
-InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product SOBYCOMBI"
+Title: "Medicinal Product SOBYCOMBITablett5mg"
 Description: "850614 SOBYCOMBI"
 Usage: #example
 //* id = "" 
@@ -5567,9 +4859,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-1a1967e651e3965fe8dcc42dbf2c59c0
+
+Instance: mp-4ae2ae7f133292e2edd393b837ba7475
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product DALNESSA"
+Title: "Medicinal Product DALNESSATablett5mg, 8mg"
 Description: "802112 DALNESSA"
 Usage: #example
 //* id = "" 
@@ -5596,9 +4889,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-eca439c8de0e2c1f38798a029c7a86cc
+
+Instance: mp-87eace728cb772bd744d4c9bd663f8e7
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TRIPLIXAM"
+Title: "Medicinal Product TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg"
 Description: "834914 TRIPLIXAM"
 Usage: #example
 //* id = "" 
@@ -5625,9 +4919,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-aa2413344919aea47e26545abb272d2e
+
+Instance: mp-7f36e51dcd3c062fcdfde290213d93fd
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product RAMDACORDIA HCT"
+Title: "Medicinal Product RAMDACORDIA HCTKõvakapsel25mg, 10mg"
 Description: "981719 RAMDACORDIA HCT"
 Usage: #example
 //* id = "" 
@@ -5654,9 +4949,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Kõvakapsel"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-eaf399ed7ec71ae5059bbbd769cd45a1
+
+Instance: mp-3a50f937e5452c904f583dd60b86c709
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product TELDIPIN"
+Title: "Medicinal Product TELDIPINTablett10mg, 40mg"
 Description: "929616 TELDIPIN"
 Usage: #example
 //* id = "" 
@@ -5683,9 +4979,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-a9ee7448b2ace7e26afced7673ae186c
+
+Instance: mp-adace13de52a7dd9afa46fe7ab924022
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product COVERAM"
+Title: "Medicinal Product COVERAMTablett5mg"
 Description: "584108 COVERAM"
 Usage: #example
 //* id = "" 
@@ -5712,9 +5009,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-d44d030d32eb73aa70a8d37d06ae0be4
+
+Instance: mp-da9bd57613b8c0bd0c6e0174c4b7323f
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product CO-DALNESSA"
+Title: "Medicinal Product CO-DALNESSATablett0.625mg, 5mg, 2mg"
 Description: "833013 CO-DALNESSA"
 Usage: #example
 //* id = "" 
@@ -5741,9 +5039,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-012fb5c373e2b13010dd8531088f8f9b
+
+Instance: mp-938b248e75affacf29383e0738b98ea2
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product AMLODIPINE VITABALANS"
+Title: "Medicinal Product AMLODIPINE VITABALANSTablett10mg"
 Description: "744411 AMLODIPINE VITABALANS"
 Usage: #example
 //* id = "" 
@@ -5770,9 +5069,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-7905b76d1074ee4441710f74916654ed
+
+Instance: mp-6a7dda4d31325ba4037a7b5ca32568f2
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product WAMLOX"
+Title: "Medicinal Product WAMLOXÕhukese polümeerikattega tablett160mg, 10mg"
 Description: "903016 WAMLOX"
 Usage: #example
 //* id = "" 
@@ -5799,9 +5099,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Õhukese polümeerikattega tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-0ee4e3323e22b8e8c60a7c929872c9a3
+
+Instance: mp-87a121d8ef14832e3e60f39822818fec
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product CAMDERO"
+Title: "Medicinal Product CAMDEROTablett5mg, 8mg"
 Description: "958918 CAMDERO"
 Usage: #example
 //* id = "" 
@@ -5828,9 +5129,10 @@ Usage: #example
 * name.namePart[doseForm].part = "Tablett"
 * name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
 * name.countryLanguage.language = $100000072057#100000072172  "Estonian"
-Instance: mp-78b1ed9622fd52a8962a69ccc5e4a3be
+
+Instance: mp-3ce5ba0615d73ef5c32173a29faaa66a
 InstanceOf: PPLMedicinalProductDefinition
-Title: "Medicinal Product CO-DALNESSA"
+Title: "Medicinal Product CO-DALNESSATablett4mg, 1.25mg, 10mg"
 Description: "832813 CO-DALNESSA"
 Usage: #example
 //* id = "" 

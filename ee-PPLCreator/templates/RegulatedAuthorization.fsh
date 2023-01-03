@@ -2,14 +2,16 @@
 {% if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
 
 {% set ns = namespace() %}
-{% set ns.mpone = row['Ravimi nimetus'] %}
-{% set ns.mpthree= row['Ravimi tugevus'] %}
-{% set ns.mp_name_to_has= ns.mpone ~ns.mpthree  %}
+
+{% set ns.one = row['Ravimi nimetus'] %}
+{% set ns.two = row['Ravimvorm'] %}
+{% set ns.three= row['Ravimi tugevus'] %}
+{% set ns.name_to_has= ns.one ~ ns.two ~ns.three  %}
 
 
-Instance: auth-for-{{ ns.mp_name_to_has| create_hash_id}}
+Instance: auth-for-{{ row["Müügiloa number"]| trim| create_hash_id}}
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for {{ row["Toimeaine"] }}"
+Title: "Regulated Authorization for {{ ns.name_to_has }}"
 Description: "Regulated Authorization for {{ row["Toimeaine"] }}"
 Usage: #example
 
@@ -22,7 +24,7 @@ Usage: #example
 // Reference to MedicinalProductDefinition:
 
 //MPD
-* subject = Reference(mp-{{ ns.mp_name_to_has| create_hash_id}})
+* subject = Reference(mp-{{ row["Müügiloa number"]| trim|create_hash_id}})
 
 
 * type = $220000000060#220000000061 "Marketing Authorisation"

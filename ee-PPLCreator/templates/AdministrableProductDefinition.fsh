@@ -7,21 +7,17 @@
 {% set ns.three= row['Ravimi tugevus'] %}
 {% set ns.name_to_has= ns.one ~ ns.two ~ns.three  %}
 
-{% set ns.mpone = row['Ravimi nimetus'] %}
-{% set ns.mpthree= row['Ravimi tugevus'] %}
-{% set ns.mp_name_to_has= ns.mpone ~ns.mpthree  %}
 
-Instance: ap-{{ ns.name_to_has| create_hash_id}}
+
+Instance: ap-{{row["Müügiloa number"]|trim| create_hash_id}}
 InstanceOf: PPLAdministrableProductDefinition
 Title: "Administrable product {{row['Ravimi nimetus']}}-{{row['Ravimvorm']}}-{{row['Ravimi tugevus	']}}"
 Description: " {{row['Ravimi nimetus']}}-{{row['Ravimvorm']}}-{{row['Ravimi tugevus	']}}"
 Usage: #example
 
-
 * status = #active
 
-//MPD
-* formOf = Reference(mp-{{ ns.mp_name_to_has| create_hash_id}})
+* formOf = Reference(mp-{{row["Müügiloa number"]|trim| create_hash_id}})
 
 * administrableDoseForm = $200000000004#{{ row["Manustatav ravimvorm"]|get_data_dictionary_info(200000000004,"RMS termini id","RMS nimi eesti keeles")}} "{{ row["Manustatav ravimvorm"] }}"
 * unitOfPresentation = $200000000014#{{row["Pakendi suurus"].split(",")[0]|get_by_regex("[A-Za-z]+")|get_data_dictionary_info(200000000014,"RMS termini id","RMS nimi eesti keeles")}} "{{row["Pakendi suurus"].split(",")[0]|get_by_regex("[A-Za-z]+") }}"

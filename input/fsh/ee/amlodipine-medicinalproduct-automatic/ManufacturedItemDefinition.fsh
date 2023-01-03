@@ -1,8 +1,8 @@
 
 
-Instance: mid-45f0935e8c6afee1cac2e42562b88f23
+Instance: mid-164134620f00a6ad7d864c07d28d7b1e
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COPALIA HCT"
+Title: "Manufactured item COPALIA HCTÕhukese polümeerikattega tablett160mg, 12.5mg, 10mg"
 Description: "COPALIA HCT"
 Usage: #example
 
@@ -13,9 +13,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007373)
 
-Instance: mid-79d94ef7008f11d676a4adb2f00ebf9c
+Instance: mid-04f54f0b120da0e4d613148114948db6
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TENLORIS"
+Title: "Manufactured item TENLORISÕhukese polümeerikattega tablett10mg, 50mg"
 Description: "TENLORIS"
 Usage: #example
 
@@ -26,9 +26,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-0a031421e9bcacd66a18c1675483f31f
+Instance: mid-d9b6ef48731c98284badcf0786ddae4a
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TRIVERAM 40MG/10MG/10MG"
+Title: "Manufactured item TRIVERAM 40MG/10MG/10MGÕhukese polümeerikattega tablett40mg, 10mg"
 Description: "TRIVERAM 40MG/10MG/10MG"
 Usage: #example
 
@@ -39,9 +39,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-f882e68544af7ff49caa3b421488962b
+Instance: mid-b437fbb92af66ac8602316a292b734a3
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TRIPLIXAM"
+Title: "Manufactured item TRIPLIXAMÕhukese polümeerikattega tablett5mg, 1.25mg"
 Description: "TRIPLIXAM"
 Usage: #example
 
@@ -52,9 +52,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-adcabea100f781d707218f571c4f037f
+Instance: mid-f561bcd9597099da88e683385eb84d34
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item NATRIXAM"
+Title: "Manufactured item NATRIXAMToimeainet modifitseeritult vabastav tablett10mg, 1.5mg"
 Description: "NATRIXAM"
 Usage: #example
 
@@ -65,9 +65,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-17e91c9786af1c33ef3711746fdd699f
+Instance: mid-c7b7b3ad9b130f95a3ad36a56478ef8c
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COPALIA"
+Title: "Manufactured item COPALIAÕhukese polümeerikattega tablett160mg, 10mg"
 Description: "COPALIA"
 Usage: #example
 
@@ -78,9 +78,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007373)
 
-Instance: mid-c647a5eaa7f88cc677cc523cd4489f33
+Instance: mid-8bcd4c6a63a2a4521739bcbe4ff922e6
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item EXFORGE HCT"
+Title: "Manufactured item EXFORGE HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg"
 Description: "EXFORGE HCT"
 Usage: #example
 
@@ -91,35 +91,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007373)
 
-Instance: mid-35d09173235f772753a77e53a9ea7cf5
+Instance: mid-4f323eeb72eeb1f1fd12be728657ab61
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item EXFORGE HCT"
-Description: "EXFORGE HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-92d33ee71b4da091e8b7e9f612b8e1ff
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COPALIA HCT"
-Description: "COPALIA HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-f731a02dc6726c193e888eb8473bce7c
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TWYNSTA"
+Title: "Manufactured item TWYNSTATablett40mg, 5mg"
 Description: "TWYNSTA"
 Usage: #example
 
@@ -130,9 +104,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100012432)
 
-Instance: mid-cbb5b7c3355aa4ad4452daa5ccf361d8
+Instance: mid-1679e02bd535d5bf19f330ce4bcf681e
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item ALNETA"
+Title: "Manufactured item ALNETATablett5mg"
 Description: "ALNETA"
 Usage: #example
 
@@ -143,9 +117,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-35853d394af67d440318431128545504
+Instance: mid-4b4b41bca51db4ce2a7ae1853bc6ea85
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE VITABALANS"
+Title: "Manufactured item AMLODIPINE VITABALANSTablett5mg"
 Description: "AMLODIPINE VITABALANS"
 Usage: #example
 
@@ -156,9 +130,9 @@ Usage: #example
 
 //* manufacturer = Reference(MO193)
 
-Instance: mid-5247de08b58896d4604494db80171dbb
+Instance: mid-13860393e0d6201d8bced905eab31694
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 
@@ -169,22 +143,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007006)
 
-Instance: mid-b7b1332419d9664bd0a99267c5ca5d15
+Instance: mid-15a3485fca0150bf08be1d4cb03d6e36
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COPALIA HCT"
-Description: "COPALIA HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-c3588d5de2aa94d14dfc321e47b53873
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item NORVASC"
+Title: "Manufactured item NORVASCTablett10mg"
 Description: "NORVASC"
 Usage: #example
 
@@ -195,9 +156,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100023206)
 
-Instance: mid-a1678839878d289a5d59bc56a5c851c3
+Instance: mid-32358d5ad82c1915617c683c151c43b5
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SANORAL HCT"
+Title: "Manufactured item SANORAL HCTÕhukese polümeerikattega tablett25mg, 40mg, 10mg"
 Description: "SANORAL HCT"
 Usage: #example
 
@@ -208,9 +169,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100001429)
 
-Instance: mid-9bc7efd141bacc1f239a88bf248c4a49
+Instance: mid-7622a96b7cdac59b9ebbffcc7e1a4fa4
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item NORVASC"
+Title: "Manufactured item NORVASCTablett5mg"
 Description: "NORVASC"
 Usage: #example
 
@@ -221,9 +182,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100010645)
 
-Instance: mid-16567a37a49722b6efb051ab302e0806
+Instance: mid-010be9a91927897698bafa89faddff0f
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item WAMLOX"
+Title: "Manufactured item WAMLOXÕhukese polümeerikattega tablett5mg, 320mg"
 Description: "WAMLOX"
 Usage: #example
 
@@ -234,9 +195,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-751982d36267f6af45f89450a66228d5
+Instance: mid-b5313c5cbaa184b004949e74d53d9507
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLSITRI"
+Title: "Manufactured item OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg"
 Description: "OLSITRI"
 Usage: #example
 
@@ -247,9 +208,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-8bd0ba4c333aa18d77bf0705a8ced0ba
+Instance: mid-263ba0af301b3e5c7965d3c03cfc9f36
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SANORAL HCT"
+Title: "Manufactured item SANORAL HCTÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg"
 Description: "SANORAL HCT"
 Usage: #example
 
@@ -260,9 +221,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100001429)
 
-Instance: mid-7fcb407288ad62b918b13e365fbd54cc
+Instance: mid-c6a4d07400af5debe7a409ff078672ac
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item VALTRICOM"
+Title: "Manufactured item VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 12.5mg"
 Description: "VALTRICOM"
 Usage: #example
 
@@ -273,9 +234,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-110a0c04656125cfacee1f7d25d7b2a4
+Instance: mid-0626809da44619b0d2c792566acd5a8a
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SANORAL"
+Title: "Manufactured item SANORALÕhukese polümeerikattega tablett10mg, 40mg"
 Description: "SANORAL"
 Usage: #example
 
@@ -286,9 +247,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100001429)
 
-Instance: mid-8824260f5cc166a9c5c9fcebf6d2daad
+Instance: mid-5ce9683130355affc8b16ac3a0a50c7e
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLSSA"
+Title: "Manufactured item OLSSAÕhukese polümeerikattega tablett20mg, 5mg"
 Description: "OLSSA"
 Usage: #example
 
@@ -299,9 +260,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-03965de418b25ef6cb5db065291a7f06
+Instance: mid-119dda1fbe0cbb4d5766c20a38da5ee0
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLSITRI"
+Title: "Manufactured item OLSITRIÕhukese polümeerikattega tablett10mg, 40mg, 25mg"
 Description: "OLSITRI"
 Usage: #example
 
@@ -312,9 +273,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-018b2aca0bd97853048671b255066e99
+Instance: mid-d60f852183ec7c722cb53397956b2ae7
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item VALTRICOM"
+Title: "Manufactured item VALTRICOMÕhukese polümeerikattega tablett25mg, 10mg, 160mg"
 Description: "VALTRICOM"
 Usage: #example
 
@@ -325,9 +286,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-fb0b7baa5d9eda64115a890415e80475
+Instance: mid-de741236fa2f76511dce73889ad8e0ea
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SANORAL HCT"
+Title: "Manufactured item SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg"
 Description: "SANORAL HCT"
 Usage: #example
 
@@ -338,9 +299,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100001429)
 
-Instance: mid-1eb740d7e18811fcb9c04e22b23627d2
+Instance: mid-613be9b5571f706096c8eacc2b9907ee
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DAFIRO"
+Title: "Manufactured item DAFIROÕhukese polümeerikattega tablett160mg, 5mg"
 Description: "DAFIRO"
 Usage: #example
 
@@ -351,9 +312,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007373)
 
-Instance: mid-48e9dc9be347304877f019cdb587cb6f
+Instance: mid-7201bd4cdc4828fe6ce1387234eb80d6
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DAFIRO HCT"
+Title: "Manufactured item DAFIRO HCTÕhukese polümeerikattega tablett10mg, 12.5mg, 160mg"
 Description: "DAFIRO HCT"
 Usage: #example
 
@@ -364,9 +325,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007373)
 
-Instance: mid-4b80c9797bfb38a9ee6bdb59d74bd7b1
+Instance: mid-accccddd018b8143ee1f6f3ac998ea17
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PRINDAL"
+Title: "Manufactured item PRINDALTablett10mg, 4mg, 1.25mg"
 Description: "PRINDAL"
 Usage: #example
 
@@ -377,9 +338,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-7d8038aee37a8ee6fbbba9733a63ad82
+Instance: mid-ad5fa36f0a37f7988fe97a35b64703c3
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SANORAL HCT"
+Title: "Manufactured item SANORAL HCTÕhukese polümeerikattega tablett40mg, 25mg, 5mg"
 Description: "SANORAL HCT"
 Usage: #example
 
@@ -390,9 +351,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100001429)
 
-Instance: mid-988b0afba39c079462ec0e0709b0b508
+Instance: mid-78d84c5aa9afd2a1393c6c16dc88821e
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL/ AMLODIPINE ACTAVIS"
+Title: "Manufactured item PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg"
 Description: "PERINDOPRIL/ AMLODIPINE ACTAVIS"
 Usage: #example
 
@@ -403,9 +364,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000064)
 
-Instance: mid-a2bef397893b54b8eae7940bb907c558
+Instance: mid-c586f4681771f89753c2507e0b94c560
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL/AMLODIPINE TEVA"
+Title: "Manufactured item PERINDOPRIL/AMLODIPINE TEVATablett5mg, 10mg"
 Description: "PERINDOPRIL/AMLODIPINE TEVA"
 Usage: #example
 
@@ -416,9 +377,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000229)
 
-Instance: mid-092b46c08330d1ca1bae308f5e4b937b
+Instance: mid-9030bbd21e461a4d7993890e64808084
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE MEDOCHEMIE"
+Title: "Manufactured item AMLODIPINE MEDOCHEMIETablett10mg"
 Description: "AMLODIPINE MEDOCHEMIE"
 Usage: #example
 
@@ -429,9 +390,22 @@ Usage: #example
 
 //* manufacturer = Reference(MO11501)
 
-Instance: mid-16642694776ad41637e51f838bf36e59
+Instance: mid-ab811c9807131a6fe102e644fd451c1f
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item ROXAMPEX"
+Title: "Manufactured item NORVASCTablett5mg"
+Description: "NORVASC"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100009587)
+
+Instance: mid-573327ee63325ab95570125a87402104
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item ROXAMPEXÕhukese polümeerikattega tablett20mg, 8mg, 5mg"
 Description: "ROXAMPEX"
 Usage: #example
 
@@ -442,9 +416,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-57321416664c7aa448e26e4435b8d832
+Instance: mid-e83a5f55fb8df6937682eb3505af15a9
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVAÕhukese polümeerikattega tablett5mg, 40mg"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
 Usage: #example
 
@@ -455,9 +429,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-de308c5750783b4c65d5394796ab1031
+Instance: mid-cf354a0807e9cb815fff08cde088fb4a
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item FRAMSYL"
+Title: "Manufactured item FRAMSYLKõvakapsel10mg, 16mg"
 Description: "FRAMSYL"
 Usage: #example
 
@@ -468,9 +442,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-ad2c494913abfd1d3251a1d63c46d80b
+Instance: mid-e7d221583fda37b88426e5b3dd80a1b7
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLSITRI"
+Title: "Manufactured item OLSITRIÕhukese polümeerikattega tablett5mg, 20mg, 12.5mg"
 Description: "OLSITRI"
 Usage: #example
 
@@ -481,9 +455,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-2f5b81f0974784e0d5e5a493bb64b687
+Instance: mid-df6f54d028aaf1b44d6e3c437436fe59
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TENLORIS"
+Title: "Manufactured item TENLORISÕhukese polümeerikattega tablett100mg, 10mg"
 Description: "TENLORIS"
 Usage: #example
 
@@ -494,9 +468,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-7163d35a4bbf42862b1a21653e2a3fb8
+Instance: mid-a7d9b11d7516e2c592b590e952fc976a
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item NATRIXAM"
+Title: "Manufactured item NATRIXAMToimeainet modifitseeritult vabastav tablett5mg, 1.5mg"
 Description: "NATRIXAM"
 Usage: #example
 
@@ -507,9 +481,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-199f1c0c9ac4de4f24f1558dd5a3ab3b
+Instance: mid-99095e57e9c62937e8d1830376f48ee1
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TRIVERAM 10MG/5MG/5MG"
+Title: "Manufactured item TRIVERAM 10MG/5MG/5MGÕhukese polümeerikattega tablett10mg, 5mg"
 Description: "TRIVERAM 10MG/5MG/5MG"
 Usage: #example
 
@@ -520,9 +494,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-120a9fe8ffb97fba32388a9003b0acd6
+Instance: mid-6a6e65652a6b7721f4a5f2be70b08b35
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TRIPLIXAM"
+Title: "Manufactured item TRIPLIXAMÕhukese polümeerikattega tablett10mg, 2.5mg"
 Description: "TRIPLIXAM"
 Usage: #example
 
@@ -533,9 +507,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-daf7a27e4f2cefda4f055fdac2f30736
+Instance: mid-da7b63d04b10c63e7a151cb2ba5ff19e
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item ZENICAMO"
+Title: "Manufactured item ZENICAMOTablett16mg, 10mg"
 Description: "ZENICAMO"
 Usage: #example
 
@@ -546,9 +520,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-37f8128853136f233f44e712f4619741
+Instance: mid-a1851b4aa535d52d0d2ac4a11fb50172
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE TEVA"
+Title: "Manufactured item AMLODIPINE TEVATablett5mg"
 Description: "AMLODIPINE TEVA"
 Usage: #example
 
@@ -559,9 +533,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000229)
 
-Instance: mid-eff1a621eaa44e230dbc8202935fa9f9
+Instance: mid-b0492c36fe06c5c43abac09862a8849a
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item FLUTENSIF"
+Title: "Manufactured item FLUTENSIFToimeainet modifitseeritult vabastav tablett10mg, 1.5mg"
 Description: "FLUTENSIF"
 Usage: #example
 
@@ -572,9 +546,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-c6be6843aaa3cbf4327d96a2295712ce
+Instance: mid-7dca549a13b4eb244b56ce4143da701e
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item ROXAMPEX"
+Title: "Manufactured item ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 20mg"
 Description: "ROXAMPEX"
 Usage: #example
 
@@ -585,9 +559,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-a99e9ee77f8a50d0042744aa6c1a3d7b
+Instance: mid-b180105b4594b1a235b80b581b787e88
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett10mg, 25mg, 40mg"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 
@@ -598,9 +572,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007006)
 
-Instance: mid-adc445ece170145f48fdc5e25c29934c
+Instance: mid-a2573215e0763e21fc8a639392996590
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL/AMLODIPINE TEVA"
+Title: "Manufactured item PERINDOPRIL/AMLODIPINE TEVATablett10mg"
 Description: "PERINDOPRIL/AMLODIPINE TEVA"
 Usage: #example
 
@@ -611,9 +585,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000229)
 
-Instance: mid-40ddf0f34f98046f27a2be3a5b39afe7
+Instance: mid-bb4c6f95eaf1d70ad88821100fa7adf9
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AGEN 10MG"
+Title: "Manufactured item AGEN 10MGTablett10mg"
 Description: "AGEN 10MG"
 Usage: #example
 
@@ -624,9 +598,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-b5a26b3c5e3c9ecab032122846a7ef5e
+Instance: mid-b0cec8f4f684b9a926520e6574e76d6a
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item MIXOR"
+Title: "Manufactured item MIXORTablett80mg, 5mg"
 Description: "MIXOR"
 Usage: #example
 
@@ -637,9 +611,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-5a003a4d377b6cb57262a8f7c0d376f1
+Instance: mid-9f441068e75d101a49305a458a1bb12c
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PRINDAL"
+Title: "Manufactured item PRINDALTablett8mg, 5mg, 2.5mg"
 Description: "PRINDAL"
 Usage: #example
 
@@ -650,9 +624,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-bf040138a13adaa280a2271e87c6f253
+Instance: mid-15765dbdc2ced1a6cf154b0a0aee9241
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item ROXAMPEX"
+Title: "Manufactured item ROXAMPEXÕhukese polümeerikattega tablett8mg, 20mg, 10mg"
 Description: "ROXAMPEX"
 Usage: #example
 
@@ -663,9 +637,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-9074e4ce1245d96020e62afdb2505327
+Instance: mid-a3d2de7675556553a5f08e4c88d2c228
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMIPRIL/AMLODIPINE SANDOZ"
+Title: "Manufactured item RAMIPRIL/AMLODIPINE SANDOZKõvakapsel10mg"
 Description: "RAMIPRIL/AMLODIPINE SANDOZ"
 Usage: #example
 
@@ -676,9 +650,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-446c3f0a7c1b513b021f1df2fadfee3c
+Instance: mid-45b27b7f250cda110709d2d99ecb83a3
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item VALTRICOM"
+Title: "Manufactured item VALTRICOMÕhukese polümeerikattega tablett160mg, 10mg, 12.5mg"
 Description: "VALTRICOM"
 Usage: #example
 
@@ -689,9 +663,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-4c9bfeb261f0bb3bde9569d02f5b9452
+Instance: mid-e1834bf21b77833702defeadd9554a94
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item VALTRICOM"
+Title: "Manufactured item VALTRICOMÕhukese polümeerikattega tablett320mg, 10mg, 25mg"
 Description: "VALTRICOM"
 Usage: #example
 
@@ -702,9 +676,22 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-25271f42d1512b756038bd83377006e2
+Instance: mid-78ea828e8c2e0f9915b779973ab0c27c
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TRIPLIXAM"
+Title: "Manufactured item NORVASCTablett10mg"
+Description: "NORVASC"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100009587)
+
+Instance: mid-24891bfe3df12ce0ca603528df3819ec
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item TRIPLIXAMÕhukese polümeerikattega tablett5mg, 10mg, 2.5mg"
 Description: "TRIPLIXAM"
 Usage: #example
 
@@ -715,9 +702,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-ea24a3ba02de5b428a814ead61a56403
+Instance: mid-6709cadec14d34a4ce70af63e9421a1b
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TRIVERAM 20MG/10MG/10MG"
+Title: "Manufactured item TRIVERAM 20MG/10MG/10MGÕhukese polümeerikattega tablett20mg, 10mg"
 Description: "TRIVERAM 20MG/10MG/10MG"
 Usage: #example
 
@@ -728,9 +715,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-507e037e7b53f108597aa8104023b0ee
+Instance: mid-fedf52f451906e74f251473ff122a768
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AGEN 5MG"
+Title: "Manufactured item AGEN 5MGTablett5mg"
 Description: "AGEN 5MG"
 Usage: #example
 
@@ -741,9 +728,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-14a9e800c9c8b7337e6c27b0d7936d33
+Instance: mid-643ee4aafe3a5f6160418089c8bc144f
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PRINDAL"
+Title: "Manufactured item PRINDALTablett4mg, 1.25mg, 5mg"
 Description: "PRINDAL"
 Usage: #example
 
@@ -754,22 +741,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-5eb8039a47a953161c3d809407e075f8
+Instance: mid-a10c712d5e22defbadaacf5c590d91c1
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item CO-DALNESSA NEO"
-Description: "CO-DALNESSA NEO"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-b3f629f916b3516763c75a379143140b
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL/ AMLODIPINE ACTAVIS"
+Title: "Manufactured item PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg, 5mg"
 Description: "PERINDOPRIL/ AMLODIPINE ACTAVIS"
 Usage: #example
 
@@ -780,9 +754,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000064)
 
-Instance: mid-b62ef02d7f298c872473be81d6a2776f
+Instance: mid-7111a5f4581c96aeb3d849b6c329cd37
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SOBYCOMBI"
+Title: "Manufactured item SOBYCOMBITablett10mg"
 Description: "SOBYCOMBI"
 Usage: #example
 
@@ -793,9 +767,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-98e252160d8a05b3b34432da98ede78b
+Instance: mid-3532848b29b671c8226129387571af81
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item CAMDERO"
+Title: "Manufactured item CAMDEROTablett16mg, 5mg"
 Description: "CAMDERO"
 Usage: #example
 
@@ -806,9 +780,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-5aa7a85004ead5b3c25b02647c3d7b13
+Instance: mid-5196a3ed0766610246524f22c6dfcb0b
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PRINDAL"
+Title: "Manufactured item PRINDALTablett10mg, 2.5mg, 8mg"
 Description: "PRINDAL"
 Usage: #example
 
@@ -819,9 +793,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-a3548265bcf8910bf529bb3c5fe52082
+Instance: mid-e5a5f7e045adf8a26ccfb8c2bf81fd60
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMDACORDIA HCT"
+Title: "Manufactured item RAMDACORDIA HCTKõvakapsel5mg, 10mg, 25mg"
 Description: "RAMDACORDIA HCT"
 Usage: #example
 
@@ -832,48 +806,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-1c1bc64e3b67621b00457a9b5c25e531
+Instance: mid-4f29a807fff14bdd583461050ab611da
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item EXFORGE HCT"
-Description: "EXFORGE HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-3016a3bb802bbb12cee9684604486b11
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TWYNSTA"
-Description: "TWYNSTA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100012432)
-
-Instance: mid-b5f4e393330007a97324b18215887a56
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TWYNSTA"
-Description: "TWYNSTA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100012432)
-
-Instance: mid-1cd4d52bdfe0cb782a5e7a5b0dfbc00a
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE/VALSARTAN MYLAN"
+Title: "Manufactured item AMLODIPINE/VALSARTAN MYLANÕhukese polümeerikattega tablett160mg, 5mg"
 Description: "AMLODIPINE/VALSARTAN MYLAN"
 Usage: #example
 
@@ -884,9 +819,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100034257)
 
-Instance: mid-00a9676f55edb021c8f82b87d5b52738
+Instance: mid-c070bacb375a778ab6acb3e41d9f05be
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLSITRI"
+Title: "Manufactured item OLSITRIÕhukese polümeerikattega tablett12.5mg, 40mg, 5mg"
 Description: "OLSITRI"
 Usage: #example
 
@@ -897,9 +832,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-cce6878d1173c2e5a657fbd6c7af3ab0
+Instance: mid-8ba5ffcc8e6daba03e3877db10902477
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DALNESSA"
+Title: "Manufactured item DALNESSATablett4mg, 5mg"
 Description: "DALNESSA"
 Usage: #example
 
@@ -910,9 +845,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-cf2aa8017868f4fefa99f3d5b8dfb316
+Instance: mid-9aaf3b0889d558b5811fdb64d375849b
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 5mg"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
 Usage: #example
 
@@ -923,9 +858,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-2b0f21f21ccdaec01ec0c8fa01d0bb48
+Instance: mid-0c80dcb4c4e267a27fb81c3d56855721
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TELDIPIN"
+Title: "Manufactured item TELDIPINTablett5mg, 80mg"
 Description: "TELDIPIN"
 Usage: #example
 
@@ -936,9 +871,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-9df0a169966437f49f03b26709bab8da
+Instance: mid-94ca8b2b6607663f81de9d9de6f86cc4
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TELMISARTAN/AMLODIPINE ALEMBIC"
+Title: "Manufactured item TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 10mg"
 Description: "TELMISARTAN/AMLODIPINE ALEMBIC"
 Usage: #example
 
@@ -949,9 +884,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007006)
 
-Instance: mid-c80822ec8c3a18e165e480aa4d5d06f7
+Instance: mid-73a4218f437534c6c8ed0a098a21a879
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item EXFORGE"
+Title: "Manufactured item EXFORGEÕhukese polümeerikattega tablett10mg, 160mg"
 Description: "EXFORGE"
 Usage: #example
 
@@ -962,9 +897,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007373)
 
-Instance: mid-67a139480dff8125f40f189027f4b683
+Instance: mid-2d73f2b40745c9beffb94871f14a5b5a
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DALNESSA"
+Title: "Manufactured item DALNESSATablett2.85mg, 2.5mg"
 Description: "DALNESSA"
 Usage: #example
 
@@ -975,22 +910,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-265adbf06e4021602cc0f4aeaf17a261
+Instance: mid-86425515252bedcd9cee98223732d690
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Description: "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100002999)
-
-Instance: mid-8b106e5ac0f5025acae166f5726a78f8
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TRIVERAM 20MG/10MG/5MG"
+Title: "Manufactured item TRIVERAM 20MG/10MG/5MGÕhukese polümeerikattega tablett5mg, 10mg, 20mg"
 Description: "TRIVERAM 20MG/10MG/5MG"
 Usage: #example
 
@@ -1001,48 +923,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-df31ead1e31acef5c5d2c545fd5f3cab
+Instance: mid-9959fedb3a2dfee5867b44aa925ad2ec
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TWYNSTA"
-Description: "TWYNSTA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100012432)
-
-Instance: mid-400ce3a781f8dd283dd26879dbd7bade
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item EXFORGE HCT"
-Description: "EXFORGE HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-cef56e8f5244811ba5d8c6623b685120
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE/VALSARTAN MYLAN"
-Description: "AMLODIPINE/VALSARTAN MYLAN"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100034257)
-
-Instance: mid-a06039568a76a455e165a849723b6eeb
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item HIPRES"
+Title: "Manufactured item HIPRESTablett5mg"
 Description: "HIPRES"
 Usage: #example
 
@@ -1053,35 +936,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-e3ec0d38af3d33762962f6f5a8e3948a
+Instance: mid-48df8f5cf063ad33bbd7174aaec3f4b2
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item EXFORGE HCT"
-Description: "EXFORGE HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-1d58916b8dd3a00bafe27af1e3fb67db
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DAFIRO HCT"
-Description: "DAFIRO HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-72b0b826f032f65457e53298f4fda370
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TELDIPIN"
+Title: "Manufactured item TELDIPINTablett80mg, 10mg"
 Description: "TELDIPIN"
 Usage: #example
 
@@ -1092,22 +949,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-16eb42ad8683f7cc606e77be16bb3a84
+Instance: mid-1d67506966cb02a8f8b5eb63e9d7c12f
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item EXFORGE"
-Description: "EXFORGE"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-b766474f18c4eda952b845a9e42c80d0
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TENLORIS"
+Title: "Manufactured item TENLORISÕhukese polümeerikattega tablett5mg, 100mg"
 Description: "TENLORIS"
 Usage: #example
 
@@ -1118,35 +962,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-6093f3b783bf08f6c470e560a3ffbf18
+Instance: mid-7800811ca04d63e52a89c94bc3369489
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COPALIA HCT"
-Description: "COPALIA HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-e7996c1ed086541c262eeb9fe47910a3
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COPALIA HCT"
-Description: "COPALIA HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-c2fd25101e6e09f73810290b84f82748
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COVERAM"
+Title: "Manufactured item COVERAMTablett10mg, 5mg"
 Description: "COVERAM"
 Usage: #example
 
@@ -1157,113 +975,22 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-eaf37ed582d5c8bc71bb4ef0f169cf33
+Instance: mid-820a0f5b4d1867edcdb92826125560f3
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item EXFORGE"
-Description: "EXFORGE"
+Title: "Manufactured item NORVASCTablett5mg"
+Description: "NORVASC"
 Usage: #example
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-//* manufacturer = Reference(ORG-100007373)
+//* manufacturer = Reference(ORG-100023206)
 
-Instance: mid-3f21503a5cd188ccf9be98428d0804da
+Instance: mid-b8c9a0c3039b6e095804bb4753c0c9a2
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DAFIRO"
-Description: "DAFIRO"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-0a8c3cc316fe4b88649ef88e8d59107a
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COPALIA"
-Description: "COPALIA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-515e409fcbcec32db7d621e8235dbbd4
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COPALIA"
-Description: "COPALIA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-60519618dfee43c919c39ed35a78bd3c
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DAFIRO HCT"
-Description: "DAFIRO HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-56381f9ed6e2414526be302a64026af1
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE/VALSARTAN MYLAN"
-Description: "AMLODIPINE/VALSARTAN MYLAN"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100034257)
-
-Instance: mid-2cbed639cdf7e77b747fac391470a475
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DAFIRO HCT"
-Description: "DAFIRO HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-25b4fc8e45300bba6eff5ef9106d2efd
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DAFIRO HCT"
-Description: "DAFIRO HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-fbcd64d55a1ff7960f0f368ea66001c5
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item HIPRES"
+Title: "Manufactured item HIPRESTablett10mg"
 Description: "HIPRES"
 Usage: #example
 
@@ -1274,22 +1001,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-2cfa1681029065b8d3b986a18d159145
+Instance: mid-f4e3bf9b50fac22789ee5d41cd4c5193
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DAFIRO"
-Description: "DAFIRO"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007373)
-
-Instance: mid-053d71fa46984cffd297f11462a29d28
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE /VALSARTAN SANDOZ"
+Title: "Manufactured item AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 5mg"
 Description: "AMLODIPINE /VALSARTAN SANDOZ"
 Usage: #example
 
@@ -1300,9 +1014,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-e741aee8f50c989496e1e5ac8b29ce21
+Instance: mid-974541f2156d6f33e2a803fa33453176
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item FLUTENSIF"
+Title: "Manufactured item FLUTENSIFToimeainet modifitseeritult vabastav tablett5mg, 1.5mg"
 Description: "FLUTENSIF"
 Usage: #example
 
@@ -1313,22 +1027,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-b1d0fed59f6bd5f0d338293040ef2cf3
+Instance: mid-8ecdc31c688fde866ba554202ab24480
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Description: "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100002999)
-
-Instance: mid-b4276e86dc83fab6ac5f6ee8041212de
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIGAMMA 10MG"
+Title: "Manufactured item AMLODIGAMMA 10MGTablett10mg"
 Description: "AMLODIGAMMA 10MG"
 Usage: #example
 
@@ -1339,9 +1040,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000454)
 
-Instance: mid-5f96802d7b0497e6b5aa29026f16ccc3
+Instance: mid-f9220c58bd68a6a5525486f4c18ddebc
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TRIVERAM 20MG/5MG/5MG"
+Title: "Manufactured item TRIVERAM 20MG/5MG/5MGÕhukese polümeerikattega tablett20mg, 5mg"
 Description: "TRIVERAM 20MG/5MG/5MG"
 Usage: #example
 
@@ -1352,9 +1053,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-270e2aaac11638ede04c5cafd1c60030
+Instance: mid-83c1d9197877904c6c9c2b1ef8d53238
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TENLORIS"
+Title: "Manufactured item TENLORISÕhukese polümeerikattega tablett50mg, 5mg"
 Description: "TENLORIS"
 Usage: #example
 
@@ -1365,9 +1066,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-9b76be13d25f96c7d0b81cdfdb9d3ac5
+Instance: mid-15ef7c061f169c5ee0d522812fab8e3e
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett20mg, 5mg"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
 Usage: #example
 
@@ -1378,9 +1079,22 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100003704)
 
-Instance: mid-212cd043ef53b839386c625b4918ab9d
+Instance: mid-a0a5c6fec3f94cc85dd264a42dc34740
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item FRAMSYL"
+Title: "Manufactured item NORVASCTablett10mg"
+Description: "NORVASC"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100010645)
+
+Instance: mid-89329433313d6f161e047e5039bf430e
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item FRAMSYLKõvakapsel5mg, 8mg"
 Description: "FRAMSYL"
 Usage: #example
 
@@ -1391,9 +1105,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-351249d58e654827f9e59ebe4626963c
+Instance: mid-4e3a0f064c251c110dafa89a2b27b36d
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE /VALSARTAN SANDOZ"
+Title: "Manufactured item AMLODIPINE /VALSARTAN SANDOZÕhukese polümeerikattega tablett160mg, 10mg"
 Description: "AMLODIPINE /VALSARTAN SANDOZ"
 Usage: #example
 
@@ -1404,9 +1118,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-18a11144c23574e21f39161510d12517
+Instance: mid-6a5b03160e1d68a9d92705962ec17d8e
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item GADUAR"
+Title: "Manufactured item GADUARÕhukese polümeerikattega tablett40mg, 12.5mg, 5mg"
 Description: "GADUAR"
 Usage: #example
 
@@ -1417,9 +1131,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-98ec367fc2ab431c093c4207da8e27f6
+Instance: mid-7237aa8d3abcc0e1ce1df7ef512a0eb0
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE TEVA"
+Title: "Manufactured item AMLODIPINE TEVATablett10mg"
 Description: "AMLODIPINE TEVA"
 Usage: #example
 
@@ -1430,9 +1144,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000229)
 
-Instance: mid-c758d56e4501a3ee5b48ae919095b749
+Instance: mid-625cd2885187aca8e4bb01067c8390d4
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett20mg, 12.5mg, 5mg"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 
@@ -1443,9 +1157,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007006)
 
-Instance: mid-127820ddf691e8710504e3da06c47543
+Instance: mid-94b112c9f717e648a3e1ba8b0b9746eb
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett40mg, 12.5mg, 10mg"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 
@@ -1456,9 +1170,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007006)
 
-Instance: mid-c37f6c31746a28e13ffc2f89183f0eb9
+Instance: mid-0117d414f0e94ef69e054e81654d62c7
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPIN-RATIOPHARM 5 MG"
+Title: "Manufactured item AMLODIPIN-RATIOPHARM 5 MGTablett5mg"
 Description: "AMLODIPIN-RATIOPHARM 5 MG"
 Usage: #example
 
@@ -1469,9 +1183,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100001437)
 
-Instance: mid-eff5e4b813b65fd0b5c708608e84e643
+Instance: mid-5dec8cae99ee2a66435dd08db660c4f6
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COVERAM"
+Title: "Manufactured item COVERAMTablett5mg, 10mg"
 Description: "COVERAM"
 Usage: #example
 
@@ -1482,9 +1196,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000964)
 
-Instance: mid-8f1ab6bb7eff134f758bc01a7a11400f
+Instance: mid-04ef0a7061a4691dec54feb8074836ce
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DALNESSANEO"
+Title: "Manufactured item DALNESSANEOTablett5mg"
 Description: "DALNESSANEO"
 Usage: #example
 
@@ -1495,9 +1209,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-9d8b9f0f088c4fa91458edba48e8eceb
+Instance: mid-2e5db5eb34247c26e6a5068649e59e59
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIGAMMA 5MG"
+Title: "Manufactured item AMLODIGAMMA 5MGTablett5mg"
 Description: "AMLODIGAMMA 5MG"
 Usage: #example
 
@@ -1508,9 +1222,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000454)
 
-Instance: mid-e3d47a63d7d03d401fdd9419c0ffa7e1
+Instance: mid-7b964a36fdf01a567a11fe1f16af2509
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL/AMLODIPINE TEVA"
+Title: "Manufactured item PERINDOPRIL/AMLODIPINE TEVATablett10mg, 5mg"
 Description: "PERINDOPRIL/AMLODIPINE TEVA"
 Usage: #example
 
@@ -1521,9 +1235,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000229)
 
-Instance: mid-06b4952a39fc49dc5878454af1c22b0b
+Instance: mid-1cdcca6fa730ec5b4058006fad6b601d
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMALORIS"
+Title: "Manufactured item AMALORISÕhukese polümeerikattega tablett10mg"
 Description: "AMALORIS"
 Usage: #example
 
@@ -1534,9 +1248,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-007b8b30d1ed07c9c9fc8ed462ca5be9
+Instance: mid-822bf262c1257145abe4a7e648bb8314
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLSITRI"
+Title: "Manufactured item OLSITRIÕhukese polümeerikattega tablett5mg, 25mg, 40mg"
 Description: "OLSITRI"
 Usage: #example
 
@@ -1547,9 +1261,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-a83b513233a4b315436d504b5a431a94
+Instance: mid-bd1758b2cb3e910f68820e915408a2af
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMDACORDIA"
+Title: "Manufactured item RAMDACORDIAKõvakapsel5mg"
 Description: "RAMDACORDIA"
 Usage: #example
 
@@ -1560,9 +1274,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-abce44b07100a3e005c95e3fdb3baba2
+Instance: mid-9ca15499bf1142e8576b8b6e580bd9e1
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item GADUAR"
+Title: "Manufactured item GADUARÕhukese polümeerikattega tablett10mg, 12.5mg, 40mg"
 Description: "GADUAR"
 Usage: #example
 
@@ -1573,9 +1287,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-28d1353d30356ce33a526805a61a8d3f
+Instance: mid-2e0f5028b41c38f94c1f052e63a6cc35
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SOBYCOMBI"
+Title: "Manufactured item SOBYCOMBITablett5mg, 10mg"
 Description: "SOBYCOMBI"
 Usage: #example
 
@@ -1586,9 +1300,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-46f0c8aa3bd650910d5e1e9cabcd6c05
+Instance: mid-36612c13eefc42ade6ee4c308534674d
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DALNESSA"
+Title: "Manufactured item DALNESSATablett8mg, 10mg"
 Description: "DALNESSA"
 Usage: #example
 
@@ -1599,9 +1313,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-7fda85c6289c75f0d2ad509f773145c5
+Instance: mid-24cd67e3d39b3520d2989d16e5c021b0
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SANORAL"
+Title: "Manufactured item SANORALÕhukese polümeerikattega tablett5mg, 20mg"
 Description: "SANORAL"
 Usage: #example
 
@@ -1612,22 +1326,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100001429)
 
-Instance: mid-bc73ec108516cdb2e554ae8e01c12bbb
+Instance: mid-4b344cb66e0bc241725ca467be44dc84
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Description: "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100002999)
-
-Instance: mid-cce3df3d436666685cccca50295b0a1d
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TELMISARTAN/AMLODIPINE ALEMBIC"
+Title: "Manufactured item TELMISARTAN/AMLODIPINE ALEMBICTablett80mg, 5mg"
 Description: "TELMISARTAN/AMLODIPINE ALEMBIC"
 Usage: #example
 
@@ -1638,9 +1339,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007006)
 
-Instance: mid-49410c5a96b5cd2f1358e2e0039a13fd
+Instance: mid-f3e04259c844917fef0e2e775bf07ab8
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SOBYCOMBI"
+Title: "Manufactured item SOBYCOMBITablett10mg, 5mg"
 Description: "SOBYCOMBI"
 Usage: #example
 
@@ -1651,9 +1352,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-f4dadbbfdc8437dd8469c5a5eeb22d3b
+Instance: mid-0ecfe6182781ff486fe5156d2e85c11d
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLSSA"
+Title: "Manufactured item OLSSAÕhukese polümeerikattega tablett40mg, 5mg"
 Description: "OLSSA"
 Usage: #example
 
@@ -1664,9 +1365,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-8be326b6a2d2f7dc8e9a0b1ecdde5daa
+Instance: mid-fc27658a5ee9b0a60e09b35c85abc590
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DIPPERAM HCT"
+Title: "Manufactured item DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 5mg"
 Description: "DIPPERAM HCT"
 Usage: #example
 
@@ -1677,9 +1378,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-75e7d65e2b8194b4150706d5827e40f6
+Instance: mid-04e4154a2d9512b5540cc5bcea914d29
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DIPPERAM HCT"
+Title: "Manufactured item DIPPERAM HCTÕhukese polümeerikattega tablett25mg, 160mg, 10mg"
 Description: "DIPPERAM HCT"
 Usage: #example
 
@@ -1690,9 +1391,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-28cb804532c711106f195b49b04beedc
+Instance: mid-ce8886dfb264fe69c15c1bdf0b8ccdbd
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DIPPERAM HCT"
+Title: "Manufactured item DIPPERAM HCTÕhukese polümeerikattega tablett5mg, 160mg, 12.5mg"
 Description: "DIPPERAM HCT"
 Usage: #example
 
@@ -1703,9 +1404,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-3baefb02235da077affb7060a586a6ef
+Instance: mid-992fceef0cf23c5984e1f6197129ac49
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLSSA"
+Title: "Manufactured item OLSSAÕhukese polümeerikattega tablett40mg, 10mg"
 Description: "OLSSA"
 Usage: #example
 
@@ -1716,9 +1417,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-5d169b2472129d50928a7c3e7513efd5
+Instance: mid-6227ac6b56beba19e4eafb42abf02d63
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMDACORDIA HCT"
+Title: "Manufactured item RAMDACORDIA HCTKõvakapsel5mg, 12.5mg"
 Description: "RAMDACORDIA HCT"
 Usage: #example
 
@@ -1729,9 +1430,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-e7529ee95844ec2c273540d5abef2b66
+Instance: mid-3744649b31f6f96644d8fdd289e37a6a
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
 Usage: #example
 
@@ -1742,9 +1443,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100003704)
 
-Instance: mid-068f9138187e2397183319ac380a813a
+Instance: mid-0d047d5dd4bce354fa4d853f93a71330
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DALNESSANEO"
+Title: "Manufactured item DALNESSANEOTablett5mg, 10mg"
 Description: "DALNESSANEO"
 Usage: #example
 
@@ -1755,9 +1456,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-588fb3df5122e598df9909289a0315de
+Instance: mid-31917c274c465c03872ca5e6afa9d272
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett5mg, 12.5mg, 40mg"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
 Usage: #example
 
@@ -1768,9 +1469,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002999)
 
-Instance: mid-e74020ba7a7045e9a3ca022fff4479fd
+Instance: mid-14e2357708838872a1c59cb5ba1b29be
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMDACORDIA"
+Title: "Manufactured item RAMDACORDIAKõvakapsel10mg, 5mg"
 Description: "RAMDACORDIA"
 Usage: #example
 
@@ -1781,9 +1482,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-d18569adbb7a50827bc06998679d86d0
+Instance: mid-a27716e21b4d7cc9ffb8f51b000f4ba1
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item ROXAMPEX"
+Title: "Manufactured item ROXAMPEXÕhukese polümeerikattega tablett10mg, 8mg"
 Description: "ROXAMPEX"
 Usage: #example
 
@@ -1794,9 +1495,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-b711418bd211ce74cee3bdddc71076a6
+Instance: mid-4d3261ec077923bcb748e081b4a9b4f4
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item MIXOR"
+Title: "Manufactured item MIXORTablett80mg, 10mg"
 Description: "MIXOR"
 Usage: #example
 
@@ -1807,9 +1508,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100004108)
 
-Instance: mid-faa4b39968d13ba8165b496b2ebba475
+Instance: mid-60912ca23996a0bb672d0ccf853fe7b4
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMALORIS"
+Title: "Manufactured item AMALORISÕhukese polümeerikattega tablett10mg, 5mg"
 Description: "AMALORIS"
 Usage: #example
 
@@ -1820,9 +1521,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-9b59dc37d121c774366d4501f09c83d7
+Instance: mid-94c09fe7996b6f1c26c7ef488b62c37d
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TELMISARTAN/AMLODIPINE ALEMBIC"
+Title: "Manufactured item TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 10mg"
 Description: "TELMISARTAN/AMLODIPINE ALEMBIC"
 Usage: #example
 
@@ -1833,22 +1534,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007006)
 
-Instance: mid-11ad222d0ac25f364d86265b5234a6ed
+Instance: mid-4569c44a7c8e676897f534300d7dbbaa
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMIPRIL/AMLODIPINE SANDOZ"
-Description: "RAMIPRIL/AMLODIPINE SANDOZ"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//Kapsel
-* unitOfPresentation = $200000000014#200000002113 "Kapsel"
-
-//* manufacturer = Reference(ORG-100002040)
-
-Instance: mid-a59663efbf81a6a60d21ac51f359bde6
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item VALTRICOM"
+Title: "Manufactured item VALTRICOMÕhukese polümeerikattega tablett160mg, 5mg, 25mg"
 Description: "VALTRICOM"
 Usage: #example
 
@@ -1859,9 +1547,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-8c59da0e27a89ee78fb22b2fd4cf0ce2
+Instance: mid-889b2b047c2dbf68778b1904db196833
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMDACORDIA HCT"
+Title: "Manufactured item RAMDACORDIA HCTKõvakapsel25mg, 5mg"
 Description: "RAMDACORDIA HCT"
 Usage: #example
 
@@ -1872,9 +1560,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-f05a11959e96ff31465b787144cb26e6
+Instance: mid-04fd98885e4ce4db86cf32c2d36e5aa8
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBICÕhukese polümeerikattega tablett25mg, 5mg, 40mg"
 Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE ALEMBIC"
 Usage: #example
 
@@ -1885,9 +1573,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100007006)
 
-Instance: mid-388a4bbc76bc7bd93f5012a225a99d01
+Instance: mid-8b716ee61fa4aa41e504fb7b8cc10966
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DALNESSA"
+Title: "Manufactured item DALNESSATablett4mg, 10mg"
 Description: "DALNESSA"
 Usage: #example
 
@@ -1898,399 +1586,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-5f467326a610f24df4c1f79655358e7e
+Instance: mid-d89ec52c740c99583c8334e1d265efd2
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMIPRIL/AMLODIPINE SANDOZ"
-Description: "RAMIPRIL/AMLODIPINE SANDOZ"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//Kapsel
-* unitOfPresentation = $200000000014#200000002113 "Kapsel"
-
-//* manufacturer = Reference(ORG-100002040)
-
-Instance: mid-b2d2d3244086f38209295506c37f3d7a
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Description: "PERINDOPRIL ARGININE/INDAPAMIDE/AMLODIPINE TEVA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100002999)
-
-Instance: mid-22186d9267d30078aa10e42fb71e0a79
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE MEDOCHEMIE"
-Description: "AMLODIPINE MEDOCHEMIE"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(MO11501)
-
-Instance: mid-a3ba23c13d9d6e610bdbdffbb09ca778
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLOCARD 10MG"
-Description: "AMLOCARD 10MG"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000313)
-
-Instance: mid-46abe5cdecd5f83da98c44d0fcd2c099
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TELMISARTAN/AMLODIPINE TEVA"
-Description: "TELMISARTAN/AMLODIPINE TEVA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100002999)
-
-Instance: mid-9d77052c80c2ae593323615fc802e55f
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMIPRIL/AMLODIPINE SANDOZ"
-Description: "RAMIPRIL/AMLODIPINE SANDOZ"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//Kapsel
-* unitOfPresentation = $200000000014#200000002113 "Kapsel"
-
-//* manufacturer = Reference(ORG-100002040)
-
-Instance: mid-6a1189806502f55e216dfdd0bee4727d
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
-Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-f3aa4a484f1143ad5ff67ce0e478cf5c
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DIRONORM"
-Description: "DIRONORM"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000640)
-
-Instance: mid-c70fe54fd6d33b760f19c13dfd878c2c
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TELDIPIN"
-Description: "TELDIPIN"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-eb67a770a9ee3dc5cb17b96bfcaedb05
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TELMISARTAN/AMLODIPINE ALEMBIC"
-Description: "TELMISARTAN/AMLODIPINE ALEMBIC"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100007006)
-
-Instance: mid-f44976d24a835e4741c853c50e646a1e
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item CO-DALNESSA NEO"
-Description: "CO-DALNESSA NEO"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-af348be1267291423cc55035662a5840
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item ALNETA"
-Description: "ALNETA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-48dc55ed617c44a0a2e6a56b13bf119b
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item CO-DALNESSA"
-Description: "CO-DALNESSA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-83ec097167c802d9a2494c51504dc58f
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
-Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100003704)
-
-Instance: mid-34f980a7c12da71aa5f92f1eab18daf4
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
-Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100004108)
-
-Instance: mid-5b530bc63011afbb19c29e6105b77192
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item FRAMSYL"
-Description: "FRAMSYL"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//Kapsel
-* unitOfPresentation = $200000000014#200000002113 "Kapsel"
-
-//* manufacturer = Reference(ORG-100002040)
-
-Instance: mid-af58a2226a7bb27bbfd3c9897e1448ec
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DALNESSA"
-Description: "DALNESSA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-0ee5f36f8afc81c706a42b5387a0023d
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TELMISARTAN/AMLODIPINE TEVA"
-Description: "TELMISARTAN/AMLODIPINE TEVA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100002999)
-
-Instance: mid-3d8f1b0949339d791a41309aa852b94a
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DALNESSANEO"
-Description: "DALNESSANEO"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-6a80df7d34a2b3298d68828963032d6b
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item CO-DALNESSA"
-Description: "CO-DALNESSA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-8bfa8f1d8c3a452345270984e2f0d034
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
-Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100003704)
-
-Instance: mid-90d70636b1ce513642d96625810caf9e
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DIRONORM"
-Description: "DIRONORM"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000640)
-
-Instance: mid-5b5ab6ed59e596b83f12e9c13432da7f
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL/AMLODIPINE TEVA"
-Description: "PERINDOPRIL/AMLODIPINE TEVA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000229)
-
-Instance: mid-9349259056595533d5e0208b7251050d
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item CO-DALNESSA NEO"
-Description: "CO-DALNESSA NEO"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-e4e66eb770f9b7e5bce50cb0baeba199
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item ROXAMPEX"
-Description: "ROXAMPEX"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-e4cc654eca03efb8ddc99706d49c5d4a
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
-Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-b6b6eb359f886b600641d33c3acb531d
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
-Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100003704)
-
-Instance: mid-181d1f77341ba85797d3b15314a57d95
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item CO-DALNESSA"
-Description: "CO-DALNESSA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-b266c791591aaccd13a58c3bf77c89cd
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SANORAL"
-Description: "SANORAL"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100001429)
-
-Instance: mid-a36e6fc54f1b590dc525751e9804edb9
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SANORAL HCT"
-Description: "SANORAL HCT"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100001429)
-
-Instance: mid-9316836251e46376e324ea1a2e6d0d96
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMDACORDIA"
+Title: "Manufactured item RAMDACORDIAKõvakapsel10mg, 5mg"
 Description: "RAMDACORDIA"
 Usage: #example
 
@@ -2301,23 +1599,10 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100002040)
 
-Instance: mid-b918b2653c3a9b1ca27fbb3731915827
+Instance: mid-790c3262fcb36ab4153d147d79fb4390
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item WAMLOX"
-Description: "WAMLOX"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-0787020ca0af8dcad1d90da2cce4a035
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item PERINDOPRIL/ AMLODIPINE ACTAVIS"
-Description: "PERINDOPRIL/ AMLODIPINE ACTAVIS"
+Title: "Manufactured item AMLODIPINE MEDOCHEMIETablett5mg"
+Description: "AMLODIPINE MEDOCHEMIE"
 Usage: #example
 
 * status = #active
@@ -2325,103 +1610,12 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-//* manufacturer = Reference(ORG-100000064)
+//* manufacturer = Reference(MO11501)
 
-Instance: mid-aa9b6f0d7403c46c7bca8779b1504b95
+Instance: mid-e7ee4d9735c9b48b2998e52eb7179ed5
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DALNESSANEO"
-Description: "DALNESSANEO"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-bda000a34704c31621c052c4156e4b1f
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item FRAMSYL"
-Description: "FRAMSYL"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//Kapsel
-* unitOfPresentation = $200000000014#200000002113 "Kapsel"
-
-//* manufacturer = Reference(ORG-100002040)
-
-Instance: mid-3d4395f477464cfd8826050164337d6f
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
-Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100002999)
-
-Instance: mid-6747a4bfd435b641b93387c863011a5d
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPIN-RATIOPHARM 10 MG"
-Description: "AMLODIPIN-RATIOPHARM 10 MG"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100001437)
-
-Instance: mid-6d5da028900f96a26f7c9f06325375bf
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item WAMLOX"
-Description: "WAMLOX"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-66febb4bc6a57acc1e91c35c8b9dd7f1
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item ROXAMPEX"
-Description: "ROXAMPEX"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-11afb183155f9b8c8adf9a81b1bd6af6
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item WAMLOX"
-Description: "WAMLOX"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-bc8bc4a1d8df47334af4ef22a6835761
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLOCARD 5 MG"
-Description: "AMLOCARD 5 MG"
+Title: "Manufactured item AMLOCARD 10MGTablett10mg"
+Description: "AMLOCARD 10MG"
 Usage: #example
 
 * status = #active
@@ -2431,10 +1625,10 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000313)
 
-Instance: mid-c6294a4fd23138ca98050c50354cacde
+Instance: mid-56dfd3ef23616a17c8516e86c896c63b
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COVERAM"
-Description: "COVERAM"
+Title: "Manufactured item TELMISARTAN/AMLODIPINE TEVATablett10mg, 80mg"
+Description: "TELMISARTAN/AMLODIPINE TEVA"
 Usage: #example
 
 * status = #active
@@ -2442,77 +1636,12 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-//* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100002999)
 
-Instance: mid-4f40f701d57db89cf85b48a087ad9b50
+Instance: mid-928926c8a307b3b3a8d3551a8fc10bde
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item QUADRIXAM 5MG/1,25MG/5MG/5MG"
-Description: "QUADRIXAM 5MG/1,25MG/5MG/5MG"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//Kapsel
-* unitOfPresentation = $200000000014#200000002113 "Kapsel"
-
-//* manufacturer = Reference(ORG-100000964)
-
-Instance: mid-893424ac2190440016f463dcdd864711
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item QUADRIXAM 10MG/2,5MG/5MG/5MG"
-Description: "QUADRIXAM 10MG/2,5MG/5MG/5MG"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//Kapsel
-* unitOfPresentation = $200000000014#200000002113 "Kapsel"
-
-//* manufacturer = Reference(ORG-100000964)
-
-Instance: mid-48b6f97bd1a6af63c22d77e326f555dc
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item QUADRIXAM 10MG/2,5MG/10MG/5MG"
-Description: "QUADRIXAM 10MG/2,5MG/10MG/5MG"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//Kapsel
-* unitOfPresentation = $200000000014#200000002113 "Kapsel"
-
-//* manufacturer = Reference(ORG-100000964)
-
-Instance: mid-5eb9a75bbbd9b52f4e32493ab201f639
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item SOBYCOMBI"
-Description: "SOBYCOMBI"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-1a1967e651e3965fe8dcc42dbf2c59c0
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item DALNESSA"
-Description: "DALNESSA"
-Usage: #example
-
-* status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
-//Tablett
-* unitOfPresentation = $200000000014#200000002152 "Tablett"
-
-//* manufacturer = Reference(ORG-100000627)
-
-Instance: mid-eca439c8de0e2c1f38798a029c7a86cc
-InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TRIPLIXAM"
-Description: "TRIPLIXAM"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett5mg, 20mg"
+Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
 Usage: #example
 
 * status = #active
@@ -2520,24 +1649,24 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-//* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-aa2413344919aea47e26545abb272d2e
+Instance: mid-d59d10dac3a35bfeb925aebce3fcfa04
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item RAMDACORDIA HCT"
-Description: "RAMDACORDIA HCT"
+Title: "Manufactured item DIRONORMTablett20mg, 5mg"
+Description: "DIRONORM"
 Usage: #example
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
-//Kapsel
-* unitOfPresentation = $200000000014#200000002113 "Kapsel"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-//* manufacturer = Reference(ORG-100002040)
+//* manufacturer = Reference(ORG-100000640)
 
-Instance: mid-eaf399ed7ec71ae5059bbbd769cd45a1
+Instance: mid-d3a126b8227e56f2155ae740e9723dc2
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item TELDIPIN"
+Title: "Manufactured item TELDIPINTablett5mg, 40mg"
 Description: "TELDIPIN"
 Usage: #example
 
@@ -2548,10 +1677,10 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-a9ee7448b2ace7e26afced7673ae186c
+Instance: mid-a823dbe22a8d12bb4bc87e4bdbdbb0b9
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item COVERAM"
-Description: "COVERAM"
+Title: "Manufactured item TELMISARTAN/AMLODIPINE ALEMBICTablett40mg, 5mg"
+Description: "TELMISARTAN/AMLODIPINE ALEMBIC"
 Usage: #example
 
 * status = #active
@@ -2559,11 +1688,24 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-//* manufacturer = Reference(ORG-100000964)
+//* manufacturer = Reference(ORG-100007006)
 
-Instance: mid-d44d030d32eb73aa70a8d37d06ae0be4
+Instance: mid-0b5de376a6e3694afd4c906d71a20a93
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item CO-DALNESSA"
+Title: "Manufactured item ALNETATablett10mg"
+Description: "ALNETA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-1141aae8513eb520117974def513abbe
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item CO-DALNESSATablett1.25mg, 5mg, 4mg"
 Description: "CO-DALNESSA"
 Usage: #example
 
@@ -2574,10 +1716,49 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-012fb5c373e2b13010dd8531088f8f9b
+Instance: mid-ebae77533e4c1e728b99e03b2085351b
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item AMLODIPINE VITABALANS"
-Description: "AMLODIPINE VITABALANS"
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 10mg"
+Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100003704)
+
+Instance: mid-ea0760856f322e401f457fd499eae073
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVAÕhukese polümeerikattega tablett40mg, 10mg"
+Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE ZENTIVA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100004108)
+
+Instance: mid-86b57f03efc0bf7bcdc77d7a8dce3999
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item FRAMSYLKõvakapsel5mg, 16mg"
+Description: "FRAMSYL"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
+//Kapsel
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
+
+//* manufacturer = Reference(ORG-100002040)
+
+Instance: mid-473963e88b785cfc16808e8769caf412
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item DALNESSATablett5.7mg, 5mg"
+Description: "DALNESSA"
 Usage: #example
 
 * status = #active
@@ -2585,11 +1766,193 @@ Usage: #example
 //Tablett
 * unitOfPresentation = $200000000014#200000002152 "Tablett"
 
-//* manufacturer = Reference(MO193)
+//* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-7905b76d1074ee4441710f74916654ed
+Instance: mid-a380cadd3016c2a5d946b4f3003865c0
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item WAMLOX"
+Title: "Manufactured item TELMISARTAN/AMLODIPINE TEVATablett80mg, 5mg"
+Description: "TELMISARTAN/AMLODIPINE TEVA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100002999)
+
+Instance: mid-4648373e4938d96c51d667392632f991
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item DALNESSANEOTablett10mg"
+Description: "DALNESSANEO"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-57c88696b92540a20d8687d5705cc3a7
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item PERINDOPRIL/ AMLODIPINE ACTAVISTablett10mg, 5mg"
+Description: "PERINDOPRIL/ AMLODIPINE ACTAVIS"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000064)
+
+Instance: mid-2df1fd096ea2119e34f58eeaf76f3361
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item CO-DALNESSATablett8mg, 2.5mg, 10mg"
+Description: "CO-DALNESSA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-92deca0aa200157ff667b54187059631
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORDÕhukese polümeerikattega tablett40mg, 5mg"
+Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE ACCORD"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100003704)
+
+Instance: mid-a452ad2a480e81cd3737925a60ec302c
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item DIRONORMTablett10mg, 5mg"
+Description: "DIRONORM"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000640)
+
+Instance: mid-dbdeb2055d677f893444bdcb86676431
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item PERINDOPRIL/AMLODIPINE TEVATablett5mg"
+Description: "PERINDOPRIL/AMLODIPINE TEVA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000229)
+
+Instance: mid-164a8ce3f7e2956d3591764c075e672b
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item ROXAMPEXÕhukese polümeerikattega tablett5mg, 4mg, 10mg"
+Description: "ROXAMPEX"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-c2df63ce4b6e847234f127a936124cee
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE KRKAÕhukese polümeerikattega tablett40mg, 10mg"
+Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE KRKA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-91f76beabfa57c6be6d029c68a5ddf5f
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORDÕhukese polümeerikattega tablett10mg, 40mg, 12.5mg"
+Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HCT ACCORD"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100003704)
+
+Instance: mid-0522fe195a75b4ffa60e98e2b065d29f
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item CO-DALNESSATablett5mg, 8mg, 2.5mg"
+Description: "CO-DALNESSA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-5c042bbd83eb6153724ad890c2412039
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item SANORALÕhukese polümeerikattega tablett40mg, 5mg"
+Description: "SANORAL"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100001429)
+
+Instance: mid-43a794a22110d2df504819ad48a456ad
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item SANORAL HCTÕhukese polümeerikattega tablett12.5mg, 5mg, 40mg"
+Description: "SANORAL HCT"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100001429)
+
+Instance: mid-1d507303f7d371853f158ef9ca580b39
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item RAMDACORDIAKõvakapsel10mg"
+Description: "RAMDACORDIA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#None "nan"
+//Kapsel
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
+
+//* manufacturer = Reference(ORG-100002040)
+
+Instance: mid-9ff8261eb987e544b8510cd3f9a83372
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item WAMLOXÕhukese polümeerikattega tablett10mg, 320mg"
 Description: "WAMLOX"
 Usage: #example
 
@@ -2600,9 +1963,256 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-0ee4e3323e22b8e8c60a7c929872c9a3
+Instance: mid-37ceb237ec18c2826b5fb5e68f9b2ab7
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item CAMDERO"
+Title: "Manufactured item PERINDOPRIL/ AMLODIPINE ACTAVISTablett5mg"
+Description: "PERINDOPRIL/ AMLODIPINE ACTAVIS"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000064)
+
+Instance: mid-e8ce73afbb42811b992f84492a92b044
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item DALNESSANEOTablett10mg, 5mg"
+Description: "DALNESSANEO"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-cc8a2cda608c39747a1735d392904ef2
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item FRAMSYLKõvakapsel10mg, 8mg"
+Description: "FRAMSYL"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
+//Kapsel
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
+
+//* manufacturer = Reference(ORG-100002040)
+
+Instance: mid-61e636582ddb3a8fe7f052c5963552b3
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVAÕhukese polümeerikattega tablett12.5mg, 40mg, 10mg"
+Description: "OLMESARTAN MEDOXOMIL/AMLODIPINE/HYDROCHLOROTHIAZIDE TEVA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100002999)
+
+Instance: mid-17aa3bb6faec404ef2e078cb38f6d778
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item AMLODIPIN-RATIOPHARM 10 MGTablett10mg"
+Description: "AMLODIPIN-RATIOPHARM 10 MG"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100001437)
+
+Instance: mid-45c118b40b2c28e9ac6cab91e4e07174
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item WAMLOXÕhukese polümeerikattega tablett80mg, 5mg"
+Description: "WAMLOX"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-6111af384fb679255fb465a3592f66ef
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item ROXAMPEXÕhukese polümeerikattega tablett10mg, 5mg, 8mg"
+Description: "ROXAMPEX"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-6927a99dccb40876a816618edcdef801
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item WAMLOXÕhukese polümeerikattega tablett160mg, 5mg"
+Description: "WAMLOX"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-9cddcc96feade261665f0a3ef5dbe6ea
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item AMLOCARD 5 MGTablett5mg"
+Description: "AMLOCARD 5 MG"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000313)
+
+Instance: mid-3d3624f68235986f61c909321318e1ef
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item COVERAMTablett10mg"
+Description: "COVERAM"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000964)
+
+Instance: mid-75a6f374ecfe6f4521b39ccaf45991db
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item SOBYCOMBITablett5mg"
+Description: "SOBYCOMBI"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-4ae2ae7f133292e2edd393b837ba7475
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item DALNESSATablett5mg, 8mg"
+Description: "DALNESSA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-87eace728cb772bd744d4c9bd663f8e7
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item TRIPLIXAMÕhukese polümeerikattega tablett10mg, 5mg, 1.25mg"
+Description: "TRIPLIXAM"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000964)
+
+Instance: mid-7f36e51dcd3c062fcdfde290213d93fd
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item RAMDACORDIA HCTKõvakapsel25mg, 10mg"
+Description: "RAMDACORDIA HCT"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073375 "Kõvakapsel"
+//Kapsel
+* unitOfPresentation = $200000000014#200000002113 "Kapsel"
+
+//* manufacturer = Reference(ORG-100002040)
+
+Instance: mid-3a50f937e5452c904f583dd60b86c709
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item TELDIPINTablett10mg, 40mg"
+Description: "TELDIPIN"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-adace13de52a7dd9afa46fe7ab924022
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item COVERAMTablett5mg"
+Description: "COVERAM"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000964)
+
+Instance: mid-da9bd57613b8c0bd0c6e0174c4b7323f
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item CO-DALNESSATablett0.625mg, 5mg, 2mg"
+Description: "CO-DALNESSA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-938b248e75affacf29383e0738b98ea2
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item AMLODIPINE VITABALANSTablett10mg"
+Description: "AMLODIPINE VITABALANS"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(MO193)
+
+Instance: mid-6a7dda4d31325ba4037a7b5ca32568f2
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item WAMLOXÕhukese polümeerikattega tablett160mg, 10mg"
+Description: "WAMLOX"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073665 "Õhukese polümeerikattega tablett"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablett"
+
+//* manufacturer = Reference(ORG-100000627)
+
+Instance: mid-87a121d8ef14832e3e60f39822818fec
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item CAMDEROTablett5mg, 8mg"
 Description: "CAMDERO"
 Usage: #example
 
@@ -2613,9 +2223,9 @@ Usage: #example
 
 //* manufacturer = Reference(ORG-100000627)
 
-Instance: mid-78b1ed9622fd52a8962a69ccc5e4a3be
+Instance: mid-3ce5ba0615d73ef5c32173a29faaa66a
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item CO-DALNESSA"
+Title: "Manufactured item CO-DALNESSATablett4mg, 1.25mg, 10mg"
 Description: "CO-DALNESSA"
 Usage: #example
 

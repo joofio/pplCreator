@@ -2,14 +2,16 @@
 {% if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
 
 {% set ns = namespace() %}
-{% set ns.mpone = row['Ravimi nimetus'] %}
-{% set ns.mpthree= row['Ravimi tugevus'] %}
-{% set ns.mp_name_to_has= ns.mpone ~ns.mpthree  %}
+
+{% set ns.one = row['Ravimi nimetus'] %}
+{% set ns.two = row['Ravimvorm'] %}
+{% set ns.three= row['Ravimi tugevus'] %}
+{% set ns.name_to_has= ns.one ~ ns.two ~ns.three  %}
 
 
-Instance: mid-{{ ns.mp_name_to_has| create_hash_id}}
+Instance: mid-{{row["Müügiloa number"]| trim|create_hash_id}}
 InstanceOf: PPLManufacturedItemDefinition
-Title: "Manufactured item {{ row["Ravimi nimetus"] }}"
+Title: "Manufactured item {{ ns.name_to_has }}"
 Description: "{{ row["Ravimi nimetus"] }}"
 Usage: #example
 
