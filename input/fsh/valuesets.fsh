@@ -96,3 +96,47 @@ Description: "All languages"
 * ^experimental = false
 * include codes from system $BCP47 // FHIR all languages value set
 
+
+ValueSet: NoBinding
+Id: no-vs
+Title: "Dummy value set" 
+Description: "Dummy value set for suppressing QA errors caused by FHIR R4B broken value set bindings"
+* ^experimental = false
+* include codes from system $100000000004 // Domain (just to have something)
+
+ValueSet: SubstancesSMS
+Id: substances-vs
+Title: "EMA SPOR SMS Substances" 
+Description: "Value set for substances, PPL subset from SMS."
+* ^experimental = false
+* include codes from system $sms // EMA SPOR SMS
+
+ValueSet: SporAtc
+Id: atc-spor-vs
+Title: "Anatomical Therapeutic Chemical classification system"
+Description: "Value set for Anatomical Therapeutic Chemical classification system Human and Veterinary. It combines 2 SPOR/WHO lists"
+* ^experimental = false
+* include codes from system $100000093533 // Anatomical Therapeutic Chemical classification system - Human
+//* include codes from system $100000116677 // Anatomical Therapeutic Chemical classification system - Veterinary
+
+ValueSet: SporRegulatoryStatus
+Id: regulatory-status-spor-vs
+Title: "Regulatory Entitlement Status"
+Description: "Regulatory Entitlement Status"
+* ^experimental = false
+* include codes from system $100000072049 // Regulatory Entitlement Status
+
+ValueSet: SporMarketingStatus
+Id: marketing-status-spor-vs
+Title: "Marketing Status"
+Description: "Marketing Status"
+* ^experimental = false
+* include codes from system $100000072052 // Marketing Status
+
+
+ValueSet: SporRecordStatus
+Id: record-status-spor-vs
+Title: "Record Status" 
+Description: "Value set for record status."
+* ^experimental = false
+* include codes from system $200000005003 // Record Status

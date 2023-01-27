@@ -19,11 +19,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 98
@@ -56,11 +56,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 30
@@ -92,11 +92,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 14
@@ -128,11 +128,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 28
@@ -165,11 +165,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 28
@@ -202,11 +202,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 98
@@ -239,11 +239,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 14
@@ -275,11 +275,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 30
@@ -311,11 +311,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 56
@@ -348,11 +348,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 90
@@ -384,11 +384,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 56
@@ -421,11 +421,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 90
@@ -457,11 +457,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 98
@@ -494,11 +494,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 14
@@ -530,11 +530,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 28
@@ -567,11 +567,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 30
@@ -603,11 +603,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 56
@@ -640,11 +640,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f29a807fff14bdd583461050ab611da)
     * containedItem.amount.value = 90
@@ -676,11 +676,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 14
@@ -711,11 +711,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 28
@@ -746,11 +746,11 @@ Usage: #example
 * containedItemQuantity = 360 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 360
@@ -781,11 +781,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 30
@@ -816,11 +816,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 56
@@ -851,11 +851,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 90
@@ -886,11 +886,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 98
@@ -921,11 +921,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 28
@@ -956,11 +956,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 30
@@ -991,11 +991,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 14
@@ -1026,11 +1026,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 56
@@ -1061,11 +1061,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 14
@@ -1096,11 +1096,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 28
@@ -1131,11 +1131,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 30
@@ -1166,11 +1166,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 56
@@ -1201,11 +1201,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 28
@@ -1236,11 +1236,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 30
@@ -1271,11 +1271,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 56
@@ -1306,11 +1306,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 90
@@ -1341,11 +1341,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 90
@@ -1376,11 +1376,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 98
@@ -1411,11 +1411,11 @@ Usage: #example
 * containedItemQuantity = 360 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 360
@@ -1446,11 +1446,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 98
@@ -1481,11 +1481,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 90
@@ -1516,11 +1516,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 98
@@ -1551,11 +1551,11 @@ Usage: #example
 * containedItemQuantity = 360 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 360
@@ -1586,11 +1586,11 @@ Usage: #example
 * containedItemQuantity = 360 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000174066 "Üksikannuseline blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 360
@@ -1621,11 +1621,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4f323eeb72eeb1f1fd12be728657ab61)
     * containedItem.amount.value = 14
@@ -1656,11 +1656,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 28
@@ -1692,11 +1692,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 30
@@ -1728,11 +1728,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 280
@@ -1764,11 +1764,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 280
@@ -1800,11 +1800,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 14
@@ -1836,11 +1836,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 28
@@ -1872,11 +1872,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 30
@@ -1908,11 +1908,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 90
@@ -1944,11 +1944,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 98
@@ -1980,11 +1980,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 280
@@ -2016,11 +2016,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 14
@@ -2052,11 +2052,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 14
@@ -2088,11 +2088,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 28
@@ -2124,11 +2124,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 98
@@ -2160,11 +2160,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 280
@@ -2196,11 +2196,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 14
@@ -2232,11 +2232,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 28
@@ -2268,11 +2268,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 30
@@ -2304,11 +2304,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 30
@@ -2340,11 +2340,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 56
@@ -2376,11 +2376,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 90
@@ -2412,11 +2412,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 56
@@ -2448,11 +2448,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 30
@@ -2484,11 +2484,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 56
@@ -2520,11 +2520,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 90
@@ -2556,11 +2556,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 98
@@ -2592,11 +2592,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 280
@@ -2628,11 +2628,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 56
@@ -2664,11 +2664,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 90
@@ -2700,11 +2700,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 90
@@ -2736,11 +2736,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 14
@@ -2772,11 +2772,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 28
@@ -2808,11 +2808,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 98
@@ -2844,11 +2844,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 98
@@ -2880,11 +2880,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164134620f00a6ad7d864c07d28d7b1e)
     * containedItem.amount.value = 56
@@ -2916,11 +2916,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 30
@@ -2952,11 +2952,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 28
@@ -2988,11 +2988,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 30
@@ -3024,11 +3024,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 56
@@ -3060,11 +3060,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 90
@@ -3096,11 +3096,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 56
@@ -3132,11 +3132,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 56
@@ -3168,11 +3168,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 14
@@ -3204,11 +3204,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 28
@@ -3240,11 +3240,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 14
@@ -3276,11 +3276,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 280
@@ -3312,11 +3312,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 14
@@ -3348,11 +3348,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 28
@@ -3384,11 +3384,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 30
@@ -3420,11 +3420,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 98
@@ -3456,11 +3456,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 280
@@ -3492,11 +3492,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 28
@@ -3528,11 +3528,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 30
@@ -3564,11 +3564,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 98
@@ -3600,11 +3600,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 30
@@ -3636,11 +3636,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 56
@@ -3672,11 +3672,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 90
@@ -3708,11 +3708,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 98
@@ -3744,11 +3744,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 56
@@ -3780,11 +3780,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 90
@@ -3816,11 +3816,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 280
@@ -3852,11 +3852,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 14
@@ -3888,11 +3888,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 28
@@ -3924,11 +3924,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 90
@@ -3960,11 +3960,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 280
@@ -3996,11 +3996,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 14
@@ -4032,11 +4032,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 90
@@ -4068,11 +4068,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 98
@@ -4104,11 +4104,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 280
@@ -4140,11 +4140,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7201bd4cdc4828fe6ce1387234eb80d6)
     * containedItem.amount.value = 98
@@ -4176,11 +4176,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 98
@@ -4212,11 +4212,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 90
@@ -4248,11 +4248,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 98
@@ -4284,11 +4284,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 280
@@ -4320,11 +4320,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 30
@@ -4356,11 +4356,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 56
@@ -4392,11 +4392,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 28
@@ -4428,11 +4428,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 30
@@ -4464,11 +4464,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 14
@@ -4500,11 +4500,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 28
@@ -4536,11 +4536,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 30
@@ -4572,11 +4572,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 14
@@ -4608,11 +4608,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 90
@@ -4644,11 +4644,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 98
@@ -4680,11 +4680,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 280
@@ -4716,11 +4716,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 280
@@ -4752,11 +4752,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 56
@@ -4788,11 +4788,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 280
@@ -4824,11 +4824,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 14
@@ -4860,11 +4860,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 28
@@ -4896,11 +4896,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 90
@@ -4932,11 +4932,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 98
@@ -4968,11 +4968,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 280
@@ -5004,11 +5004,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 56
@@ -5040,11 +5040,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 90
@@ -5076,11 +5076,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 98
@@ -5112,11 +5112,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 14
@@ -5148,11 +5148,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 28
@@ -5184,11 +5184,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 56
@@ -5220,11 +5220,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 14
@@ -5256,11 +5256,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 28
@@ -5292,11 +5292,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 30
@@ -5328,11 +5328,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 56
@@ -5364,11 +5364,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 90
@@ -5400,11 +5400,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8bcd4c6a63a2a4521739bcbe4ff922e6)
     * containedItem.amount.value = 30
@@ -5436,11 +5436,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 7
@@ -5472,11 +5472,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 56
@@ -5508,11 +5508,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 98
@@ -5544,11 +5544,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 14
@@ -5580,11 +5580,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 28
@@ -5616,11 +5616,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 30
@@ -5652,11 +5652,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 28
@@ -5688,11 +5688,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 280
@@ -5724,11 +5724,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 7
@@ -5760,11 +5760,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 56
@@ -5796,11 +5796,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 14
@@ -5832,11 +5832,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 7
@@ -5868,11 +5868,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 30
@@ -5904,11 +5904,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 14
@@ -5940,11 +5940,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 28
@@ -5976,11 +5976,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 30
@@ -6012,11 +6012,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 280
@@ -6048,11 +6048,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 90
@@ -6084,11 +6084,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 98
@@ -6120,11 +6120,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 280
@@ -6156,11 +6156,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 56
@@ -6192,11 +6192,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 90
@@ -6228,11 +6228,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 98
@@ -6264,11 +6264,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c7b7b3ad9b130f95a3ad36a56478ef8c)
     * containedItem.amount.value = 90
@@ -6300,11 +6300,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 30
@@ -6336,11 +6336,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 56
@@ -6372,11 +6372,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 90
@@ -6408,11 +6408,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 98
@@ -6444,11 +6444,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 280
@@ -6480,11 +6480,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 28
@@ -6516,11 +6516,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 98
@@ -6552,11 +6552,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 14
@@ -6588,11 +6588,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 30
@@ -6624,11 +6624,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 56
@@ -6660,11 +6660,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 90
@@ -6696,11 +6696,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 98
@@ -6732,11 +6732,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 280
@@ -6768,11 +6768,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 7
@@ -6804,11 +6804,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 7
@@ -6840,11 +6840,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 14
@@ -6876,11 +6876,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 28
@@ -6912,11 +6912,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 30
@@ -6948,11 +6948,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 56
@@ -6984,11 +6984,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 90
@@ -7020,11 +7020,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 14
@@ -7056,11 +7056,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 28
@@ -7092,11 +7092,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 280
@@ -7128,11 +7128,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-613be9b5571f706096c8eacc2b9907ee)
     * containedItem.amount.value = 7
@@ -7164,11 +7164,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 56
@@ -7200,11 +7200,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 90
@@ -7236,11 +7236,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 98
@@ -7272,11 +7272,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 280
@@ -7308,11 +7308,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 7
@@ -7344,11 +7344,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 56
@@ -7380,11 +7380,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 7
@@ -7416,11 +7416,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 14
@@ -7452,11 +7452,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 14
@@ -7488,11 +7488,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 30
@@ -7524,11 +7524,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 90
@@ -7560,11 +7560,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 98
@@ -7596,11 +7596,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 280
@@ -7632,11 +7632,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 28
@@ -7668,11 +7668,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 30
@@ -7704,11 +7704,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 56
@@ -7740,11 +7740,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 90
@@ -7776,11 +7776,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 98
@@ -7812,11 +7812,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 280
@@ -7848,11 +7848,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 7
@@ -7884,11 +7884,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 14
@@ -7920,11 +7920,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 28
@@ -7956,11 +7956,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 30
@@ -7992,11 +7992,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-73a4218f437534c6c8ed0a098a21a879)
     * containedItem.amount.value = 28
@@ -8028,11 +8028,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15765dbdc2ced1a6cf154b0a0aee9241)
     * containedItem.amount.value = 60
@@ -8065,11 +8065,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15765dbdc2ced1a6cf154b0a0aee9241)
     * containedItem.amount.value = 30
@@ -8102,11 +8102,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15765dbdc2ced1a6cf154b0a0aee9241)
     * containedItem.amount.value = 100
@@ -8139,11 +8139,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15765dbdc2ced1a6cf154b0a0aee9241)
     * containedItem.amount.value = 90
@@ -8176,11 +8176,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-573327ee63325ab95570125a87402104)
     * containedItem.amount.value = 30
@@ -8213,11 +8213,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-573327ee63325ab95570125a87402104)
     * containedItem.amount.value = 100
@@ -8250,11 +8250,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-573327ee63325ab95570125a87402104)
     * containedItem.amount.value = 60
@@ -8287,11 +8287,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-573327ee63325ab95570125a87402104)
     * containedItem.amount.value = 90
@@ -8324,11 +8324,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7dca549a13b4eb244b56ce4143da701e)
     * containedItem.amount.value = 30
@@ -8361,11 +8361,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7dca549a13b4eb244b56ce4143da701e)
     * containedItem.amount.value = 100
@@ -8398,11 +8398,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7dca549a13b4eb244b56ce4143da701e)
     * containedItem.amount.value = 90
@@ -8435,11 +8435,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7dca549a13b4eb244b56ce4143da701e)
     * containedItem.amount.value = 60
@@ -8472,11 +8472,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a27716e21b4d7cc9ffb8f51b000f4ba1)
     * containedItem.amount.value = 90
@@ -8509,11 +8509,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a27716e21b4d7cc9ffb8f51b000f4ba1)
     * containedItem.amount.value = 100
@@ -8546,11 +8546,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a27716e21b4d7cc9ffb8f51b000f4ba1)
     * containedItem.amount.value = 30
@@ -8583,11 +8583,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a27716e21b4d7cc9ffb8f51b000f4ba1)
     * containedItem.amount.value = 60
@@ -8620,11 +8620,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6111af384fb679255fb465a3592f66ef)
     * containedItem.amount.value = 60
@@ -8657,11 +8657,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6111af384fb679255fb465a3592f66ef)
     * containedItem.amount.value = 30
@@ -8694,11 +8694,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6111af384fb679255fb465a3592f66ef)
     * containedItem.amount.value = 90
@@ -8731,11 +8731,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6111af384fb679255fb465a3592f66ef)
     * containedItem.amount.value = 100
@@ -8768,11 +8768,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164a8ce3f7e2956d3591764c075e672b)
     * containedItem.amount.value = 90
@@ -8805,11 +8805,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164a8ce3f7e2956d3591764c075e672b)
     * containedItem.amount.value = 100
@@ -8842,11 +8842,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164a8ce3f7e2956d3591764c075e672b)
     * containedItem.amount.value = 30
@@ -8879,11 +8879,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-164a8ce3f7e2956d3591764c075e672b)
     * containedItem.amount.value = 60
@@ -8916,11 +8916,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c2df63ce4b6e847234f127a936124cee)
     * containedItem.amount.value = 14
@@ -8953,11 +8953,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c2df63ce4b6e847234f127a936124cee)
     * containedItem.amount.value = 28
@@ -8990,11 +8990,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c2df63ce4b6e847234f127a936124cee)
     * containedItem.amount.value = 30
@@ -9027,11 +9027,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c2df63ce4b6e847234f127a936124cee)
     * containedItem.amount.value = 56
@@ -9064,11 +9064,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c2df63ce4b6e847234f127a936124cee)
     * containedItem.amount.value = 84
@@ -9101,11 +9101,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c2df63ce4b6e847234f127a936124cee)
     * containedItem.amount.value = 90
@@ -9138,11 +9138,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c2df63ce4b6e847234f127a936124cee)
     * containedItem.amount.value = 100
@@ -9175,11 +9175,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c2df63ce4b6e847234f127a936124cee)
     * containedItem.amount.value = 98
@@ -9212,11 +9212,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c2df63ce4b6e847234f127a936124cee)
     * containedItem.amount.value = 60
@@ -9249,11 +9249,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9aaf3b0889d558b5811fdb64d375849b)
     * containedItem.amount.value = 56
@@ -9286,11 +9286,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9aaf3b0889d558b5811fdb64d375849b)
     * containedItem.amount.value = 100
@@ -9323,11 +9323,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9aaf3b0889d558b5811fdb64d375849b)
     * containedItem.amount.value = 90
@@ -9360,11 +9360,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9aaf3b0889d558b5811fdb64d375849b)
     * containedItem.amount.value = 98
@@ -9397,11 +9397,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9aaf3b0889d558b5811fdb64d375849b)
     * containedItem.amount.value = 60
@@ -9434,11 +9434,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9aaf3b0889d558b5811fdb64d375849b)
     * containedItem.amount.value = 28
@@ -9471,11 +9471,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9aaf3b0889d558b5811fdb64d375849b)
     * containedItem.amount.value = 30
@@ -9508,11 +9508,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9aaf3b0889d558b5811fdb64d375849b)
     * containedItem.amount.value = 14
@@ -9545,11 +9545,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9aaf3b0889d558b5811fdb64d375849b)
     * containedItem.amount.value = 84
@@ -9582,11 +9582,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-928926c8a307b3b3a8d3551a8fc10bde)
     * containedItem.amount.value = 60
@@ -9619,11 +9619,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-928926c8a307b3b3a8d3551a8fc10bde)
     * containedItem.amount.value = 84
@@ -9656,11 +9656,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-928926c8a307b3b3a8d3551a8fc10bde)
     * containedItem.amount.value = 90
@@ -9693,11 +9693,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-928926c8a307b3b3a8d3551a8fc10bde)
     * containedItem.amount.value = 98
@@ -9730,11 +9730,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-928926c8a307b3b3a8d3551a8fc10bde)
     * containedItem.amount.value = 14
@@ -9767,11 +9767,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-928926c8a307b3b3a8d3551a8fc10bde)
     * containedItem.amount.value = 56
@@ -9804,11 +9804,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-928926c8a307b3b3a8d3551a8fc10bde)
     * containedItem.amount.value = 28
@@ -9841,11 +9841,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-928926c8a307b3b3a8d3551a8fc10bde)
     * containedItem.amount.value = 30
@@ -9878,11 +9878,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-928926c8a307b3b3a8d3551a8fc10bde)
     * containedItem.amount.value = 100
@@ -9915,11 +9915,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-008fd8389fef8a5c6246e83c4a33ba0d)
     * containedItem.amount.value = 100
@@ -9951,11 +9951,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-008fd8389fef8a5c6246e83c4a33ba0d)
     * containedItem.amount.value = 280
@@ -9987,11 +9987,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-008fd8389fef8a5c6246e83c4a33ba0d)
     * containedItem.amount.value = 14
@@ -10023,11 +10023,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-008fd8389fef8a5c6246e83c4a33ba0d)
     * containedItem.amount.value = 28
@@ -10059,11 +10059,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-008fd8389fef8a5c6246e83c4a33ba0d)
     * containedItem.amount.value = 30
@@ -10095,11 +10095,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-008fd8389fef8a5c6246e83c4a33ba0d)
     * containedItem.amount.value = 56
@@ -10131,11 +10131,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-008fd8389fef8a5c6246e83c4a33ba0d)
     * containedItem.amount.value = 60
@@ -10167,11 +10167,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-008fd8389fef8a5c6246e83c4a33ba0d)
     * containedItem.amount.value = 90
@@ -10203,11 +10203,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-008fd8389fef8a5c6246e83c4a33ba0d)
     * containedItem.amount.value = 98
@@ -10239,11 +10239,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04e4154a2d9512b5540cc5bcea914d29)
     * containedItem.amount.value = 14
@@ -10276,11 +10276,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04e4154a2d9512b5540cc5bcea914d29)
     * containedItem.amount.value = 28
@@ -10313,11 +10313,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04e4154a2d9512b5540cc5bcea914d29)
     * containedItem.amount.value = 30
@@ -10350,11 +10350,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04e4154a2d9512b5540cc5bcea914d29)
     * containedItem.amount.value = 280
@@ -10387,11 +10387,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04e4154a2d9512b5540cc5bcea914d29)
     * containedItem.amount.value = 56
@@ -10424,11 +10424,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04e4154a2d9512b5540cc5bcea914d29)
     * containedItem.amount.value = 60
@@ -10461,11 +10461,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04e4154a2d9512b5540cc5bcea914d29)
     * containedItem.amount.value = 90
@@ -10498,11 +10498,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04e4154a2d9512b5540cc5bcea914d29)
     * containedItem.amount.value = 98
@@ -10535,11 +10535,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04e4154a2d9512b5540cc5bcea914d29)
     * containedItem.amount.value = 100
@@ -10572,11 +10572,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-72417d9b21b4f837cb1c419e369081fc)
     * containedItem.amount.value = 98
@@ -10608,11 +10608,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-72417d9b21b4f837cb1c419e369081fc)
     * containedItem.amount.value = 56
@@ -10644,11 +10644,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-72417d9b21b4f837cb1c419e369081fc)
     * containedItem.amount.value = 60
@@ -10680,11 +10680,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-72417d9b21b4f837cb1c419e369081fc)
     * containedItem.amount.value = 90
@@ -10716,11 +10716,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-72417d9b21b4f837cb1c419e369081fc)
     * containedItem.amount.value = 100
@@ -10752,11 +10752,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-72417d9b21b4f837cb1c419e369081fc)
     * containedItem.amount.value = 14
@@ -10788,11 +10788,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-72417d9b21b4f837cb1c419e369081fc)
     * containedItem.amount.value = 28
@@ -10824,11 +10824,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-72417d9b21b4f837cb1c419e369081fc)
     * containedItem.amount.value = 30
@@ -10860,11 +10860,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-72417d9b21b4f837cb1c419e369081fc)
     * containedItem.amount.value = 280
@@ -10896,11 +10896,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fc27658a5ee9b0a60e09b35c85abc590)
     * containedItem.amount.value = 30
@@ -10933,11 +10933,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fc27658a5ee9b0a60e09b35c85abc590)
     * containedItem.amount.value = 56
@@ -10970,11 +10970,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fc27658a5ee9b0a60e09b35c85abc590)
     * containedItem.amount.value = 60
@@ -11007,11 +11007,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fc27658a5ee9b0a60e09b35c85abc590)
     * containedItem.amount.value = 90
@@ -11044,11 +11044,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fc27658a5ee9b0a60e09b35c85abc590)
     * containedItem.amount.value = 98
@@ -11081,11 +11081,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fc27658a5ee9b0a60e09b35c85abc590)
     * containedItem.amount.value = 100
@@ -11118,11 +11118,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fc27658a5ee9b0a60e09b35c85abc590)
     * containedItem.amount.value = 280
@@ -11155,11 +11155,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fc27658a5ee9b0a60e09b35c85abc590)
     * containedItem.amount.value = 14
@@ -11192,11 +11192,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fc27658a5ee9b0a60e09b35c85abc590)
     * containedItem.amount.value = 28
@@ -11229,11 +11229,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ce8886dfb264fe69c15c1bdf0b8ccdbd)
     * containedItem.amount.value = 14
@@ -11266,11 +11266,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ce8886dfb264fe69c15c1bdf0b8ccdbd)
     * containedItem.amount.value = 28
@@ -11303,11 +11303,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ce8886dfb264fe69c15c1bdf0b8ccdbd)
     * containedItem.amount.value = 30
@@ -11340,11 +11340,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ce8886dfb264fe69c15c1bdf0b8ccdbd)
     * containedItem.amount.value = 90
@@ -11377,11 +11377,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ce8886dfb264fe69c15c1bdf0b8ccdbd)
     * containedItem.amount.value = 60
@@ -11414,11 +11414,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ce8886dfb264fe69c15c1bdf0b8ccdbd)
     * containedItem.amount.value = 100
@@ -11451,11 +11451,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ce8886dfb264fe69c15c1bdf0b8ccdbd)
     * containedItem.amount.value = 280
@@ -11488,11 +11488,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ce8886dfb264fe69c15c1bdf0b8ccdbd)
     * containedItem.amount.value = 56
@@ -11525,11 +11525,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ce8886dfb264fe69c15c1bdf0b8ccdbd)
     * containedItem.amount.value = 98
@@ -11562,11 +11562,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 7
@@ -11599,11 +11599,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 10
@@ -11636,11 +11636,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 14
@@ -11673,11 +11673,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 98
@@ -11710,11 +11710,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 100
@@ -11747,11 +11747,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 90
@@ -11784,11 +11784,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 28
@@ -11821,11 +11821,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 30
@@ -11858,11 +11858,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 56
@@ -11895,11 +11895,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 60
@@ -11932,11 +11932,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e1834bf21b77833702defeadd9554a94)
     * containedItem.amount.value = 84
@@ -11969,11 +11969,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 90
@@ -12006,11 +12006,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 98
@@ -12043,11 +12043,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 100
@@ -12080,11 +12080,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 28
@@ -12117,11 +12117,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 14
@@ -12154,11 +12154,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 10
@@ -12191,11 +12191,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 7
@@ -12228,11 +12228,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 30
@@ -12265,11 +12265,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 56
@@ -12302,11 +12302,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 60
@@ -12339,11 +12339,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d60f852183ec7c722cb53397956b2ae7)
     * containedItem.amount.value = 84
@@ -12376,11 +12376,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 60
@@ -12413,11 +12413,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 90
@@ -12450,11 +12450,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 7
@@ -12487,11 +12487,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 10
@@ -12524,11 +12524,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 14
@@ -12561,11 +12561,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 28
@@ -12598,11 +12598,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 30
@@ -12635,11 +12635,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 56
@@ -12672,11 +12672,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 98
@@ -12709,11 +12709,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 100
@@ -12746,11 +12746,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45b27b7f250cda110709d2d99ecb83a3)
     * containedItem.amount.value = 84
@@ -12783,11 +12783,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 60
@@ -12820,11 +12820,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 84
@@ -12857,11 +12857,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 90
@@ -12894,11 +12894,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 56
@@ -12931,11 +12931,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 7
@@ -12968,11 +12968,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 10
@@ -13005,11 +13005,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 28
@@ -13042,11 +13042,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 30
@@ -13079,11 +13079,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 100
@@ -13116,11 +13116,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 14
@@ -13153,11 +13153,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4569c44a7c8e676897f534300d7dbbaa)
     * containedItem.amount.value = 98
@@ -13190,11 +13190,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 84
@@ -13227,11 +13227,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 100
@@ -13264,11 +13264,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 30
@@ -13301,11 +13301,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 56
@@ -13338,11 +13338,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 7
@@ -13375,11 +13375,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 10
@@ -13412,11 +13412,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 14
@@ -13449,11 +13449,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 28
@@ -13486,11 +13486,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 60
@@ -13523,11 +13523,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 90
@@ -13560,11 +13560,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c6a4d07400af5debe7a409ff078672ac)
     * containedItem.amount.value = 98
@@ -13597,11 +13597,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7f36e51dcd3c062fcdfde290213d93fd)
     * containedItem.amount.value = 20
@@ -13634,11 +13634,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7f36e51dcd3c062fcdfde290213d93fd)
     * containedItem.amount.value = 30
@@ -13671,11 +13671,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7f36e51dcd3c062fcdfde290213d93fd)
     * containedItem.amount.value = 60
@@ -13708,11 +13708,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7f36e51dcd3c062fcdfde290213d93fd)
     * containedItem.amount.value = 90
@@ -13745,11 +13745,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7f36e51dcd3c062fcdfde290213d93fd)
     * containedItem.amount.value = 10
@@ -13782,11 +13782,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7f36e51dcd3c062fcdfde290213d93fd)
     * containedItem.amount.value = 50
@@ -13819,11 +13819,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7f36e51dcd3c062fcdfde290213d93fd)
     * containedItem.amount.value = 100
@@ -13856,11 +13856,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e5a5f7e045adf8a26ccfb8c2bf81fd60)
     * containedItem.amount.value = 10
@@ -13893,11 +13893,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e5a5f7e045adf8a26ccfb8c2bf81fd60)
     * containedItem.amount.value = 20
@@ -13930,11 +13930,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e5a5f7e045adf8a26ccfb8c2bf81fd60)
     * containedItem.amount.value = 50
@@ -13967,11 +13967,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e5a5f7e045adf8a26ccfb8c2bf81fd60)
     * containedItem.amount.value = 90
@@ -14004,11 +14004,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e5a5f7e045adf8a26ccfb8c2bf81fd60)
     * containedItem.amount.value = 30
@@ -14041,11 +14041,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e5a5f7e045adf8a26ccfb8c2bf81fd60)
     * containedItem.amount.value = 60
@@ -14078,11 +14078,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e5a5f7e045adf8a26ccfb8c2bf81fd60)
     * containedItem.amount.value = 100
@@ -14115,11 +14115,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-889b2b047c2dbf68778b1904db196833)
     * containedItem.amount.value = 10
@@ -14152,11 +14152,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-889b2b047c2dbf68778b1904db196833)
     * containedItem.amount.value = 20
@@ -14189,11 +14189,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-889b2b047c2dbf68778b1904db196833)
     * containedItem.amount.value = 90
@@ -14226,11 +14226,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-889b2b047c2dbf68778b1904db196833)
     * containedItem.amount.value = 60
@@ -14263,11 +14263,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-889b2b047c2dbf68778b1904db196833)
     * containedItem.amount.value = 100
@@ -14300,11 +14300,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-889b2b047c2dbf68778b1904db196833)
     * containedItem.amount.value = 50
@@ -14337,11 +14337,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-889b2b047c2dbf68778b1904db196833)
     * containedItem.amount.value = 30
@@ -14374,11 +14374,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6227ac6b56beba19e4eafb42abf02d63)
     * containedItem.amount.value = 50
@@ -14411,11 +14411,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6227ac6b56beba19e4eafb42abf02d63)
     * containedItem.amount.value = 20
@@ -14448,11 +14448,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6227ac6b56beba19e4eafb42abf02d63)
     * containedItem.amount.value = 90
@@ -14485,11 +14485,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6227ac6b56beba19e4eafb42abf02d63)
     * containedItem.amount.value = 10
@@ -14522,11 +14522,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6227ac6b56beba19e4eafb42abf02d63)
     * containedItem.amount.value = 30
@@ -14559,11 +14559,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6227ac6b56beba19e4eafb42abf02d63)
     * containedItem.amount.value = 60
@@ -14596,11 +14596,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6227ac6b56beba19e4eafb42abf02d63)
     * containedItem.amount.value = 100
@@ -14633,11 +14633,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9ff8261eb987e544b8510cd3f9a83372)
     * containedItem.amount.value = 28
@@ -14670,11 +14670,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9ff8261eb987e544b8510cd3f9a83372)
     * containedItem.amount.value = 30
@@ -14707,11 +14707,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9ff8261eb987e544b8510cd3f9a83372)
     * containedItem.amount.value = 10
@@ -14744,11 +14744,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9ff8261eb987e544b8510cd3f9a83372)
     * containedItem.amount.value = 14
@@ -14781,11 +14781,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9ff8261eb987e544b8510cd3f9a83372)
     * containedItem.amount.value = 100
@@ -14818,11 +14818,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9ff8261eb987e544b8510cd3f9a83372)
     * containedItem.amount.value = 56
@@ -14855,11 +14855,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9ff8261eb987e544b8510cd3f9a83372)
     * containedItem.amount.value = 60
@@ -14892,11 +14892,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9ff8261eb987e544b8510cd3f9a83372)
     * containedItem.amount.value = 84
@@ -14929,11 +14929,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9ff8261eb987e544b8510cd3f9a83372)
     * containedItem.amount.value = 90
@@ -14966,11 +14966,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 28
@@ -15001,11 +15001,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 30
@@ -15036,11 +15036,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 56
@@ -15071,11 +15071,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 100
@@ -15106,11 +15106,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 60
@@ -15141,11 +15141,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 84
@@ -15176,11 +15176,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 90
@@ -15211,11 +15211,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 10
@@ -15248,11 +15248,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-010be9a91927897698bafa89faddff0f)
     * containedItem.amount.value = 14
@@ -15283,11 +15283,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-473963e88b785cfc16808e8769caf412)
     * containedItem.amount.value = 90
@@ -15320,11 +15320,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-473963e88b785cfc16808e8769caf412)
     * containedItem.amount.value = 100
@@ -15357,11 +15357,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-473963e88b785cfc16808e8769caf412)
     * containedItem.amount.value = 30
@@ -15394,11 +15394,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-473963e88b785cfc16808e8769caf412)
     * containedItem.amount.value = 60
@@ -15431,11 +15431,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-473963e88b785cfc16808e8769caf412)
     * containedItem.amount.value = 10
@@ -15468,11 +15468,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2d73f2b40745c9beffb94871f14a5b5a)
     * containedItem.amount.value = 10
@@ -15505,11 +15505,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2d73f2b40745c9beffb94871f14a5b5a)
     * containedItem.amount.value = 30
@@ -15542,11 +15542,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2d73f2b40745c9beffb94871f14a5b5a)
     * containedItem.amount.value = 60
@@ -15579,11 +15579,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2d73f2b40745c9beffb94871f14a5b5a)
     * containedItem.amount.value = 90
@@ -15616,11 +15616,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2d73f2b40745c9beffb94871f14a5b5a)
     * containedItem.amount.value = 100
@@ -15653,11 +15653,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 60
@@ -15690,11 +15690,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 56
@@ -15727,11 +15727,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 100
@@ -15764,11 +15764,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 90
@@ -15801,11 +15801,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 98
@@ -15838,11 +15838,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 10
@@ -15875,11 +15875,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 14
@@ -15912,11 +15912,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 28
@@ -15949,11 +15949,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 30
@@ -15986,11 +15986,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 50
@@ -16023,11 +16023,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3532848b29b671c8226129387571af81)
     * containedItem.amount.value = 7
@@ -16060,11 +16060,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 10
@@ -16097,11 +16097,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 14
@@ -16134,11 +16134,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 28
@@ -16171,11 +16171,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 30
@@ -16208,11 +16208,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 50
@@ -16245,11 +16245,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 56
@@ -16282,11 +16282,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 60
@@ -16319,11 +16319,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 90
@@ -16356,11 +16356,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 98
@@ -16393,11 +16393,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 100
@@ -16430,11 +16430,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-87a121d8ef14832e3e60f39822818fec)
     * containedItem.amount.value = 7
@@ -16467,11 +16467,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 56
@@ -16502,11 +16502,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 28
@@ -16537,11 +16537,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 30
@@ -16573,11 +16573,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 90
@@ -16609,11 +16609,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 98
@@ -16644,11 +16644,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 500
@@ -16679,11 +16679,11 @@ Usage: #example
 * containedItemQuantity = 1000 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-ebae77533e4c1e728b99e03b2085351b)
     * containedItem.amount.value = 1000
@@ -16714,11 +16714,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 90
@@ -16750,11 +16750,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 98
@@ -16785,11 +16785,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 500
@@ -16820,11 +16820,11 @@ Usage: #example
 * containedItemQuantity = 1000 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 1000
@@ -16855,11 +16855,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 56
@@ -16890,11 +16890,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 28
@@ -16925,11 +16925,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-92deca0aa200157ff667b54187059631)
     * containedItem.amount.value = 30
@@ -16961,11 +16961,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 98
@@ -16996,11 +16996,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 500
@@ -17031,11 +17031,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 28
@@ -17066,11 +17066,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 30
@@ -17102,11 +17102,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 56
@@ -17137,11 +17137,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 90
@@ -17173,11 +17173,11 @@ Usage: #example
 * containedItemQuantity = 1000 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-15ef7c061f169c5ee0d522812fab8e3e)
     * containedItem.amount.value = 1000
@@ -17208,11 +17208,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-992fceef0cf23c5984e1f6197129ac49)
     * containedItem.amount.value = 28
@@ -17245,11 +17245,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-992fceef0cf23c5984e1f6197129ac49)
     * containedItem.amount.value = 14
@@ -17282,11 +17282,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-992fceef0cf23c5984e1f6197129ac49)
     * containedItem.amount.value = 56
@@ -17319,11 +17319,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-992fceef0cf23c5984e1f6197129ac49)
     * containedItem.amount.value = 60
@@ -17356,11 +17356,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-992fceef0cf23c5984e1f6197129ac49)
     * containedItem.amount.value = 84
@@ -17393,11 +17393,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-992fceef0cf23c5984e1f6197129ac49)
     * containedItem.amount.value = 90
@@ -17430,11 +17430,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-992fceef0cf23c5984e1f6197129ac49)
     * containedItem.amount.value = 98
@@ -17467,11 +17467,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-992fceef0cf23c5984e1f6197129ac49)
     * containedItem.amount.value = 30
@@ -17504,11 +17504,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0ecfe6182781ff486fe5156d2e85c11d)
     * containedItem.amount.value = 14
@@ -17541,11 +17541,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0ecfe6182781ff486fe5156d2e85c11d)
     * containedItem.amount.value = 90
@@ -17578,11 +17578,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0ecfe6182781ff486fe5156d2e85c11d)
     * containedItem.amount.value = 98
@@ -17615,11 +17615,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0ecfe6182781ff486fe5156d2e85c11d)
     * containedItem.amount.value = 28
@@ -17652,11 +17652,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0ecfe6182781ff486fe5156d2e85c11d)
     * containedItem.amount.value = 30
@@ -17689,11 +17689,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0ecfe6182781ff486fe5156d2e85c11d)
     * containedItem.amount.value = 56
@@ -17726,11 +17726,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0ecfe6182781ff486fe5156d2e85c11d)
     * containedItem.amount.value = 60
@@ -17763,11 +17763,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0ecfe6182781ff486fe5156d2e85c11d)
     * containedItem.amount.value = 84
@@ -17800,11 +17800,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5ce9683130355affc8b16ac3a0a50c7e)
     * containedItem.amount.value = 98
@@ -17837,11 +17837,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5ce9683130355affc8b16ac3a0a50c7e)
     * containedItem.amount.value = 30
@@ -17874,11 +17874,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5ce9683130355affc8b16ac3a0a50c7e)
     * containedItem.amount.value = 14
@@ -17911,11 +17911,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5ce9683130355affc8b16ac3a0a50c7e)
     * containedItem.amount.value = 28
@@ -17948,11 +17948,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5ce9683130355affc8b16ac3a0a50c7e)
     * containedItem.amount.value = 56
@@ -17985,11 +17985,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5ce9683130355affc8b16ac3a0a50c7e)
     * containedItem.amount.value = 60
@@ -18022,11 +18022,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5ce9683130355affc8b16ac3a0a50c7e)
     * containedItem.amount.value = 84
@@ -18059,11 +18059,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5ce9683130355affc8b16ac3a0a50c7e)
     * containedItem.amount.value = 90
@@ -18096,11 +18096,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 300
@@ -18133,11 +18133,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 98
@@ -18170,11 +18170,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 500
@@ -18207,11 +18207,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 30
@@ -18244,11 +18244,11 @@ Usage: #example
 * containedItemQuantity = 4 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 4
@@ -18281,11 +18281,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 100
@@ -18318,11 +18318,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 20
@@ -18355,11 +18355,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 10
@@ -18392,11 +18392,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 14
@@ -18429,11 +18429,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 50
@@ -18466,11 +18466,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 60
@@ -18503,11 +18503,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 90
@@ -18540,11 +18540,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 28
@@ -18577,11 +18577,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 300
@@ -18614,11 +18614,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 500
@@ -18651,11 +18651,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 28
@@ -18688,11 +18688,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 50
@@ -18725,11 +18725,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 30
@@ -18762,11 +18762,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 100
@@ -18799,11 +18799,11 @@ Usage: #example
 * containedItemQuantity = 4 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 4
@@ -18836,11 +18836,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 10
@@ -18873,11 +18873,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 14
@@ -18910,11 +18910,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 20
@@ -18947,11 +18947,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 60
@@ -18984,11 +18984,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 98
@@ -19021,11 +19021,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-48df8f5cf063ad33bbd7174aaec3f4b2)
     * containedItem.amount.value = 90
@@ -19058,11 +19058,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-48df8f5cf063ad33bbd7174aaec3f4b2)
     * containedItem.amount.value = 14
@@ -19095,11 +19095,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-48df8f5cf063ad33bbd7174aaec3f4b2)
     * containedItem.amount.value = 84
@@ -19132,11 +19132,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-48df8f5cf063ad33bbd7174aaec3f4b2)
     * containedItem.amount.value = 56
@@ -19169,11 +19169,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-48df8f5cf063ad33bbd7174aaec3f4b2)
     * containedItem.amount.value = 60
@@ -19206,11 +19206,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-48df8f5cf063ad33bbd7174aaec3f4b2)
     * containedItem.amount.value = 98
@@ -19243,11 +19243,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-48df8f5cf063ad33bbd7174aaec3f4b2)
     * containedItem.amount.value = 28
@@ -19280,11 +19280,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-48df8f5cf063ad33bbd7174aaec3f4b2)
     * containedItem.amount.value = 30
@@ -19317,11 +19317,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0c80dcb4c4e267a27fb81c3d56855721)
     * containedItem.amount.value = 28
@@ -19354,11 +19354,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0c80dcb4c4e267a27fb81c3d56855721)
     * containedItem.amount.value = 90
@@ -19391,11 +19391,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0c80dcb4c4e267a27fb81c3d56855721)
     * containedItem.amount.value = 14
@@ -19428,11 +19428,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0c80dcb4c4e267a27fb81c3d56855721)
     * containedItem.amount.value = 98
@@ -19465,11 +19465,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0c80dcb4c4e267a27fb81c3d56855721)
     * containedItem.amount.value = 30
@@ -19502,11 +19502,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0c80dcb4c4e267a27fb81c3d56855721)
     * containedItem.amount.value = 56
@@ -19539,11 +19539,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0c80dcb4c4e267a27fb81c3d56855721)
     * containedItem.amount.value = 60
@@ -19576,11 +19576,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0c80dcb4c4e267a27fb81c3d56855721)
     * containedItem.amount.value = 84
@@ -19613,11 +19613,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3a50f937e5452c904f583dd60b86c709)
     * containedItem.amount.value = 90
@@ -19650,11 +19650,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3a50f937e5452c904f583dd60b86c709)
     * containedItem.amount.value = 98
@@ -19687,11 +19687,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3a50f937e5452c904f583dd60b86c709)
     * containedItem.amount.value = 30
@@ -19724,11 +19724,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3a50f937e5452c904f583dd60b86c709)
     * containedItem.amount.value = 56
@@ -19761,11 +19761,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3a50f937e5452c904f583dd60b86c709)
     * containedItem.amount.value = 60
@@ -19798,11 +19798,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3a50f937e5452c904f583dd60b86c709)
     * containedItem.amount.value = 14
@@ -19835,11 +19835,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3a50f937e5452c904f583dd60b86c709)
     * containedItem.amount.value = 28
@@ -19872,11 +19872,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3a50f937e5452c904f583dd60b86c709)
     * containedItem.amount.value = 84
@@ -19909,11 +19909,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d3a126b8227e56f2155ae740e9723dc2)
     * containedItem.amount.value = 84
@@ -19946,11 +19946,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d3a126b8227e56f2155ae740e9723dc2)
     * containedItem.amount.value = 90
@@ -19983,11 +19983,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d3a126b8227e56f2155ae740e9723dc2)
     * containedItem.amount.value = 98
@@ -20020,11 +20020,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d3a126b8227e56f2155ae740e9723dc2)
     * containedItem.amount.value = 56
@@ -20057,11 +20057,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d3a126b8227e56f2155ae740e9723dc2)
     * containedItem.amount.value = 30
@@ -20094,11 +20094,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d3a126b8227e56f2155ae740e9723dc2)
     * containedItem.amount.value = 60
@@ -20131,11 +20131,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d3a126b8227e56f2155ae740e9723dc2)
     * containedItem.amount.value = 14
@@ -20168,11 +20168,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d3a126b8227e56f2155ae740e9723dc2)
     * containedItem.amount.value = 28
@@ -20205,11 +20205,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-cf354a0807e9cb815fff08cde088fb4a)
     * containedItem.amount.value = 98
@@ -20242,11 +20242,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-cf354a0807e9cb815fff08cde088fb4a)
     * containedItem.amount.value = 28
@@ -20279,11 +20279,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-cf354a0807e9cb815fff08cde088fb4a)
     * containedItem.amount.value = 56
@@ -20316,11 +20316,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-86b57f03efc0bf7bcdc77d7a8dce3999)
     * containedItem.amount.value = 28
@@ -20353,11 +20353,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-86b57f03efc0bf7bcdc77d7a8dce3999)
     * containedItem.amount.value = 98
@@ -20390,11 +20390,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-86b57f03efc0bf7bcdc77d7a8dce3999)
     * containedItem.amount.value = 56
@@ -20427,11 +20427,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-cc8a2cda608c39747a1735d392904ef2)
     * containedItem.amount.value = 56
@@ -20464,11 +20464,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-cc8a2cda608c39747a1735d392904ef2)
     * containedItem.amount.value = 98
@@ -20501,11 +20501,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-cc8a2cda608c39747a1735d392904ef2)
     * containedItem.amount.value = 28
@@ -20538,11 +20538,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-89329433313d6f161e047e5039bf430e)
     * containedItem.amount.value = 28
@@ -20575,11 +20575,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-89329433313d6f161e047e5039bf430e)
     * containedItem.amount.value = 56
@@ -20612,11 +20612,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-89329433313d6f161e047e5039bf430e)
     * containedItem.amount.value = 98
@@ -20649,11 +20649,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4e3a0f064c251c110dafa89a2b27b36d)
     * containedItem.amount.value = 56
@@ -20685,11 +20685,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4e3a0f064c251c110dafa89a2b27b36d)
     * containedItem.amount.value = 7
@@ -20721,11 +20721,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4e3a0f064c251c110dafa89a2b27b36d)
     * containedItem.amount.value = 14
@@ -20757,11 +20757,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4e3a0f064c251c110dafa89a2b27b36d)
     * containedItem.amount.value = 28
@@ -20793,11 +20793,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4e3a0f064c251c110dafa89a2b27b36d)
     * containedItem.amount.value = 30
@@ -20829,11 +20829,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4e3a0f064c251c110dafa89a2b27b36d)
     * containedItem.amount.value = 90
@@ -20865,11 +20865,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4e3a0f064c251c110dafa89a2b27b36d)
     * containedItem.amount.value = 98
@@ -20901,11 +20901,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4e3a0f064c251c110dafa89a2b27b36d)
     * containedItem.amount.value = 280
@@ -20937,11 +20937,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f4e3bf9b50fac22789ee5d41cd4c5193)
     * containedItem.amount.value = 7
@@ -20973,11 +20973,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f4e3bf9b50fac22789ee5d41cd4c5193)
     * containedItem.amount.value = 14
@@ -21009,11 +21009,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f4e3bf9b50fac22789ee5d41cd4c5193)
     * containedItem.amount.value = 30
@@ -21045,11 +21045,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f4e3bf9b50fac22789ee5d41cd4c5193)
     * containedItem.amount.value = 56
@@ -21081,11 +21081,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f4e3bf9b50fac22789ee5d41cd4c5193)
     * containedItem.amount.value = 280
@@ -21117,11 +21117,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f4e3bf9b50fac22789ee5d41cd4c5193)
     * containedItem.amount.value = 90
@@ -21153,11 +21153,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f4e3bf9b50fac22789ee5d41cd4c5193)
     * containedItem.amount.value = 28
@@ -21189,11 +21189,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f4e3bf9b50fac22789ee5d41cd4c5193)
     * containedItem.amount.value = 98
@@ -21225,11 +21225,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 90
@@ -21262,11 +21262,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 30
@@ -21299,11 +21299,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 60
@@ -21336,11 +21336,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 84
@@ -21373,11 +21373,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 10
@@ -21410,11 +21410,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 14
@@ -21447,11 +21447,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 28
@@ -21484,11 +21484,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 98
@@ -21519,11 +21519,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 100
@@ -21556,11 +21556,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6a7dda4d31325ba4037a7b5ca32568f2)
     * containedItem.amount.value = 56
@@ -21593,11 +21593,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 90
@@ -21630,11 +21630,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 100
@@ -21667,11 +21667,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 10
@@ -21704,11 +21704,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 14
@@ -21741,11 +21741,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 28
@@ -21778,11 +21778,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 56
@@ -21815,11 +21815,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 60
@@ -21852,11 +21852,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 84
@@ -21889,11 +21889,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 30
@@ -21926,11 +21926,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-6927a99dccb40876a816618edcdef801)
     * containedItem.amount.value = 98
@@ -21961,11 +21961,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 30
@@ -21998,11 +21998,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 10
@@ -22035,11 +22035,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 60
@@ -22072,11 +22072,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 84
@@ -22109,11 +22109,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 98
@@ -22144,11 +22144,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 14
@@ -22181,11 +22181,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 28
@@ -22218,11 +22218,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 90
@@ -22255,11 +22255,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 100
@@ -22292,11 +22292,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-45c118b40b2c28e9ac6cab91e4e07174)
     * containedItem.amount.value = 56
@@ -22329,11 +22329,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-d9b6ef48731c98284badcf0786ddae4a)
     * containedItem.amount.value = 28
@@ -22364,11 +22364,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-d9b6ef48731c98284badcf0786ddae4a)
     * containedItem.amount.value = 84
@@ -22399,11 +22399,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-d9b6ef48731c98284badcf0786ddae4a)
     * containedItem.amount.value = 30
@@ -22434,11 +22434,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-d9b6ef48731c98284badcf0786ddae4a)
     * containedItem.amount.value = 90
@@ -22469,11 +22469,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-d9b6ef48731c98284badcf0786ddae4a)
     * containedItem.amount.value = 100
@@ -22504,11 +22504,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-f9220c58bd68a6a5525486f4c18ddebc)
     * containedItem.amount.value = 28
@@ -22539,11 +22539,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-f9220c58bd68a6a5525486f4c18ddebc)
     * containedItem.amount.value = 84
@@ -22574,11 +22574,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-f9220c58bd68a6a5525486f4c18ddebc)
     * containedItem.amount.value = 30
@@ -22609,11 +22609,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-f9220c58bd68a6a5525486f4c18ddebc)
     * containedItem.amount.value = 90
@@ -22644,11 +22644,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-f9220c58bd68a6a5525486f4c18ddebc)
     * containedItem.amount.value = 100
@@ -22679,11 +22679,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-86425515252bedcd9cee98223732d690)
     * containedItem.amount.value = 28
@@ -22714,11 +22714,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-86425515252bedcd9cee98223732d690)
     * containedItem.amount.value = 90
@@ -22749,11 +22749,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-86425515252bedcd9cee98223732d690)
     * containedItem.amount.value = 100
@@ -22784,11 +22784,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-86425515252bedcd9cee98223732d690)
     * containedItem.amount.value = 84
@@ -22819,11 +22819,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-86425515252bedcd9cee98223732d690)
     * containedItem.amount.value = 30
@@ -22854,11 +22854,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-6709cadec14d34a4ce70af63e9421a1b)
     * containedItem.amount.value = 84
@@ -22889,11 +22889,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-6709cadec14d34a4ce70af63e9421a1b)
     * containedItem.amount.value = 30
@@ -22924,11 +22924,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-6709cadec14d34a4ce70af63e9421a1b)
     * containedItem.amount.value = 90
@@ -22959,11 +22959,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-6709cadec14d34a4ce70af63e9421a1b)
     * containedItem.amount.value = 100
@@ -22994,11 +22994,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-6709cadec14d34a4ce70af63e9421a1b)
     * containedItem.amount.value = 28
@@ -23029,11 +23029,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 10
@@ -23064,11 +23064,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 90
@@ -23099,11 +23099,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 100
@@ -23134,11 +23134,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 30
@@ -23169,11 +23169,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 28
@@ -23204,11 +23204,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073561 "tuub"
     * containedItem.item.reference = Reference(mid-99095e57e9c62937e8d1830376f48ee1)
     * containedItem.amount.value = 84
@@ -23239,11 +23239,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4d3261ec077923bcb748e081b4a9b4f4)
     * containedItem.amount.value = 28
@@ -23276,11 +23276,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4d3261ec077923bcb748e081b4a9b4f4)
     * containedItem.amount.value = 56
@@ -23313,11 +23313,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4d3261ec077923bcb748e081b4a9b4f4)
     * containedItem.amount.value = 90
@@ -23350,11 +23350,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4d3261ec077923bcb748e081b4a9b4f4)
     * containedItem.amount.value = 98
@@ -23387,11 +23387,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4d3261ec077923bcb748e081b4a9b4f4)
     * containedItem.amount.value = 30
@@ -23424,11 +23424,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4d3261ec077923bcb748e081b4a9b4f4)
     * containedItem.amount.value = 14
@@ -23461,11 +23461,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b0cec8f4f684b9a926520e6574e76d6a)
     * containedItem.amount.value = 56
@@ -23498,11 +23498,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b0cec8f4f684b9a926520e6574e76d6a)
     * containedItem.amount.value = 90
@@ -23535,11 +23535,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b0cec8f4f684b9a926520e6574e76d6a)
     * containedItem.amount.value = 98
@@ -23572,11 +23572,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b0cec8f4f684b9a926520e6574e76d6a)
     * containedItem.amount.value = 30
@@ -23609,11 +23609,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b0cec8f4f684b9a926520e6574e76d6a)
     * containedItem.amount.value = 14
@@ -23646,11 +23646,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b0cec8f4f684b9a926520e6574e76d6a)
     * containedItem.amount.value = 28
@@ -23683,11 +23683,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f3e04259c844917fef0e2e775bf07ab8)
     * containedItem.amount.value = 84
@@ -23720,11 +23720,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f3e04259c844917fef0e2e775bf07ab8)
     * containedItem.amount.value = 90
@@ -23757,11 +23757,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f3e04259c844917fef0e2e775bf07ab8)
     * containedItem.amount.value = 60
@@ -23794,11 +23794,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f3e04259c844917fef0e2e775bf07ab8)
     * containedItem.amount.value = 28
@@ -23831,11 +23831,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f3e04259c844917fef0e2e775bf07ab8)
     * containedItem.amount.value = 30
@@ -23868,11 +23868,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f3e04259c844917fef0e2e775bf07ab8)
     * containedItem.amount.value = 56
@@ -23905,11 +23905,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-75a6f374ecfe6f4521b39ccaf45991db)
     * containedItem.amount.value = 56
@@ -23942,11 +23942,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-75a6f374ecfe6f4521b39ccaf45991db)
     * containedItem.amount.value = 30
@@ -23979,11 +23979,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-75a6f374ecfe6f4521b39ccaf45991db)
     * containedItem.amount.value = 60
@@ -24016,11 +24016,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-75a6f374ecfe6f4521b39ccaf45991db)
     * containedItem.amount.value = 84
@@ -24053,11 +24053,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-75a6f374ecfe6f4521b39ccaf45991db)
     * containedItem.amount.value = 90
@@ -24090,11 +24090,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-75a6f374ecfe6f4521b39ccaf45991db)
     * containedItem.amount.value = 28
@@ -24127,11 +24127,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7111a5f4581c96aeb3d849b6c329cd37)
     * containedItem.amount.value = 84
@@ -24164,11 +24164,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7111a5f4581c96aeb3d849b6c329cd37)
     * containedItem.amount.value = 90
@@ -24201,11 +24201,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7111a5f4581c96aeb3d849b6c329cd37)
     * containedItem.amount.value = 28
@@ -24238,11 +24238,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7111a5f4581c96aeb3d849b6c329cd37)
     * containedItem.amount.value = 56
@@ -24275,11 +24275,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7111a5f4581c96aeb3d849b6c329cd37)
     * containedItem.amount.value = 30
@@ -24312,11 +24312,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7111a5f4581c96aeb3d849b6c329cd37)
     * containedItem.amount.value = 60
@@ -24349,11 +24349,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2e0f5028b41c38f94c1f052e63a6cc35)
     * containedItem.amount.value = 56
@@ -24386,11 +24386,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2e0f5028b41c38f94c1f052e63a6cc35)
     * containedItem.amount.value = 30
@@ -24423,11 +24423,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2e0f5028b41c38f94c1f052e63a6cc35)
     * containedItem.amount.value = 28
@@ -24460,11 +24460,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2e0f5028b41c38f94c1f052e63a6cc35)
     * containedItem.amount.value = 60
@@ -24497,11 +24497,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2e0f5028b41c38f94c1f052e63a6cc35)
     * containedItem.amount.value = 84
@@ -24534,11 +24534,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2e0f5028b41c38f94c1f052e63a6cc35)
     * containedItem.amount.value = 90
@@ -24571,11 +24571,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da7b63d04b10c63e7a151cb2ba5ff19e)
     * containedItem.amount.value = 28
@@ -24609,11 +24609,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da7b63d04b10c63e7a151cb2ba5ff19e)
     * containedItem.amount.value = 30
@@ -24647,11 +24647,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da7b63d04b10c63e7a151cb2ba5ff19e)
     * containedItem.amount.value = 84
@@ -24685,11 +24685,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da7b63d04b10c63e7a151cb2ba5ff19e)
     * containedItem.amount.value = 90
@@ -24723,11 +24723,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da7b63d04b10c63e7a151cb2ba5ff19e)
     * containedItem.amount.value = 56
@@ -24761,11 +24761,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da7b63d04b10c63e7a151cb2ba5ff19e)
     * containedItem.amount.value = 98
@@ -24799,11 +24799,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da7b63d04b10c63e7a151cb2ba5ff19e)
     * containedItem.amount.value = 14
@@ -24837,11 +24837,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-60912ca23996a0bb672d0ccf853fe7b4)
     * containedItem.amount.value = 30
@@ -24874,11 +24874,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-60912ca23996a0bb672d0ccf853fe7b4)
     * containedItem.amount.value = 28
@@ -24911,11 +24911,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-60912ca23996a0bb672d0ccf853fe7b4)
     * containedItem.amount.value = 50
@@ -24948,11 +24948,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-60912ca23996a0bb672d0ccf853fe7b4)
     * containedItem.amount.value = 90
@@ -24985,11 +24985,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-60912ca23996a0bb672d0ccf853fe7b4)
     * containedItem.amount.value = 100
@@ -25022,11 +25022,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-60912ca23996a0bb672d0ccf853fe7b4)
     * containedItem.amount.value = 56
@@ -25059,11 +25059,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-60912ca23996a0bb672d0ccf853fe7b4)
     * containedItem.amount.value = 60
@@ -25096,11 +25096,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-60912ca23996a0bb672d0ccf853fe7b4)
     * containedItem.amount.value = 10
@@ -25133,11 +25133,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-60912ca23996a0bb672d0ccf853fe7b4)
     * containedItem.amount.value = 14
@@ -25170,11 +25170,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-60912ca23996a0bb672d0ccf853fe7b4)
     * containedItem.amount.value = 20
@@ -25207,11 +25207,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 10
@@ -25242,11 +25242,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 50
@@ -25277,11 +25277,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 30
@@ -25312,11 +25312,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 60
@@ -25347,11 +25347,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 90
@@ -25382,11 +25382,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 100
@@ -25417,11 +25417,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-dbdeb2055d677f893444bdcb86676431)
     * containedItem.amount.value = 120
@@ -25452,11 +25452,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 30
@@ -25487,11 +25487,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 120
@@ -25522,11 +25522,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 50
@@ -25557,11 +25557,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 60
@@ -25592,11 +25592,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 90
@@ -25627,11 +25627,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-7b964a36fdf01a567a11fe1f16af2509)
     * containedItem.amount.value = 100
@@ -25662,11 +25662,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 120
@@ -25697,11 +25697,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 30
@@ -25732,11 +25732,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 50
@@ -25767,11 +25767,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 60
@@ -25802,11 +25802,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 90
@@ -25837,11 +25837,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-c586f4681771f89753c2507e0b94c560)
     * containedItem.amount.value = 100
@@ -25872,11 +25872,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 100
@@ -25907,11 +25907,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 120
@@ -25942,11 +25942,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 90
@@ -25977,11 +25977,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 50
@@ -26012,11 +26012,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 60
@@ -26047,11 +26047,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-a2573215e0763e21fc8a639392996590)
     * containedItem.amount.value = 30
@@ -26082,11 +26082,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04f54f0b120da0e4d613148114948db6)
     * containedItem.amount.value = 90
@@ -26119,11 +26119,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04f54f0b120da0e4d613148114948db6)
     * containedItem.amount.value = 10
@@ -26156,11 +26156,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04f54f0b120da0e4d613148114948db6)
     * containedItem.amount.value = 28
@@ -26193,11 +26193,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04f54f0b120da0e4d613148114948db6)
     * containedItem.amount.value = 30
@@ -26230,11 +26230,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04f54f0b120da0e4d613148114948db6)
     * containedItem.amount.value = 56
@@ -26267,11 +26267,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04f54f0b120da0e4d613148114948db6)
     * containedItem.amount.value = 60
@@ -26304,11 +26304,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04f54f0b120da0e4d613148114948db6)
     * containedItem.amount.value = 84
@@ -26341,11 +26341,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-83c1d9197877904c6c9c2b1ef8d53238)
     * containedItem.amount.value = 60
@@ -26378,11 +26378,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-83c1d9197877904c6c9c2b1ef8d53238)
     * containedItem.amount.value = 10
@@ -26415,11 +26415,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-83c1d9197877904c6c9c2b1ef8d53238)
     * containedItem.amount.value = 28
@@ -26452,11 +26452,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-83c1d9197877904c6c9c2b1ef8d53238)
     * containedItem.amount.value = 90
@@ -26489,11 +26489,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-83c1d9197877904c6c9c2b1ef8d53238)
     * containedItem.amount.value = 84
@@ -26526,11 +26526,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-83c1d9197877904c6c9c2b1ef8d53238)
     * containedItem.amount.value = 30
@@ -26563,11 +26563,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-83c1d9197877904c6c9c2b1ef8d53238)
     * containedItem.amount.value = 56
@@ -26600,11 +26600,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-df6f54d028aaf1b44d6e3c437436fe59)
     * containedItem.amount.value = 84
@@ -26637,11 +26637,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-df6f54d028aaf1b44d6e3c437436fe59)
     * containedItem.amount.value = 56
@@ -26674,11 +26674,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-df6f54d028aaf1b44d6e3c437436fe59)
     * containedItem.amount.value = 60
@@ -26711,11 +26711,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-df6f54d028aaf1b44d6e3c437436fe59)
     * containedItem.amount.value = 10
@@ -26748,11 +26748,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-df6f54d028aaf1b44d6e3c437436fe59)
     * containedItem.amount.value = 28
@@ -26785,11 +26785,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-df6f54d028aaf1b44d6e3c437436fe59)
     * containedItem.amount.value = 30
@@ -26822,11 +26822,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-df6f54d028aaf1b44d6e3c437436fe59)
     * containedItem.amount.value = 90
@@ -26859,11 +26859,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d67506966cb02a8f8b5eb63e9d7c12f)
     * containedItem.amount.value = 60
@@ -26896,11 +26896,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d67506966cb02a8f8b5eb63e9d7c12f)
     * containedItem.amount.value = 84
@@ -26933,11 +26933,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d67506966cb02a8f8b5eb63e9d7c12f)
     * containedItem.amount.value = 28
@@ -26970,11 +26970,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d67506966cb02a8f8b5eb63e9d7c12f)
     * containedItem.amount.value = 30
@@ -27007,11 +27007,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d67506966cb02a8f8b5eb63e9d7c12f)
     * containedItem.amount.value = 56
@@ -27044,11 +27044,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d67506966cb02a8f8b5eb63e9d7c12f)
     * containedItem.amount.value = 90
@@ -27081,11 +27081,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d67506966cb02a8f8b5eb63e9d7c12f)
     * containedItem.amount.value = 10
@@ -27118,11 +27118,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 84
@@ -27153,11 +27153,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 10
@@ -27188,11 +27188,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 28
@@ -27223,11 +27223,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 30
@@ -27258,11 +27258,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 90
@@ -27293,11 +27293,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 60
@@ -27328,11 +27328,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 100
@@ -27363,11 +27363,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-6a6e65652a6b7721f4a5f2be70b08b35)
     * containedItem.amount.value = 500
@@ -27398,11 +27398,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 30
@@ -27433,11 +27433,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 60
@@ -27468,11 +27468,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 90
@@ -27503,11 +27503,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 100
@@ -27538,11 +27538,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 500
@@ -27573,11 +27573,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 10
@@ -27608,11 +27608,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 28
@@ -27643,11 +27643,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-24891bfe3df12ce0ca603528df3819ec)
     * containedItem.amount.value = 84
@@ -27678,11 +27678,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 10
@@ -27713,11 +27713,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 28
@@ -27748,11 +27748,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 84
@@ -27783,11 +27783,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 30
@@ -27818,11 +27818,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 60
@@ -27853,11 +27853,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 90
@@ -27888,11 +27888,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 100
@@ -27923,11 +27923,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-b437fbb92af66ac8602316a292b734a3)
     * containedItem.amount.value = 500
@@ -27958,11 +27958,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 84
@@ -27993,11 +27993,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 10
@@ -28028,11 +28028,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 90
@@ -28063,11 +28063,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 100
@@ -28098,11 +28098,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 500
@@ -28133,11 +28133,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 28
@@ -28168,11 +28168,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 30
@@ -28203,11 +28203,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073523 "purk"
     * containedItem.item.reference = Reference(mid-87eace728cb772bd744d4c9bd663f8e7)
     * containedItem.amount.value = 60
@@ -28238,11 +28238,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0522fe195a75b4ffa60e98e2b065d29f)
     * containedItem.amount.value = 10
@@ -28275,11 +28275,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0522fe195a75b4ffa60e98e2b065d29f)
     * containedItem.amount.value = 14
@@ -28312,11 +28312,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0522fe195a75b4ffa60e98e2b065d29f)
     * containedItem.amount.value = 20
@@ -28349,11 +28349,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0522fe195a75b4ffa60e98e2b065d29f)
     * containedItem.amount.value = 84
@@ -28386,11 +28386,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0522fe195a75b4ffa60e98e2b065d29f)
     * containedItem.amount.value = 90
@@ -28423,11 +28423,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0522fe195a75b4ffa60e98e2b065d29f)
     * containedItem.amount.value = 30
@@ -28460,11 +28460,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0522fe195a75b4ffa60e98e2b065d29f)
     * containedItem.amount.value = 28
@@ -28497,11 +28497,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0522fe195a75b4ffa60e98e2b065d29f)
     * containedItem.amount.value = 60
@@ -28534,11 +28534,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0522fe195a75b4ffa60e98e2b065d29f)
     * containedItem.amount.value = 56
@@ -28571,11 +28571,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2df1fd096ea2119e34f58eeaf76f3361)
     * containedItem.amount.value = 10
@@ -28608,11 +28608,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2df1fd096ea2119e34f58eeaf76f3361)
     * containedItem.amount.value = 14
@@ -28645,11 +28645,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2df1fd096ea2119e34f58eeaf76f3361)
     * containedItem.amount.value = 20
@@ -28682,11 +28682,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2df1fd096ea2119e34f58eeaf76f3361)
     * containedItem.amount.value = 28
@@ -28719,11 +28719,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2df1fd096ea2119e34f58eeaf76f3361)
     * containedItem.amount.value = 60
@@ -28756,11 +28756,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2df1fd096ea2119e34f58eeaf76f3361)
     * containedItem.amount.value = 84
@@ -28793,11 +28793,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2df1fd096ea2119e34f58eeaf76f3361)
     * containedItem.amount.value = 90
@@ -28830,11 +28830,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2df1fd096ea2119e34f58eeaf76f3361)
     * containedItem.amount.value = 30
@@ -28867,11 +28867,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2df1fd096ea2119e34f58eeaf76f3361)
     * containedItem.amount.value = 56
@@ -28904,11 +28904,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1141aae8513eb520117974def513abbe)
     * containedItem.amount.value = 20
@@ -28941,11 +28941,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1141aae8513eb520117974def513abbe)
     * containedItem.amount.value = 28
@@ -28978,11 +28978,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1141aae8513eb520117974def513abbe)
     * containedItem.amount.value = 30
@@ -29015,11 +29015,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1141aae8513eb520117974def513abbe)
     * containedItem.amount.value = 60
@@ -29052,11 +29052,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1141aae8513eb520117974def513abbe)
     * containedItem.amount.value = 84
@@ -29089,11 +29089,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1141aae8513eb520117974def513abbe)
     * containedItem.amount.value = 56
@@ -29126,11 +29126,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1141aae8513eb520117974def513abbe)
     * containedItem.amount.value = 10
@@ -29163,11 +29163,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1141aae8513eb520117974def513abbe)
     * containedItem.amount.value = 14
@@ -29200,11 +29200,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1141aae8513eb520117974def513abbe)
     * containedItem.amount.value = 90
@@ -29237,11 +29237,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da9bd57613b8c0bd0c6e0174c4b7323f)
     * containedItem.amount.value = 20
@@ -29274,11 +29274,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da9bd57613b8c0bd0c6e0174c4b7323f)
     * containedItem.amount.value = 28
@@ -29311,11 +29311,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da9bd57613b8c0bd0c6e0174c4b7323f)
     * containedItem.amount.value = 30
@@ -29348,11 +29348,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da9bd57613b8c0bd0c6e0174c4b7323f)
     * containedItem.amount.value = 56
@@ -29385,11 +29385,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da9bd57613b8c0bd0c6e0174c4b7323f)
     * containedItem.amount.value = 90
@@ -29422,11 +29422,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da9bd57613b8c0bd0c6e0174c4b7323f)
     * containedItem.amount.value = 84
@@ -29459,11 +29459,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da9bd57613b8c0bd0c6e0174c4b7323f)
     * containedItem.amount.value = 60
@@ -29496,11 +29496,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da9bd57613b8c0bd0c6e0174c4b7323f)
     * containedItem.amount.value = 10
@@ -29533,11 +29533,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-da9bd57613b8c0bd0c6e0174c4b7323f)
     * containedItem.amount.value = 14
@@ -29570,11 +29570,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3ce5ba0615d73ef5c32173a29faaa66a)
     * containedItem.amount.value = 30
@@ -29607,11 +29607,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3ce5ba0615d73ef5c32173a29faaa66a)
     * containedItem.amount.value = 14
@@ -29644,11 +29644,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3ce5ba0615d73ef5c32173a29faaa66a)
     * containedItem.amount.value = 20
@@ -29681,11 +29681,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3ce5ba0615d73ef5c32173a29faaa66a)
     * containedItem.amount.value = 28
@@ -29718,11 +29718,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3ce5ba0615d73ef5c32173a29faaa66a)
     * containedItem.amount.value = 56
@@ -29755,11 +29755,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3ce5ba0615d73ef5c32173a29faaa66a)
     * containedItem.amount.value = 10
@@ -29792,11 +29792,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3ce5ba0615d73ef5c32173a29faaa66a)
     * containedItem.amount.value = 90
@@ -29829,11 +29829,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3ce5ba0615d73ef5c32173a29faaa66a)
     * containedItem.amount.value = 60
@@ -29866,11 +29866,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-3ce5ba0615d73ef5c32173a29faaa66a)
     * containedItem.amount.value = 84
@@ -29903,11 +29903,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-a7d9b11d7516e2c592b590e952fc976a)
     * containedItem.amount.value = 500
@@ -29938,11 +29938,11 @@ Usage: #example
 * containedItemQuantity = 15 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a7d9b11d7516e2c592b590e952fc976a)
     * containedItem.amount.value = 15
@@ -29974,11 +29974,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a7d9b11d7516e2c592b590e952fc976a)
     * containedItem.amount.value = 30
@@ -30010,11 +30010,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a7d9b11d7516e2c592b590e952fc976a)
     * containedItem.amount.value = 60
@@ -30046,11 +30046,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a7d9b11d7516e2c592b590e952fc976a)
     * containedItem.amount.value = 90
@@ -30082,11 +30082,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-a7d9b11d7516e2c592b590e952fc976a)
     * containedItem.amount.value = 100
@@ -30117,11 +30117,11 @@ Usage: #example
 * containedItemQuantity = 15 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f561bcd9597099da88e683385eb84d34)
     * containedItem.amount.value = 15
@@ -30153,11 +30153,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f561bcd9597099da88e683385eb84d34)
     * containedItem.amount.value = 90
@@ -30189,11 +30189,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f561bcd9597099da88e683385eb84d34)
     * containedItem.amount.value = 60
@@ -30225,11 +30225,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-f561bcd9597099da88e683385eb84d34)
     * containedItem.amount.value = 500
@@ -30260,11 +30260,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-f561bcd9597099da88e683385eb84d34)
     * containedItem.amount.value = 100
@@ -30295,11 +30295,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-f561bcd9597099da88e683385eb84d34)
     * containedItem.amount.value = 30
@@ -30331,11 +30331,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-974541f2156d6f33e2a803fa33453176)
     * containedItem.amount.value = 90
@@ -30367,11 +30367,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-974541f2156d6f33e2a803fa33453176)
     * containedItem.amount.value = 100
@@ -30402,11 +30402,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-974541f2156d6f33e2a803fa33453176)
     * containedItem.amount.value = 500
@@ -30437,11 +30437,11 @@ Usage: #example
 * containedItemQuantity = 15 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-974541f2156d6f33e2a803fa33453176)
     * containedItem.amount.value = 15
@@ -30473,11 +30473,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-974541f2156d6f33e2a803fa33453176)
     * containedItem.amount.value = 30
@@ -30509,11 +30509,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-974541f2156d6f33e2a803fa33453176)
     * containedItem.amount.value = 60
@@ -30545,11 +30545,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-b0492c36fe06c5c43abac09862a8849a)
     * containedItem.amount.value = 500
@@ -30580,11 +30580,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b0492c36fe06c5c43abac09862a8849a)
     * containedItem.amount.value = 90
@@ -30616,11 +30616,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b0492c36fe06c5c43abac09862a8849a)
     * containedItem.amount.value = 60
@@ -30652,11 +30652,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-b0492c36fe06c5c43abac09862a8849a)
     * containedItem.amount.value = 100
@@ -30687,11 +30687,11 @@ Usage: #example
 * containedItemQuantity = 15 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b0492c36fe06c5c43abac09862a8849a)
     * containedItem.amount.value = 15
@@ -30723,11 +30723,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b0492c36fe06c5c43abac09862a8849a)
     * containedItem.amount.value = 30
@@ -30759,11 +30759,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1cdcca6fa730ec5b4058006fad6b601d)
     * containedItem.amount.value = 28
@@ -30796,11 +30796,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1cdcca6fa730ec5b4058006fad6b601d)
     * containedItem.amount.value = 30
@@ -30833,11 +30833,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1cdcca6fa730ec5b4058006fad6b601d)
     * containedItem.amount.value = 50
@@ -30870,11 +30870,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1cdcca6fa730ec5b4058006fad6b601d)
     * containedItem.amount.value = 20
@@ -30907,11 +30907,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1cdcca6fa730ec5b4058006fad6b601d)
     * containedItem.amount.value = 10
@@ -30944,11 +30944,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1cdcca6fa730ec5b4058006fad6b601d)
     * containedItem.amount.value = 56
@@ -30981,11 +30981,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1cdcca6fa730ec5b4058006fad6b601d)
     * containedItem.amount.value = 60
@@ -31018,11 +31018,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1cdcca6fa730ec5b4058006fad6b601d)
     * containedItem.amount.value = 90
@@ -31055,11 +31055,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1cdcca6fa730ec5b4058006fad6b601d)
     * containedItem.amount.value = 100
@@ -31092,11 +31092,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1cdcca6fa730ec5b4058006fad6b601d)
     * containedItem.amount.value = 14
@@ -31129,11 +31129,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 90
@@ -31166,11 +31166,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 100
@@ -31203,11 +31203,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 98
@@ -31240,11 +31240,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 56
@@ -31277,11 +31277,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 60
@@ -31314,11 +31314,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 28
@@ -31351,11 +31351,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 30
@@ -31388,11 +31388,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 84
@@ -31425,11 +31425,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 84
@@ -31462,11 +31462,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 90
@@ -31499,11 +31499,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 56
@@ -31536,11 +31536,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 28
@@ -31573,11 +31573,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 30
@@ -31610,11 +31610,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 98
@@ -31647,11 +31647,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 100
@@ -31684,11 +31684,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 60
@@ -31721,11 +31721,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8b716ee61fa4aa41e504fb7b8cc10966)
     * containedItem.amount.value = 100
@@ -31758,11 +31758,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8b716ee61fa4aa41e504fb7b8cc10966)
     * containedItem.amount.value = 28
@@ -31795,11 +31795,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8b716ee61fa4aa41e504fb7b8cc10966)
     * containedItem.amount.value = 30
@@ -31832,11 +31832,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8b716ee61fa4aa41e504fb7b8cc10966)
     * containedItem.amount.value = 50
@@ -31869,11 +31869,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8b716ee61fa4aa41e504fb7b8cc10966)
     * containedItem.amount.value = 60
@@ -31906,11 +31906,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8b716ee61fa4aa41e504fb7b8cc10966)
     * containedItem.amount.value = 90
@@ -31943,11 +31943,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8ba5ffcc8e6daba03e3877db10902477)
     * containedItem.amount.value = 90
@@ -31980,11 +31980,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8ba5ffcc8e6daba03e3877db10902477)
     * containedItem.amount.value = 100
@@ -32017,11 +32017,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8ba5ffcc8e6daba03e3877db10902477)
     * containedItem.amount.value = 30
@@ -32054,11 +32054,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8ba5ffcc8e6daba03e3877db10902477)
     * containedItem.amount.value = 28
@@ -32091,11 +32091,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8ba5ffcc8e6daba03e3877db10902477)
     * containedItem.amount.value = 50
@@ -32128,11 +32128,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8ba5ffcc8e6daba03e3877db10902477)
     * containedItem.amount.value = 60
@@ -32165,11 +32165,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4ae2ae7f133292e2edd393b837ba7475)
     * containedItem.amount.value = 28
@@ -32202,11 +32202,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4ae2ae7f133292e2edd393b837ba7475)
     * containedItem.amount.value = 30
@@ -32239,11 +32239,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4ae2ae7f133292e2edd393b837ba7475)
     * containedItem.amount.value = 50
@@ -32276,11 +32276,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4ae2ae7f133292e2edd393b837ba7475)
     * containedItem.amount.value = 60
@@ -32313,11 +32313,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4ae2ae7f133292e2edd393b837ba7475)
     * containedItem.amount.value = 90
@@ -32350,11 +32350,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4ae2ae7f133292e2edd393b837ba7475)
     * containedItem.amount.value = 100
@@ -32387,11 +32387,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-36612c13eefc42ade6ee4c308534674d)
     * containedItem.amount.value = 28
@@ -32424,11 +32424,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-36612c13eefc42ade6ee4c308534674d)
     * containedItem.amount.value = 30
@@ -32461,11 +32461,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-36612c13eefc42ade6ee4c308534674d)
     * containedItem.amount.value = 50
@@ -32498,11 +32498,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-36612c13eefc42ade6ee4c308534674d)
     * containedItem.amount.value = 100
@@ -32535,11 +32535,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-36612c13eefc42ade6ee4c308534674d)
     * containedItem.amount.value = 60
@@ -32572,11 +32572,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-36612c13eefc42ade6ee4c308534674d)
     * containedItem.amount.value = 90
@@ -32609,11 +32609,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-bd1758b2cb3e910f68820e915408a2af)
     * containedItem.amount.value = 50
@@ -32646,11 +32646,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-bd1758b2cb3e910f68820e915408a2af)
     * containedItem.amount.value = 100
@@ -32683,11 +32683,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-bd1758b2cb3e910f68820e915408a2af)
     * containedItem.amount.value = 10
@@ -32720,11 +32720,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-bd1758b2cb3e910f68820e915408a2af)
     * containedItem.amount.value = 90
@@ -32757,11 +32757,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-bd1758b2cb3e910f68820e915408a2af)
     * containedItem.amount.value = 20
@@ -32794,11 +32794,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-bd1758b2cb3e910f68820e915408a2af)
     * containedItem.amount.value = 30
@@ -32831,11 +32831,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-14e2357708838872a1c59cb5ba1b29be)
     * containedItem.amount.value = 20
@@ -32868,11 +32868,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-14e2357708838872a1c59cb5ba1b29be)
     * containedItem.amount.value = 30
@@ -32905,11 +32905,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-14e2357708838872a1c59cb5ba1b29be)
     * containedItem.amount.value = 50
@@ -32942,11 +32942,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-14e2357708838872a1c59cb5ba1b29be)
     * containedItem.amount.value = 100
@@ -32979,11 +32979,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-14e2357708838872a1c59cb5ba1b29be)
     * containedItem.amount.value = 10
@@ -33016,11 +33016,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-14e2357708838872a1c59cb5ba1b29be)
     * containedItem.amount.value = 90
@@ -33053,11 +33053,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d507303f7d371853f158ef9ca580b39)
     * containedItem.amount.value = 100
@@ -33090,11 +33090,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d507303f7d371853f158ef9ca580b39)
     * containedItem.amount.value = 90
@@ -33127,11 +33127,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d507303f7d371853f158ef9ca580b39)
     * containedItem.amount.value = 10
@@ -33164,11 +33164,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d507303f7d371853f158ef9ca580b39)
     * containedItem.amount.value = 20
@@ -33201,11 +33201,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d507303f7d371853f158ef9ca580b39)
     * containedItem.amount.value = 30
@@ -33238,11 +33238,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-1d507303f7d371853f158ef9ca580b39)
     * containedItem.amount.value = 50
@@ -33275,11 +33275,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d89ec52c740c99583c8334e1d265efd2)
     * containedItem.amount.value = 30
@@ -33312,11 +33312,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d89ec52c740c99583c8334e1d265efd2)
     * containedItem.amount.value = 20
@@ -33349,11 +33349,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d89ec52c740c99583c8334e1d265efd2)
     * containedItem.amount.value = 10
@@ -33386,11 +33386,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d89ec52c740c99583c8334e1d265efd2)
     * containedItem.amount.value = 90
@@ -33423,11 +33423,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d89ec52c740c99583c8334e1d265efd2)
     * containedItem.amount.value = 50
@@ -33460,11 +33460,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d89ec52c740c99583c8334e1d265efd2)
     * containedItem.amount.value = 100
@@ -33497,11 +33497,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d59d10dac3a35bfeb925aebce3fcfa04)
     * containedItem.amount.value = 30
@@ -33535,11 +33535,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-d59d10dac3a35bfeb925aebce3fcfa04)
     * containedItem.amount.value = 90
@@ -33573,11 +33573,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
     * containedItem.amount.value = 30
@@ -33610,11 +33610,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
     * containedItem.amount.value = 60
@@ -33647,11 +33647,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
     * containedItem.amount.value = 100
@@ -33684,11 +33684,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
     * containedItem.amount.value = 90
@@ -33721,11 +33721,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
     * containedItem.amount.value = 100
@@ -33758,11 +33758,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
     * containedItem.amount.value = 90
@@ -33795,11 +33795,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
     * containedItem.amount.value = 30
@@ -33832,11 +33832,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
     * containedItem.amount.value = 60
@@ -33869,11 +33869,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 10
@@ -33905,11 +33905,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 500
@@ -33941,11 +33941,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 30
@@ -33978,11 +33978,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 50
@@ -34014,11 +34014,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 280
@@ -34050,11 +34050,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 98
@@ -34086,11 +34086,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 300
@@ -34122,11 +34122,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 28
@@ -34158,11 +34158,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 14
@@ -34194,11 +34194,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 56
@@ -34230,11 +34230,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 90
@@ -34267,11 +34267,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 84
@@ -34302,11 +34302,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-ad5fa36f0a37f7988fe97a35b64703c3)
     * containedItem.amount.value = 7
@@ -34337,11 +34337,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 84
@@ -34372,11 +34372,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 28
@@ -34408,11 +34408,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 7
@@ -34443,11 +34443,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 56
@@ -34479,11 +34479,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 90
@@ -34516,11 +34516,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 30
@@ -34553,11 +34553,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 50
@@ -34589,11 +34589,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 280
@@ -34625,11 +34625,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 300
@@ -34661,11 +34661,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 500
@@ -34697,11 +34697,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 14
@@ -34733,11 +34733,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 10
@@ -34769,11 +34769,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-263ba0af301b3e5c7965d3c03cfc9f36)
     * containedItem.amount.value = 98
@@ -34805,11 +34805,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 300
@@ -34841,11 +34841,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 500
@@ -34877,11 +34877,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 98
@@ -34913,11 +34913,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 7
@@ -34948,11 +34948,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 84
@@ -34983,11 +34983,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 30
@@ -35020,11 +35020,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 50
@@ -35056,11 +35056,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 56
@@ -35092,11 +35092,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 90
@@ -35129,11 +35129,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 280
@@ -35165,11 +35165,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 14
@@ -35201,11 +35201,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 28
@@ -35237,11 +35237,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-43a794a22110d2df504819ad48a456ad)
     * containedItem.amount.value = 10
@@ -35273,11 +35273,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 50
@@ -35309,11 +35309,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 500
@@ -35345,11 +35345,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 84
@@ -35380,11 +35380,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 56
@@ -35416,11 +35416,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 90
@@ -35453,11 +35453,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 98
@@ -35489,11 +35489,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 280
@@ -35525,11 +35525,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 7
@@ -35560,11 +35560,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 300
@@ -35596,11 +35596,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 10
@@ -35632,11 +35632,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 14
@@ -35668,11 +35668,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 28
@@ -35704,11 +35704,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-de741236fa2f76511dce73889ad8e0ea)
     * containedItem.amount.value = 30
@@ -35741,11 +35741,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 98
@@ -35777,11 +35777,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 280
@@ -35813,11 +35813,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 500
@@ -35849,11 +35849,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 50
@@ -35885,11 +35885,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 56
@@ -35921,11 +35921,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 90
@@ -35958,11 +35958,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 10
@@ -35994,11 +35994,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 14
@@ -36030,11 +36030,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 28
@@ -36066,11 +36066,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 7
@@ -36101,11 +36101,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 84
@@ -36136,11 +36136,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 30
@@ -36173,11 +36173,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-32358d5ad82c1915617c683c151c43b5)
     * containedItem.amount.value = 300
@@ -36209,11 +36209,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a452ad2a480e81cd3737925a60ec302c)
     * containedItem.amount.value = 90
@@ -36247,11 +36247,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a452ad2a480e81cd3737925a60ec302c)
     * containedItem.amount.value = 30
@@ -36285,11 +36285,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 30
@@ -36322,11 +36322,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 10
@@ -36359,11 +36359,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 14
@@ -36396,11 +36396,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 28
@@ -36433,11 +36433,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 300
@@ -36470,11 +36470,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 50
@@ -36507,11 +36507,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 56
@@ -36544,11 +36544,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 280
@@ -36581,11 +36581,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 90
@@ -36618,11 +36618,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 500
@@ -36655,11 +36655,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5c042bbd83eb6153724ad890c2412039)
     * containedItem.amount.value = 98
@@ -36692,11 +36692,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 30
@@ -36729,11 +36729,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 50
@@ -36766,11 +36766,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 56
@@ -36803,11 +36803,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 10
@@ -36840,11 +36840,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 90
@@ -36877,11 +36877,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 300
@@ -36914,11 +36914,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 14
@@ -36951,11 +36951,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 28
@@ -36988,11 +36988,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 500
@@ -37025,11 +37025,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 280
@@ -37062,11 +37062,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0626809da44619b0d2c792566acd5a8a)
     * containedItem.amount.value = 98
@@ -37099,11 +37099,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 300
@@ -37136,11 +37136,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 90
@@ -37173,11 +37173,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 98
@@ -37210,11 +37210,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 500
@@ -37247,11 +37247,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 14
@@ -37284,11 +37284,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 280
@@ -37321,11 +37321,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 10
@@ -37358,11 +37358,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 28
@@ -37395,11 +37395,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 30
@@ -37432,11 +37432,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 50
@@ -37469,11 +37469,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-24cd67e3d39b3520d2989d16e5c021b0)
     * containedItem.amount.value = 56
@@ -37506,11 +37506,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 20
@@ -37543,11 +37543,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 28
@@ -37580,11 +37580,11 @@ Usage: #example
 * containedItemQuantity = 200 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 200
@@ -37618,11 +37618,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 30
@@ -37656,11 +37656,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 50
@@ -37693,11 +37693,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 14
@@ -37730,11 +37730,11 @@ Usage: #example
 * containedItemQuantity = 250 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 250
@@ -37768,11 +37768,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 56
@@ -37805,11 +37805,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 84
@@ -37842,11 +37842,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 90
@@ -37879,11 +37879,11 @@ Usage: #example
 * containedItemQuantity = 15 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 15
@@ -37916,11 +37916,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 120
@@ -37953,11 +37953,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 98
@@ -37991,11 +37991,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 100
@@ -38029,11 +38029,11 @@ Usage: #example
 * containedItemQuantity = 112 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 112
@@ -38066,11 +38066,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 100
@@ -38104,11 +38104,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 28
@@ -38141,11 +38141,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 30
@@ -38179,11 +38179,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 50
@@ -38216,11 +38216,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 56
@@ -38253,11 +38253,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 98
@@ -38291,11 +38291,11 @@ Usage: #example
 * containedItemQuantity = 112 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 112
@@ -38328,11 +38328,11 @@ Usage: #example
 * containedItemQuantity = 200 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 200
@@ -38366,11 +38366,11 @@ Usage: #example
 * containedItemQuantity = 250 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 250
@@ -38404,11 +38404,11 @@ Usage: #example
 * containedItemQuantity = 15 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 15
@@ -38441,11 +38441,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 20
@@ -38478,11 +38478,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 300
@@ -38515,11 +38515,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 84
@@ -38552,11 +38552,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 90
@@ -38589,11 +38589,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a1851b4aa535d52d0d2ac4a11fb50172)
     * containedItem.amount.value = 120
@@ -38626,11 +38626,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 30
@@ -38661,11 +38661,11 @@ Usage: #example
 * containedItemQuantity = 5 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 5
@@ -38696,11 +38696,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 10
@@ -38731,11 +38731,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 14
@@ -38766,11 +38766,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 7
@@ -38801,11 +38801,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 90
@@ -38836,11 +38836,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 50
@@ -38871,11 +38871,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 56
@@ -38906,11 +38906,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 60
@@ -38941,11 +38941,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 100
@@ -38976,11 +38976,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 20
@@ -39011,11 +39011,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 28
@@ -39046,11 +39046,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 84
@@ -39081,11 +39081,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 120
@@ -39116,11 +39116,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-5dec8cae99ee2a66435dd08db660c4f6)
     * containedItem.amount.value = 500
@@ -39151,11 +39151,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 100
@@ -39186,11 +39186,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 120
@@ -39221,11 +39221,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 50
@@ -39256,11 +39256,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 56
@@ -39291,11 +39291,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 60
@@ -39326,11 +39326,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 90
@@ -39361,11 +39361,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 84
@@ -39396,11 +39396,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 7
@@ -39431,11 +39431,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 10
@@ -39466,11 +39466,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 14
@@ -39501,11 +39501,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 20
@@ -39536,11 +39536,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 28
@@ -39571,11 +39571,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 30
@@ -39606,11 +39606,11 @@ Usage: #example
 * containedItemQuantity = 5 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 5
@@ -39641,11 +39641,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-7800811ca04d63e52a89c94bc3369489)
     * containedItem.amount.value = 500
@@ -39676,11 +39676,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 500
@@ -39711,11 +39711,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 84
@@ -39746,11 +39746,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 90
@@ -39781,11 +39781,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 100
@@ -39816,11 +39816,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 120
@@ -39851,11 +39851,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 20
@@ -39886,11 +39886,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 28
@@ -39921,11 +39921,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 30
@@ -39956,11 +39956,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 50
@@ -39991,11 +39991,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 60
@@ -40026,11 +40026,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 7
@@ -40061,11 +40061,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 56
@@ -40096,11 +40096,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 10
@@ -40131,11 +40131,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 14
@@ -40166,11 +40166,11 @@ Usage: #example
 * containedItemQuantity = 5 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3d3624f68235986f61c909321318e1ef)
     * containedItem.amount.value = 5
@@ -40201,11 +40201,11 @@ Usage: #example
 * containedItemQuantity = 5 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 5
@@ -40236,11 +40236,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 7
@@ -40271,11 +40271,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 10
@@ -40306,11 +40306,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 30
@@ -40341,11 +40341,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 50
@@ -40376,11 +40376,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 56
@@ -40411,11 +40411,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 60
@@ -40446,11 +40446,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 90
@@ -40481,11 +40481,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 100
@@ -40516,11 +40516,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 120
@@ -40551,11 +40551,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 500
@@ -40586,11 +40586,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 28
@@ -40621,11 +40621,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 20
@@ -40656,11 +40656,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 14
@@ -40691,11 +40691,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-adace13de52a7dd9afa46fe7ab924022)
     * containedItem.amount.value = 84
@@ -40726,11 +40726,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-790c3262fcb36ab4153d147d79fb4390)
     * containedItem.amount.value = 30
@@ -40764,11 +40764,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9030bbd21e461a4d7993890e64808084)
     * containedItem.amount.value = 30
@@ -40802,11 +40802,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 100
@@ -40840,11 +40840,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 120
@@ -40878,11 +40878,11 @@ Usage: #example
 * containedItemQuantity = 250 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000137702 "Konteiner"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 250
@@ -40913,11 +40913,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 30
@@ -40951,11 +40951,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 14
@@ -40988,11 +40988,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 20
@@ -41026,11 +41026,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 28
@@ -41063,11 +41063,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000137702 "Konteiner"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 90
@@ -41098,11 +41098,11 @@ Usage: #example
 * containedItemQuantity = 105 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000137702 "Konteiner"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 105
@@ -41133,11 +41133,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 10
@@ -41170,11 +41170,11 @@ Usage: #example
 * containedItemQuantity = 200 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000137702 "Konteiner"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 200
@@ -41205,11 +41205,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 50
@@ -41243,11 +41243,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 60
@@ -41281,11 +41281,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 28
@@ -41318,11 +41318,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 50
@@ -41356,11 +41356,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 60
@@ -41394,11 +41394,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 100
@@ -41432,11 +41432,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 120
@@ -41470,11 +41470,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000137702 "Konteiner"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 90
@@ -41505,11 +41505,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 10
@@ -41542,11 +41542,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 14
@@ -41579,11 +41579,11 @@ Usage: #example
 * containedItemQuantity = 250 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000137702 "Konteiner"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 250
@@ -41614,11 +41614,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 20
@@ -41652,11 +41652,11 @@ Usage: #example
 * containedItemQuantity = 105 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000137702 "Konteiner"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 105
@@ -41687,11 +41687,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 30
@@ -41725,11 +41725,11 @@ Usage: #example
 * containedItemQuantity = 200 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000137702 "Konteiner"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 200
@@ -41760,11 +41760,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 10
@@ -41797,11 +41797,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 14
@@ -41834,11 +41834,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 56
@@ -41871,11 +41871,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 60
@@ -41908,11 +41908,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 90
@@ -41945,11 +41945,11 @@ Usage: #example
 * containedItemQuantity = 200 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 200
@@ -41982,11 +41982,11 @@ Usage: #example
 * containedItemQuantity = 250 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 250
@@ -42020,11 +42020,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 20
@@ -42057,11 +42057,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 28
@@ -42094,11 +42094,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 30
@@ -42131,11 +42131,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 100
@@ -42169,11 +42169,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 50
@@ -42206,11 +42206,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 98
@@ -42243,11 +42243,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 30
@@ -42280,11 +42280,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 100
@@ -42318,11 +42318,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 60
@@ -42355,11 +42355,11 @@ Usage: #example
 * containedItemQuantity = 200 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 200
@@ -42392,11 +42392,11 @@ Usage: #example
 * containedItemQuantity = 250 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 250
@@ -42430,11 +42430,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 50
@@ -42467,11 +42467,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 98
@@ -42504,11 +42504,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 10
@@ -42541,11 +42541,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 14
@@ -42578,11 +42578,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 28
@@ -42615,11 +42615,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 56
@@ -42652,11 +42652,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 90
@@ -42689,11 +42689,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 20
@@ -42726,11 +42726,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 98
@@ -42761,11 +42761,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 50
@@ -42796,11 +42796,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 100
@@ -42831,11 +42831,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 300
@@ -42866,11 +42866,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 500
@@ -42901,11 +42901,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 28
@@ -42936,11 +42936,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 30
@@ -42971,11 +42971,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 20
@@ -43006,11 +43006,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 10
@@ -43044,11 +43044,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 300
@@ -43079,11 +43079,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 30
@@ -43114,11 +43114,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 50
@@ -43149,11 +43149,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 98
@@ -43184,11 +43184,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 100
@@ -43219,11 +43219,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 500
@@ -43254,11 +43254,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073497 "pudel"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 10
@@ -43292,11 +43292,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 20
@@ -43327,11 +43327,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 28
@@ -43362,11 +43362,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-b8c9a0c3039b6e095804bb4753c0c9a2)
     * containedItem.amount.value = 60
@@ -43397,11 +43397,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-b8c9a0c3039b6e095804bb4753c0c9a2)
     * containedItem.amount.value = 90
@@ -43432,11 +43432,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-b8c9a0c3039b6e095804bb4753c0c9a2)
     * containedItem.amount.value = 30
@@ -43467,11 +43467,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-9959fedb3a2dfee5867b44aa925ad2ec)
     * containedItem.amount.value = 60
@@ -43502,11 +43502,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-9959fedb3a2dfee5867b44aa925ad2ec)
     * containedItem.amount.value = 30
@@ -43537,11 +43537,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-9959fedb3a2dfee5867b44aa925ad2ec)
     * containedItem.amount.value = 90
@@ -43572,11 +43572,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-bb4c6f95eaf1d70ad88821100fa7adf9)
     * containedItem.amount.value = 90
@@ -43609,11 +43609,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-bb4c6f95eaf1d70ad88821100fa7adf9)
     * containedItem.amount.value = 10
@@ -43646,11 +43646,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-bb4c6f95eaf1d70ad88821100fa7adf9)
     * containedItem.amount.value = 30
@@ -43683,11 +43683,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fedf52f451906e74f251473ff122a768)
     * containedItem.amount.value = 90
@@ -43720,11 +43720,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fedf52f451906e74f251473ff122a768)
     * containedItem.amount.value = 10
@@ -43757,11 +43757,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-fedf52f451906e74f251473ff122a768)
     * containedItem.amount.value = 30
@@ -43794,11 +43794,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 60
@@ -43831,11 +43831,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 90
@@ -43868,11 +43868,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 98
@@ -43905,11 +43905,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 10
@@ -43942,11 +43942,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 14
@@ -43979,11 +43979,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 20
@@ -44016,11 +44016,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 28
@@ -44053,11 +44053,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 50
@@ -44090,11 +44090,11 @@ Usage: #example
 * containedItemQuantity = 4 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 4
@@ -44127,11 +44127,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 30
@@ -44164,11 +44164,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 500
@@ -44201,11 +44201,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 100
@@ -44238,11 +44238,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 300
@@ -44275,11 +44275,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 500
@@ -44312,11 +44312,11 @@ Usage: #example
 * containedItemQuantity = 4 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 4
@@ -44349,11 +44349,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 10
@@ -44386,11 +44386,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 300
@@ -44423,11 +44423,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 28
@@ -44460,11 +44460,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 50
@@ -44497,11 +44497,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 60
@@ -44534,11 +44534,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 30
@@ -44571,11 +44571,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 98
@@ -44608,11 +44608,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 100
@@ -44645,11 +44645,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 14
@@ -44682,11 +44682,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 20
@@ -44719,11 +44719,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-56dfd3ef23616a17c8516e86c896c63b)
     * containedItem.amount.value = 14
@@ -44756,11 +44756,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-56dfd3ef23616a17c8516e86c896c63b)
     * containedItem.amount.value = 28
@@ -44793,11 +44793,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-56dfd3ef23616a17c8516e86c896c63b)
     * containedItem.amount.value = 30
@@ -44830,11 +44830,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-56dfd3ef23616a17c8516e86c896c63b)
     * containedItem.amount.value = 56
@@ -44867,11 +44867,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-56dfd3ef23616a17c8516e86c896c63b)
     * containedItem.amount.value = 98
@@ -44904,11 +44904,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-56dfd3ef23616a17c8516e86c896c63b)
     * containedItem.amount.value = 90
@@ -44941,11 +44941,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a380cadd3016c2a5d946b4f3003865c0)
     * containedItem.amount.value = 14
@@ -44978,11 +44978,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a380cadd3016c2a5d946b4f3003865c0)
     * containedItem.amount.value = 28
@@ -45015,11 +45015,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a380cadd3016c2a5d946b4f3003865c0)
     * containedItem.amount.value = 30
@@ -45052,11 +45052,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a380cadd3016c2a5d946b4f3003865c0)
     * containedItem.amount.value = 56
@@ -45089,11 +45089,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a380cadd3016c2a5d946b4f3003865c0)
     * containedItem.amount.value = 98
@@ -45126,11 +45126,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a380cadd3016c2a5d946b4f3003865c0)
     * containedItem.amount.value = 90
@@ -45163,11 +45163,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4648373e4938d96c51d667392632f991)
     * containedItem.amount.value = 30
@@ -45200,11 +45200,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4648373e4938d96c51d667392632f991)
     * containedItem.amount.value = 60
@@ -45237,11 +45237,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4648373e4938d96c51d667392632f991)
     * containedItem.amount.value = 10
@@ -45274,11 +45274,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4648373e4938d96c51d667392632f991)
     * containedItem.amount.value = 100
@@ -45311,11 +45311,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4648373e4938d96c51d667392632f991)
     * containedItem.amount.value = 120
@@ -45348,11 +45348,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4648373e4938d96c51d667392632f991)
     * containedItem.amount.value = 90
@@ -45385,11 +45385,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0d047d5dd4bce354fa4d853f93a71330)
     * containedItem.amount.value = 90
@@ -45422,11 +45422,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0d047d5dd4bce354fa4d853f93a71330)
     * containedItem.amount.value = 10
@@ -45459,11 +45459,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0d047d5dd4bce354fa4d853f93a71330)
     * containedItem.amount.value = 100
@@ -45496,11 +45496,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0d047d5dd4bce354fa4d853f93a71330)
     * containedItem.amount.value = 120
@@ -45533,11 +45533,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0d047d5dd4bce354fa4d853f93a71330)
     * containedItem.amount.value = 30
@@ -45570,11 +45570,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-0d047d5dd4bce354fa4d853f93a71330)
     * containedItem.amount.value = 60
@@ -45607,11 +45607,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e8ce73afbb42811b992f84492a92b044)
     * containedItem.amount.value = 100
@@ -45644,11 +45644,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e8ce73afbb42811b992f84492a92b044)
     * containedItem.amount.value = 10
@@ -45681,11 +45681,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e8ce73afbb42811b992f84492a92b044)
     * containedItem.amount.value = 30
@@ -45718,11 +45718,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e8ce73afbb42811b992f84492a92b044)
     * containedItem.amount.value = 60
@@ -45755,11 +45755,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e8ce73afbb42811b992f84492a92b044)
     * containedItem.amount.value = 90
@@ -45792,11 +45792,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e8ce73afbb42811b992f84492a92b044)
     * containedItem.amount.value = 120
@@ -45829,11 +45829,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04ef0a7061a4691dec54feb8074836ce)
     * containedItem.amount.value = 10
@@ -45866,11 +45866,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04ef0a7061a4691dec54feb8074836ce)
     * containedItem.amount.value = 60
@@ -45903,11 +45903,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04ef0a7061a4691dec54feb8074836ce)
     * containedItem.amount.value = 30
@@ -45940,11 +45940,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04ef0a7061a4691dec54feb8074836ce)
     * containedItem.amount.value = 90
@@ -45977,11 +45977,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04ef0a7061a4691dec54feb8074836ce)
     * containedItem.amount.value = 100
@@ -46014,11 +46014,11 @@ Usage: #example
 * containedItemQuantity = 120 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04ef0a7061a4691dec54feb8074836ce)
     * containedItem.amount.value = 120
@@ -46051,11 +46051,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5196a3ed0766610246524f22c6dfcb0b)
     * containedItem.amount.value = 90
@@ -46088,11 +46088,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5196a3ed0766610246524f22c6dfcb0b)
     * containedItem.amount.value = 30
@@ -46125,11 +46125,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-5196a3ed0766610246524f22c6dfcb0b)
     * containedItem.amount.value = 60
@@ -46162,11 +46162,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9f441068e75d101a49305a458a1bb12c)
     * containedItem.amount.value = 30
@@ -46199,11 +46199,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9f441068e75d101a49305a458a1bb12c)
     * containedItem.amount.value = 60
@@ -46236,11 +46236,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-9f441068e75d101a49305a458a1bb12c)
     * containedItem.amount.value = 90
@@ -46273,11 +46273,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-accccddd018b8143ee1f6f3ac998ea17)
     * containedItem.amount.value = 30
@@ -46310,11 +46310,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-accccddd018b8143ee1f6f3ac998ea17)
     * containedItem.amount.value = 60
@@ -46347,11 +46347,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-accccddd018b8143ee1f6f3ac998ea17)
     * containedItem.amount.value = 90
@@ -46384,11 +46384,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-643ee4aafe3a5f6160418089c8bc144f)
     * containedItem.amount.value = 30
@@ -46421,11 +46421,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-643ee4aafe3a5f6160418089c8bc144f)
     * containedItem.amount.value = 90
@@ -46458,11 +46458,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-643ee4aafe3a5f6160418089c8bc144f)
     * containedItem.amount.value = 60
@@ -46495,11 +46495,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-78d84c5aa9afd2a1393c6c16dc88821e)
     * containedItem.amount.value = 30
@@ -46530,11 +46530,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-78d84c5aa9afd2a1393c6c16dc88821e)
     * containedItem.amount.value = 90
@@ -46565,11 +46565,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-57c88696b92540a20d8687d5705cc3a7)
     * containedItem.amount.value = 30
@@ -46600,11 +46600,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-57c88696b92540a20d8687d5705cc3a7)
     * containedItem.amount.value = 90
@@ -46635,11 +46635,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-a10c712d5e22defbadaacf5c590d91c1)
     * containedItem.amount.value = 30
@@ -46670,11 +46670,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-a10c712d5e22defbadaacf5c590d91c1)
     * containedItem.amount.value = 90
@@ -46705,11 +46705,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-37ceb237ec18c2826b5fb5e68f9b2ab7)
     * containedItem.amount.value = 10
@@ -46740,11 +46740,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-37ceb237ec18c2826b5fb5e68f9b2ab7)
     * containedItem.amount.value = 30
@@ -46775,11 +46775,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-37ceb237ec18c2826b5fb5e68f9b2ab7)
     * containedItem.amount.value = 90
@@ -46810,11 +46810,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94ca8b2b6607663f81de9d9de6f86cc4)
     * containedItem.amount.value = 14
@@ -46848,11 +46848,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94ca8b2b6607663f81de9d9de6f86cc4)
     * containedItem.amount.value = 28
@@ -46886,11 +46886,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94ca8b2b6607663f81de9d9de6f86cc4)
     * containedItem.amount.value = 30
@@ -46924,11 +46924,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94ca8b2b6607663f81de9d9de6f86cc4)
     * containedItem.amount.value = 90
@@ -46962,11 +46962,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94ca8b2b6607663f81de9d9de6f86cc4)
     * containedItem.amount.value = 98
@@ -47000,11 +47000,11 @@ Usage: #example
 * containedItemQuantity = 360 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94ca8b2b6607663f81de9d9de6f86cc4)
     * containedItem.amount.value = 360
@@ -47038,11 +47038,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94ca8b2b6607663f81de9d9de6f86cc4)
     * containedItem.amount.value = 7
@@ -47076,11 +47076,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94ca8b2b6607663f81de9d9de6f86cc4)
     * containedItem.amount.value = 10
@@ -47114,11 +47114,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94ca8b2b6607663f81de9d9de6f86cc4)
     * containedItem.amount.value = 56
@@ -47152,11 +47152,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b344cb66e0bc241725ca467be44dc84)
     * containedItem.amount.value = 30
@@ -47190,11 +47190,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b344cb66e0bc241725ca467be44dc84)
     * containedItem.amount.value = 10
@@ -47228,11 +47228,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b344cb66e0bc241725ca467be44dc84)
     * containedItem.amount.value = 14
@@ -47266,11 +47266,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b344cb66e0bc241725ca467be44dc84)
     * containedItem.amount.value = 28
@@ -47304,11 +47304,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b344cb66e0bc241725ca467be44dc84)
     * containedItem.amount.value = 98
@@ -47342,11 +47342,11 @@ Usage: #example
 * containedItemQuantity = 360 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b344cb66e0bc241725ca467be44dc84)
     * containedItem.amount.value = 360
@@ -47380,11 +47380,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b344cb66e0bc241725ca467be44dc84)
     * containedItem.amount.value = 7
@@ -47418,11 +47418,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b344cb66e0bc241725ca467be44dc84)
     * containedItem.amount.value = 56
@@ -47456,11 +47456,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-4b344cb66e0bc241725ca467be44dc84)
     * containedItem.amount.value = 90
@@ -47494,11 +47494,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94c09fe7996b6f1c26c7ef488b62c37d)
     * containedItem.amount.value = 90
@@ -47532,11 +47532,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94c09fe7996b6f1c26c7ef488b62c37d)
     * containedItem.amount.value = 98
@@ -47570,11 +47570,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94c09fe7996b6f1c26c7ef488b62c37d)
     * containedItem.amount.value = 7
@@ -47608,11 +47608,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94c09fe7996b6f1c26c7ef488b62c37d)
     * containedItem.amount.value = 10
@@ -47646,11 +47646,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94c09fe7996b6f1c26c7ef488b62c37d)
     * containedItem.amount.value = 14
@@ -47684,11 +47684,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94c09fe7996b6f1c26c7ef488b62c37d)
     * containedItem.amount.value = 28
@@ -47722,11 +47722,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94c09fe7996b6f1c26c7ef488b62c37d)
     * containedItem.amount.value = 30
@@ -47760,11 +47760,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94c09fe7996b6f1c26c7ef488b62c37d)
     * containedItem.amount.value = 56
@@ -47798,11 +47798,11 @@ Usage: #example
 * containedItemQuantity = 360 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94c09fe7996b6f1c26c7ef488b62c37d)
     * containedItem.amount.value = 360
@@ -47836,11 +47836,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
     * containedItem.amount.value = 10
@@ -47874,11 +47874,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
     * containedItem.amount.value = 14
@@ -47912,11 +47912,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
     * containedItem.amount.value = 28
@@ -47950,11 +47950,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
     * containedItem.amount.value = 30
@@ -47988,11 +47988,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
     * containedItem.amount.value = 56
@@ -48026,11 +48026,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
     * containedItem.amount.value = 90
@@ -48064,11 +48064,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
     * containedItem.amount.value = 98
@@ -48102,11 +48102,11 @@ Usage: #example
 * containedItemQuantity = 360 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
     * containedItem.amount.value = 360
@@ -48140,11 +48140,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a823dbe22a8d12bb4bc87e4bdbdbb0b9)
     * containedItem.amount.value = 7
@@ -48178,11 +48178,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 7
@@ -48213,11 +48213,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 10
@@ -48248,11 +48248,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 14
@@ -48283,11 +48283,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 28
@@ -48318,11 +48318,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 56
@@ -48353,11 +48353,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 50
@@ -48391,11 +48391,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 84
@@ -48429,11 +48429,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 90
@@ -48467,11 +48467,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 98
@@ -48505,11 +48505,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 500
@@ -48543,11 +48543,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 280
@@ -48581,11 +48581,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 300
@@ -48619,11 +48619,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b180105b4594b1a235b80b581b787e88)
     * containedItem.amount.value = 30
@@ -48657,11 +48657,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 90
@@ -48695,11 +48695,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 280
@@ -48733,11 +48733,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 14
@@ -48771,11 +48771,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 28
@@ -48809,11 +48809,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 30
@@ -48847,11 +48847,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 300
@@ -48885,11 +48885,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 98
@@ -48920,11 +48920,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 500
@@ -48955,11 +48955,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 56
@@ -48993,11 +48993,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 50
@@ -49031,11 +49031,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 84
@@ -49069,11 +49069,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 10
@@ -49104,11 +49104,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-94b112c9f717e648a3e1ba8b0b9746eb)
     * containedItem.amount.value = 7
@@ -49142,11 +49142,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 56
@@ -49177,11 +49177,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 30
@@ -49212,11 +49212,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 50
@@ -49247,11 +49247,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 500
@@ -49285,11 +49285,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 7
@@ -49320,11 +49320,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 10
@@ -49355,11 +49355,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 14
@@ -49390,11 +49390,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 28
@@ -49425,11 +49425,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 280
@@ -49463,11 +49463,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 300
@@ -49501,11 +49501,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 84
@@ -49536,11 +49536,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 90
@@ -49574,11 +49574,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-04fd98885e4ce4db86cf32c2d36e5aa8)
     * containedItem.amount.value = 98
@@ -49612,11 +49612,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 28
@@ -49650,11 +49650,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 500
@@ -49688,11 +49688,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 280
@@ -49726,11 +49726,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 300
@@ -49764,11 +49764,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 7
@@ -49802,11 +49802,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 10
@@ -49840,11 +49840,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 14
@@ -49878,11 +49878,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 84
@@ -49916,11 +49916,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 90
@@ -49954,11 +49954,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 98
@@ -49992,11 +49992,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 30
@@ -50030,11 +50030,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 50
@@ -50068,11 +50068,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-13860393e0d6201d8bced905eab31694)
     * containedItem.amount.value = 56
@@ -50106,11 +50106,11 @@ Usage: #example
 * containedItemQuantity = 500 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 500
@@ -50141,11 +50141,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 10
@@ -50176,11 +50176,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 14
@@ -50211,11 +50211,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 28
@@ -50246,11 +50246,11 @@ Usage: #example
 * containedItemQuantity = 300 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 300
@@ -50281,11 +50281,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 50
@@ -50316,11 +50316,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 56
@@ -50351,11 +50351,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 84
@@ -50386,11 +50386,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 90
@@ -50424,11 +50424,11 @@ Usage: #example
 * containedItemQuantity = 7 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 7
@@ -50459,11 +50459,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 98
@@ -50494,11 +50494,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 30
@@ -50529,11 +50529,11 @@ Usage: #example
 * containedItemQuantity = 280 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-625cd2885187aca8e4bb01067c8390d4)
     * containedItem.amount.value = 280
@@ -50567,11 +50567,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-61e636582ddb3a8fe7f052c5963552b3)
     * containedItem.amount.value = 14
@@ -50604,11 +50604,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-61e636582ddb3a8fe7f052c5963552b3)
     * containedItem.amount.value = 28
@@ -50641,11 +50641,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-61e636582ddb3a8fe7f052c5963552b3)
     * containedItem.amount.value = 56
@@ -50678,11 +50678,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-61e636582ddb3a8fe7f052c5963552b3)
     * containedItem.amount.value = 98
@@ -50715,11 +50715,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-31917c274c465c03872ca5e6afa9d272)
     * containedItem.amount.value = 98
@@ -50752,11 +50752,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-31917c274c465c03872ca5e6afa9d272)
     * containedItem.amount.value = 14
@@ -50789,11 +50789,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-31917c274c465c03872ca5e6afa9d272)
     * containedItem.amount.value = 28
@@ -50826,11 +50826,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-31917c274c465c03872ca5e6afa9d272)
     * containedItem.amount.value = 56
@@ -50863,11 +50863,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a0a5c6fec3f94cc85dd264a42dc34740)
     * containedItem.amount.value = 30
@@ -50900,11 +50900,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-7622a96b7cdac59b9ebbffcc7e1a4fa4)
     * containedItem.amount.value = 30
@@ -50937,11 +50937,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-119dda1fbe0cbb4d5766c20a38da5ee0)
     * containedItem.amount.value = 28
@@ -50974,11 +50974,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-119dda1fbe0cbb4d5766c20a38da5ee0)
     * containedItem.amount.value = 30
@@ -51011,11 +51011,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-119dda1fbe0cbb4d5766c20a38da5ee0)
     * containedItem.amount.value = 84
@@ -51048,11 +51048,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-119dda1fbe0cbb4d5766c20a38da5ee0)
     * containedItem.amount.value = 90
@@ -51085,11 +51085,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-119dda1fbe0cbb4d5766c20a38da5ee0)
     * containedItem.amount.value = 98
@@ -51122,11 +51122,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-119dda1fbe0cbb4d5766c20a38da5ee0)
     * containedItem.amount.value = 56
@@ -51159,11 +51159,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-119dda1fbe0cbb4d5766c20a38da5ee0)
     * containedItem.amount.value = 60
@@ -51196,11 +51196,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-119dda1fbe0cbb4d5766c20a38da5ee0)
     * containedItem.amount.value = 14
@@ -51233,11 +51233,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b5313c5cbaa184b004949e74d53d9507)
     * containedItem.amount.value = 14
@@ -51270,11 +51270,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b5313c5cbaa184b004949e74d53d9507)
     * containedItem.amount.value = 28
@@ -51307,11 +51307,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b5313c5cbaa184b004949e74d53d9507)
     * containedItem.amount.value = 30
@@ -51344,11 +51344,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b5313c5cbaa184b004949e74d53d9507)
     * containedItem.amount.value = 84
@@ -51381,11 +51381,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b5313c5cbaa184b004949e74d53d9507)
     * containedItem.amount.value = 90
@@ -51418,11 +51418,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b5313c5cbaa184b004949e74d53d9507)
     * containedItem.amount.value = 98
@@ -51455,11 +51455,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b5313c5cbaa184b004949e74d53d9507)
     * containedItem.amount.value = 56
@@ -51492,11 +51492,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-b5313c5cbaa184b004949e74d53d9507)
     * containedItem.amount.value = 60
@@ -51529,11 +51529,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-822bf262c1257145abe4a7e648bb8314)
     * containedItem.amount.value = 30
@@ -51566,11 +51566,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-822bf262c1257145abe4a7e648bb8314)
     * containedItem.amount.value = 56
@@ -51603,11 +51603,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-822bf262c1257145abe4a7e648bb8314)
     * containedItem.amount.value = 60
@@ -51640,11 +51640,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-822bf262c1257145abe4a7e648bb8314)
     * containedItem.amount.value = 84
@@ -51677,11 +51677,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-822bf262c1257145abe4a7e648bb8314)
     * containedItem.amount.value = 90
@@ -51714,11 +51714,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-822bf262c1257145abe4a7e648bb8314)
     * containedItem.amount.value = 14
@@ -51751,11 +51751,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-822bf262c1257145abe4a7e648bb8314)
     * containedItem.amount.value = 28
@@ -51788,11 +51788,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-822bf262c1257145abe4a7e648bb8314)
     * containedItem.amount.value = 98
@@ -51825,11 +51825,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c070bacb375a778ab6acb3e41d9f05be)
     * containedItem.amount.value = 56
@@ -51862,11 +51862,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c070bacb375a778ab6acb3e41d9f05be)
     * containedItem.amount.value = 60
@@ -51899,11 +51899,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c070bacb375a778ab6acb3e41d9f05be)
     * containedItem.amount.value = 84
@@ -51936,11 +51936,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c070bacb375a778ab6acb3e41d9f05be)
     * containedItem.amount.value = 90
@@ -51973,11 +51973,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c070bacb375a778ab6acb3e41d9f05be)
     * containedItem.amount.value = 28
@@ -52010,11 +52010,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c070bacb375a778ab6acb3e41d9f05be)
     * containedItem.amount.value = 98
@@ -52047,11 +52047,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c070bacb375a778ab6acb3e41d9f05be)
     * containedItem.amount.value = 14
@@ -52084,11 +52084,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-c070bacb375a778ab6acb3e41d9f05be)
     * containedItem.amount.value = 30
@@ -52121,11 +52121,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7d221583fda37b88426e5b3dd80a1b7)
     * containedItem.amount.value = 14
@@ -52158,11 +52158,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7d221583fda37b88426e5b3dd80a1b7)
     * containedItem.amount.value = 28
@@ -52195,11 +52195,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7d221583fda37b88426e5b3dd80a1b7)
     * containedItem.amount.value = 30
@@ -52232,11 +52232,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7d221583fda37b88426e5b3dd80a1b7)
     * containedItem.amount.value = 90
@@ -52269,11 +52269,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7d221583fda37b88426e5b3dd80a1b7)
     * containedItem.amount.value = 98
@@ -52306,11 +52306,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7d221583fda37b88426e5b3dd80a1b7)
     * containedItem.amount.value = 60
@@ -52343,11 +52343,11 @@ Usage: #example
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7d221583fda37b88426e5b3dd80a1b7)
     * containedItem.amount.value = 84
@@ -52380,11 +52380,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-e7d221583fda37b88426e5b3dd80a1b7)
     * containedItem.amount.value = 56
@@ -52417,11 +52417,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-91f76beabfa57c6be6d029c68a5ddf5f)
     * containedItem.amount.value = 14
@@ -52452,11 +52452,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-91f76beabfa57c6be6d029c68a5ddf5f)
     * containedItem.amount.value = 28
@@ -52487,11 +52487,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-91f76beabfa57c6be6d029c68a5ddf5f)
     * containedItem.amount.value = 56
@@ -52522,11 +52522,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-91f76beabfa57c6be6d029c68a5ddf5f)
     * containedItem.amount.value = 98
@@ -52557,11 +52557,11 @@ Usage: #example
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3744649b31f6f96644d8fdd289e37a6a)
     * containedItem.amount.value = 14
@@ -52592,11 +52592,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3744649b31f6f96644d8fdd289e37a6a)
     * containedItem.amount.value = 28
@@ -52627,11 +52627,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3744649b31f6f96644d8fdd289e37a6a)
     * containedItem.amount.value = 56
@@ -52662,11 +52662,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-3744649b31f6f96644d8fdd289e37a6a)
     * containedItem.amount.value = 98
@@ -52697,11 +52697,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-9ca15499bf1142e8576b8b6e580bd9e1)
     * containedItem.amount.value = 28
@@ -52732,11 +52732,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-9ca15499bf1142e8576b8b6e580bd9e1)
     * containedItem.amount.value = 56
@@ -52767,11 +52767,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-9ca15499bf1142e8576b8b6e580bd9e1)
     * containedItem.amount.value = 98
@@ -52802,11 +52802,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-6a5b03160e1d68a9d92705962ec17d8e)
     * containedItem.amount.value = 28
@@ -52837,11 +52837,11 @@ Usage: #example
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-6a5b03160e1d68a9d92705962ec17d8e)
     * containedItem.amount.value = 56
@@ -52872,11 +52872,11 @@ Usage: #example
 * containedItemQuantity = 98 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#None "nan"
     * containedItem.item.reference = Reference(mid-6a5b03160e1d68a9d92705962ec17d8e)
     * containedItem.amount.value = 98
@@ -52906,11 +52906,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -52939,11 +52939,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
@@ -52972,11 +52972,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 60
@@ -53007,11 +53007,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -53042,11 +53042,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
@@ -53077,11 +53077,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -53112,11 +53112,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 50
@@ -53147,11 +53147,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#200000024874 "Tabletituub"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -53180,11 +53180,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#200000024874 "Tabletituub"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -53213,11 +53213,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -53248,11 +53248,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#200000024874 "Tabletituub"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -53281,11 +53281,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
@@ -53316,11 +53316,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -53351,11 +53351,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 50
@@ -53386,11 +53386,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
@@ -53421,11 +53421,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -53456,11 +53456,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
@@ -53491,11 +53491,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 20
@@ -53526,11 +53526,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 50
@@ -53561,11 +53561,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 28
@@ -53596,11 +53596,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 60
@@ -53631,11 +53631,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -53666,11 +53666,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 20
@@ -53701,11 +53701,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 28
@@ -53736,11 +53736,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -53769,11 +53769,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
@@ -53802,11 +53802,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
@@ -53835,11 +53835,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -53868,11 +53868,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -53901,11 +53901,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
@@ -53934,11 +53934,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 28
@@ -53969,11 +53969,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
@@ -54002,11 +54002,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -54035,11 +54035,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -54068,11 +54068,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
@@ -54101,11 +54101,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
@@ -54134,11 +54134,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -54167,11 +54167,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
@@ -54202,11 +54202,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -54237,11 +54237,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 60
@@ -54272,11 +54272,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -54307,11 +54307,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
@@ -54342,11 +54342,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
@@ -54377,11 +54377,11 @@ Usage: #example
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 10
@@ -54412,11 +54412,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -54445,11 +54445,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
@@ -54478,11 +54478,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 20
@@ -54513,11 +54513,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -54548,11 +54548,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 60
@@ -54583,11 +54583,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -54618,11 +54618,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 60
@@ -54653,11 +54653,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -54688,11 +54688,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100
@@ -54723,11 +54723,11 @@ Usage: #example
 * containedItemQuantity = 20 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 20
@@ -54758,11 +54758,11 @@ Usage: #example
 * containedItemQuantity = 28 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 28
@@ -54793,11 +54793,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -54828,11 +54828,11 @@ Usage: #example
 * containedItemQuantity = 50 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 50
@@ -54863,11 +54863,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 60
@@ -54898,11 +54898,11 @@ Usage: #example
 * containedItemQuantity = 90 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 90
@@ -54933,11 +54933,11 @@ Usage: #example
 * containedItemQuantity = 30 $200000000014#200000002113 "Kapsel"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 30
@@ -54968,11 +54968,11 @@ Usage: #example
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 60
@@ -55003,11 +55003,11 @@ Usage: #example
 * containedItemQuantity = 100 $200000000014#200000002152 "Tablett"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-  * package.
+  * packaging.
     * type = $100000073346#100000073496 "blister"
     * containedItem.item.reference = Reference(mid-a3d2de7675556553a5f08e4c88d2c228)
     * containedItem.amount.value = 100

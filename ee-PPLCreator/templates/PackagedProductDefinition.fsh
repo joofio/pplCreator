@@ -45,12 +45,12 @@ Usage: #example
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
-* package
+* packaging
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
 
-  * package.
+  * packaging.
     * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"] }}"
     * containedItem.item.reference = Reference(mid-{{row["Müügiloa number"]|trim|create_hash_id}})
     * containedItem.amount.value = {{ row["Pakendi suurus"]|get_by_regex("\d+") }}

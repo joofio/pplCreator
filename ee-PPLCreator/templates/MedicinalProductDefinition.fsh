@@ -37,17 +37,18 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#{{ row["Ravimvorm"]|get_data_dictionary_info(200000000004,"RMS termini id","RMS nimi eesti keeles")  }} "{{ row["Ravimvorm"]  }}"
 
 
-* classification[atc].coding[who] = $who-atc#{{ row["ATC kood"]}} "{{ row["Toimeaine"]}}"
-* classification[atc].coding[ema] = $100000093533#{{ row["ATC kood"]}} "{{ row["Toimeaine"]}}"
+* classification = $who-atc#{{ row["ATC kood"]}} "{{ row["Toimeaine"]}}"
+//* classification[atc].coding[ema] = $100000093533#{{ row["ATC kood"]}} "{{ row["Toimeaine"]}}"
 
 
 * name.productName = "{{ row["Ravimi nimetus"]  }} {{ row["Ravimi tugevus"]  }} {{ row["Manustatav ravimvorm"]  }}"
-* name.namePart[invented].part = "{{ row["Ravimi nimetus"]  }}"
-* name.namePart[strength].part = "{{ row["Ravimi tugevus"]  }}"
-* name.namePart[doseForm].part = "{{ row["Manustatav ravimvorm"]  }}"
+* name.part[invented].part = "{{ row["Ravimi nimetus"]  }}"
+* name.part[strength].part = "{{ row["Ravimi tugevus"]  }}"
+* name.part[doseForm].part = "{{ row["Manustatav ravimvorm"]  }}"
 
-* name.countryLanguage.country = $100000000002#100000000388 "Republic of Estonia"
-* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.country.coding[ema].code = #100000000388
+* name.usage.country.coding[ema].display = "Republic of Estonia"
+//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
 
 {%- endif %}
 {%- endfor %}
