@@ -4,7 +4,6 @@ Parent: Bundle
 Id: MPDBundle
 Title: "PPL Medicinal Product Bundle profile"
 Description: """Medicinal product with all its relevant data as one bundle, including packages, MA and pharmaceutical product"""
-
 * entry 1..*
   * fullUrl 1..1
   * resource 1..1 //TO DO I don't understand the syntax for adding PPLProfiledResource here.
@@ -33,7 +32,7 @@ Description: """Medicinal Product as defined in ISO IDMP"""
 * identifier[mpid] 
   * system = "http://ema.europa.eu/fhir/mpId"
   * ^short = "MPID"
-  * ^definition = "EMA IG 1.2. MPID if exists. For UNICOM testing data fake MPIDs are used (Country code + MAH LocID + unique code). "
+  * ^definition = "EMA IG 1.2. MPID if exists. For UNICOM testing data fake MPIDs are used (Country code + MAH LocID + unique code)."
 
 * identifier[pmsid]
   * system = "http://ema.europa.eu/fhir/pmsId"
@@ -41,25 +40,29 @@ Description: """Medicinal Product as defined in ISO IDMP"""
   * ^definition = "EMA IG 1.1. EMA Product Management System identifier if exists. For UNICOM testing data fake PMS IDs can be used"
 
 * domain 1..1 
-* domain from domain-vs
-//* domain = $100000000004#100000000012 "Human use"
+* domain from Domain
+  //Default $100000000004#100000000012 "Human use"
   * ^definition = "EMA IG 1.3"
 
 * status 0..1
-  * coding.system = $200000005003 // TO DO: Default 200000005004 'Current'
+* status from SporRecordStatus (preferred)
+  // Default $200000005003#200000005004 'Current'
   * ^short = "Status of the product's data. Default 200000005004 'Current'"
 
 * legalStatusOfSupply 1..1
-  * coding.code from legal-status-for-the-supply-vs
+* legalStatusOfSupply from LegalStatusForTheSupply
   * ^short = "Legal status of supply on the medicinal product level."
   * ^definition = "EMA IG 1.7. Legal status of supply on the medicinal product level. The same information can be repeated/differentiated on the package level"
 
 * combinedPharmaceuticalDoseForm 1..1
-  * coding.code from authorised-doseform-vs 
+* combinedPharmaceuticalDoseForm from AuthorisedDoseForm 
   * ^short = "Authorised dose form for the product, incl combination package dose forms"
   * ^definition = "EMA IG 1.5 & 1.6. Authorised dose form for the whole product. As applicable in one of the SPOR RMS list Combined pharmaceutical dose form, Pharmaceutical dose form, Combined term, Combination Package"
 
-* classification 1..*
+* classification 1..*  
+* classification from SporAtc (preferred)
+  * ^short = "Classification such as ATC (EMA and WHO coding)."
+/*
   * ^slicing.discriminator.type = #pattern
   * ^slicing.discriminator.path = "coding.system"
   * ^slicing.rules = #open
@@ -74,22 +77,21 @@ Description: """Medicinal Product as defined in ISO IDMP"""
     * ^slicing.rules = #open
     * ^short = "ATC classification"
     * ^definition = "EMA IG 1.13.3"
-
   * coding contains
     ema 1..1 and
     who 0..1
-  * coding[ema]
+  * coding[ema] from SporAtc
     * system = $100000093533
     * ^short = "ATC classification as EMA SPOR code"
-  * coding[who]
+  * coding[who] from whoatc-unicom (preferred)
     * system = $who-atc
     * ^short = "ATC classification as WHO ATC code"
-
+*/
 * name
   * ^definition = "EMA IG 1.14"
   * productName 1..1
     * ^definition = "EMA IG 1.14.1"
-  * namePart
+  * part
     * ^slicing.discriminator.type = #pattern
     * ^slicing.discriminator.path = "type"
     * ^slicing.rules = #open
@@ -97,15 +99,15 @@ Description: """Medicinal Product as defined in ISO IDMP"""
     * ^slicing.description = "Slicing on the name part"
     * ^short = "Medicinal product name part"
     * ^definition = "EMA IG 1.14.3. Name part. Product names are usually combined of these three parts. More parts can be defined and strength and dose form parts can be omitted."
-  * namePart contains
+  * part contains
     invented 1..1 and
     strength 0..1 and
     doseForm 0..1 
-  * namePart[invented].type = $220000000000#220000000002 "Invented name part"
-  * namePart[strength].type = $220000000000#220000000004 "Strength part"
-  * namePart[doseForm].type = $220000000000#220000000005 "Pharmaceutical dose form part"
+  * part[invented].type = $220000000000#220000000002 "Invented name part"
+  * part[strength].type = $220000000000#220000000004 "Strength part"
+  * part[doseForm].type = $220000000000#220000000005 "Pharmaceutical dose form part"
 
-  * countryLanguage
+  * usage
     * ^definition = "EMA IG 1.14.2"
     * country.coding
       * ^slicing.discriminator.type = #pattern
@@ -115,12 +117,11 @@ Description: """Medicinal Product as defined in ISO IDMP"""
     * country.coding contains
         ema 1..1 and
         iso 0..1
-    * country.coding[ema]
+    * country.coding[ema] from CountryEMA
       * system = $100000000002
-      * code from country-ema-vs
-    * country.coding[iso]
+    * country.coding[iso] from CountryISO
       * system = $iso-country
-      * code from country-iso-vs
+
 
     * language.coding
       * ^slicing.discriminator.type = #pattern
@@ -130,12 +131,18 @@ Description: """Medicinal Product as defined in ISO IDMP"""
     * language.coding contains
         ema 1..1 and
         bcp 0..1
-    * language.coding[ema]
+    * language.coding[ema] from LanguageEMA
       * system = $100000072057
-      * code from language-ema-vs
-    * language.coding[bcp]
+    * language.coding[bcp] from LanguageBCP
       * system = $BCP47
-      * code from language-bcp-vs
+
+// the following attributes are not allowed only to suppress certain qa errors about imaginary terminology bindings (r4b)
+* ingredient 0..0
+* ingredient from SubstancesSMS (example)
+* impurity 0..0
+* impurity from SubstancesSMS (example)
+* characteristic 0..0
+* characteristic.type from NoBinding
 
 
 // PROFILE: Regulated Authorisation 
@@ -158,11 +165,12 @@ Description: """Regulated Authorization profile defines the Marketing Authorisat
 * type = $220000000060#220000000061 "Marketing Authorisation"
 
 * region 1..1
-* region.coding from country-ema-vs
+* region.coding from CountryEMA
   * ^definition = "EMA IG 2.3"
 
 * status 1..1
-  * coding.system = $100000072049
+* status from SporRegulatoryStatus
+  //* coding.system = $100000072049
   * ^short = "Marketing authorisation status"
   * ^definition = "EMA IG 2.4"
 
@@ -187,14 +195,20 @@ Title: "PPL Manufactured Item profile"
 Description: """Manufactured item is the countable element inside the package"""
 
 * manufacturedDoseForm 1..1
-  * coding.code from pharmaceutical-doseform-vs
+* manufacturedDoseForm from PharmaceuticalDoseForm
   * ^short = "Dose form of the manufactured item (before preparing for administration)"
   * ^definition = "EMA IG 4.11.3"
 
 * unitOfPresentation 1..1
-  * coding.code from unit-of-presentation-vs
+* unitOfPresentation from UnitOfPresentation
   * ^short = "Unit of presentation of the manufactured item (before preparing for administration)"
   * ^definition = "EMA IG 4.11.1"
+
+// the following attributes are not allowed only to suppress certain qa errors about imaginary terminology bindings (r4b)
+* ingredient 0..0
+* ingredient from SubstancesSMS (example)
+* property 0..0
+* property.type from NoBinding (example)
 
 // PROFILE: Pharmaceutical/ Administrable Product
 Profile: PPLAdministrableProductDefinition
@@ -211,14 +225,14 @@ Description: """Administrable product profile defines the ISO IDMP Pharmaceutica
 * formOf only Reference(PPLMedicinalProductDefinition)
 
 * administrableDoseForm 1..1
-  * coding.system = $200000000004
-  * coding.code from pharmaceutical-doseform-vs
+* administrableDoseForm from PharmaceuticalDoseForm
+//  * coding.system = $200000000004
   * ^short = "Dose form of the administrable product (after preparing for administration)"
   * ^definition = "EMA IG 6.2"
 
 * unitOfPresentation 0..1
-  * coding.system = $200000000014
-  * coding.code from unit-of-presentation-vs
+* unitOfPresentation from UnitOfPresentation
+//  * coding.system = $200000000014
   * ^short = "Unit of presentation of the administrable product (after preparing for administration). Not applicable for certain products/packaging."
   * ^definition = "EMA IG 6.3"
 
@@ -226,10 +240,16 @@ Description: """Administrable product profile defines the ISO IDMP Pharmaceutica
   * ^short = "References to manufactured items that are used in the preparation of this administrable product"
 * producedFrom only Reference(PPLManufacturedItemDefinition)
 
-* routeOfAdministration
-  * code.coding.system = $100000073345
-  * code.coding.code from routes-and-methods-of-administration-vs
+* routeOfAdministration.code from RoutesAndMethodsOfAdministration
+//  * code.coding.system = $100000073345
   * ^definition = "EMA IG 6.6"
+
+// the following attributes are not allowed only to suppress certain qa errors about imaginary terminology bindings (r4b)
+* ingredient 0..0
+* ingredient from SubstancesSMS (example)
+* property 0..0
+* property.type from NoBinding (example)
+
 
 // PROFILE: Ingredient
 Profile: PPLIngredient
@@ -245,10 +265,10 @@ Description: """Ingredient for the medicinal product, pharmaceutical product and
 * role // Default 100000072072 "Active"
   * ^short = "Role of the ingredient. Default is 100000072072|Active as PPL data normally only includes active ingredients."
   * ^definition = "EMA IG 5.1"
-  * coding.system = $100000072050
+  * coding.system = $100000072050 //TO DO
 
 * substance
-  * code.concept.coding.system = $sms 
+  * code from SubstancesSMS
   * ^short = "Substance code from EMA SMS"
   * ^definition = "EMA IG 5.5"
 
@@ -258,37 +278,38 @@ Description: """Ingredient for the medicinal product, pharmaceutical product and
       * ^short = "Strength per unit of presentation (10mg/vial or 10mg/0.5ml where 0.5ml is the size of the vial)"
       * ^definition = "EMA IG 5.5.2"
       //* numerator.comparator.coding.system = $100000000008 // TO DO: not easily extendable, what to do with it?
-      * numerator.system 1..1
-      * numerator.system = $100000110633
-      * numerator.code from unit-of-measurement-vs
-      * denominator.system 1..1
+      * numerator from UnitOfMeasurement
+      * numerator 1..1
+    //  * numerator.system = $100000110633
+    //  * numerator.code from unit-of-measurement-vs
+      * denominator 1..1
         * ^short = "Unit of measurement or unit of presentation"
-      * denominator.code from all-units-vs
+      * denominator from AllUnits
       
     * concentrationRatio
       * ^short = "Strength per unit of measurement (20mg/1ml)"
       * ^definition = "EMA IG 5.5.2"
       //* numerator.comparator.coding.system = $100000000008 // TO DO: not easily extendable, what to do with it?
-      * numerator.system 1..1
-      * numerator.system = $100000110633
-      * numerator.code from unit-of-measurement-vs
-      * denominator.system 1..1
-      * denominator.system = $100000110633
-      * denominator.code from unit-of-measurement-vs
+      * numerator 1..1
+    //  * numerator.system = $100000110633
+      * numerator from UnitOfMeasurement
+      * denominator 1..1
+    //  * denominator.system = $100000110633
+      * denominator from UnitOfMeasurement
 
     * referenceStrength
       * ^definition = "EMA IG 5.5.3. According to EMA, this is a mandatory element for all products, which is not necessarily accepted by all NCAs, and it is ambivalent in ISO IDMP."
       * ^short = "Strenth expressed in terms of a reference substance; reference strength type not distinguished. According to EMA IG, all products need to have reference strentgh (repeating the strentgh, if needed)"
       * substance 1..1
-        * concept.coding.system = $sms 
-        * ^short = "Substance code from EMA SMS" 
+        * ^short = "Substance code from EMA SMS"
+      * substance from SubstancesSMS
       * strengthRatio
-        * numerator.system 1..1
-        * numerator.system = $100000110633
-        * numerator.code from unit-of-measurement-vs
-        * denominator.system 1..1
+        * numerator 1..1
+      //  * numerator.system = $100000110633
+        * numerator from UnitOfMeasurement
+        * denominator 1..1
           * ^short = "Unit of measurement or unit of presentation"
-        * denominator.code from all-units-vs
+        * denominator from AllUnits
 
         
 // PROFILE: Packaged Product
@@ -316,7 +337,7 @@ Description: """Packaged Product"""
 * packageFor 1..*
 
 * containedItemQuantity 1..*
-  * system = $200000000014
+//  * system = $200000000014
   * code from unit-of-presentation-vs
   * ^short = "Pack size. Repeated for combination packages."
   * ^definition = "EMA IG 4.4"
@@ -328,7 +349,7 @@ Description: """Packaged Product"""
 * legalStatusOfSupply 0..1
   * ^short = "Legal status of supply on the packaged product level."
   * ^definition = "EMA IG 4.5. Legal status of supply on the packaged product level. The same information can be repeated/differentiated on the medicinal product level"
-  * code.coding.code from legal-status-for-the-supply-vs
+  * code from legal-status-for-the-supply-vs
   * jurisdiction.coding from country-ema-vs
 
 * marketingStatus
@@ -338,7 +359,7 @@ Description: """Packaged Product"""
   * status 1..1
     * coding.system = $100000072052
 
-* package 1..1
+* packaging 1..1
   * type 1..1
     * ^short = "Container type"
     * ^definition = "EMA IG 4.8.1"
@@ -365,6 +386,10 @@ Description: """Packaged Product"""
       * ^short = "Number of the manufactured items (e.g. tablets) in this package layer or the amount of manufactured item (e.g. 20 g) in the unit of presentation defined in manufactured item definition"
       * ^definition = "EMA IG 4.11.2"
       * code from all-units-vs
+
+// the following attributes are not allowed only to suppress certain qa errors about imaginary terminology bindings (r4b)
+* packaging.property 0..0
+* packaging.property.type from NoBinding (example)
 
 
 // TO DO: I'm not sure we want to use Organisation as a separate resource, but right now it is. See the comment at RegulatedAuthorization
