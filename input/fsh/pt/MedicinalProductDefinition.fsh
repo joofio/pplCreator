@@ -22,12 +22,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -61,12 +62,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -100,12 +102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -139,12 +142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -178,12 +182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -217,12 +222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -256,12 +262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -295,12 +302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -334,12 +342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -373,12 +382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -412,12 +422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -451,12 +462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -490,12 +502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -529,12 +542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -568,12 +582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03HB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095915 ""
+* classification[+] = $100000093533#100000095915 ""
 
 
 
@@ -607,12 +622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -646,12 +662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -685,12 +702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -724,12 +742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -763,12 +782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -802,12 +822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -841,12 +862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -880,12 +902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -919,12 +942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -958,12 +982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#G03AA09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095782 ""
+* classification[+] = $100000093533#100000095782 ""
 
 
 
@@ -997,12 +1022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#G03AA09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095782 ""
+* classification[+] = $100000093533#100000095782 ""
 
 
 
@@ -1036,12 +1062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AA07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095780 ""
+* classification[+] = $100000093533#100000095780 ""
 
 
 
@@ -1075,12 +1102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -1114,12 +1142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -1153,12 +1182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -1192,12 +1222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D07AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095413 ""
+* classification[+] = $100000093533#100000095413 ""
 
 
 
@@ -1231,12 +1262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -1270,12 +1302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -1309,12 +1342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -1348,12 +1382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -1387,12 +1422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -1426,12 +1462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -1465,12 +1502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -1504,12 +1542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#J02AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096373 ""
+* classification[+] = $100000093533#100000096373 ""
 
 
 
@@ -1543,12 +1582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -1582,12 +1622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -1621,12 +1662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -1660,12 +1702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -1699,12 +1742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -1738,12 +1782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -1777,12 +1822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -1816,12 +1862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -1855,12 +1902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -1894,12 +1942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -1933,12 +1982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AB03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095790 ""
+* classification[+] = $100000093533#100000095790 ""
 
 
 
@@ -1972,12 +2022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -2011,12 +2062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -2050,12 +2102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
 
  
 
+
 * classification[+] = $who-atc#R03AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098065 ""
+* classification[+] = $100000093533#100000098065 ""
 
 
 
@@ -2089,12 +2142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
 
  
 
+
 * classification[+] = $who-atc#S01BC03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098459 ""
+* classification[+] = $100000093533#100000098459 ""
 
 
 
@@ -2128,12 +2182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -2167,12 +2222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -2206,12 +2262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -2245,12 +2302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -2284,12 +2342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -2323,12 +2382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -2362,12 +2422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -2401,12 +2462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -2440,12 +2502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -2479,12 +2542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implante"
 
  
 
+
 * classification[+] = $who-atc#L02AE03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096783 ""
+* classification[+] = $100000093533#100000096783 ""
 
 
 
@@ -2518,12 +2582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N02AJ06 ""
-* classification[atc][+].coding[ema] = $100000093533#100000170296 ""
+* classification[+] = $100000093533#100000170296 ""
 
 
 
@@ -2557,12 +2622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -2596,12 +2662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
 
  
 
+
 * classification[+] = $who-atc#R03AK04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098086 ""
+* classification[+] = $100000093533#100000098086 ""
 
 
 
@@ -2635,12 +2702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -2674,12 +2742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
 
  
 
+
 * classification[+] = $who-atc#H02AB09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096043 ""
+* classification[+] = $100000093533#100000096043 ""
 
 
 
@@ -2713,12 +2782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -2752,12 +2822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -2791,12 +2862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -2830,12 +2902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03FA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095881 ""
+* classification[+] = $100000093533#100000095881 ""
 
 
 
@@ -2869,12 +2942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -2908,12 +2982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -2947,12 +3022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -2986,12 +3062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -3025,12 +3102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -3064,12 +3142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -3103,12 +3182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -3142,12 +3222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000125024 ""
+* classification[+] = $100000093533#100000125024 ""
 
 
 
@@ -3181,12 +3262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -3220,12 +3302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -3259,12 +3342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -3298,12 +3382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -3337,12 +3422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -3376,12 +3462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -3415,12 +3502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -3454,12 +3542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -3493,12 +3582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -3532,12 +3622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -3571,12 +3662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -3610,12 +3702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -3649,12 +3742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -3688,12 +3782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -3727,12 +3822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -3766,12 +3862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -3805,12 +3902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -3844,12 +3942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implante"
 
  
 
+
 * classification[+] = $who-atc#L02AE03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096783 ""
+* classification[+] = $100000093533#100000096783 ""
 
 
 
@@ -3883,12 +3982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -3922,12 +4022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -3961,12 +4062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D07AB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095417 ""
+* classification[+] = $100000093533#100000095417 ""
 
 
 
@@ -4000,12 +4102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -4039,12 +4142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D07CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095471 ""
+* classification[+] = $100000093533#100000095471 ""
 
 
 
@@ -4078,12 +4182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -4117,12 +4222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -4156,12 +4262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -4195,12 +4302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -4234,12 +4342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -4273,12 +4382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -4312,12 +4422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -4351,12 +4462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -4390,12 +4502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -4429,12 +4542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -4468,12 +4582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073859 "Pó para solução para perfusão"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -4507,12 +4622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -4546,12 +4662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#A10AE04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094023 ""
+* classification[+] = $100000093533#100000094023 ""
 
 
 
@@ -4585,12 +4702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -4624,12 +4742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -4663,12 +4782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
 
  
 
+
 * classification[+] = $who-atc#S01BC03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098459 ""
+* classification[+] = $100000093533#100000098459 ""
 
 
 
@@ -4702,12 +4822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -4741,12 +4862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -4780,12 +4902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -4819,12 +4942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -4858,12 +4982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -4897,12 +5022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -4936,12 +5062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02AJ06 ""
-* classification[atc][+].coding[ema] = $100000093533#100000170296 ""
+* classification[+] = $100000093533#100000170296 ""
 
 
 
@@ -4975,12 +5102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -5014,12 +5142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -5053,12 +5182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -5092,12 +5222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -5131,12 +5262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -5170,12 +5302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -5209,12 +5342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -5248,12 +5382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -5287,15 +5422,17 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#A11CC05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094100 "" 
+* classification[+] = $100000093533#100000094100 "" 
+
 
 * classification[+] = $who-atc#A12AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094144 ""
+* classification[+] = $100000093533#100000094144 ""
 
 
 
@@ -5329,12 +5466,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#A12AX ""
-* classification[atc][+].coding[ema] = $100000093533#100000094155 ""
+* classification[+] = $100000093533#100000094155 ""
 
 
 
@@ -5368,12 +5506,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -5407,12 +5546,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -5446,12 +5586,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -5485,12 +5626,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -5524,12 +5666,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -5563,12 +5706,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -5602,12 +5746,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -5641,12 +5786,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -5680,12 +5826,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -5719,12 +5866,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -5758,12 +5906,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -5797,12 +5946,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
 
  
 
+
 * classification[+] = $who-atc#D04AB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095332 ""
+* classification[+] = $100000093533#100000095332 ""
 
 
 
@@ -5836,12 +5986,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -5875,12 +6026,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -5914,12 +6066,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -5953,12 +6106,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -5992,12 +6146,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -6031,12 +6186,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
+
 * classification[+] = $who-atc#A12AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094144 ""
+* classification[+] = $100000093533#100000094144 ""
 
 
 
@@ -6070,12 +6226,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -6109,12 +6266,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -6148,12 +6306,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -6187,12 +6346,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073733 "Pó cutâneo"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -6226,12 +6386,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -6265,12 +6426,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -6304,12 +6466,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -6343,12 +6506,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -6382,12 +6546,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -6421,12 +6586,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -6460,12 +6626,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -6499,12 +6666,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073839 "Pó para inalação"
 
  
 
+
 * classification[+] = $who-atc#R03AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098065 ""
+* classification[+] = $100000093533#100000098065 ""
 
 
 
@@ -6538,15 +6706,17 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#M03BX05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097080 "" 
+* classification[+] = $100000093533#100000097080 "" 
+
 
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -6580,12 +6750,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02B ""
-* classification[atc][+].coding[ema] = $100000093533#100000097264 ""
+* classification[+] = $100000093533#100000097264 ""
 
 
 
@@ -6619,12 +6790,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Pó para solução oral"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -6658,12 +6830,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -6697,12 +6870,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -6736,12 +6910,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -6775,12 +6950,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#N06AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097655 ""
+* classification[+] = $100000093533#100000097655 ""
 
 
 
@@ -6814,12 +6990,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#N06AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097655 ""
+* classification[+] = $100000093533#100000097655 ""
 
 
 
@@ -6853,12 +7030,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N06AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097655 ""
+* classification[+] = $100000093533#100000097655 ""
 
 
 
@@ -6892,12 +7070,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N06AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097655 ""
+* classification[+] = $100000093533#100000097655 ""
 
 
 
@@ -6931,12 +7110,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -6970,12 +7150,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#M01AB55 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096920 ""
+* classification[+] = $100000093533#100000096920 ""
 
 
 
@@ -7009,12 +7190,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
 
  
 
+
 * classification[+] = $who-atc#M01AB55 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096920 ""
+* classification[+] = $100000093533#100000096920 ""
 
 
 
@@ -7048,12 +7230,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D07XB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095498 ""
+* classification[+] = $100000093533#100000095498 ""
 
 
 
@@ -7087,12 +7270,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -7126,12 +7310,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -7165,12 +7350,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -7204,12 +7390,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#A03DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093764 ""
+* classification[+] = $100000093533#100000093764 ""
 
 
 
@@ -7243,12 +7430,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#A03DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093764 ""
+* classification[+] = $100000093533#100000093764 ""
 
 
 
@@ -7282,12 +7470,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#A12AA20 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094153 ""
+* classification[+] = $100000093533#100000094153 ""
 
 
 
@@ -7321,12 +7510,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#A12AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094144 ""
+* classification[+] = $100000093533#100000094144 ""
 
 
 
@@ -7360,12 +7550,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -7399,12 +7590,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -7438,12 +7630,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -7477,12 +7670,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -7516,12 +7710,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -7555,12 +7750,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -7594,12 +7790,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -7633,12 +7830,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -7672,12 +7870,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -7711,12 +7910,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -7750,12 +7950,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -7789,12 +7990,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC20 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095248 ""
+* classification[+] = $100000093533#100000095248 ""
 
 
 
@@ -7828,15 +8030,17 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073864 "Suspensão injetável"
 
  
 
+
 * classification[+] = $who-atc#H02BX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096053 "" 
+* classification[+] = $100000093533#100000096053 "" 
+
 
 * classification[+] = $who-atc#N01BB52 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097207 ""
+* classification[+] = $100000093533#100000097207 ""
 
 
 
@@ -7870,12 +8074,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -7909,12 +8114,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -7948,12 +8154,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -7987,12 +8194,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -8026,12 +8234,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
+
 * classification[+] = $who-atc#A02A ""
-* classification[atc][+].coding[ema] = $100000093533#100000093542 ""
+* classification[+] = $100000093533#100000093542 ""
 
 
 
@@ -8065,12 +8274,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
 
  
 
+
 * classification[+] = $who-atc#S01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097969 ""
+* classification[+] = $100000093533#100000097969 ""
 
 
 
@@ -8104,12 +8314,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
 
  
 
+
 * classification[+] = $who-atc#D04A ""
-* classification[atc][+].coding[ema] = $100000093533#100000095315 ""
+* classification[+] = $100000093533#100000095315 ""
 
 
 
@@ -8143,12 +8354,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -8182,12 +8394,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#N01BB20 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097205 ""
+* classification[+] = $100000093533#100000097205 ""
 
 
 
@@ -8221,12 +8434,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073744 "Penso impregnado"
 
  
 
+
 * classification[+] = $who-atc#N01BB20 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097205 ""
+* classification[+] = $100000093533#100000097205 ""
 
 
 
@@ -8260,12 +8474,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -8299,12 +8514,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -8338,12 +8554,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -8377,12 +8594,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D07XC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095501 ""
+* classification[+] = $100000093533#100000095501 ""
 
 
 
@@ -8416,12 +8634,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
 
  
 
+
 * classification[+] = $who-atc#D07XC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095501 ""
+* classification[+] = $100000093533#100000095501 ""
 
 
 
@@ -8455,12 +8674,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -8494,12 +8714,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Comprimido vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -8533,12 +8754,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#G03AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095792 ""
+* classification[+] = $100000093533#100000095792 ""
 
 
 
@@ -8572,12 +8794,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -8611,12 +8834,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -8650,12 +8874,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -8689,12 +8914,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
+
 * classification[+] = $who-atc#A12AX ""
-* classification[atc][+].coding[ema] = $100000093533#100000094155 ""
+* classification[+] = $100000093533#100000094155 ""
 
 
 
@@ -8728,12 +8954,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -8767,12 +8994,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -8806,12 +9034,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -8845,12 +9074,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB52 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097207 ""
+* classification[+] = $100000093533#100000097207 ""
 
 
 
@@ -8884,12 +9114,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB52 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097207 ""
+* classification[+] = $100000093533#100000097207 ""
 
 
 
@@ -8923,12 +9154,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073695 "Gel bucal"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -8962,12 +9194,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
 
  
 
+
 * classification[+] = $who-atc#D04AB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095332 ""
+* classification[+] = $100000093533#100000095332 ""
 
 
 
@@ -9001,12 +9234,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -9040,12 +9274,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -9079,12 +9314,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -9118,12 +9354,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -9157,12 +9394,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -9196,12 +9434,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D07AB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095417 ""
+* classification[+] = $100000093533#100000095417 ""
 
 
 
@@ -9235,12 +9474,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
 
  
 
+
 * classification[+] = $who-atc#D07AB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095417 ""
+* classification[+] = $100000093533#100000095417 ""
 
 
 
@@ -9274,12 +9514,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073719 "Emulsão cutânea"
 
  
 
+
 * classification[+] = $who-atc#D07AB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095417 ""
+* classification[+] = $100000093533#100000095417 ""
 
 
 
@@ -9313,12 +9554,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -9352,12 +9594,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -9391,12 +9634,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -9430,12 +9674,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02CA52 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097331 ""
+* classification[+] = $100000093533#100000097331 ""
 
 
 
@@ -9469,12 +9714,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -9508,12 +9754,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -9547,12 +9794,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -9586,12 +9834,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -9625,12 +9874,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Comprimido vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -9664,12 +9914,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -9703,12 +9954,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -9742,12 +9994,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
+
 * classification[+] = $who-atc#C01DA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094611 ""
+* classification[+] = $100000093533#100000094611 ""
 
 
 
@@ -9781,12 +10034,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
+
 * classification[+] = $who-atc#C01DA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094611 ""
+* classification[+] = $100000093533#100000094611 ""
 
 
 
@@ -9820,12 +10074,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073698 "Comprimido sublingual"
 
  
 
+
 * classification[+] = $who-atc#C01DA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094611 ""
+* classification[+] = $100000093533#100000094611 ""
 
 
 
@@ -9859,12 +10114,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -9898,12 +10154,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -9937,12 +10194,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -9976,12 +10234,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -10015,12 +10274,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D07AB11 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095426 ""
+* classification[+] = $100000093533#100000095426 ""
 
 
 
@@ -10054,12 +10314,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
 
  
 
+
 * classification[+] = $who-atc#D07AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095413 ""
+* classification[+] = $100000093533#100000095413 ""
 
 
 
@@ -10093,12 +10354,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -10132,12 +10394,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -10171,12 +10434,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -10210,12 +10474,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Pó para solução oral"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -10249,12 +10514,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -10288,12 +10554,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -10327,12 +10594,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D07BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095457 ""
+* classification[+] = $100000093533#100000095457 ""
 
 
 
@@ -10366,12 +10634,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
+
 * classification[+] = $who-atc#C01DA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094611 ""
+* classification[+] = $100000093533#100000094611 ""
 
 
 
@@ -10405,12 +10674,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
+
 * classification[+] = $who-atc#C01DA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094611 ""
+* classification[+] = $100000093533#100000094611 ""
 
 
 
@@ -10444,12 +10714,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -10483,12 +10754,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Creme retal"
 
  
 
+
 * classification[+] = $who-atc#C05AD ""
-* classification[atc][+].coding[ema] = $100000093533#100000094936 ""
+* classification[+] = $100000093533#100000094936 ""
 
 
 
@@ -10522,12 +10794,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -10561,12 +10834,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073871 "Concentrado para solução para perfusão"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -10600,12 +10874,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -10639,12 +10914,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -10678,12 +10954,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
+
 * classification[+] = $who-atc#J02AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096373 ""
+* classification[+] = $100000093533#100000096373 ""
 
 
 
@@ -10717,12 +10994,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -10756,12 +11034,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Solução retal"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -10795,12 +11074,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Solução retal"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -10834,12 +11114,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -10873,12 +11154,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -10912,12 +11194,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -10951,12 +11234,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -10990,12 +11274,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
 
  
 
+
 * classification[+] = $who-atc#D07BC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095465 ""
+* classification[+] = $100000093533#100000095465 ""
 
 
 
@@ -11029,12 +11314,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#N03AF01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097377 ""
+* classification[+] = $100000093533#100000097377 ""
 
 
 
@@ -11068,12 +11354,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -11107,12 +11394,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -11146,12 +11434,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -11185,12 +11474,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -11224,12 +11514,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -11263,12 +11554,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -11302,12 +11594,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AB06 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095793 ""
+* classification[+] = $100000093533#100000095793 ""
 
 
 
@@ -11341,12 +11634,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -11380,12 +11674,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Creme retal"
 
  
 
+
 * classification[+] = $who-atc#C05A ""
-* classification[atc][+].coding[ema] = $100000093533#100000094925 ""
+* classification[+] = $100000093533#100000094925 ""
 
 
 
@@ -11419,12 +11714,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#C05A ""
-* classification[atc][+].coding[ema] = $100000093533#100000094925 ""
+* classification[+] = $100000093533#100000094925 ""
 
 
 
@@ -11458,12 +11754,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -11497,12 +11794,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
+
 * classification[+] = $who-atc#R03CC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098120 ""
+* classification[+] = $100000093533#100000098120 ""
 
 
 
@@ -11536,12 +11834,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#R03CC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098120 ""
+* classification[+] = $100000093533#100000098120 ""
 
 
 
@@ -11575,12 +11874,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
+
 * classification[+] = $who-atc#R03CC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098120 ""
+* classification[+] = $100000093533#100000098120 ""
 
 
 
@@ -11614,12 +11914,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
 
  
 
+
 * classification[+] = $who-atc#R03AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098065 ""
+* classification[+] = $100000093533#100000098065 ""
 
 
 
@@ -11653,12 +11954,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -11692,12 +11994,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -11731,12 +12034,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -11770,12 +12074,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000116164 "Solução para pulverização nasal ou bucal"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -11809,12 +12114,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -11848,12 +12154,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -11887,15 +12194,17 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03A ""
-* classification[atc][+].coding[ema] = $100000093533#100000095772 "" 
+* classification[+] = $100000093533#100000095772 "" 
+
 
 * classification[+] = $who-atc#G03FA11 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095877 ""
+* classification[+] = $100000093533#100000095877 ""
 
 
 
@@ -11929,12 +12238,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -11968,12 +12278,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -12007,12 +12318,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -12046,12 +12358,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -12085,12 +12398,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -12124,12 +12438,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -12163,12 +12478,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -12202,12 +12518,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
+
 * classification[+] = $who-atc#C01DA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094611 ""
+* classification[+] = $100000093533#100000094611 ""
 
 
 
@@ -12241,12 +12558,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -12280,12 +12598,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
+
 * classification[+] = $who-atc#C01DA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094611 ""
+* classification[+] = $100000093533#100000094611 ""
 
 
 
@@ -12319,12 +12638,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -12358,12 +12678,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
+
 * classification[+] = $who-atc#A12AX ""
-* classification[atc][+].coding[ema] = $100000093533#100000094155 ""
+* classification[+] = $100000093533#100000094155 ""
 
 
 
@@ -12397,12 +12718,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
+
 * classification[+] = $who-atc#A12AX ""
-* classification[atc][+].coding[ema] = $100000093533#100000094155 ""
+* classification[+] = $100000093533#100000094155 ""
 
 
 
@@ -12436,12 +12758,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -12475,12 +12798,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -12514,12 +12838,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -12553,12 +12878,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -12592,12 +12918,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -12631,12 +12958,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -12670,12 +12998,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -12709,12 +13038,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -12748,12 +13078,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -12787,12 +13118,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -12826,12 +13158,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -12865,12 +13198,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -12904,12 +13238,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -12943,12 +13278,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -12982,12 +13318,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -13021,15 +13358,17 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
 
  
 
+
 * classification[+] = $who-atc#G02BB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095751 "" 
+* classification[+] = $100000093533#100000095751 "" 
+
 
 * classification[+] = $who-atc#G03AA ""
-* classification[atc][+].coding[ema] = $100000093533#100000095773 ""
+* classification[+] = $100000093533#100000095773 ""
 
 
 
@@ -13063,12 +13402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -13102,12 +13442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -13141,12 +13482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -13180,12 +13522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -13219,12 +13562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -13258,12 +13602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#D04AB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095332 ""
+* classification[+] = $100000093533#100000095332 ""
 
 
 
@@ -13297,12 +13642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -13336,12 +13682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
+
 * classification[+] = $who-atc#G03AA13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095786 ""
+* classification[+] = $100000093533#100000095786 ""
 
 
 
@@ -13375,12 +13722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#A10AE04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094023 ""
+* classification[+] = $100000093533#100000094023 ""
 
 
 
@@ -13414,12 +13762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -13453,12 +13802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -13492,12 +13842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -13531,12 +13882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -13570,12 +13922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -13609,12 +13962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -13648,12 +14002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -13687,12 +14042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -13726,12 +14082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
 
  
 
+
 * classification[+] = $who-atc#C05AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094945 ""
+* classification[+] = $100000093533#100000094945 ""
 
 
 
@@ -13765,12 +14122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -13804,12 +14162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -13843,12 +14202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -13882,12 +14242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -13921,12 +14282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -13960,12 +14322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -13999,12 +14362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -14038,12 +14402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -14077,12 +14442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -14116,12 +14482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -14155,12 +14522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -14194,12 +14562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -14233,12 +14602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -14272,12 +14642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -14311,12 +14682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -14350,12 +14722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -14389,12 +14762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -14428,12 +14802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -14467,12 +14842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -14506,12 +14882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N02AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097139 ""
+* classification[+] = $100000093533#100000097139 ""
 
 
 
@@ -14545,12 +14922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -14584,12 +14962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -14623,12 +15002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -14662,12 +15042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -14701,12 +15082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -14740,12 +15122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -14779,12 +15162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -14818,12 +15202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -14857,12 +15242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -14896,12 +15282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -14935,12 +15322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -14974,12 +15362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -15013,12 +15402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -15052,12 +15442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -15091,12 +15482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -15130,12 +15522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -15169,12 +15562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -15208,12 +15602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -15247,12 +15642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -15286,12 +15682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -15325,12 +15722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
 
  
 
+
 * classification[+] = $who-atc#A12AX ""
-* classification[atc][+].coding[ema] = $100000093533#100000094155 ""
+* classification[+] = $100000093533#100000094155 ""
 
 
 
@@ -15364,12 +15762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
 
  
 
+
 * classification[+] = $who-atc#R03AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098065 ""
+* classification[+] = $100000093533#100000098065 ""
 
 
 
@@ -15403,12 +15802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -15442,12 +15842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -15481,12 +15882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -15520,12 +15922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -15559,12 +15962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD08 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094057 ""
+* classification[+] = $100000093533#100000094057 ""
 
 
 
@@ -15598,12 +16002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
 
  
 
+
 * classification[+] = $who-atc#R03AL02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157902 ""
+* classification[+] = $100000093533#100000157902 ""
 
 
 
@@ -15637,12 +16042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD08 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094057 ""
+* classification[+] = $100000093533#100000094057 ""
 
 
 
@@ -15676,12 +16082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -15715,12 +16122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -15754,12 +16162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -15793,12 +16202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -15832,12 +16242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -15871,12 +16282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -15910,12 +16322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -15949,12 +16362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -15988,12 +16402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -16027,12 +16442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -16066,12 +16482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -16105,12 +16522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -16144,12 +16562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -16183,12 +16602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094056 ""
+* classification[+] = $100000093533#100000094056 ""
 
 
 
@@ -16222,12 +16642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094056 ""
+* classification[+] = $100000093533#100000094056 ""
 
 
 
@@ -16261,12 +16682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094056 ""
+* classification[+] = $100000093533#100000094056 ""
 
 
 
@@ -16300,12 +16722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094056 ""
+* classification[+] = $100000093533#100000094056 ""
 
 
 
@@ -16339,12 +16762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -16378,12 +16802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -16417,12 +16842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D04AB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095332 ""
+* classification[+] = $100000093533#100000095332 ""
 
 
 
@@ -16456,12 +16882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -16495,12 +16922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB ""
-* classification[atc][+].coding[ema] = $100000093533#100000095158 ""
+* classification[+] = $100000093533#100000095158 ""
 
 
 
@@ -16534,12 +16962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB ""
-* classification[atc][+].coding[ema] = $100000093533#100000095158 ""
+* classification[+] = $100000093533#100000095158 ""
 
 
 
@@ -16573,12 +17002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -16612,12 +17042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03FA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095881 ""
+* classification[+] = $100000093533#100000095881 ""
 
 
 
@@ -16651,12 +17082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094056 ""
+* classification[+] = $100000093533#100000094056 ""
 
 
 
@@ -16690,12 +17122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094056 ""
+* classification[+] = $100000093533#100000094056 ""
 
 
 
@@ -16729,12 +17162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -16768,12 +17202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073656 "Pó efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -16807,12 +17242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -16846,12 +17282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -16885,12 +17322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -16924,12 +17362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -16963,12 +17402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -17002,12 +17442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D07AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095413 ""
+* classification[+] = $100000093533#100000095413 ""
 
 
 
@@ -17041,12 +17482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -17080,12 +17522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -17119,12 +17562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -17158,12 +17602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -17197,12 +17642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -17236,12 +17682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -17275,12 +17722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -17314,12 +17762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -17353,12 +17802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -17392,12 +17842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -17431,12 +17882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -17470,12 +17922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -17509,12 +17962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -17548,12 +18002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -17587,12 +18042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -17626,12 +18082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -17665,12 +18122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -17704,12 +18162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -17743,12 +18202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -17782,12 +18242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -17821,12 +18282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -17860,12 +18322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -17899,12 +18362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD08 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094057 ""
+* classification[+] = $100000093533#100000094057 ""
 
 
 
@@ -17938,12 +18402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD08 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094057 ""
+* classification[+] = $100000093533#100000094057 ""
 
 
 
@@ -17977,12 +18442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD08 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094057 ""
+* classification[+] = $100000093533#100000094057 ""
 
 
 
@@ -18016,12 +18482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -18055,12 +18522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD08 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094057 ""
+* classification[+] = $100000093533#100000094057 ""
 
 
 
@@ -18094,12 +18562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -18133,12 +18602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -18172,12 +18642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -18211,12 +18682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
 
  
 
+
 * classification[+] = $who-atc#S01EE05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098531 ""
+* classification[+] = $100000093533#100000098531 ""
 
 
 
@@ -18250,12 +18722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095780 ""
+* classification[+] = $100000093533#100000095780 ""
 
 
 
@@ -18289,12 +18762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -18328,12 +18802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -18367,12 +18842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -18406,12 +18882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -18445,12 +18922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -18484,12 +18962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -18523,12 +19002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -18562,12 +19042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -18601,12 +19082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -18640,12 +19122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -18679,12 +19162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -18718,12 +19202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -18757,12 +19242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -18796,12 +19282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -18835,12 +19322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -18874,12 +19362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -18913,12 +19402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -18952,12 +19442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -18991,12 +19482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -19030,12 +19522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -19069,12 +19562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
+
 * classification[+] = $who-atc#A02BX ""
-* classification[atc][+].coding[ema] = $100000093533#100000093643 ""
+* classification[+] = $100000093533#100000093643 ""
 
 
 
@@ -19108,12 +19602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -19147,12 +19642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -19186,12 +19682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
 
  
 
+
 * classification[+] = $who-atc#N01BB52 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097207 ""
+* classification[+] = $100000093533#100000097207 ""
 
 
 
@@ -19225,12 +19722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -19264,12 +19762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -19303,12 +19802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -19342,12 +19842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -19381,12 +19882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -19420,12 +19922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -19459,12 +19962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -19498,12 +20002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -19537,12 +20042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -19576,12 +20082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -19615,12 +20122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -19654,12 +20162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -19693,12 +20202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -19732,12 +20242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -19771,12 +20282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02AJ06 ""
-* classification[atc][+].coding[ema] = $100000093533#100000170296 ""
+* classification[+] = $100000093533#100000170296 ""
 
 
 
@@ -19810,12 +20322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -19849,12 +20362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -19888,12 +20402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA ""
-* classification[atc][+].coding[ema] = $100000093533#100000095773 ""
+* classification[+] = $100000093533#100000095773 ""
 
 
 
@@ -19927,12 +20442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -19966,12 +20482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -20005,12 +20522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -20044,12 +20562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -20083,12 +20602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -20122,12 +20642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -20161,12 +20682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -20200,12 +20722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -20239,12 +20762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -20278,12 +20802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -20317,12 +20842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -20356,12 +20882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -20395,12 +20922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -20434,12 +20962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -20473,12 +21002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -20512,12 +21042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -20551,12 +21082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -20590,12 +21122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -20629,12 +21162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -20668,12 +21202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -20707,12 +21242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -20746,12 +21282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -20785,12 +21322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -20824,12 +21362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -20863,12 +21402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -20902,12 +21442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -20941,12 +21482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -20980,12 +21522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -21019,12 +21562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -21058,12 +21602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -21097,12 +21642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -21136,12 +21682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -21175,12 +21722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -21214,12 +21762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -21253,12 +21802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -21292,12 +21842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -21331,12 +21882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -21370,12 +21922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -21409,12 +21962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095782 ""
+* classification[+] = $100000093533#100000095782 ""
 
 
 
@@ -21448,12 +22002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -21487,12 +22042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -21526,12 +22082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -21565,12 +22122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -21604,12 +22162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -21643,12 +22202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094051 ""
+* classification[+] = $100000093533#100000094051 ""
 
 
 
@@ -21682,12 +22242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -21721,12 +22282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -21760,12 +22322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -21799,12 +22362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -21838,12 +22402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -21877,12 +22442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -21916,12 +22482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#A10AE04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094023 ""
+* classification[+] = $100000093533#100000094023 ""
 
 
 
@@ -21955,12 +22522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -21994,12 +22562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22033,12 +22602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22072,12 +22642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22111,12 +22682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22150,12 +22722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22189,12 +22762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22228,12 +22802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22267,12 +22842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -22306,12 +22882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -22345,12 +22922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -22384,12 +22962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -22423,12 +23002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -22462,12 +23042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -22501,12 +23082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -22540,12 +23122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22579,12 +23162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22618,12 +23202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22657,12 +23242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB52 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097207 ""
+* classification[+] = $100000093533#100000097207 ""
 
 
 
@@ -22696,12 +23282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -22735,12 +23322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -22774,12 +23362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -22813,12 +23402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -22852,12 +23442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22891,12 +23482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -22930,12 +23522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -22969,12 +23562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -23008,12 +23602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -23047,12 +23642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -23086,12 +23682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#D11AX18 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095663 ""
+* classification[+] = $100000093533#100000095663 ""
 
 
 
@@ -23125,12 +23722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073691 "Solução bucal"
 
  
 
+
 * classification[+] = $who-atc#A01AD11 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093540 ""
+* classification[+] = $100000093533#100000093540 ""
 
 
 
@@ -23164,12 +23762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -23203,12 +23802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -23242,12 +23842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#J02AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096373 ""
+* classification[+] = $100000093533#100000096373 ""
 
 
 
@@ -23281,12 +23882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#J02AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096373 ""
+* classification[+] = $100000093533#100000096373 ""
 
 
 
@@ -23320,12 +23922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -23359,12 +23962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -23398,12 +24002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -23437,12 +24042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -23476,12 +24082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -23515,12 +24122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -23554,12 +24162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -23593,12 +24202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -23632,12 +24242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -23671,12 +24282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -23710,12 +24322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03FA17 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095883 ""
+* classification[+] = $100000093533#100000095883 ""
 
 
 
@@ -23749,12 +24362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -23788,12 +24402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -23827,12 +24442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -23866,12 +24482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -23905,12 +24522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -23944,12 +24562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -23983,12 +24602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -24022,12 +24642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -24061,12 +24682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -24100,12 +24722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -24139,12 +24762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03HB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095915 ""
+* classification[+] = $100000093533#100000095915 ""
 
 
 
@@ -24178,12 +24802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -24217,12 +24842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -24256,12 +24882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -24295,12 +24922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -24334,12 +24962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -24373,12 +25002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -24412,12 +25042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -24451,12 +25082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -24490,12 +25122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -24529,12 +25162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -24568,12 +25202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -24607,12 +25242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -24646,12 +25282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -24685,12 +25322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -24724,12 +25362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -24763,12 +25402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -24802,12 +25442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -24841,12 +25482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -24880,12 +25522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -24919,12 +25562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -24958,12 +25602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -24997,12 +25642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -25036,12 +25682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -25075,12 +25722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -25114,12 +25762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -25153,12 +25802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -25192,12 +25842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -25231,12 +25882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -25270,12 +25922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -25309,12 +25962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -25348,12 +26002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -25387,12 +26042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -25426,12 +26082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -25465,12 +26122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -25504,12 +26162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -25543,12 +26202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -25582,12 +26242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -25621,12 +26282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -25660,12 +26322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -25699,12 +26362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -25738,12 +26402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -25777,12 +26442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#J02AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096373 ""
+* classification[+] = $100000093533#100000096373 ""
 
 
 
@@ -25816,12 +26482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -25855,12 +26522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -25894,12 +26562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#L04AD01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096879 ""
+* classification[+] = $100000093533#100000096879 ""
 
 
 
@@ -25933,12 +26602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
 
  
 
+
 * classification[+] = $who-atc#R03AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098065 ""
+* classification[+] = $100000093533#100000098065 ""
 
 
 
@@ -25972,12 +26642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#J02AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096373 ""
+* classification[+] = $100000093533#100000096373 ""
 
 
 
@@ -26011,12 +26682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -26050,12 +26722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -26089,12 +26762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -26128,12 +26802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -26167,12 +26842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095104 ""
+* classification[+] = $100000093533#100000095104 ""
 
 
 
@@ -26206,12 +26882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000125024 ""
+* classification[+] = $100000093533#100000125024 ""
 
 
 
@@ -26245,12 +26922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -26284,12 +26962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -26323,12 +27002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#J02AC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096373 ""
+* classification[+] = $100000093533#100000096373 ""
 
 
 
@@ -26362,12 +27042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094054 ""
+* classification[+] = $100000093533#100000094054 ""
 
 
 
@@ -26401,12 +27082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -26440,12 +27122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -26479,12 +27162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -26518,12 +27202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -26557,12 +27242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -26596,12 +27282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -26635,12 +27322,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -26674,12 +27362,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -26713,12 +27402,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073880 "Gel uretral"
 
  
 
+
 * classification[+] = $who-atc#N01BB52 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097207 ""
+* classification[+] = $100000093533#100000097207 ""
 
 
 
@@ -26752,12 +27442,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
+
 * classification[+] = $who-atc#A12AX ""
-* classification[atc][+].coding[ema] = $100000093533#100000094155 ""
+* classification[+] = $100000093533#100000094155 ""
 
 
 
@@ -26791,12 +27482,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -26830,12 +27522,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097010 ""
+* classification[+] = $100000093533#100000097010 ""
 
 
 
@@ -26869,12 +27562,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -26908,12 +27602,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -26947,12 +27642,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -26986,12 +27682,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095782 ""
+* classification[+] = $100000093533#100000095782 ""
 
 
 
@@ -27025,12 +27722,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -27064,12 +27762,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB52 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097207 ""
+* classification[+] = $100000093533#100000097207 ""
 
 
 
@@ -27103,12 +27802,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB52 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097207 ""
+* classification[+] = $100000093533#100000097207 ""
 
 
 
@@ -27142,12 +27842,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -27181,12 +27882,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -27220,12 +27922,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -27259,12 +27962,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -27298,12 +28002,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095783 ""
+* classification[+] = $100000093533#100000095783 ""
 
 
 
@@ -27337,12 +28042,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -27376,12 +28082,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116213 ""
+* classification[+] = $100000093533#100000116213 ""
 
 
 
@@ -27415,12 +28122,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116213 ""
+* classification[+] = $100000093533#100000116213 ""
 
 
 
@@ -27454,12 +28162,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -27493,12 +28202,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB52 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097207 ""
+* classification[+] = $100000093533#100000097207 ""
 
 
 
@@ -27532,12 +28242,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -27571,12 +28282,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -27610,15 +28322,17 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
 
  
 
+
 * classification[+] = $who-atc#G02BB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095751 "" 
+* classification[+] = $100000093533#100000095751 "" 
+
 
 * classification[+] = $who-atc#G03AA ""
-* classification[atc][+].coding[ema] = $100000093533#100000095773 ""
+* classification[+] = $100000093533#100000095773 ""
 
 
 
@@ -27652,12 +28366,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -27691,12 +28406,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D06BB03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095397 ""
+* classification[+] = $100000093533#100000095397 ""
 
 
 
@@ -27730,12 +28446,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -27769,12 +28486,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -27808,12 +28526,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -27847,12 +28566,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09D ""
-* classification[atc][+].coding[ema] = $100000093533#100000095149 ""
+* classification[+] = $100000093533#100000095149 ""
 
 
 
@@ -27886,12 +28606,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -27925,12 +28646,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#G03AA09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095782 ""
+* classification[+] = $100000093533#100000095782 ""
 
 
 
@@ -27964,12 +28686,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#G03AA09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095782 ""
+* classification[+] = $100000093533#100000095782 ""
 
 
 
@@ -28003,12 +28726,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -28042,15 +28766,17 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
+
 * classification[+] = $who-atc#A11CC05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094100 "" 
+* classification[+] = $100000093533#100000094100 "" 
+
 
 * classification[+] = $who-atc#A12AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094144 ""
+* classification[+] = $100000093533#100000094144 ""
 
 
 
@@ -28084,12 +28810,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -28123,12 +28850,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135755 ""
+* classification[+] = $100000093533#100000135755 ""
 
 
 
@@ -28162,12 +28890,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135755 ""
+* classification[+] = $100000093533#100000135755 ""
 
 
 
@@ -28201,12 +28930,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095218 ""
+* classification[+] = $100000093533#100000095218 ""
 
 
 
@@ -28240,12 +28970,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095780 ""
+* classification[+] = $100000093533#100000095780 ""
 
 
 
@@ -28279,12 +29010,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116224 ""
+* classification[+] = $100000093533#100000116224 ""
 
 
 
@@ -28318,12 +29050,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116224 ""
+* classification[+] = $100000093533#100000116224 ""
 
 
 
@@ -28357,12 +29090,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02AJ06 ""
-* classification[atc][+].coding[ema] = $100000093533#100000170296 ""
+* classification[+] = $100000093533#100000170296 ""
 
 
 
@@ -28396,12 +29130,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -28435,12 +29170,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -28474,12 +29210,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -28513,12 +29250,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -28552,12 +29290,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -28591,12 +29330,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -28630,12 +29370,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -28669,12 +29410,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -28708,12 +29450,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -28747,12 +29490,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -28786,12 +29530,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -28825,12 +29570,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -28864,12 +29610,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03FA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095881 ""
+* classification[+] = $100000093533#100000095881 ""
 
 
 
@@ -28903,12 +29650,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -28942,12 +29690,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095218 ""
+* classification[+] = $100000093533#100000095218 ""
 
 
 
@@ -28981,12 +29730,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095218 ""
+* classification[+] = $100000093533#100000095218 ""
 
 
 
@@ -29020,12 +29770,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -29059,12 +29810,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -29098,12 +29850,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -29137,12 +29890,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -29176,12 +29930,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -29215,12 +29970,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -29254,12 +30010,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -29293,12 +30050,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -29332,12 +30090,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -29371,12 +30130,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -29410,12 +30170,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -29449,12 +30210,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -29488,12 +30250,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -29527,12 +30290,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -29566,12 +30330,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -29605,12 +30370,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -29644,12 +30410,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -29683,12 +30450,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -29722,12 +30490,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095122 ""
+* classification[+] = $100000093533#100000095122 ""
 
 
 
@@ -29761,12 +30530,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -29800,12 +30570,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -29839,12 +30610,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -29878,12 +30650,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -29917,12 +30690,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -29956,12 +30730,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -29995,12 +30770,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -30034,12 +30810,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -30073,12 +30850,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N05BA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097530 ""
+* classification[+] = $100000093533#100000097530 ""
 
 
 
@@ -30112,12 +30890,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
 
  
 
+
 * classification[+] = $who-atc#A12AX ""
-* classification[atc][+].coding[ema] = $100000093533#100000094155 ""
+* classification[+] = $100000093533#100000094155 ""
 
 
 
@@ -30151,12 +30930,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -30190,12 +30970,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -30229,12 +31010,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -30268,12 +31050,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -30307,12 +31090,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000125024 ""
+* classification[+] = $100000093533#100000125024 ""
 
 
 
@@ -30346,12 +31130,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -30385,12 +31170,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -30424,12 +31210,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D07AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095413 ""
+* classification[+] = $100000093533#100000095413 ""
 
 
 
@@ -30463,12 +31250,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157857 ""
+* classification[+] = $100000093533#100000157857 ""
 
 
 
@@ -30502,12 +31290,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157857 ""
+* classification[+] = $100000093533#100000157857 ""
 
 
 
@@ -30541,12 +31330,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157857 ""
+* classification[+] = $100000093533#100000157857 ""
 
 
 
@@ -30580,12 +31370,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157857 ""
+* classification[+] = $100000093533#100000157857 ""
 
 
 
@@ -30619,12 +31410,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD11 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135754 ""
+* classification[+] = $100000093533#100000135754 ""
 
 
 
@@ -30658,12 +31450,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD11 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135754 ""
+* classification[+] = $100000093533#100000135754 ""
 
 
 
@@ -30697,12 +31490,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
 
  
 
+
 * classification[+] = $who-atc#C08GA ""
-* classification[atc][+].coding[ema] = $100000093533#100000095098 ""
+* classification[+] = $100000093533#100000095098 ""
 
 
 
@@ -30736,12 +31530,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
 
  
 
+
 * classification[+] = $who-atc#C08GA ""
-* classification[atc][+].coding[ema] = $100000093533#100000095098 ""
+* classification[+] = $100000093533#100000095098 ""
 
 
 
@@ -30775,12 +31570,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -30814,12 +31610,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -30853,12 +31650,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -30892,12 +31690,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116224 ""
+* classification[+] = $100000093533#100000116224 ""
 
 
 
@@ -30931,12 +31730,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116224 ""
+* classification[+] = $100000093533#100000116224 ""
 
 
 
@@ -30970,12 +31770,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157858 ""
+* classification[+] = $100000093533#100000157858 ""
 
 
 
@@ -31009,12 +31810,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157858 ""
+* classification[+] = $100000093533#100000157858 ""
 
 
 
@@ -31048,12 +31850,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -31087,12 +31890,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -31126,12 +31930,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -31165,12 +31970,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -31204,12 +32010,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -31243,12 +32050,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000144766 ""
+* classification[+] = $100000093533#100000144766 ""
 
 
 
@@ -31282,12 +32090,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -31321,12 +32130,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -31360,12 +32170,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -31399,12 +32210,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -31438,12 +32250,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -31477,12 +32290,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -31516,12 +32330,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -31555,12 +32370,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -31594,12 +32410,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -31633,12 +32450,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -31672,12 +32490,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -31711,12 +32530,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -31750,12 +32570,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -31789,12 +32610,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -31828,12 +32650,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -31867,12 +32690,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA12 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095785 ""
+* classification[+] = $100000093533#100000095785 ""
 
 
 
@@ -31906,12 +32730,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -31945,12 +32770,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -31984,12 +32810,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -32023,12 +32850,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -32062,12 +32890,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -32101,12 +32930,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -32140,12 +32970,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -32179,12 +33010,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -32218,12 +33050,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -32257,12 +33090,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -32296,12 +33130,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -32335,12 +33170,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -32374,12 +33210,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -32413,12 +33250,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -32452,12 +33290,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -32491,12 +33330,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -32530,12 +33370,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -32569,12 +33410,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -32608,12 +33450,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -32647,12 +33490,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -32686,15 +33530,17 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA16 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157864 "" 
+* classification[+] = $100000093533#100000157864 "" 
+
 
 * classification[+] = $who-atc#G03FA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095881 ""
+* classification[+] = $100000093533#100000095881 ""
 
 
 
@@ -32728,12 +33574,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -32767,12 +33614,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"
 
  
 
+
 * classification[+] = $who-atc#S01ED51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098522 ""
+* classification[+] = $100000093533#100000098522 ""
 
 
 
@@ -32806,12 +33654,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -32845,12 +33694,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -32884,12 +33734,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000144757 ""
+* classification[+] = $100000093533#100000144757 ""
 
 
 
@@ -32923,12 +33774,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000144766 ""
+* classification[+] = $100000093533#100000144766 ""
 
 
 
@@ -32962,12 +33814,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000144757 ""
+* classification[+] = $100000093533#100000144757 ""
 
 
 
@@ -33001,12 +33854,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -33040,12 +33894,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
 
  
 
+
 * classification[+] = $who-atc#N01BB20 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097205 ""
+* classification[+] = $100000093533#100000097205 ""
 
 
 
@@ -33079,12 +33934,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -33118,12 +33974,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -33157,12 +34014,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -33196,12 +34054,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -33235,12 +34094,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD ""
-* classification[atc][+].coding[ema] = $100000093533#100000094049 ""
+* classification[+] = $100000093533#100000094049 ""
 
 
 
@@ -33274,12 +34134,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -33313,12 +34174,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -33352,12 +34214,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -33391,12 +34254,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -33430,12 +34294,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -33469,12 +34334,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073372 "Granulado"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -33508,12 +34374,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD ""
-* classification[atc][+].coding[ema] = $100000093533#100000094049 ""
+* classification[+] = $100000093533#100000094049 ""
 
 
 
@@ -33547,12 +34414,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073700 "Comprimido para chupar"
 
  
 
+
 * classification[+] = $who-atc#R02A ""
-* classification[atc][+].coding[ema] = $100000093533#100000098027 ""
+* classification[+] = $100000093533#100000098027 ""
 
 
 
@@ -33586,12 +34454,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -33625,12 +34494,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD ""
-* classification[atc][+].coding[ema] = $100000093533#100000094049 ""
+* classification[+] = $100000093533#100000094049 ""
 
 
 
@@ -33664,12 +34534,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -33703,12 +34574,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -33742,12 +34614,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -33781,12 +34654,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -33820,12 +34694,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#S01FA56 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098543 ""
+* classification[+] = $100000093533#100000098543 ""
 
 
 
@@ -33859,12 +34734,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -33898,12 +34774,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -33937,12 +34814,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
+
 * classification[+] = $who-atc#A02BX ""
-* classification[atc][+].coding[ema] = $100000093533#100000093643 ""
+* classification[+] = $100000093533#100000093643 ""
 
 
 
@@ -33976,12 +34854,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -34015,12 +34894,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -34054,12 +34934,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -34093,12 +34974,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -34132,12 +35014,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157857 ""
+* classification[+] = $100000093533#100000157857 ""
 
 
 
@@ -34171,12 +35054,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157857 ""
+* classification[+] = $100000093533#100000157857 ""
 
 
 
@@ -34210,12 +35094,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157857 ""
+* classification[+] = $100000093533#100000157857 ""
 
 
 
@@ -34249,12 +35134,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157857 ""
+* classification[+] = $100000093533#100000157857 ""
 
 
 
@@ -34288,12 +35174,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BX01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157857 ""
+* classification[+] = $100000093533#100000157857 ""
 
 
 
@@ -34327,12 +35214,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -34366,12 +35254,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -34405,12 +35294,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -34444,12 +35334,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -34483,12 +35374,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -34522,12 +35414,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -34561,12 +35454,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -34600,12 +35494,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -34639,12 +35534,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -34678,12 +35574,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -34717,12 +35614,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#A10AE04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094023 ""
+* classification[+] = $100000093533#100000094023 ""
 
 
 
@@ -34756,12 +35654,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -34795,12 +35694,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -34834,12 +35734,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX11 ""
-* classification[atc][+].coding[ema] = $100000093533#100000167213 ""
+* classification[+] = $100000093533#100000167213 ""
 
 
 
@@ -34873,12 +35774,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX11 ""
-* classification[atc][+].coding[ema] = $100000093533#100000167213 ""
+* classification[+] = $100000093533#100000167213 ""
 
 
 
@@ -34912,12 +35814,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX11 ""
-* classification[atc][+].coding[ema] = $100000093533#100000167213 ""
+* classification[+] = $100000093533#100000167213 ""
 
 
 
@@ -34951,12 +35854,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX11 ""
-* classification[atc][+].coding[ema] = $100000093533#100000167213 ""
+* classification[+] = $100000093533#100000167213 ""
 
 
 
@@ -34990,12 +35894,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -35029,12 +35934,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -35068,12 +35974,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"
 
  
 
+
 * classification[+] = $who-atc#S01BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098437 ""
+* classification[+] = $100000093533#100000098437 ""
 
 
 
@@ -35107,12 +36014,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -35146,12 +36054,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000167210 ""
+* classification[+] = $100000093533#100000167210 ""
 
 
 
@@ -35185,12 +36094,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000167210 ""
+* classification[+] = $100000093533#100000167210 ""
 
 
 
@@ -35224,12 +36134,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000167210 ""
+* classification[+] = $100000093533#100000167210 ""
 
 
 
@@ -35263,12 +36174,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -35302,12 +36214,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -35341,15 +36254,17 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE17 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096944 "" 
+* classification[+] = $100000093533#100000096944 "" 
+
 
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -35383,12 +36298,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -35422,12 +36338,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -35461,12 +36378,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -35500,12 +36418,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -35539,12 +36458,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -35578,12 +36498,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -35617,12 +36538,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -35656,12 +36578,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -35695,12 +36618,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -35734,12 +36658,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -35773,12 +36698,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -35812,12 +36738,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -35851,12 +36778,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -35890,12 +36818,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -35929,12 +36858,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -35968,12 +36898,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073773 "Colírio, emulsão"
 
  
 
+
 * classification[+] = $who-atc#S01XA18 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098619 ""
+* classification[+] = $100000093533#100000098619 ""
 
 
 
@@ -36007,12 +36938,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -36046,12 +36978,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -36085,12 +37018,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -36124,12 +37058,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -36163,12 +37098,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -36202,12 +37138,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -36241,12 +37178,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -36280,12 +37218,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -36319,12 +37258,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#R05X ""
-* classification[atc][+].coding[ema] = $100000093533#100000098251 ""
+* classification[+] = $100000093533#100000098251 ""
 
 
 
@@ -36358,12 +37298,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#A10AE04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094023 ""
+* classification[+] = $100000093533#100000094023 ""
 
 
 
@@ -36397,12 +37338,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD ""
-* classification[atc][+].coding[ema] = $100000093533#100000094049 ""
+* classification[+] = $100000093533#100000094049 ""
 
 
 
@@ -36436,12 +37378,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD ""
-* classification[atc][+].coding[ema] = $100000093533#100000094049 ""
+* classification[+] = $100000093533#100000094049 ""
 
 
 
@@ -36475,12 +37418,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD ""
-* classification[atc][+].coding[ema] = $100000093533#100000094049 ""
+* classification[+] = $100000093533#100000094049 ""
 
 
 
@@ -36514,12 +37458,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD ""
-* classification[atc][+].coding[ema] = $100000093533#100000094049 ""
+* classification[+] = $100000093533#100000094049 ""
 
 
 
@@ -36553,12 +37498,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -36592,12 +37538,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -36631,12 +37578,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#H05AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096089 ""
+* classification[+] = $100000093533#100000096089 ""
 
 
 
@@ -36670,12 +37618,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -36709,12 +37658,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -36748,12 +37698,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -36787,12 +37738,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -36826,12 +37778,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -36865,12 +37818,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095780 ""
+* classification[+] = $100000093533#100000095780 ""
 
 
 
@@ -36904,12 +37858,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -36943,12 +37898,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -36982,12 +37938,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -37021,12 +37978,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -37060,12 +38018,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -37099,12 +38058,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -37138,12 +38098,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -37177,12 +38138,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -37216,12 +38178,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -37255,12 +38218,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -37294,12 +38258,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -37333,12 +38298,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -37372,12 +38338,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157824 ""
+* classification[+] = $100000093533#100000157824 ""
 
 
 
@@ -37411,12 +38378,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157824 ""
+* classification[+] = $100000093533#100000157824 ""
 
 
 
@@ -37450,12 +38418,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -37489,12 +38458,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -37528,12 +38498,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#L01EA01 ""
-* classification[atc][+].coding[ema] = $100000093533#200000016054 ""
+* classification[+] = $100000093533#200000016054 ""
 
 
 
@@ -37567,12 +38538,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073816 "Cápsula mole vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -37606,12 +38578,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -37645,12 +38618,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -37684,12 +38658,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -37723,12 +38698,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -37762,12 +38738,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -37801,12 +38778,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -37840,12 +38818,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -37879,12 +38858,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -37918,12 +38898,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -37957,12 +38938,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -37996,12 +38978,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -38035,12 +39018,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -38074,12 +39058,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -38113,12 +39098,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -38152,12 +39138,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -38191,12 +39178,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -38230,12 +39218,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -38269,12 +39258,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -38308,12 +39298,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -38347,12 +39338,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -38386,12 +39378,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -38425,12 +39418,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -38464,12 +39458,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -38503,12 +39498,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -38542,12 +39538,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -38581,12 +39578,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -38620,12 +39618,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -38659,12 +39658,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -38698,12 +39698,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -38737,12 +39738,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095159 ""
+* classification[+] = $100000093533#100000095159 ""
 
 
 
@@ -38776,12 +39778,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135765 ""
+* classification[+] = $100000093533#100000135765 ""
 
 
 
@@ -38815,12 +39818,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135765 ""
+* classification[+] = $100000093533#100000135765 ""
 
 
 
@@ -38854,12 +39858,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135765 ""
+* classification[+] = $100000093533#100000135765 ""
 
 
 
@@ -38893,12 +39898,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135765 ""
+* classification[+] = $100000093533#100000135765 ""
 
 
 
@@ -38932,12 +39938,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB06 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135907 ""
+* classification[+] = $100000093533#100000135907 ""
 
 
 
@@ -38971,12 +39978,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB06 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135907 ""
+* classification[+] = $100000093533#100000135907 ""
 
 
 
@@ -39010,12 +40018,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB06 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135907 ""
+* classification[+] = $100000093533#100000135907 ""
 
 
 
@@ -39049,12 +40058,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB06 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135907 ""
+* classification[+] = $100000093533#100000135907 ""
 
 
 
@@ -39088,12 +40098,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -39127,12 +40138,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -39166,12 +40178,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -39205,12 +40218,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -39244,12 +40258,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
 
  
 
+
 * classification[+] = $who-atc#G02BB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095751 ""
+* classification[+] = $100000093533#100000095751 ""
 
 
 
@@ -39283,12 +40298,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
 
  
 
+
 * classification[+] = $who-atc#G02BB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095751 ""
+* classification[+] = $100000093533#100000095751 ""
 
 
 
@@ -39322,15 +40338,17 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
 
  
 
+
 * classification[+] = $who-atc#G02BB01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095751 "" 
+* classification[+] = $100000093533#100000095751 "" 
+
 
 * classification[+] = $who-atc#G03AA ""
-* classification[atc][+].coding[ema] = $100000093533#100000095773 ""
+* classification[+] = $100000093533#100000095773 ""
 
 
 
@@ -39364,12 +40382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -39403,12 +40422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -39442,12 +40462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -39481,12 +40502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -39520,12 +40542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -39559,12 +40582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -39598,12 +40622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -39637,12 +40662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -39676,12 +40702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -39715,12 +40742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
 
  
 
+
 * classification[+] = $who-atc#C05AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094927 ""
+* classification[+] = $100000093533#100000094927 ""
 
 
 
@@ -39754,12 +40782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -39793,12 +40822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -39832,12 +40862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -39871,12 +40902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -39910,12 +40942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -39949,12 +40982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA16 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157864 ""
+* classification[+] = $100000093533#100000157864 ""
 
 
 
@@ -39988,12 +41022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -40027,12 +41062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -40066,12 +41102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -40105,12 +41142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -40144,12 +41182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095160 ""
+* classification[+] = $100000093533#100000095160 ""
 
 
 
@@ -40183,12 +41222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095160 ""
+* classification[+] = $100000093533#100000095160 ""
 
 
 
@@ -40222,12 +41262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095160 ""
+* classification[+] = $100000093533#100000095160 ""
 
 
 
@@ -40261,12 +41302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095160 ""
+* classification[+] = $100000093533#100000095160 ""
 
 
 
@@ -40300,12 +41342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095160 ""
+* classification[+] = $100000093533#100000095160 ""
 
 
 
@@ -40339,12 +41382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -40378,12 +41422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -40417,12 +41462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#R05X ""
-* classification[atc][+].coding[ema] = $100000093533#100000098251 ""
+* classification[+] = $100000093533#100000098251 ""
 
 
 
@@ -40456,12 +41502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -40495,12 +41542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -40534,12 +41582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -40573,12 +41622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -40612,12 +41662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX ""
-* classification[atc][+].coding[ema] = $100000093533#100000095215 ""
+* classification[+] = $100000093533#100000095215 ""
 
 
 
@@ -40651,12 +41702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX ""
-* classification[atc][+].coding[ema] = $100000093533#100000095215 ""
+* classification[+] = $100000093533#100000095215 ""
 
 
 
@@ -40690,12 +41742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX ""
-* classification[atc][+].coding[ema] = $100000093533#100000095215 ""
+* classification[+] = $100000093533#100000095215 ""
 
 
 
@@ -40729,12 +41782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10BX ""
-* classification[atc][+].coding[ema] = $100000093533#100000095215 ""
+* classification[+] = $100000093533#100000095215 ""
 
 
 
@@ -40768,12 +41822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02AJ13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172012 ""
+* classification[+] = $100000093533#100000172012 ""
 
 
 
@@ -40807,12 +41862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -40846,12 +41902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
+
 * classification[+] = $who-atc#A02BC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000093631 ""
+* classification[+] = $100000093533#100000093631 ""
 
 
 
@@ -40885,12 +41942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -40924,12 +41982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -40963,12 +42022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -41002,12 +42062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -41041,12 +42102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -41080,12 +42142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -41119,12 +42182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -41158,12 +42222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -41197,12 +42262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095160 ""
+* classification[+] = $100000093533#100000095160 ""
 
 
 
@@ -41236,12 +42302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -41275,12 +42342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -41314,12 +42382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095160 ""
+* classification[+] = $100000093533#100000095160 ""
 
 
 
@@ -41353,12 +42422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -41392,12 +42462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -41431,12 +42502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09DB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157858 ""
+* classification[+] = $100000093533#100000157858 ""
 
 
 
@@ -41470,12 +42542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09DB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157858 ""
+* classification[+] = $100000093533#100000157858 ""
 
 
 
@@ -41509,12 +42582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09DB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157858 ""
+* classification[+] = $100000093533#100000157858 ""
 
 
 
@@ -41548,12 +42622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09DB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157858 ""
+* classification[+] = $100000093533#100000157858 ""
 
 
 
@@ -41587,12 +42662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
 
  
 
+
 * classification[+] = $who-atc#N02AJ14 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172014 ""
+* classification[+] = $100000093533#100000172014 ""
 
 
 
@@ -41626,12 +42702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C10BX09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000163770 ""
+* classification[+] = $100000093533#100000163770 ""
 
 
 
@@ -41665,12 +42742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C10BX09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000163770 ""
+* classification[+] = $100000093533#100000163770 ""
 
 
 
@@ -41704,12 +42782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C10BX09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000163770 ""
+* classification[+] = $100000093533#100000163770 ""
 
 
 
@@ -41743,12 +42822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C10BX09 ""
-* classification[atc][+].coding[ema] = $100000093533#100000163770 ""
+* classification[+] = $100000093533#100000163770 ""
 
 
 
@@ -41782,12 +42862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -41821,12 +42902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -41860,12 +42942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -41899,12 +42982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -41938,12 +43022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -41977,12 +43062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -42016,12 +43102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09AA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095106 ""
+* classification[+] = $100000093533#100000095106 ""
 
 
 
@@ -42055,12 +43142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -42094,12 +43182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097010 ""
+* classification[+] = $100000093533#100000097010 ""
 
 
 
@@ -42133,12 +43222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BX03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172937 ""
+* classification[+] = $100000093533#100000172937 ""
 
 
 
@@ -42172,12 +43262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BX03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172937 ""
+* classification[+] = $100000093533#100000172937 ""
 
 
 
@@ -42211,12 +43302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BX03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000172937 ""
+* classification[+] = $100000093533#100000172937 ""
 
 
 
@@ -42250,12 +43342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135765 ""
+* classification[+] = $100000093533#100000135765 ""
 
 
 
@@ -42289,12 +43382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135765 ""
+* classification[+] = $100000093533#100000135765 ""
 
 
 
@@ -42328,12 +43422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135765 ""
+* classification[+] = $100000093533#100000135765 ""
 
 
 
@@ -42367,12 +43462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135765 ""
+* classification[+] = $100000093533#100000135765 ""
 
 
 
@@ -42406,12 +43502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
+
 * classification[+] = $who-atc#C09BB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000135765 ""
+* classification[+] = $100000093533#100000135765 ""
 
 
 
@@ -42445,12 +43542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -42484,12 +43582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -42523,12 +43622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -42562,12 +43662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -42601,12 +43702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -42640,12 +43742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#B01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094266 ""
+* classification[+] = $100000093533#100000094266 ""
 
 
 
@@ -42679,12 +43782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -42718,12 +43822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -42757,12 +43862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -42796,12 +43902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -42835,12 +43942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -42874,12 +43982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -42913,12 +44022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -42952,12 +44062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -42991,12 +44102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43030,12 +44142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43069,12 +44182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43108,12 +44222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43147,12 +44262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43186,12 +44302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43225,12 +44342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43264,12 +44382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43303,12 +44422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43342,12 +44462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43381,12 +44502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
 
  
 
+
 * classification[+] = $who-atc#S01EE05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000098531 ""
+* classification[+] = $100000093533#100000098531 ""
 
 
 
@@ -43420,12 +44542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C10AA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095169 ""
+* classification[+] = $100000093533#100000095169 ""
 
 
 
@@ -43459,12 +44582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43498,12 +44622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43537,12 +44662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43576,12 +44702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095160 ""
+* classification[+] = $100000093533#100000095160 ""
 
 
 
@@ -43615,12 +44742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
 
  
 
+
 * classification[+] = $who-atc#J01DC02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096183 ""
+* classification[+] = $100000093533#100000096183 ""
 
 
 
@@ -43654,12 +44782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -43693,12 +44822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -43732,12 +44862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -43771,12 +44902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#N02AX02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097261 ""
+* classification[+] = $100000093533#100000097261 ""
 
 
 
@@ -43810,12 +44942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095160 ""
+* classification[+] = $100000093533#100000095160 ""
 
 
 
@@ -43849,12 +44982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43888,12 +45022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43927,12 +45062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -43966,12 +45102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#A10AE04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094023 ""
+* classification[+] = $100000093533#100000094023 ""
 
 
 
@@ -44005,12 +45142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -44044,12 +45182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -44083,12 +45222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -44122,12 +45262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -44161,12 +45302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -44200,12 +45342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094031 ""
+* classification[+] = $100000093533#100000094031 ""
 
 
 
@@ -44239,12 +45382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD ""
-* classification[atc][+].coding[ema] = $100000093533#100000094049 ""
+* classification[+] = $100000093533#100000094049 ""
 
 
 
@@ -44278,12 +45422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#A10BD ""
-* classification[atc][+].coding[ema] = $100000093533#100000094049 ""
+* classification[+] = $100000093533#100000094049 ""
 
 
 
@@ -44317,12 +45462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -44356,12 +45502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C08CA01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095065 ""
+* classification[+] = $100000093533#100000095065 ""
 
 
 
@@ -44395,12 +45542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -44434,12 +45582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097305 ""
+* classification[+] = $100000093533#100000097305 ""
 
 
 
@@ -44473,12 +45622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -44512,12 +45662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -44551,12 +45702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -44590,12 +45742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -44629,12 +45782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
+
 * classification[+] = $who-atc#D01AC01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000094532 ""
+* classification[+] = $100000093533#100000094532 ""
 
 
 
@@ -44668,12 +45822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096945 ""
+* classification[+] = $100000093533#100000096945 ""
 
 
 
@@ -44707,12 +45862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
 
  
 
+
 * classification[+] = $who-atc#M02AA13 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097010 ""
+* classification[+] = $100000093533#100000097010 ""
 
 
 
@@ -44746,12 +45902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -44785,12 +45942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -44824,12 +45982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -44863,12 +46022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -44902,12 +46062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -44941,12 +46102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -44980,12 +46142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -45019,12 +46182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -45058,12 +46222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -45097,12 +46262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -45136,12 +46302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -45175,12 +46342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB07 ""
-* classification[atc][+].coding[ema] = $100000093533#100000157858 ""
+* classification[+] = $100000093533#100000157858 ""
 
 
 
@@ -45214,12 +46382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -45253,12 +46422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AC10 ""
-* classification[atc][+].coding[ema] = $100000093533#100000167217 ""
+* classification[+] = $100000093533#100000167217 ""
 
 
 
@@ -45292,12 +46462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03FA17 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095883 ""
+* classification[+] = $100000093533#100000095883 ""
 
 
 
@@ -45331,12 +46502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
+
 * classification[+] = $who-atc#M01AB05 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096906 ""
+* classification[+] = $100000093533#100000096906 ""
 
 
 
@@ -45370,12 +46542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -45409,12 +46582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095124 ""
+* classification[+] = $100000093533#100000095124 ""
 
 
 
@@ -45448,12 +46622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -45487,12 +46662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -45526,12 +46702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09DB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116225 ""
+* classification[+] = $100000093533#100000116225 ""
 
 
 
@@ -45565,12 +46742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000003971 "Gel intrauterino"
 
  
 
+
 * classification[+] = $who-atc#N01BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097196 ""
+* classification[+] = $100000093533#100000097196 ""
 
 
 
@@ -45604,12 +46782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -45643,12 +46822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -45682,12 +46862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -45721,12 +46902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -45760,12 +46942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -45799,12 +46982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -45838,12 +47022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DX03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000125036 ""
+* classification[+] = $100000093533#100000125036 ""
 
 
 
@@ -45877,12 +47062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -45916,12 +47102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -45955,12 +47142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DX03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000125036 ""
+* classification[+] = $100000093533#100000125036 ""
 
 
 
@@ -45994,12 +47182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -46033,12 +47222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -46072,12 +47262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -46111,12 +47302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -46150,12 +47342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -46189,12 +47382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -46228,12 +47422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -46267,12 +47462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09BB02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095134 ""
+* classification[+] = $100000093533#100000095134 ""
 
 
 
@@ -46306,12 +47502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
+
 * classification[+] = $who-atc#G01AF02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095693 ""
+* classification[+] = $100000093533#100000095693 ""
 
 
 
@@ -46345,12 +47542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -46384,12 +47582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#J01CA04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096122 ""
+* classification[+] = $100000093533#100000096122 ""
 
 
 
@@ -46423,12 +47622,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -46462,12 +47662,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C10BA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095214 ""
+* classification[+] = $100000093533#100000095214 ""
 
 
 
@@ -46501,12 +47702,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09DX03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000125036 ""
+* classification[+] = $100000093533#100000125036 ""
 
 
 
@@ -46540,12 +47742,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#N02BE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097309 ""
+* classification[+] = $100000093533#100000097309 ""
 
 
 
@@ -46579,12 +47782,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -46618,12 +47822,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -46657,12 +47862,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -46696,12 +47902,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -46735,12 +47942,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -46774,12 +47982,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -46813,12 +48022,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -46852,12 +48062,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
+
 * classification[+] = $who-atc#J01CR02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096162 ""
+* classification[+] = $100000093533#100000096162 ""
 
 
 
@@ -46891,12 +48102,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -46930,12 +48142,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -46969,12 +48182,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -47008,12 +48222,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB04 ""
-* classification[atc][+].coding[ema] = $100000093533#100000095135 ""
+* classification[+] = $100000093533#100000095135 ""
 
 
 
@@ -47047,12 +48262,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116224 ""
+* classification[+] = $100000093533#100000116224 ""
 
 
 
@@ -47086,12 +48302,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
+
 * classification[+] = $who-atc#C09BB03 ""
-* classification[atc][+].coding[ema] = $100000093533#100000116224 ""
+* classification[+] = $100000093533#100000116224 ""
 
 
 
@@ -47125,12 +48342,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
 
  
 
+
 * classification[+] = $who-atc#M02AA15 ""
-* classification[atc][+].coding[ema] = $100000093533#100000097012 ""
+* classification[+] = $100000093533#100000097012 ""
 
 
 
@@ -47164,12 +48382,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#C09D ""
-* classification[atc][+].coding[ema] = $100000093533#100000095149 ""
+* classification[+] = $100000093533#100000095149 ""
 
 
 
@@ -47203,12 +48422,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
+
 * classification[+] = $who-atc#A02AX ""
-* classification[atc][+].coding[ema] = $100000093533#100000093614 ""
+* classification[+] = $100000093533#100000093614 ""
 
 
 
@@ -47242,12 +48462,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE51 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096945 ""
+* classification[+] = $100000093533#100000096945 ""
 
 
 
@@ -47281,12 +48502,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#M01AE01 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096928 ""
+* classification[+] = $100000093533#100000096928 ""
 
 
 
@@ -47320,12 +48542,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
+
 * classification[+] = $who-atc#G03AA ""
-* classification[atc][+].coding[ema] = $100000093533#100000095773 ""
+* classification[+] = $100000093533#100000095773 ""
 
 
 
@@ -47359,12 +48582,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
 
  
 
+
 * classification[+] = $who-atc#H05AA02 ""
-* classification[atc][+].coding[ema] = $100000093533#100000096089 ""
+* classification[+] = $100000093533#100000096089 ""
 
 
 

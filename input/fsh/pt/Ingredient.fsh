@@ -25,7 +25,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 573.96  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 500.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#345 "Amoxicilina tri-hidratada"
@@ -59,7 +59,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 148.91  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 125.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#346 "Clavulanato de potássio"
@@ -98,7 +98,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 500.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 500.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#9478 "Paracetamol"
@@ -137,7 +137,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 600.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002143  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002143  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 600.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002143  "saqueta"
 * substance.strength.referenceStrength.substance.concept = $sms#11787 "Ibuprofeno"
@@ -179,7 +179,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -219,7 +219,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 2.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#19921 "Ciproterona, acetato"
@@ -253,7 +253,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.035  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.035  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#19922 "Etinilestradiol"
@@ -295,7 +295,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 60.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 60.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -335,7 +335,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.06  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.06  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#25298 "Gestodeno"
@@ -369,7 +369,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#1564 "Diclofenac sódico"
@@ -408,7 +408,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 500.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 390.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#24068 "Metformina, cloridrato"
@@ -447,7 +447,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.15  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "Comprimido"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.15  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3940 "Desogestrel"
@@ -481,7 +481,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.15  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.15  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#35904 "Levonorgestrel"
@@ -523,7 +523,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -563,7 +563,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#38069 "Enalapril, maleato"
@@ -602,7 +602,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 25.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 25.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.substance.concept = $sms#4305 "Ciclosporina"
@@ -641,7 +641,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 100.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.substance.concept = $sms#2209 "Itraconazol"
@@ -680,7 +680,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 200.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 200.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#2361 "Carbamazepina"
@@ -719,7 +719,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.substance.concept = $sms#2531 "Tramadol, cloridrato"
@@ -758,7 +758,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#5139 "Diazepam"
@@ -797,7 +797,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.1205  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002163  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002163  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110656  "µg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002163  "Aplicação"
 * substance.strength.referenceStrength.substance.concept = $sms#5184 "Salbutamol, sulfato"
@@ -839,7 +839,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 11.6  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -879,7 +879,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3449 "Sinvastatina"
@@ -918,7 +918,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.8  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002150  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002150  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.8  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002150  "seringa"
 * substance.strength.referenceStrength.substance.concept = $sms#8531 "Goserrelina, acetato"
@@ -957,7 +957,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 30.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 30.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.substance.concept = $sms#57949 "Codeína, fosfato hemi-hidratado"
@@ -1009,7 +1009,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.208  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.208  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -1049,7 +1049,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 180.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002151  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 140.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002151  "sistema"
 * substance.strength.referenceStrength.substance.concept = $sms#72616 "Diclofenac hidroxietilpirrolidina"
@@ -1091,7 +1091,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 100.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 2.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 2.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  2.0  $100000110633#100000110662  "ml"
@@ -1136,7 +1136,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 2.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#94901 "Dienogest"
@@ -1173,7 +1173,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -1213,7 +1213,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 478.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 400.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#134999 "Imatinib, mesilato"
@@ -1252,7 +1252,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.395  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#161862 "Perindopril arginina"
@@ -1291,7 +1291,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 2.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#163713 "Cloromadinona, acetato"
@@ -1330,7 +1330,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 3.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#170079 "Drospirenona"
@@ -1364,7 +1364,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.173  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.02  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#170080 "Etinilestradiol ß-ciclodextrina, complexo"
@@ -1403,7 +1403,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.625  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.625  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#174099 "Indapamida"
@@ -1442,7 +1442,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 9.44  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#215369 "Lercanidipina, cloridrato"
@@ -1476,7 +1476,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 12.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 12.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#45170 "Hidroclorotiazida"
@@ -1515,7 +1515,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 6.944  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#1778 "Besilato de amlodipina"
@@ -1554,7 +1554,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.substance.concept = $sms#1630 "Omeprazol"
@@ -1596,7 +1596,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -1639,7 +1639,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -1677,7 +1677,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -1720,7 +1720,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -1763,7 +1763,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 100.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -1806,7 +1806,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 530.1  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 10.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 500.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  10.0  $100000110633#100000110662  "ml"
@@ -1844,7 +1844,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 100.0  $100000110633#100000110756  "U"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110756  "U"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -1884,7 +1884,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.01  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.01  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#63078 "Colecalciferol"
@@ -1918,7 +1918,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 1500.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 600.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#63081 "Carbonato de cálcio"
@@ -1960,7 +1960,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -2003,7 +2003,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 100.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -2043,7 +2043,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 2.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#5732 "Tiocolquicosido"
@@ -2082,7 +2082,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 300.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 300.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#6018 "Ácido ascórbico"
@@ -2116,7 +2116,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 300.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 300.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#6017 "Ácido acetilsalicílico"
@@ -2155,7 +2155,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002143  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002143  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002143  "saqueta"
 * substance.strength.referenceStrength.substance.concept = $sms#6416 "Cafeína"
@@ -2194,7 +2194,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "Frasco"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Frasco"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#6945 "Clomipramina, cloridrato"
@@ -2233,7 +2233,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.2  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "Frasco"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Frasco"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.2  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#7565 "Misoprostol"
@@ -2275,7 +2275,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.443  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.4  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -2315,7 +2315,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002149  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002149  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002149  "supositório"
 * substance.strength.referenceStrength.substance.concept = $sms#12281 "Butilescopolamina, brometo"
@@ -2349,7 +2349,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 1132.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 1132.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#4089 "Lactogluconato de cálcio"
@@ -2383,7 +2383,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#495 "Diclofenac, potássio"
@@ -2425,7 +2425,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 789.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 6.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 6.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 750.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  6.0  $100000110633#100000110662  "ml"
@@ -2473,7 +2473,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -2511,7 +2511,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 40.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 40.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -2546,7 +2546,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 80.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 80.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#20405 "Carbonato de magnésio pesado"
@@ -2588,7 +2588,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 40.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 40.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -2626,7 +2626,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 25.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 25.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -2666,7 +2666,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 46.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 46.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#1222 "Diclofenac"
@@ -2708,7 +2708,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.64  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -2743,7 +2743,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 3.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "Comprimido"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#31218 "Bromofeniramina, maleato"
@@ -2777,7 +2777,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 36.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "Comprimido"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 36.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#31216 "Ascorbato de cálcio"
@@ -2814,7 +2814,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.018  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.018  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -2854,7 +2854,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#35995 "Ergotamina, tartarato"
@@ -2888,7 +2888,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.1  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.1  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#35997 "Beladona, alcalóides"
@@ -2927,7 +2927,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 18.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002151  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 18.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002151  "sistema"
 * substance.strength.referenceStrength.substance.concept = $sms#38753 "Nitroglicerina"
@@ -2969,7 +2969,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -3012,7 +3012,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 3.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -3050,7 +3050,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -3093,7 +3093,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -3128,7 +3128,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 150.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 150.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#46975 "Propifenazona"
@@ -3167,7 +3167,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 30.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 30.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#47511 "Pseudoefedrina, cloridrato"
@@ -3206,7 +3206,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 700.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 280.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#48260 "Metformina, embonato"
@@ -3248,7 +3248,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.11  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.11  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -3286,7 +3286,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -3324,7 +3324,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -3359,7 +3359,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 11.7  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002151  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 11.7  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002151  "sistema"
 * substance.strength.referenceStrength.substance.concept = $sms#83262 "Etonogestrel"
@@ -3393,7 +3393,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 6.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002151  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 6.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002151  "sistema"
 * substance.strength.referenceStrength.substance.concept = $sms#94988 "Norelgestromina"
@@ -3432,7 +3432,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 4.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.338  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#170242 "Perindopril, tert-butilamina"
@@ -3471,7 +3471,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 80.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 80.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#174547 "Valsartan"
@@ -3510,7 +3510,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#201125 "Vildagliptina"
@@ -3547,7 +3547,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.2  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.2  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -3582,7 +3582,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#204850 "Clorofenamina, maleato"
@@ -3621,7 +3621,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 64.25  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#207856 "Sitagliptina, fosfato monohidratado"
@@ -3655,7 +3655,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#212345 "Olmesartan medoxomilo"
@@ -3692,7 +3692,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.015  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.015  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -3732,7 +3732,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 6.42  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#252322 "Amlodipina, maleato"
@@ -3771,7 +3771,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 250.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 250.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#266633 "Alginato de sódio"
@@ -3805,7 +3805,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 133.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 133.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#266634 "Bicarbonato de sódio"
@@ -3839,7 +3839,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 40.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 40.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#289359 "Telmisartan"
@@ -3873,7 +3873,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 2.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#98648 "Glibenclamida"
@@ -3912,7 +3912,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#122720 "Estradiol hemi-hidratado"
@@ -3946,7 +3946,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#142049 "Ezetimiba"
@@ -3985,7 +3985,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 16.53  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 15.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#159272 "Pioglitazona, cloridrato"
@@ -4022,7 +4022,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -4065,7 +4065,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110654  "g"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110654  "g"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
@@ -4100,7 +4100,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 2.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#295484 "Saxagliptina"
@@ -4139,7 +4139,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 12.628  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#313743 "Atorvastatina L-lisina"
@@ -4173,7 +4173,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 21.76  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#296910 "Lisinopril, di-hidratado"
@@ -4212,7 +4212,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#314325 "Cloridrato de fenilefrina"
@@ -4251,7 +4251,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 148.9  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 125.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#324463 "Clavulanato de potássio, diluído com celulose microcristalina (1:1)"
@@ -4290,7 +4290,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 2.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.7  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#325020 "Perindopril, tosilato"
@@ -4324,7 +4324,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 2.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#338247 "Linagliptina"
@@ -4358,7 +4358,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 8.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 8.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#339386 "Candesartan cilexetil"
@@ -4392,7 +4392,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 145.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 145.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3471266 "Fenofibrato"
@@ -4426,7 +4426,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 512.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 400.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#233033 "Ibuprofeno, sódico di-hidratado"
@@ -4468,7 +4468,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -4508,7 +4508,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 17.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 12.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3467299 " Alogliptina, benzoato"
@@ -4542,7 +4542,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3479051 "Dapagliflozina"
@@ -4576,7 +4576,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3522084 "Cloro-hexidina, dicloridrato"
@@ -4615,7 +4615,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 51.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3489388 "Canagliflozina hemi-hidratada"
@@ -4652,7 +4652,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.2  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.2  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -4692,7 +4692,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 100.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.substance.concept = $sms#3506255 "Guaifenesina"
@@ -4726,7 +4726,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.82  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3512608 "Atorvastatina cálcica tri-hidratada"
@@ -4765,7 +4765,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 25.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002143  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002143  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 25.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002143  "saqueta"
 * substance.strength.referenceStrength.substance.concept = $sms#3515053 "Feniramina, maleato"
@@ -4807,7 +4807,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 3.35  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.35  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -4847,7 +4847,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 4.24  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3519110 "Bisoprolol, fumarato"
@@ -4886,7 +4886,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 36.9  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 25.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3523835 "Dexcetoprofeno, trometamol"
@@ -4925,7 +4925,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3536384 "Empagliflozina"
@@ -4962,7 +4962,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 0.25  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.25  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -5002,7 +5002,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 6.15  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3555867 "Dapagliflozina propanodiol mono hidratada"
@@ -5041,7 +5041,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 684.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 400.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3560038 "Ibuprofeno, lisinato"
@@ -5080,7 +5080,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3572050 "Amlodipina"
@@ -5119,7 +5119,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.substance.concept = $sms#3571424 "Ramipril"
@@ -5153,7 +5153,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3572999 "Losartan de potássio"
@@ -5190,7 +5190,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 20.42  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110662  "ml"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#100000110662  "ml"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 8.58  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
@@ -5230,7 +5230,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 10.395  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3597819 "Rosuvastatina cálcica"
@@ -5269,7 +5269,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 750.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002158  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002158  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 750.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3643884 "Cefuroxima"
@@ -5308,7 +5308,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 3.238  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3650784 "Ertugliflozina, ácido L-piroglutâmico"
@@ -5342,7 +5342,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 150.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 150.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3723362 "Ácido algínico"
@@ -5381,7 +5381,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = 15.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.numerator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
 * substance.strength.referenceStrength.strengthRatio.numerator = 14.2  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
 * substance.strength.referenceStrength.substance.concept = $sms#3735153 "Estetrol mono-hidratado"

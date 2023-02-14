@@ -16,22 +16,18 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}} {{row["Package description  4.2"]}}"
 Description: "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}} {{row["Package description  4.2"]}}"
 Usage: #example
-//* id = "{{row['id']}}" 
 
-
-//* identifier[pcid].value = "EE-{{row['Müügiloa hoidja organisatsiooni asukoha LOC ID']| replace('LOC-','')}}-{{row['Ravimikaardi number']}}-{{row['Pakendikood']}}"
+* identifier.value = "{{row["CNPEM"]}}"
 
 * name = "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}} {{row["Package description  4.2"]}}"
-
 
 * description = ""
 
 * status = #active
 
-
 {% if row["Pack size 4.3 (qtd)"]|string !="nan"  %}
 
-//Pakendi suurus
+//
 * containedItemQuantity = {{ row["Pack size 4.3 (qtd)"] }} $200000000014#{{ row["Pack size 4.3 (apresentação).1"]}} "{{ row["Pack size 4.3 (apresentação)"]}}"
 
 {%- endif %}

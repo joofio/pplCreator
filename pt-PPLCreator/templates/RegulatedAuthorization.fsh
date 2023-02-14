@@ -1,18 +1,24 @@
-{% for index,row in data["data"]["Titular-Medicine"].iterrows() %}
+{% for index,row in data["data"]["Package"].iterrows() %}
 {% if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
 
 
-Instance: auth-for-{{ row["Nome PMS"]| lower | regex_replace('[^A-Za-z0-9]+', '')|create_hash_id }}
+{% set ns = namespace() %}
+{% set ns.auth_name = row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID") %}
+{% set ns.auth_pack =  row["Package description  4.2"] %}
+{% set ns.auth_id= ns.auth_name ~ ns.auth_pack   %}
+
+
+Instance: auth-{{ns.auth_id|create_hash_id}}
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for {{ row["Nome PMS"] }}"
-Description: "Regulated Authorization for {{ row["Nome PMS"] }}"
+Title: "Regulated Authorization for {{ ns.auth_name }} {{ ns.auth_pack }}"
+Description: "Regulated Authorization for {{ ns.auth_name }} {{ ns.auth_pack }}"
 Usage: #example
 
 //* id = "{{row['MED ID']}}" 
 
 //* identifier.system = $spor-prod
-//* identifier.value = "{{ row["MED ID"] }}"
-//* identifier.use = #official
+* identifier.value = "{{ row["Nº de Registo"] }}"
+* identifier.use = #official
 
 // Reference to MedicinalProductDefinition: {{ row["MED ID"] }}
 * subject = Reference(mp-{{ row["MED ID"]  }})
@@ -25,8 +31,7 @@ Usage: #example
 
 {{ "// ERROR[3] - no statusDate INDEX:{}".format(index+1) }}
 
-* holder = Reference({{ row['Titular AIM - OMS LOC-ID 2.8\n(SPOR-OMS LOC-ID)'] }})
-
+* holder = Reference({{ row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Titular AIM - OMS LOC-ID 2.8\n(SPOR-OMS LOC-ID)","MED ID") }})
 {%- endif %}
 
 {%- endfor %}

@@ -45,7 +45,7 @@ Usage: #example
 {% if ns.num_value|string != "nan" %}
 
 * substance.strength.presentationRatio.numerator = {{ ns.num_value }}  $100000110633#{{ ns.num_unit|int}}  "{{ ns.num_unit_desc }}"
-* substance.strength.presentationRatio.numerator = {{ ns.den_value }}  $100000110633#{{ ns.den_unit|int}}  "{{ ns.den_unit_desc }}"
+* substance.strength.presentationRatio.denominator = {{ ns.den_value }}  $100000110633#{{ ns.den_unit|int}}  "{{ ns.den_unit_desc }}"
 {% else %}
 
 {% set ns.num_value = ns.ing_id.split(";")[idx]|float| get_data_from_sheet(data["data"],"Ingredient","Numerator value.1","Ingredient ID") %}
@@ -58,7 +58,7 @@ Usage: #example
 
 
 * substance.strength.presentationRatio.numerator = {{ ns.num_value }}  $100000110633#{{ ns.num_unit|int}}  "{{ ns.num_unit_desc }}"
-* substance.strength.presentationRatio.numerator = {{ ns.den_value }}  $100000110633#{{ ns.den_unit|int}}  "{{ ns.den_unit_desc }}"
+* substance.strength.presentationRatio.denominator = {{ ns.den_value }}  $100000110633#{{ ns.den_unit|int}}  "{{ ns.den_unit_desc }}"
 
 {% endif %}
 * substance.strength.referenceStrength.strengthRatio.numerator = {{ ns.ref_num_value }}  $100000110633#{{ ns.ref_num_unit|int}}  "{{ ns.ref_num_unit_desc }}"

@@ -26,12 +26,13 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-//* combinedPharmaceuticalDoseForm = ""
+* combinedPharmaceuticalDoseForm = $200000000004#{{row["Forma Farmacêutica \n(Pharmaceutical form)"]|get_data_from_sheet(data["data"],"Pharm Form | U. of Presenta.","ID_SPOR","Forma Farmacêutica\n(pharmaceutical form)")|trim|int}} "{{row["Forma Farmacêutica \n(Pharmaceutical form)"]}}"
 
 {% for idx in range(0,ns.atc_ema.count(";")+1) %} 
 
+
 * classification[+] = $who-atc#{{ ns.atc_ema.split(";")[idx]|trim}} ""
-* classification[atc][+].coding[ema] = $100000093533#{{ ns.atc_spor.split(";")[idx]|trim}} ""
+* classification[+] = $100000093533#{{ ns.atc_spor.split(";")[idx]|trim}} ""
 
 {%- endfor %}
 
