@@ -4,7 +4,7 @@
 
 {% set ns.route_id = row["Route of Administration 6.6 RMS-ID"]|string %}
 
-Instance: ap-{{row["ProdFarm ID"]}}
+Instance: ap-{{row["MED ID"]}}
 InstanceOf: PPLAdministrableProductDefinition
 Title: "Administrable product {{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}}"
 Description: "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}}"

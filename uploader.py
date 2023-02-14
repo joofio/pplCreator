@@ -4,7 +4,7 @@ import json
 
 
 FOLDER = "fsh-generated/resources"
-SERVER = "http://fhir.hl7.pt/fhir/"
+SERVER = "http://fhir.hl7.pt:8080/fhir/"
 
 
 ORDER_LIST = [
