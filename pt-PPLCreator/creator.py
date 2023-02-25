@@ -98,6 +98,21 @@ def get_data_from_sheet(
 env.filters["get_data_from_sheet"] = get_data_from_sheet
 
 
+# Custom filter method
+def validate_data(word, data):
+    """validate data from another issue"""
+    # df = pd.read_csv(DATA_FILE, encoding="utf-8", sep=";", skiprows=[1])
+    # print(word)
+    # print(len(df[df["Müügiloa number"] == word]))
+    if len(data[data["MED ID"] == word]) > 0:
+        return True
+    else:
+        return False
+
+
+env.filters["validate_data"] = validate_data
+
+
 excel_data = {}
 
 
@@ -164,7 +179,7 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
 
     major_name = DATA_FILE.lower().split("/")[-1].split(".")[0]
 
-    real_output_folder = OUTPUT_FOLDER + major_name + "-automatic/"
+    real_output_folder = OUTPUT_FOLDER + "pt/"
     # writing to file
     erros = {}
     for path in listdir(real_output_folder):
@@ -267,6 +282,6 @@ def remove_double_lines(DATA_FILE, OUTPUT_FOLDER):
 if __name__ == "__main__":
 
     create_from_template(DATA_FILE, TEMPLATE_FOLDER, OUTPUT_FOLDER)
-    # validate_data(DATA_FILE=DATA_FILE, OUTPUT_FOLDER=OUTPUT_FOLDER)
+    validate_data(DATA_FILE=DATA_FILE, OUTPUT_FOLDER=OUTPUT_FOLDER)
     # remove_double_lines(DATA_FILE=DATA_FILE, OUTPUT_FOLDER=OUTPUT_FOLDER)
     remove_duplicate(DATA_FILE=DATA_FILE, OUTPUT_FOLDER=OUTPUT_FOLDER)

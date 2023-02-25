@@ -19,7 +19,16 @@ Usage: #example
 
 
 //reference to ManufacturedProduct 
+{% if row["MED ID"]|validate_data(data["data"]["ManufacturedItem"]) == True  %}
+// for: {{ ns.name_to_has }}
 * producedFrom = Reference(mid-{{row["MED ID"]}})
+{% else %}
+{{"// ERROR[7] - MED ID: {} in sheet 'Pharmaceutical Product' but not in 'ManufacturedItem': INDEX:{}".format(row["MED ID"],index+1) }}
+//DUMMYY
+* producedFrom = Reference(mid-{{row["MED ID"]}})
+{%- endif %}
+
+
 
 
 {% for idx in range(0,ns.route_id.count(";")+1) %} 
