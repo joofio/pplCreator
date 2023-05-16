@@ -22,11 +22,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "ALNETA 5mg Tablett"
-* name.part[invented].part = "ALNETA"
-* name.part[strength].part = "5mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "ALNETA"
+//* name.productName = "ALNETA 5mg Tablett"
+//* name.part[invented].part = "ALNETA"
+//* name.part[strength].part = "5mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -53,11 +53,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "ALNETA 10mg Tablett"
-* name.part[invented].part = "ALNETA"
-* name.part[strength].part = "10mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "ALNETA"
+//* name.productName = "ALNETA 10mg Tablett"
+//* name.part[invented].part = "ALNETA"
+//* name.part[strength].part = "10mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -84,11 +84,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLOCARD 10MG 10mg Tablett"
-* name.part[invented].part = "AMLOCARD 10MG"
-* name.part[strength].part = "10mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLOCARD 10MG"
+//* name.productName = "AMLOCARD 10MG 10mg Tablett"
+//* name.part[invented].part = "AMLOCARD 10MG"
+//* name.part[strength].part = "10mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -115,11 +115,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLOCARD 5 MG 5mg Tablett"
-* name.part[invented].part = "AMLOCARD 5 MG"
-* name.part[strength].part = "5mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLOCARD 5 MG"
+//* name.productName = "AMLOCARD 5 MG 5mg Tablett"
+//* name.part[invented].part = "AMLOCARD 5 MG"
+//* name.part[strength].part = "5mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -146,11 +146,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLODIGAMMA 10MG 10mg Tablett"
-* name.part[invented].part = "AMLODIGAMMA 10MG"
-* name.part[strength].part = "10mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLODIGAMMA 10MG"
+//* name.productName = "AMLODIGAMMA 10MG 10mg Tablett"
+//* name.part[invented].part = "AMLODIGAMMA 10MG"
+//* name.part[strength].part = "10mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -177,11 +177,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLODIGAMMA 5MG 5mg Tablett"
-* name.part[invented].part = "AMLODIGAMMA 5MG"
-* name.part[strength].part = "5mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLODIGAMMA 5MG"
+//* name.productName = "AMLODIGAMMA 5MG 5mg Tablett"
+//* name.part[invented].part = "AMLODIGAMMA 5MG"
+//* name.part[strength].part = "5mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -208,11 +208,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLODIPIN-RATIOPHARM 10 MG 10mg Tablett"
-* name.part[invented].part = "AMLODIPIN-RATIOPHARM 10 MG"
-* name.part[strength].part = "10mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLODIPIN-RATIOPHARM 10 MG"
+//* name.productName = "AMLODIPIN-RATIOPHARM 10 MG 10mg Tablett"
+//* name.part[invented].part = "AMLODIPIN-RATIOPHARM 10 MG"
+//* name.part[strength].part = "10mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -239,11 +239,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLODIPIN-RATIOPHARM 5 MG 5mg Tablett"
-* name.part[invented].part = "AMLODIPIN-RATIOPHARM 5 MG"
-* name.part[strength].part = "5mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLODIPIN-RATIOPHARM 5 MG"
+//* name.productName = "AMLODIPIN-RATIOPHARM 5 MG 5mg Tablett"
+//* name.part[invented].part = "AMLODIPIN-RATIOPHARM 5 MG"
+//* name.part[strength].part = "5mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -270,11 +270,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLODIPINE MEDOCHEMIE 10mg Tablett"
-* name.part[invented].part = "AMLODIPINE MEDOCHEMIE"
-* name.part[strength].part = "10mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLODIPINE MEDOCHEMIE"
+//* name.productName = "AMLODIPINE MEDOCHEMIE 10mg Tablett"
+//* name.part[invented].part = "AMLODIPINE MEDOCHEMIE"
+//* name.part[strength].part = "10mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -301,11 +301,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLODIPINE MEDOCHEMIE 5mg Tablett"
-* name.part[invented].part = "AMLODIPINE MEDOCHEMIE"
-* name.part[strength].part = "5mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLODIPINE MEDOCHEMIE"
+//* name.productName = "AMLODIPINE MEDOCHEMIE 5mg Tablett"
+//* name.part[invented].part = "AMLODIPINE MEDOCHEMIE"
+//* name.part[strength].part = "5mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -332,11 +332,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLODIPINE TEVA 10mg Tablett"
-* name.part[invented].part = "AMLODIPINE TEVA"
-* name.part[strength].part = "10mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLODIPINE TEVA"
+//* name.productName = "AMLODIPINE TEVA 10mg Tablett"
+//* name.part[invented].part = "AMLODIPINE TEVA"
+//* name.part[strength].part = "10mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -363,11 +363,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLODIPINE VITABALANS 10mg Tablett"
-* name.part[invented].part = "AMLODIPINE VITABALANS"
-* name.part[strength].part = "10mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLODIPINE VITABALANS"
+//* name.productName = "AMLODIPINE VITABALANS 10mg Tablett"
+//* name.part[invented].part = "AMLODIPINE VITABALANS"
+//* name.part[strength].part = "10mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -394,11 +394,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "AMLODIPINE VITABALANS 5mg Tablett"
-* name.part[invented].part = "AMLODIPINE VITABALANS"
-* name.part[strength].part = "5mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "AMLODIPINE VITABALANS"
+//* name.productName = "AMLODIPINE VITABALANS 5mg Tablett"
+//* name.part[invented].part = "AMLODIPINE VITABALANS"
+//* name.part[strength].part = "5mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -425,11 +425,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "NORVASC 5mg Tablett"
-* name.part[invented].part = "NORVASC"
-* name.part[strength].part = "5mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "NORVASC"
+//* name.productName = "NORVASC 5mg Tablett"
+//* name.part[invented].part = "NORVASC"
+//* name.part[strength].part = "5mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -456,11 +456,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "NORVASC 5mg Tablett"
-* name.part[invented].part = "NORVASC"
-* name.part[strength].part = "5mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "NORVASC"
+//* name.productName = "NORVASC 5mg Tablett"
+//* name.part[invented].part = "NORVASC"
+//* name.part[strength].part = "5mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -487,11 +487,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "NORVASC 10mg Tablett"
-* name.part[invented].part = "NORVASC"
-* name.part[strength].part = "10mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "NORVASC"
+//* name.productName = "NORVASC 10mg Tablett"
+//* name.part[invented].part = "NORVASC"
+//* name.part[strength].part = "10mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -518,11 +518,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "NORVASC 5mg Tablett"
-* name.part[invented].part = "NORVASC"
-* name.part[strength].part = "5mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "NORVASC"
+//* name.productName = "NORVASC 5mg Tablett"
+//* name.part[invented].part = "NORVASC"
+//* name.part[strength].part = "5mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -549,11 +549,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "NORVASC 10mg Tablett"
-* name.part[invented].part = "NORVASC"
-* name.part[strength].part = "10mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "NORVASC"
+//* name.productName = "NORVASC 10mg Tablett"
+//* name.part[invented].part = "NORVASC"
+//* name.part[strength].part = "10mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"
@@ -580,11 +580,11 @@ Usage: #example
 
 * classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
-
-* name.productName = "NORVASC 10mg Tablett"
-* name.part[invented].part = "NORVASC"
-* name.part[strength].part = "10mg"
-* name.part[doseForm].part = "Tablett"
+* name.productName = "NORVASC"
+//* name.productName = "NORVASC 10mg Tablett"
+//* name.part[invented].part = "NORVASC"
+//* name.part[strength].part = "10mg"
+//* name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
 * name.usage.language = $100000072057#100000072172  "Estonian"

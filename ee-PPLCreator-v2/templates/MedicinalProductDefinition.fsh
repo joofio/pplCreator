@@ -40,11 +40,11 @@ Usage: #example
 * classification = $who-atc#{{ row["ATC kood"]}} "{{ row["Toimeaine"]|get_data_dictionary_info("substance","Description (FSN)","National Description") }}"
 //* classification[atc].coding[ema] = $100000093533#{{ row["ATC kood"]}} "{{ row["Toimeaine"]}}"
 
-
-* name.productName = "{{ row["Ravimi nimetus"]  }} {{ row["Ravimi tugevus"]  }} {{ row["Manustatav ravimvorm"]  }}"
-* name.part[invented].part = "{{ row["Ravimi nimetus"]  }}"
-* name.part[strength].part = "{{ row["Ravimi tugevus"]  }}"
-* name.part[doseForm].part = "{{ row["Manustatav ravimvorm"]  }}"
+* name.productName = "{{ row["Ravimi nimetus"]  }}"
+//* name.productName = "{{ row["Ravimi nimetus"]  }} {{ row["Ravimi tugevus"]  }} {{ row["Manustatav ravimvorm"]  }}"
+//* name.part[invented].part = "{{ row["Ravimi nimetus"]  }}"
+//* name.part[strength].part = "{{ row["Ravimi tugevus"]  }}"
+//* name.part[doseForm].part = "{{ row["Manustatav ravimvorm"]  }}"
 
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
