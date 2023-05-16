@@ -6,10 +6,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 10mg - 84 Tablett"
 Description: "ALNETA - 10mg - 84 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4196-1564152"
 * name = "ALNETA - 10mg - 84 Tablett"
-
 * description = "ALNETA - 10mg - 84 Tablett"
 * status = #active
 
@@ -42,10 +40,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 10mg - 100 Tablett"
 Description: "ALNETA - 10mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4196-1564185"
 * name = "ALNETA - 10mg - 100 Tablett"
-
 * description = "ALNETA - 10mg - 100 Tablett"
 * status = #active
 
@@ -78,10 +74,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 10mg - 90 Tablett"
 Description: "ALNETA - 10mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4196-1564163"
 * name = "ALNETA - 10mg - 90 Tablett"
-
 * description = "ALNETA - 10mg - 90 Tablett"
 * status = #active
 
@@ -114,10 +108,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 10mg - 98 Tablett"
 Description: "ALNETA - 10mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4196-1564174"
 * name = "ALNETA - 10mg - 98 Tablett"
-
 * description = "ALNETA - 10mg - 98 Tablett"
 * status = #active
 
@@ -150,10 +142,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 10mg - 60 Tablett"
 Description: "ALNETA - 10mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4196-1564141"
 * name = "ALNETA - 10mg - 60 Tablett"
-
 * description = "ALNETA - 10mg - 60 Tablett"
 * status = #active
 
@@ -186,10 +176,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 10mg - 56 Tablett"
 Description: "ALNETA - 10mg - 56 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4196-1564130"
 * name = "ALNETA - 10mg - 56 Tablett"
-
 * description = "ALNETA - 10mg - 56 Tablett"
 * status = #active
 
@@ -222,10 +210,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 10mg - 30 Tablett"
 Description: "ALNETA - 10mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4196-1564129"
 * name = "ALNETA - 10mg - 30 Tablett"
-
 * description = "ALNETA - 10mg - 30 Tablett"
 * status = #active
 
@@ -258,10 +244,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 20 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1243044"
 * name = "AMLOCARD 10MG - 10mg - 20 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 20 Tablett"
 * status = #active
 
@@ -295,10 +279,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 90 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1730089"
 * name = "AMLOCARD 10MG - 10mg - 90 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 90 Tablett"
 * status = #active
 
@@ -329,10 +311,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 28 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1243055"
 * name = "AMLOCARD 10MG - 10mg - 28 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 28 Tablett"
 * status = #active
 
@@ -365,10 +345,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 105 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 105 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1730090"
 * name = "AMLOCARD 10MG - 10mg - 105 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 105 Tablett"
 * status = #active
 
@@ -399,10 +377,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 50 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1243077"
 * name = "AMLOCARD 10MG - 10mg - 50 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 50 Tablett"
 * status = #active
 
@@ -436,10 +412,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 100 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1243099"
 * name = "AMLOCARD 10MG - 10mg - 100 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 100 Tablett"
 * status = #active
 
@@ -473,10 +447,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 120 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 120 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1243101"
 * name = "AMLOCARD 10MG - 10mg - 120 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 120 Tablett"
 * status = #active
 
@@ -510,10 +482,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 250 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 250 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1243123"
 * name = "AMLOCARD 10MG - 10mg - 250 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 250 Tablett"
 * status = #active
 
@@ -544,10 +514,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 14 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 14 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1243033"
 * name = "AMLOCARD 10MG - 10mg - 14 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 14 Tablett"
 * status = #active
 
@@ -580,10 +548,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 30 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1087905"
 * name = "AMLOCARD 10MG - 10mg - 30 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 30 Tablett"
 * status = #active
 
@@ -617,10 +583,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 60 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1243088"
 * name = "AMLOCARD 10MG - 10mg - 60 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 60 Tablett"
 * status = #active
 
@@ -654,10 +618,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 10 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 10 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1243022"
 * name = "AMLOCARD 10MG - 10mg - 10 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 10 Tablett"
 * status = #active
 
@@ -690,10 +652,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 10MG - 10mg - 200 Tablett"
 Description: "AMLOCARD 10MG - 10mg - 200 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2095-1243112"
 * name = "AMLOCARD 10MG - 10mg - 200 Tablett"
-
 * description = "AMLOCARD 10MG - 10mg - 200 Tablett"
 * status = #active
 
@@ -724,10 +684,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 10MG - 10mg - 50 Tablett"
 Description: "AMLODIGAMMA 10MG - 10mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2086-1241525"
 * name = "AMLODIGAMMA 10MG - 10mg - 50 Tablett"
-
 * description = "AMLODIGAMMA 10MG - 10mg - 50 Tablett"
 * status = #active
 
@@ -758,10 +716,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 10MG - 10mg - 300 Tablett"
 Description: "AMLODIGAMMA 10MG - 10mg - 300 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2086-1241558"
 * name = "AMLODIGAMMA 10MG - 10mg - 300 Tablett"
-
 * description = "AMLODIGAMMA 10MG - 10mg - 300 Tablett"
 * status = #active
 
@@ -792,10 +748,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 10MG - 10mg - 28 Tablett"
 Description: "AMLODIGAMMA 10MG - 10mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2086-1241503"
 * name = "AMLODIGAMMA 10MG - 10mg - 28 Tablett"
-
 * description = "AMLODIGAMMA 10MG - 10mg - 28 Tablett"
 * status = #active
 
@@ -826,10 +780,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 10MG - 10mg - 30 Tablett"
 Description: "AMLODIGAMMA 10MG - 10mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2086-1241514"
 * name = "AMLODIGAMMA 10MG - 10mg - 30 Tablett"
-
 * description = "AMLODIGAMMA 10MG - 10mg - 30 Tablett"
 * status = #active
 
@@ -860,10 +812,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 10MG - 10mg - 98 Tablett"
 Description: "AMLODIGAMMA 10MG - 10mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2086-1241536"
 * name = "AMLODIGAMMA 10MG - 10mg - 98 Tablett"
-
 * description = "AMLODIGAMMA 10MG - 10mg - 98 Tablett"
 * status = #active
 
@@ -894,10 +844,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 10MG - 10mg - 100 Tablett"
 Description: "AMLODIGAMMA 10MG - 10mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2086-1241547"
 * name = "AMLODIGAMMA 10MG - 10mg - 100 Tablett"
-
 * description = "AMLODIGAMMA 10MG - 10mg - 100 Tablett"
 * status = #active
 
@@ -928,10 +876,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 10MG - 10mg - 10 Tablett"
 Description: "AMLODIGAMMA 10MG - 10mg - 10 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2086-1241480"
 * name = "AMLODIGAMMA 10MG - 10mg - 10 Tablett"
-
 * description = "AMLODIGAMMA 10MG - 10mg - 10 Tablett"
 * status = #active
 
@@ -965,10 +911,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 10MG - 10mg - 20 Tablett"
 Description: "AMLODIGAMMA 10MG - 10mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2086-1241491"
 * name = "AMLODIGAMMA 10MG - 10mg - 20 Tablett"
-
 * description = "AMLODIGAMMA 10MG - 10mg - 20 Tablett"
 * status = #active
 
@@ -999,10 +943,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 10MG - 10mg - 500 Tablett"
 Description: "AMLODIGAMMA 10MG - 10mg - 500 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2086-1241569"
 * name = "AMLODIGAMMA 10MG - 10mg - 500 Tablett"
-
 * description = "AMLODIGAMMA 10MG - 10mg - 500 Tablett"
 * status = #active
 
@@ -1033,10 +975,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 90 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1252145"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 90 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 90 Tablett"
 * status = #active
 
@@ -1069,10 +1009,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 20 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1109810"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 20 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 20 Tablett"
 * status = #active
 
@@ -1105,10 +1043,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 14 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 14 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1252077"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 14 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 14 Tablett"
 * status = #active
 
@@ -1141,10 +1077,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 28 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1252099"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 28 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 28 Tablett"
 * status = #active
 
@@ -1177,10 +1111,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 56 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 56 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1252123"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 56 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 56 Tablett"
 * status = #active
 
@@ -1213,10 +1145,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 200 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 200 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1252178"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 200 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 200 Tablett"
 * status = #active
 
@@ -1249,10 +1179,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 50 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1109821"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 50 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 50 Tablett"
 * status = #active
 
@@ -1285,10 +1213,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 98 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1109832"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 98 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 98 Tablett"
 * status = #active
 
@@ -1321,10 +1247,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 100 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1109843"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 100 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 100 Tablett"
 * status = #active
 
@@ -1358,10 +1282,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 250 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 250 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1252189"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 250 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 250 Tablett"
 * status = #active
 
@@ -1395,10 +1317,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 60 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1252134"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 60 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 60 Tablett"
 * status = #active
 
@@ -1431,10 +1351,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 30 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1147003"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 30 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 30 Tablett"
 * status = #active
 
@@ -1467,10 +1385,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 10 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 10 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2155-1252066"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 10 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 10 Tablett"
 * status = #active
 
@@ -1503,10 +1419,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE MEDOCHEMIE - 10mg - 30 Tablett"
 Description: "AMLODIPINE MEDOCHEMIE - 10mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-ML11502-2394-1295748"
 * name = "AMLODIPINE MEDOCHEMIE - 10mg - 30 Tablett"
-
 * description = "AMLODIPINE MEDOCHEMIE - 10mg - 30 Tablett"
 * status = #active
 
@@ -1540,10 +1454,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 250 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 250 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1647367"
 * name = "AMLODIPINE TEVA - 10mg - 250 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 250 Tablett"
 * status = #active
 
@@ -1577,10 +1489,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 14 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 14 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1318913"
 * name = "AMLODIPINE TEVA - 10mg - 14 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 14 Tablett"
 * status = #active
 
@@ -1613,10 +1523,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 20 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1318924"
 * name = "AMLODIPINE TEVA - 10mg - 20 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 20 Tablett"
 * status = #active
 
@@ -1649,10 +1557,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 28 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1318935"
 * name = "AMLODIPINE TEVA - 10mg - 28 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 28 Tablett"
 * status = #active
 
@@ -1685,10 +1591,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 200 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 200 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1647356"
 * name = "AMLODIPINE TEVA - 10mg - 200 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 200 Tablett"
 * status = #active
 
@@ -1722,10 +1626,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 30 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1318946"
 * name = "AMLODIPINE TEVA - 10mg - 30 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 30 Tablett"
 * status = #active
 
@@ -1759,10 +1661,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 50 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1318957"
 * name = "AMLODIPINE TEVA - 10mg - 50 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 50 Tablett"
 * status = #active
 
@@ -1795,10 +1695,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 56 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 56 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1318968"
 * name = "AMLODIPINE TEVA - 10mg - 56 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 56 Tablett"
 * status = #active
 
@@ -1831,10 +1729,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 84 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 84 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1318979"
 * name = "AMLODIPINE TEVA - 10mg - 84 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 84 Tablett"
 * status = #active
 
@@ -1867,10 +1763,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 90 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1318980"
 * name = "AMLODIPINE TEVA - 10mg - 90 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 90 Tablett"
 * status = #active
 
@@ -1903,10 +1797,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 98 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1318991"
 * name = "AMLODIPINE TEVA - 10mg - 98 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 98 Tablett"
 * status = #active
 
@@ -1940,10 +1832,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 100 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1319004"
 * name = "AMLODIPINE TEVA - 10mg - 100 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 100 Tablett"
 * status = #active
 
@@ -1977,10 +1867,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 112 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 112 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1319015"
 * name = "AMLODIPINE TEVA - 10mg - 112 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 112 Tablett"
 * status = #active
 
@@ -2013,10 +1901,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 15 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 15 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1319026"
 * name = "AMLODIPINE TEVA - 10mg - 15 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 15 Tablett"
 * status = #active
 
@@ -2049,10 +1935,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE TEVA - 10mg - 120 Tablett"
 Description: "AMLODIPINE TEVA - 10mg - 120 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100005270-9145-1701740"
 * name = "AMLODIPINE TEVA - 10mg - 120 Tablett"
-
 * description = "AMLODIPINE TEVA - 10mg - 120 Tablett"
 * status = #active
 
@@ -2085,10 +1969,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE VITABALANS - 10mg - 100 Tablett"
 Description: "AMLODIPINE VITABALANS - 10mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-ML194-3287-1445419"
 * name = "AMLODIPINE VITABALANS - 10mg - 100 Tablett"
-
 * description = "AMLODIPINE VITABALANS - 10mg - 100 Tablett"
 * status = #active
 
@@ -2121,10 +2003,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE VITABALANS - 10mg - 90 Tablett"
 Description: "AMLODIPINE VITABALANS - 10mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-ML194-3287-1865718"
 * name = "AMLODIPINE VITABALANS - 10mg - 90 Tablett"
-
 * description = "AMLODIPINE VITABALANS - 10mg - 90 Tablett"
 * status = #active
 
@@ -2157,10 +2037,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE VITABALANS - 10mg - 30 Tablett"
 Description: "AMLODIPINE VITABALANS - 10mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-ML194-3287-1445396"
 * name = "AMLODIPINE VITABALANS - 10mg - 30 Tablett"
-
 * description = "AMLODIPINE VITABALANS - 10mg - 30 Tablett"
 * status = #active
 
@@ -2193,10 +2071,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE VITABALANS - 10mg - 60 Tablett"
 Description: "AMLODIPINE VITABALANS - 10mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-ML194-3287-1445408"
 * name = "AMLODIPINE VITABALANS - 10mg - 60 Tablett"
-
 * description = "AMLODIPINE VITABALANS - 10mg - 60 Tablett"
 * status = #active
 
@@ -2229,10 +2105,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 4 Tablett"
 Description: "NORVASC - 10mg - 4 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553688"
 * name = "NORVASC - 10mg - 4 Tablett"
-
 * description = "NORVASC - 10mg - 4 Tablett"
 * status = #active
 
@@ -2265,10 +2139,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 4 Tablett"
 Description: "NORVASC - 10mg - 4 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738605"
 * name = "NORVASC - 10mg - 4 Tablett"
-
 * description = "NORVASC - 10mg - 4 Tablett"
 * status = #active
 
@@ -2301,10 +2173,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 100 Tablett"
 Description: "NORVASC - 10mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738694"
 * name = "NORVASC - 10mg - 100 Tablett"
-
 * description = "NORVASC - 10mg - 100 Tablett"
 * status = #active
 
@@ -2337,10 +2207,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 20 Tablett"
 Description: "NORVASC - 10mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553712"
 * name = "NORVASC - 10mg - 20 Tablett"
-
 * description = "NORVASC - 10mg - 20 Tablett"
 * status = #active
 
@@ -2373,10 +2241,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 100 Tablett"
 Description: "NORVASC - 10mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553778"
 * name = "NORVASC - 10mg - 100 Tablett"
-
 * description = "NORVASC - 10mg - 100 Tablett"
 * status = #active
 
@@ -2409,10 +2275,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 20 Tablett"
 Description: "NORVASC - 10mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738638"
 * name = "NORVASC - 10mg - 20 Tablett"
-
 * description = "NORVASC - 10mg - 20 Tablett"
 * status = #active
 
@@ -2445,10 +2309,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 28 Tablett"
 Description: "NORVASC - 10mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738649"
 * name = "NORVASC - 10mg - 28 Tablett"
-
 * description = "NORVASC - 10mg - 28 Tablett"
 * status = #active
 
@@ -2481,10 +2343,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 90 Tablett"
 Description: "NORVASC - 10mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738672"
 * name = "NORVASC - 10mg - 90 Tablett"
-
 * description = "NORVASC - 10mg - 90 Tablett"
 * status = #active
 
@@ -2517,10 +2377,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 60 Tablett"
 Description: "NORVASC - 10mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738661"
 * name = "NORVASC - 10mg - 60 Tablett"
-
 * description = "NORVASC - 10mg - 60 Tablett"
 * status = #active
 
@@ -2553,10 +2411,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 98 Tablett"
 Description: "NORVASC - 10mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738683"
 * name = "NORVASC - 10mg - 98 Tablett"
-
 * description = "NORVASC - 10mg - 98 Tablett"
 * status = #active
 
@@ -2589,10 +2445,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 30 Tablett"
 Description: "NORVASC - 10mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100044049-7864-1830596"
 * name = "NORVASC - 10mg - 30 Tablett"
-
 * description = "NORVASC - 10mg - 30 Tablett"
 * status = #active
 
@@ -2625,10 +2479,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 10 Tablett"
 Description: "NORVASC - 10mg - 10 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738616"
 * name = "NORVASC - 10mg - 10 Tablett"
-
 * description = "NORVASC - 10mg - 10 Tablett"
 * status = #active
 
@@ -2661,10 +2513,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 14 Tablett"
 Description: "NORVASC - 10mg - 14 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738627"
 * name = "NORVASC - 10mg - 14 Tablett"
-
 * description = "NORVASC - 10mg - 14 Tablett"
 * status = #active
 
@@ -2697,10 +2547,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 50 Tablett"
 Description: "NORVASC - 10mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738650"
 * name = "NORVASC - 10mg - 50 Tablett"
-
 * description = "NORVASC - 10mg - 50 Tablett"
 * status = #active
 
@@ -2733,10 +2581,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 14 Tablett"
 Description: "NORVASC - 10mg - 14 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553701"
 * name = "NORVASC - 10mg - 14 Tablett"
-
 * description = "NORVASC - 10mg - 14 Tablett"
 * status = #active
 
@@ -2769,10 +2615,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 50 Tablett"
 Description: "NORVASC - 10mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553734"
 * name = "NORVASC - 10mg - 50 Tablett"
-
 * description = "NORVASC - 10mg - 50 Tablett"
 * status = #active
 
@@ -2805,10 +2649,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 90 Tablett"
 Description: "NORVASC - 10mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553756"
 * name = "NORVASC - 10mg - 90 Tablett"
-
 * description = "NORVASC - 10mg - 90 Tablett"
 * status = #active
 
@@ -2841,10 +2683,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 30 Tablett"
 Description: "NORVASC - 10mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1018527"
 * name = "NORVASC - 10mg - 30 Tablett"
-
 * description = "NORVASC - 10mg - 30 Tablett"
 * status = #active
 
@@ -2877,10 +2717,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 10 Tablett"
 Description: "NORVASC - 10mg - 10 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553699"
 * name = "NORVASC - 10mg - 10 Tablett"
-
 * description = "NORVASC - 10mg - 10 Tablett"
 * status = #active
 
@@ -2913,10 +2751,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 28 Tablett"
 Description: "NORVASC - 10mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553723"
 * name = "NORVASC - 10mg - 28 Tablett"
-
 * description = "NORVASC - 10mg - 28 Tablett"
 * status = #active
 
@@ -2949,10 +2785,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 98 Tablett"
 Description: "NORVASC - 10mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553767"
 * name = "NORVASC - 10mg - 98 Tablett"
-
 * description = "NORVASC - 10mg - 98 Tablett"
 * status = #active
 
@@ -2985,10 +2819,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 300 Tablett"
 Description: "NORVASC - 10mg - 300 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553789"
 * name = "NORVASC - 10mg - 300 Tablett"
-
 * description = "NORVASC - 10mg - 300 Tablett"
 * status = #active
 
@@ -3021,10 +2853,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 500 Tablett"
 Description: "NORVASC - 10mg - 500 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738717"
 * name = "NORVASC - 10mg - 500 Tablett"
-
 * description = "NORVASC - 10mg - 500 Tablett"
 * status = #active
 
@@ -3057,10 +2887,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 30 Tablett"
 Description: "NORVASC - 10mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738728"
 * name = "NORVASC - 10mg - 30 Tablett"
-
 * description = "NORVASC - 10mg - 30 Tablett"
 * status = #active
 
@@ -3093,10 +2921,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 300 Tablett"
 Description: "NORVASC - 10mg - 300 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6160-1738706"
 * name = "NORVASC - 10mg - 300 Tablett"
-
 * description = "NORVASC - 10mg - 300 Tablett"
 * status = #active
 
@@ -3129,10 +2955,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 60 Tablett"
 Description: "NORVASC - 10mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553745"
 * name = "NORVASC - 10mg - 60 Tablett"
-
 * description = "NORVASC - 10mg - 60 Tablett"
 * status = #active
 
@@ -3165,10 +2989,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 10mg - 500 Tablett"
 Description: "NORVASC - 10mg - 500 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-241-1553790"
 * name = "NORVASC - 10mg - 500 Tablett"
-
 * description = "NORVASC - 10mg - 500 Tablett"
 * status = #active
 
@@ -3201,10 +3023,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 5mg - 60 Tablett"
 Description: "ALNETA - 5mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4195-1564062"
 * name = "ALNETA - 5mg - 60 Tablett"
-
 * description = "ALNETA - 5mg - 60 Tablett"
 * status = #active
 
@@ -3237,10 +3057,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 5mg - 30 Tablett"
 Description: "ALNETA - 5mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4195-1564040"
 * name = "ALNETA - 5mg - 30 Tablett"
-
 * description = "ALNETA - 5mg - 30 Tablett"
 * status = #active
 
@@ -3273,10 +3091,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 5mg - 90 Tablett"
 Description: "ALNETA - 5mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4195-1564084"
 * name = "ALNETA - 5mg - 90 Tablett"
-
 * description = "ALNETA - 5mg - 90 Tablett"
 * status = #active
 
@@ -3309,10 +3125,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 5mg - 98 Tablett"
 Description: "ALNETA - 5mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4195-1564095"
 * name = "ALNETA - 5mg - 98 Tablett"
-
 * description = "ALNETA - 5mg - 98 Tablett"
 * status = #active
 
@@ -3345,10 +3159,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 5mg - 28 Tablett"
 Description: "ALNETA - 5mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4195-1564039"
 * name = "ALNETA - 5mg - 28 Tablett"
-
 * description = "ALNETA - 5mg - 28 Tablett"
 * status = #active
 
@@ -3381,10 +3193,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 5mg - 56 Tablett"
 Description: "ALNETA - 5mg - 56 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4195-1564051"
 * name = "ALNETA - 5mg - 56 Tablett"
-
 * description = "ALNETA - 5mg - 56 Tablett"
 * status = #active
 
@@ -3417,10 +3227,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 5mg - 84 Tablett"
 Description: "ALNETA - 5mg - 84 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4195-1564073"
 * name = "ALNETA - 5mg - 84 Tablett"
-
 * description = "ALNETA - 5mg - 84 Tablett"
 * status = #active
 
@@ -3453,10 +3261,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 5mg - 100 Tablett"
 Description: "ALNETA - 5mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100009540-4195-1564107"
 * name = "ALNETA - 5mg - 100 Tablett"
-
 * description = "ALNETA - 5mg - 100 Tablett"
 * status = #active
 
@@ -3489,10 +3295,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 14 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 14 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1242818"
 * name = "AMLOCARD 5 MG - 5mg - 14 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 14 Tablett"
 * status = #active
 
@@ -3525,10 +3329,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 20 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1242829"
 * name = "AMLOCARD 5 MG - 5mg - 20 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 20 Tablett"
 * status = #active
 
@@ -3562,10 +3364,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 90 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1730067"
 * name = "AMLOCARD 5 MG - 5mg - 90 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 90 Tablett"
 * status = #active
 
@@ -3596,10 +3396,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 30 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1087871"
 * name = "AMLOCARD 5 MG - 5mg - 30 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 30 Tablett"
 * status = #active
 
@@ -3633,10 +3431,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 10 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 10 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1242807"
 * name = "AMLOCARD 5 MG - 5mg - 10 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 10 Tablett"
 * status = #active
 
@@ -3669,10 +3465,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 28 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1242830"
 * name = "AMLOCARD 5 MG - 5mg - 28 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 28 Tablett"
 * status = #active
 
@@ -3705,10 +3499,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 200 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 200 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1242896"
 * name = "AMLOCARD 5 MG - 5mg - 200 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 200 Tablett"
 * status = #active
 
@@ -3739,10 +3531,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 105 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 105 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1730078"
 * name = "AMLOCARD 5 MG - 5mg - 105 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 105 Tablett"
 * status = #active
 
@@ -3773,10 +3563,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 50 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1242852"
 * name = "AMLOCARD 5 MG - 5mg - 50 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 50 Tablett"
 * status = #active
 
@@ -3810,10 +3598,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 60 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1242863"
 * name = "AMLOCARD 5 MG - 5mg - 60 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 60 Tablett"
 * status = #active
 
@@ -3847,10 +3633,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 120 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 120 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1242885"
 * name = "AMLOCARD 5 MG - 5mg - 120 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 120 Tablett"
 * status = #active
 
@@ -3884,10 +3668,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 100 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1242874"
 * name = "AMLOCARD 5 MG - 5mg - 100 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 100 Tablett"
 * status = #active
 
@@ -3921,10 +3703,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLOCARD 5 MG - 5mg - 250 Tablett"
 Description: "AMLOCARD 5 MG - 5mg - 250 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100002475-2094-1242908"
 * name = "AMLOCARD 5 MG - 5mg - 250 Tablett"
-
 * description = "AMLOCARD 5 MG - 5mg - 250 Tablett"
 * status = #active
 
@@ -3955,10 +3735,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 5MG - 5mg - 10 Tablett"
 Description: "AMLODIGAMMA 5MG - 5mg - 10 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2085-1241390"
 * name = "AMLODIGAMMA 5MG - 5mg - 10 Tablett"
-
 * description = "AMLODIGAMMA 5MG - 5mg - 10 Tablett"
 * status = #active
 
@@ -3992,10 +3770,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 5MG - 5mg - 20 Tablett"
 Description: "AMLODIGAMMA 5MG - 5mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2085-1241402"
 * name = "AMLODIGAMMA 5MG - 5mg - 20 Tablett"
-
 * description = "AMLODIGAMMA 5MG - 5mg - 20 Tablett"
 * status = #active
 
@@ -4026,10 +3802,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 5MG - 5mg - 28 Tablett"
 Description: "AMLODIGAMMA 5MG - 5mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2085-1241413"
 * name = "AMLODIGAMMA 5MG - 5mg - 28 Tablett"
-
 * description = "AMLODIGAMMA 5MG - 5mg - 28 Tablett"
 * status = #active
 
@@ -4060,10 +3834,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 5MG - 5mg - 30 Tablett"
 Description: "AMLODIGAMMA 5MG - 5mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2085-1241424"
 * name = "AMLODIGAMMA 5MG - 5mg - 30 Tablett"
-
 * description = "AMLODIGAMMA 5MG - 5mg - 30 Tablett"
 * status = #active
 
@@ -4094,10 +3866,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 5MG - 5mg - 100 Tablett"
 Description: "AMLODIGAMMA 5MG - 5mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2085-1241457"
 * name = "AMLODIGAMMA 5MG - 5mg - 100 Tablett"
-
 * description = "AMLODIGAMMA 5MG - 5mg - 100 Tablett"
 * status = #active
 
@@ -4128,10 +3898,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 5MG - 5mg - 300 Tablett"
 Description: "AMLODIGAMMA 5MG - 5mg - 300 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2085-1241468"
 * name = "AMLODIGAMMA 5MG - 5mg - 300 Tablett"
-
 * description = "AMLODIGAMMA 5MG - 5mg - 300 Tablett"
 * status = #active
 
@@ -4162,10 +3930,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 5MG - 5mg - 50 Tablett"
 Description: "AMLODIGAMMA 5MG - 5mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2085-1241435"
 * name = "AMLODIGAMMA 5MG - 5mg - 50 Tablett"
-
 * description = "AMLODIGAMMA 5MG - 5mg - 50 Tablett"
 * status = #active
 
@@ -4196,10 +3962,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 5MG - 5mg - 98 Tablett"
 Description: "AMLODIGAMMA 5MG - 5mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2085-1241446"
 * name = "AMLODIGAMMA 5MG - 5mg - 98 Tablett"
-
 * description = "AMLODIGAMMA 5MG - 5mg - 98 Tablett"
 * status = #active
 
@@ -4230,10 +3994,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIGAMMA 5MG - 5mg - 500 Tablett"
 Description: "AMLODIGAMMA 5MG - 5mg - 500 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100054619-2085-1241479"
 * name = "AMLODIGAMMA 5MG - 5mg - 500 Tablett"
-
 * description = "AMLODIGAMMA 5MG - 5mg - 500 Tablett"
 * status = #active
 
@@ -4264,10 +4026,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 200 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 200 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1251885"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 200 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 200 Tablett"
 * status = #active
 
@@ -4300,10 +4060,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 250 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 250 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1251896"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 250 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 250 Tablett"
 * status = #active
 
@@ -4337,10 +4095,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 10 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 10 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1251773"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 10 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 10 Tablett"
 * status = #active
 
@@ -4373,10 +4129,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 14 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 14 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1251784"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 14 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 14 Tablett"
 * status = #active
 
@@ -4409,10 +4163,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 56 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 56 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1251830"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 56 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 56 Tablett"
 * status = #active
 
@@ -4445,10 +4197,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 20 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1109753"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 20 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 20 Tablett"
 * status = #active
 
@@ -4481,10 +4231,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 60 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1251841"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 60 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 60 Tablett"
 * status = #active
 
@@ -4517,10 +4265,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 90 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1251852"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 90 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 90 Tablett"
 * status = #active
 
@@ -4553,10 +4299,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 100 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1109809"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 100 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 100 Tablett"
 * status = #active
 
@@ -4590,10 +4334,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 50 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1109786"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 50 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 50 Tablett"
 * status = #active
 
@@ -4626,10 +4368,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 98 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1109797"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 98 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 98 Tablett"
 * status = #active
 
@@ -4662,10 +4402,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 28 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1109764"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 28 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 28 Tablett"
 * status = #active
 
@@ -4698,10 +4436,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 30 Tablett"
 Description: "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100006906-2153-1109775"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 30 Tablett"
-
 * description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 30 Tablett"
 * status = #active
 
@@ -4734,10 +4470,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE MEDOCHEMIE - 5mg - 30 Tablett"
 Description: "AMLODIPINE MEDOCHEMIE - 5mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-ML11502-2393-1295737"
 * name = "AMLODIPINE MEDOCHEMIE - 5mg - 30 Tablett"
-
 * description = "AMLODIPINE MEDOCHEMIE - 5mg - 30 Tablett"
 * status = #active
 
@@ -4771,10 +4505,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE VITABALANS - 5mg - 30 Tablett"
 Description: "AMLODIPINE VITABALANS - 5mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-ML194-3286-1445284"
 * name = "AMLODIPINE VITABALANS - 5mg - 30 Tablett"
-
 * description = "AMLODIPINE VITABALANS - 5mg - 30 Tablett"
 * status = #active
 
@@ -4807,10 +4539,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE VITABALANS - 5mg - 100 Tablett"
 Description: "AMLODIPINE VITABALANS - 5mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-ML194-3286-1445307"
 * name = "AMLODIPINE VITABALANS - 5mg - 100 Tablett"
-
 * description = "AMLODIPINE VITABALANS - 5mg - 100 Tablett"
 * status = #active
 
@@ -4843,10 +4573,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE VITABALANS - 5mg - 90 Tablett"
 Description: "AMLODIPINE VITABALANS - 5mg - 90 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-ML194-3286-1865707"
 * name = "AMLODIPINE VITABALANS - 5mg - 90 Tablett"
-
 * description = "AMLODIPINE VITABALANS - 5mg - 90 Tablett"
 * status = #active
 
@@ -4879,10 +4607,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "AMLODIPINE VITABALANS - 5mg - 60 Tablett"
 Description: "AMLODIPINE VITABALANS - 5mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-ML194-3286-1445295"
 * name = "AMLODIPINE VITABALANS - 5mg - 60 Tablett"
-
 * description = "AMLODIPINE VITABALANS - 5mg - 60 Tablett"
 * status = #active
 
@@ -4915,10 +4641,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 14 Tablett"
 Description: "NORVASC - 5mg - 14 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738515"
 * name = "NORVASC - 5mg - 14 Tablett"
-
 * description = "NORVASC - 5mg - 14 Tablett"
 * status = #active
 
@@ -4951,10 +4675,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 50 Tablett"
 Description: "NORVASC - 5mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738548"
 * name = "NORVASC - 5mg - 50 Tablett"
-
 * description = "NORVASC - 5mg - 50 Tablett"
 * status = #active
 
@@ -4987,10 +4709,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 98 Tablett"
 Description: "NORVASC - 5mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553644"
 * name = "NORVASC - 5mg - 98 Tablett"
-
 * description = "NORVASC - 5mg - 98 Tablett"
 * status = #active
 
@@ -5023,10 +4743,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 30 Tablett"
 Description: "NORVASC - 5mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738481"
 * name = "NORVASC - 5mg - 30 Tablett"
-
 * description = "NORVASC - 5mg - 30 Tablett"
 * status = #active
 
@@ -5059,10 +4777,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 10 Tablett"
 Description: "NORVASC - 5mg - 10 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738504"
 * name = "NORVASC - 5mg - 10 Tablett"
-
 * description = "NORVASC - 5mg - 10 Tablett"
 * status = #active
 
@@ -5095,10 +4811,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 4 Tablett"
 Description: "NORVASC - 5mg - 4 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738492"
 * name = "NORVASC - 5mg - 4 Tablett"
-
 * description = "NORVASC - 5mg - 4 Tablett"
 * status = #active
 
@@ -5131,10 +4845,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 20 Tablett"
 Description: "NORVASC - 5mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738526"
 * name = "NORVASC - 5mg - 20 Tablett"
-
 * description = "NORVASC - 5mg - 20 Tablett"
 * status = #active
 
@@ -5167,10 +4879,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 30 Tablett"
 Description: "NORVASC - 5mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1018538"
 * name = "NORVASC - 5mg - 30 Tablett"
-
 * description = "NORVASC - 5mg - 30 Tablett"
 * status = #active
 
@@ -5203,10 +4913,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 28 Tablett"
 Description: "NORVASC - 5mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738537"
 * name = "NORVASC - 5mg - 28 Tablett"
-
 * description = "NORVASC - 5mg - 28 Tablett"
 * status = #active
 
@@ -5239,10 +4947,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 60 Tablett"
 Description: "NORVASC - 5mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738559"
 * name = "NORVASC - 5mg - 60 Tablett"
-
 * description = "NORVASC - 5mg - 60 Tablett"
 * status = #active
 
@@ -5275,10 +4981,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 98 Tablett"
 Description: "NORVASC - 5mg - 98 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738560"
 * name = "NORVASC - 5mg - 98 Tablett"
-
 * description = "NORVASC - 5mg - 98 Tablett"
 * status = #active
 
@@ -5311,10 +5015,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 500 Tablett"
 Description: "NORVASC - 5mg - 500 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738593"
 * name = "NORVASC - 5mg - 500 Tablett"
-
 * description = "NORVASC - 5mg - 500 Tablett"
 * status = #active
 
@@ -5347,10 +5049,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 100 Tablett"
 Description: "NORVASC - 5mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738571"
 * name = "NORVASC - 5mg - 100 Tablett"
-
 * description = "NORVASC - 5mg - 100 Tablett"
 * status = #active
 
@@ -5383,10 +5083,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 300 Tablett"
 Description: "NORVASC - 5mg - 300 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100055675-6159-1738582"
 * name = "NORVASC - 5mg - 300 Tablett"
-
 * description = "NORVASC - 5mg - 300 Tablett"
 * status = #active
 
@@ -5419,10 +5117,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 30 Tablett"
 Description: "NORVASC - 5mg - 30 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100044049-7863-1830585"
 * name = "NORVASC - 5mg - 30 Tablett"
-
 * description = "NORVASC - 5mg - 30 Tablett"
 * status = #active
 
@@ -5455,10 +5151,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 50 Tablett"
 Description: "NORVASC - 5mg - 50 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553622"
 * name = "NORVASC - 5mg - 50 Tablett"
-
 * description = "NORVASC - 5mg - 50 Tablett"
 * status = #active
 
@@ -5491,10 +5185,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 60 Tablett"
 Description: "NORVASC - 5mg - 60 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553633"
 * name = "NORVASC - 5mg - 60 Tablett"
-
 * description = "NORVASC - 5mg - 60 Tablett"
 * status = #active
 
@@ -5527,10 +5219,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 100 Tablett"
 Description: "NORVASC - 5mg - 100 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553655"
 * name = "NORVASC - 5mg - 100 Tablett"
-
 * description = "NORVASC - 5mg - 100 Tablett"
 * status = #active
 
@@ -5563,10 +5253,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 300 Tablett"
 Description: "NORVASC - 5mg - 300 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553666"
 * name = "NORVASC - 5mg - 300 Tablett"
-
 * description = "NORVASC - 5mg - 300 Tablett"
 * status = #active
 
@@ -5599,10 +5287,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 500 Tablett"
 Description: "NORVASC - 5mg - 500 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553677"
 * name = "NORVASC - 5mg - 500 Tablett"
-
 * description = "NORVASC - 5mg - 500 Tablett"
 * status = #active
 
@@ -5635,10 +5321,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 14 Tablett"
 Description: "NORVASC - 5mg - 14 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553598"
 * name = "NORVASC - 5mg - 14 Tablett"
-
 * description = "NORVASC - 5mg - 14 Tablett"
 * status = #active
 
@@ -5671,10 +5355,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 20 Tablett"
 Description: "NORVASC - 5mg - 20 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553600"
 * name = "NORVASC - 5mg - 20 Tablett"
-
 * description = "NORVASC - 5mg - 20 Tablett"
 * status = #active
 
@@ -5707,10 +5389,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 28 Tablett"
 Description: "NORVASC - 5mg - 28 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553611"
 * name = "NORVASC - 5mg - 28 Tablett"
-
 * description = "NORVASC - 5mg - 28 Tablett"
 * status = #active
 
@@ -5743,10 +5423,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 4 Tablett"
 Description: "NORVASC - 5mg - 4 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553576"
 * name = "NORVASC - 5mg - 4 Tablett"
-
 * description = "NORVASC - 5mg - 4 Tablett"
 * status = #active
 
@@ -5779,10 +5457,8 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "NORVASC - 5mg - 10 Tablett"
 Description: "NORVASC - 5mg - 10 Tablett"
 Usage: #example
-//* id = "" 
 * identifier[pcid].value = "EE-100032008-240-1553587"
 * name = "NORVASC - 5mg - 10 Tablett"
-
 * description = "NORVASC - 5mg - 10 Tablett"
 * status = #active
 

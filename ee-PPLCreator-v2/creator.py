@@ -213,6 +213,9 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
             "description": dict(Counter(errors_nr)),
         }
     print(erros)
+    f = open("validation_output.txt", "a")
+    f.write(str(erros))
+    f.close()
 
 
 # remove duplicates
