@@ -17,7 +17,8 @@ Title: "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nom
 Description: "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}} {{row["Package description  4.2"]}}"
 Usage: #example
 
-* identifier.value = "{{row["CNPEM"]}}"
+//true??
+* identifier[pcid].value = "{{row["CNPEM"]}}"
 
 * name = "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}} {{row["Package description  4.2"]}}"
 

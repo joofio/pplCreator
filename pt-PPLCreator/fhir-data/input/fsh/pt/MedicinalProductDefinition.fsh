@@ -39,6 +39,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-711
@@ -79,6 +80,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-886
@@ -119,6 +121,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-887
@@ -159,6 +162,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-888
@@ -199,6 +203,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-889
@@ -239,6 +244,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-890
@@ -279,6 +285,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-891
@@ -319,6 +326,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1255
@@ -359,6 +367,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1257
@@ -399,6 +408,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1258
@@ -439,6 +449,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1259
@@ -479,6 +490,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1410
@@ -519,6 +531,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1887
@@ -559,6 +572,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2516
@@ -599,6 +613,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3277
@@ -639,6 +654,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3299
@@ -679,6 +695,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3347
@@ -719,6 +736,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3349
@@ -759,6 +777,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3350
@@ -799,6 +818,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3916
@@ -839,6 +859,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3975
@@ -879,6 +900,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-4089
@@ -919,6 +941,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-4135
@@ -959,6 +982,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5323
@@ -999,6 +1023,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5454
@@ -1039,6 +1064,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5586
@@ -1079,6 +1105,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5612
@@ -1119,6 +1146,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5624
@@ -1159,6 +1187,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6595
@@ -1199,6 +1228,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6619
@@ -1239,6 +1269,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6661
@@ -1279,6 +1310,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7439
@@ -1319,6 +1351,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7600
@@ -1359,6 +1392,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7743
@@ -1399,6 +1433,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7744
@@ -1439,6 +1474,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7745
@@ -1479,6 +1515,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7746
@@ -1519,6 +1556,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8063
@@ -1559,6 +1597,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8335
@@ -1599,6 +1638,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8336
@@ -1639,6 +1679,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8338
@@ -1679,6 +1720,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8339
@@ -1719,6 +1761,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8606
@@ -1759,6 +1802,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8608
@@ -1799,6 +1843,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8610
@@ -1839,6 +1884,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8611
@@ -1879,6 +1925,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8612
@@ -1919,6 +1966,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8613
@@ -1959,6 +2007,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8724
@@ -1999,6 +2048,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8988
@@ -2039,6 +2089,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8989
@@ -2079,6 +2130,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9078
@@ -2119,6 +2171,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9289
@@ -2159,6 +2212,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9290
@@ -2199,6 +2253,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9292
@@ -2239,6 +2294,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9291
@@ -2279,6 +2335,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9295
@@ -2319,6 +2376,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9475
@@ -2359,6 +2417,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9495
@@ -2399,6 +2458,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9496
@@ -2439,6 +2499,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9499
@@ -2479,6 +2540,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9572
@@ -2519,6 +2581,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9717
@@ -2559,6 +2622,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-12852
@@ -2599,6 +2663,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29283
@@ -2639,6 +2704,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29815
@@ -2679,6 +2745,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29866
@@ -2719,6 +2786,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30174
@@ -2759,6 +2827,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31299
@@ -2799,6 +2868,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32193
@@ -2839,6 +2909,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32900
@@ -2879,6 +2950,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33195
@@ -2919,6 +2991,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35221
@@ -2959,6 +3032,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35225
@@ -2999,6 +3073,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37274
@@ -3039,6 +3114,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37435
@@ -3079,6 +3155,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38887
@@ -3119,6 +3196,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39288
@@ -3159,6 +3237,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39289
@@ -3199,6 +3278,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39500
@@ -3239,6 +3319,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41073
@@ -3279,6 +3360,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41451
@@ -3319,6 +3401,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45545
@@ -3359,6 +3442,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45546
@@ -3399,6 +3483,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45547
@@ -3439,6 +3524,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45552
@@ -3479,6 +3565,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45694
@@ -3519,6 +3606,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46630
@@ -3559,6 +3647,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30078
@@ -3599,6 +3688,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7438
@@ -3639,6 +3729,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32365
@@ -3679,6 +3770,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38279
@@ -3719,6 +3811,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6249
@@ -3759,6 +3852,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6250
@@ -3799,6 +3893,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5220
@@ -3839,6 +3934,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-712
@@ -3879,6 +3975,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9462
@@ -3919,6 +4016,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9483
@@ -3959,6 +4057,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9459
@@ -3999,6 +4098,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9801
@@ -4039,6 +4139,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9657
@@ -4079,6 +4180,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9672
@@ -4119,6 +4221,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9682
@@ -4159,6 +4262,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9737
@@ -4199,6 +4303,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9875
@@ -4239,6 +4344,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9879
@@ -4279,6 +4385,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10056
@@ -4319,6 +4426,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10059
@@ -4359,6 +4467,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10071
@@ -4399,6 +4508,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10153
@@ -4439,6 +4549,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10154
@@ -4479,6 +4590,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10347
@@ -4519,6 +4631,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10348
@@ -4559,6 +4672,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10353
@@ -4599,6 +4713,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10459
@@ -4639,6 +4754,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10745
@@ -4679,6 +4795,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10811
@@ -4719,6 +4836,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10813
@@ -4759,6 +4877,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-10908
@@ -4799,6 +4918,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-11017
@@ -4839,6 +4959,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-11042
@@ -4879,6 +5000,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-11052
@@ -4919,6 +5041,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-11138
@@ -4959,6 +5082,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-12699
@@ -4999,6 +5123,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-12700
@@ -5039,6 +5164,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-12858
@@ -5079,6 +5205,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-14352
@@ -5119,6 +5246,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-13642
@@ -5159,6 +5287,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-15218
@@ -5199,6 +5328,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-15219
@@ -5239,6 +5369,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-16068
@@ -5279,6 +5410,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-16072
@@ -5319,6 +5451,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-16075
@@ -5359,6 +5492,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-18454
@@ -5399,6 +5533,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-19795
@@ -5443,6 +5578,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-19796
@@ -5483,6 +5619,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29059
@@ -5523,6 +5660,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29060
@@ -5563,6 +5701,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29061
@@ -5603,6 +5742,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29062
@@ -5643,6 +5783,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29063
@@ -5683,6 +5824,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29064
@@ -5723,6 +5865,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29065
@@ -5763,6 +5906,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29068
@@ -5803,6 +5947,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-22350
@@ -5843,6 +5988,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-24367
@@ -5883,6 +6029,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-25282
@@ -5923,6 +6070,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29136
@@ -5963,6 +6111,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29143
@@ -6003,6 +6152,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29301
@@ -6043,6 +6193,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29302
@@ -6083,6 +6234,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29484
@@ -6123,6 +6275,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29485
@@ -6163,6 +6316,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29586
@@ -6203,6 +6357,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29588
@@ -6243,6 +6398,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29594
@@ -6283,6 +6439,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29601
@@ -6323,6 +6480,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29618
@@ -6363,6 +6521,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29672
@@ -6403,6 +6562,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29681
@@ -6443,6 +6603,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29682
@@ -6483,6 +6644,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29709
@@ -6523,6 +6685,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29748
@@ -6563,6 +6726,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29749
@@ -6603,6 +6767,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29684
@@ -6643,6 +6808,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35924
@@ -6683,6 +6849,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-101
@@ -6727,6 +6894,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-147
@@ -6767,6 +6935,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-230
@@ -6807,6 +6976,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-348
@@ -6847,6 +7017,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-349
@@ -6887,6 +7058,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-351
@@ -6927,6 +7099,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-406
@@ -6967,6 +7140,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-407
@@ -7007,6 +7181,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-408
@@ -7047,6 +7222,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-409
@@ -7087,6 +7263,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-675
@@ -7127,6 +7304,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-555
@@ -7167,6 +7345,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-556
@@ -7207,6 +7386,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-814
@@ -7247,6 +7427,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1026
@@ -7287,6 +7468,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1028
@@ -7327,6 +7509,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1029
@@ -7367,6 +7550,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1294
@@ -7407,6 +7591,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1293
@@ -7447,6 +7632,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1352
@@ -7487,6 +7673,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1447
@@ -7527,6 +7714,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1500
@@ -7567,6 +7755,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1585
@@ -7607,6 +7796,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1794
@@ -7647,6 +7837,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1797
@@ -7687,6 +7878,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1802
@@ -7727,6 +7919,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1803
@@ -7767,6 +7960,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1901
@@ -7807,6 +8001,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1903
@@ -7847,6 +8042,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1904
@@ -7887,6 +8083,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-1906
@@ -7927,6 +8124,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2012
@@ -7967,6 +8165,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2316
@@ -8007,6 +8206,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2422
@@ -8051,6 +8251,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2527
@@ -8091,6 +8292,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2528
@@ -8131,6 +8333,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2549
@@ -8171,6 +8374,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2553
@@ -8211,6 +8415,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2591
@@ -8251,6 +8456,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2673
@@ -8291,6 +8497,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2821
@@ -8331,6 +8538,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2938
@@ -8371,6 +8579,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2966
@@ -8411,6 +8620,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2967
@@ -8451,6 +8661,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-2979
@@ -8491,6 +8702,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3345
@@ -8531,6 +8743,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3348
@@ -8571,6 +8784,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3508
@@ -8611,6 +8825,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3509
@@ -8651,6 +8866,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3774
@@ -8691,6 +8907,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-3915
@@ -8731,6 +8948,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-4054
@@ -8771,6 +8989,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-4402
@@ -8811,6 +9030,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-4403
@@ -8851,6 +9071,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-4404
@@ -8891,6 +9112,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-4413
@@ -8931,6 +9153,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-4432
@@ -8971,6 +9194,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-4846
@@ -9011,6 +9235,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-4847
@@ -9051,6 +9276,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5024
@@ -9091,6 +9317,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5025
@@ -9131,6 +9358,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5037
@@ -9171,6 +9399,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5038
@@ -9211,6 +9440,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5049
@@ -9251,6 +9481,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5054
@@ -9291,6 +9522,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5224
@@ -9331,6 +9563,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5225
@@ -9371,6 +9604,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5227
@@ -9411,6 +9645,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5157
@@ -9451,6 +9686,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5158
@@ -9491,6 +9727,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5160
@@ -9531,6 +9768,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5452
@@ -9571,6 +9809,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5568
@@ -9611,6 +9850,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5569
@@ -9651,6 +9891,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5601
@@ -9691,6 +9932,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5769
@@ -9731,6 +9973,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5770
@@ -9771,6 +10014,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5772
@@ -9811,6 +10055,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5773
@@ -9851,6 +10096,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5857
@@ -9891,6 +10137,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5858
@@ -9931,6 +10178,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-5859
@@ -9971,6 +10219,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6117
@@ -10011,6 +10260,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6118
@@ -10051,6 +10301,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6133
@@ -10091,6 +10342,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6312
@@ -10131,6 +10383,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6464
@@ -10171,6 +10424,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6465
@@ -10211,6 +10465,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6604
@@ -10251,6 +10506,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6617
@@ -10291,6 +10547,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6621
@@ -10331,6 +10588,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6657
@@ -10371,6 +10629,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6658
@@ -10411,6 +10670,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6659
@@ -10451,6 +10711,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6662
@@ -10491,6 +10752,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6641
@@ -10531,6 +10793,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6698
@@ -10571,6 +10834,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6869
@@ -10611,6 +10875,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6936
@@ -10651,6 +10916,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6937
@@ -10691,6 +10957,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7128
@@ -10731,6 +10998,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7131
@@ -10771,6 +11039,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7213
@@ -10811,6 +11080,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7741
@@ -10851,6 +11121,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7778
@@ -10891,6 +11162,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-7907
@@ -10931,6 +11203,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8064
@@ -10971,6 +11244,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8072
@@ -11011,6 +11285,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8084
@@ -11051,6 +11326,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8085
@@ -11091,6 +11367,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8169
@@ -11131,6 +11408,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8167
@@ -11171,6 +11449,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8166
@@ -11211,6 +11490,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8168
@@ -11251,6 +11531,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8206
@@ -11291,6 +11572,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8337
@@ -11331,6 +11613,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8601
@@ -11371,6 +11654,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8604
@@ -11411,6 +11695,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8654
@@ -11451,6 +11736,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8655
@@ -11491,6 +11777,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8656
@@ -11531,6 +11818,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8657
@@ -11571,6 +11859,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8673
@@ -11611,6 +11900,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8705
@@ -11651,6 +11941,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8853
@@ -11691,6 +11982,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8854
@@ -11731,6 +12023,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-8895
@@ -11771,6 +12064,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9082
@@ -11811,6 +12105,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9083
@@ -11851,6 +12146,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9084
@@ -11891,6 +12187,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9077
@@ -11931,6 +12228,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9293
@@ -11971,6 +12269,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9297
@@ -12011,6 +12310,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9299
@@ -12051,6 +12351,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9355
@@ -12091,6 +12392,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-9458
@@ -12131,6 +12433,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29772
@@ -12171,6 +12474,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29777
@@ -12215,6 +12519,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29824
@@ -12255,6 +12560,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29851
@@ -12295,6 +12601,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29850
@@ -12335,6 +12642,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29912
@@ -12375,6 +12683,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-29940
@@ -12415,6 +12724,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30026
@@ -12455,6 +12765,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30029
@@ -12495,6 +12806,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30112
@@ -12535,6 +12847,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30157
@@ -12575,6 +12888,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30110
@@ -12615,6 +12929,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30203
@@ -12655,6 +12970,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30297
@@ -12695,6 +13011,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30304
@@ -12735,6 +13052,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30389
@@ -12775,6 +13093,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30457
@@ -12815,6 +13134,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30462
@@ -12855,6 +13175,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30464
@@ -12895,6 +13216,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30465
@@ -12935,6 +13257,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30734
@@ -12975,6 +13298,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30933
@@ -13015,6 +13339,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30934
@@ -13055,6 +13380,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30975
@@ -13095,6 +13421,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30976
@@ -13135,6 +13462,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30978
@@ -13175,6 +13503,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30988
@@ -13215,6 +13544,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31158
@@ -13255,6 +13585,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31159
@@ -13295,6 +13626,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31414
@@ -13335,6 +13667,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31814
@@ -13379,6 +13712,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31847
@@ -13419,6 +13753,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31848
@@ -13459,6 +13794,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31849
@@ -13499,6 +13835,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31888
@@ -13539,6 +13876,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31890
@@ -13579,6 +13917,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31902
@@ -13619,6 +13958,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31926
@@ -13659,6 +13999,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32197
@@ -13699,6 +14040,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32213
@@ -13739,6 +14081,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40632
@@ -13779,6 +14122,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40659
@@ -13819,6 +14163,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40660
@@ -13859,6 +14204,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40661
@@ -13899,6 +14245,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40662
@@ -13939,6 +14286,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40663
@@ -13979,6 +14327,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40705
@@ -14019,6 +14368,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40706
@@ -14059,6 +14409,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40869
@@ -14099,6 +14450,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41093
@@ -14139,6 +14491,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41096
@@ -14179,6 +14532,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41049
@@ -14219,6 +14573,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41145
@@ -14259,6 +14614,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41146
@@ -14299,6 +14655,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41164
@@ -14339,6 +14696,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41165
@@ -14379,6 +14737,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41290
@@ -14419,6 +14778,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41347
@@ -14459,6 +14819,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41348
@@ -14499,6 +14860,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41354
@@ -14539,6 +14901,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41355
@@ -14579,6 +14942,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41454
@@ -14619,6 +14983,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41455
@@ -14659,6 +15024,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41489
@@ -14699,6 +15065,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41492
@@ -14739,6 +15106,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41491
@@ -14779,6 +15147,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41490
@@ -14819,6 +15188,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41896
@@ -14859,6 +15229,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41897
@@ -14899,6 +15270,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41890
@@ -14939,6 +15311,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41893
@@ -14979,6 +15352,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41911
@@ -15019,6 +15393,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41943
@@ -15059,6 +15434,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41944
@@ -15099,6 +15475,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42190
@@ -15139,6 +15516,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42191
@@ -15179,6 +15557,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42318
@@ -15219,6 +15598,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42319
@@ -15259,6 +15639,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42475
@@ -15299,6 +15680,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42476
@@ -15339,6 +15721,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42567
@@ -15379,6 +15762,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42568
@@ -15419,6 +15803,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42585
@@ -15459,6 +15844,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42616
@@ -15499,6 +15885,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42992
@@ -15539,6 +15926,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42993
@@ -15579,6 +15967,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42994
@@ -15619,6 +16008,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-43272
@@ -15659,6 +16049,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-43266
@@ -15699,6 +16090,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-43380
@@ -15739,6 +16131,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-43425
@@ -15779,6 +16172,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-43635
@@ -15819,6 +16213,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44140
@@ -15859,6 +16254,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44141
@@ -15899,6 +16295,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44142
@@ -15939,6 +16336,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44264
@@ -15979,6 +16377,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44265
@@ -16019,6 +16418,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44266
@@ -16059,6 +16459,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44333
@@ -16099,6 +16500,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44334
@@ -16139,6 +16541,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44344
@@ -16179,6 +16582,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44467
@@ -16219,6 +16623,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44468
@@ -16259,6 +16664,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44472
@@ -16299,6 +16705,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44469
@@ -16339,6 +16746,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44471
@@ -16379,6 +16787,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44618
@@ -16419,6 +16828,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44619
@@ -16459,6 +16869,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44617
@@ -16499,6 +16910,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44633
@@ -16539,6 +16951,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44729
@@ -16579,6 +16992,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44912
@@ -16619,6 +17033,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44913
@@ -16659,6 +17074,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44917
@@ -16699,6 +17115,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-44918
@@ -16739,6 +17156,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45023
@@ -16779,6 +17197,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45123
@@ -16819,6 +17238,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45246
@@ -16859,6 +17279,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45265
@@ -16899,6 +17320,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45282
@@ -16939,6 +17361,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45297
@@ -16979,6 +17402,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45305
@@ -17019,6 +17443,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45309
@@ -17059,6 +17484,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45311
@@ -17099,6 +17525,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45312
@@ -17139,6 +17566,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45477
@@ -17179,6 +17607,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45734
@@ -17219,6 +17648,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45849
@@ -17259,6 +17689,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-45850
@@ -17299,6 +17730,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46030
@@ -17339,6 +17771,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46180
@@ -17379,6 +17812,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46258
@@ -17419,6 +17853,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46332
@@ -17459,6 +17894,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46342
@@ -17499,6 +17935,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46418
@@ -17539,6 +17976,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46417
@@ -17579,6 +18017,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46419
@@ -17619,6 +18058,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46422
@@ -17659,6 +18099,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46423
@@ -17699,6 +18140,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46425
@@ -17739,6 +18181,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46476
@@ -17779,6 +18222,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46477
@@ -17819,6 +18263,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46887
@@ -17859,6 +18304,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46888
@@ -17899,6 +18345,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46924
@@ -17939,6 +18386,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47093
@@ -17979,6 +18427,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47097
@@ -18019,6 +18468,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47098
@@ -18059,6 +18509,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47181
@@ -18099,6 +18550,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47180
@@ -18139,6 +18591,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47182
@@ -18179,6 +18632,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47183
@@ -18219,6 +18673,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47184
@@ -18259,6 +18714,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47429
@@ -18299,6 +18755,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47529
@@ -18339,6 +18796,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47580
@@ -18379,6 +18837,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47590
@@ -18419,6 +18878,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47591
@@ -18459,6 +18919,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47614
@@ -18499,6 +18960,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47773
@@ -18539,6 +19001,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47946
@@ -18579,6 +19042,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48078
@@ -18619,6 +19083,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48243
@@ -18659,6 +19124,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48491
@@ -18699,6 +19165,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48531
@@ -18739,6 +19206,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48539
@@ -18779,6 +19247,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48620
@@ -18819,6 +19288,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48621
@@ -18859,6 +19329,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48622
@@ -18899,6 +19370,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48623
@@ -18939,6 +19411,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48624
@@ -18979,6 +19452,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48625
@@ -19019,6 +19493,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48702
@@ -19059,6 +19534,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48701
@@ -19099,6 +19575,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48815
@@ -19139,6 +19616,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48816
@@ -19179,6 +19657,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49050
@@ -19219,6 +19698,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49051
@@ -19259,6 +19739,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49570
@@ -19299,6 +19780,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49778
@@ -19339,6 +19821,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49779
@@ -19379,6 +19862,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49986
@@ -19419,6 +19903,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50019
@@ -19459,6 +19944,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50022
@@ -19499,6 +19985,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50306
@@ -19539,6 +20026,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50312
@@ -19579,6 +20067,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50386
@@ -19619,6 +20108,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50385
@@ -19659,6 +20149,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50453
@@ -19699,6 +20190,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50849
@@ -19739,6 +20231,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50851
@@ -19779,6 +20272,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50905
@@ -19819,6 +20313,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50923
@@ -19859,6 +20354,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50933
@@ -19899,6 +20395,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50930
@@ -19939,6 +20436,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50942
@@ -19979,6 +20477,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50943
@@ -20019,6 +20518,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50944
@@ -20059,6 +20559,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50945
@@ -20099,6 +20600,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50966
@@ -20139,6 +20641,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50967
@@ -20179,6 +20682,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50983
@@ -20219,6 +20723,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50984
@@ -20259,6 +20764,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51159
@@ -20299,6 +20805,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51221
@@ -20339,6 +20846,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51243
@@ -20379,6 +20887,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51354
@@ -20419,6 +20928,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51357
@@ -20459,6 +20969,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51358
@@ -20499,6 +21010,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51374
@@ -20539,6 +21051,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51375
@@ -20579,6 +21092,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51383
@@ -20619,6 +21133,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51407
@@ -20659,6 +21174,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51409
@@ -20699,6 +21215,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51410
@@ -20739,6 +21256,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51531
@@ -20779,6 +21297,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52043
@@ -20819,6 +21338,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51704
@@ -20859,6 +21379,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51924
@@ -20899,6 +21420,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51925
@@ -20939,6 +21461,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51997
@@ -20979,6 +21502,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52091
@@ -21019,6 +21543,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52217
@@ -21059,6 +21584,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52240
@@ -21099,6 +21625,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52241
@@ -21139,6 +21666,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52242
@@ -21179,6 +21707,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52259
@@ -21219,6 +21748,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52706
@@ -21259,6 +21789,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52707
@@ -21299,6 +21830,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52951
@@ -21339,6 +21871,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52952
@@ -21379,6 +21912,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52954
@@ -21419,6 +21953,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52955
@@ -21459,6 +21994,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53175
@@ -21499,6 +22035,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32414
@@ -21539,6 +22076,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32415
@@ -21579,6 +22117,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32425
@@ -21619,6 +22158,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32764
@@ -21659,6 +22199,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32767
@@ -21699,6 +22240,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32768
@@ -21739,6 +22281,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32853
@@ -21779,6 +22322,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32896
@@ -21819,6 +22363,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32897
@@ -21859,6 +22404,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32930
@@ -21899,6 +22445,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33171
@@ -21939,6 +22486,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33185
@@ -21979,6 +22527,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33285
@@ -22019,6 +22568,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33348
@@ -22059,6 +22609,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33351
@@ -22099,6 +22650,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33352
@@ -22139,6 +22691,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33375
@@ -22179,6 +22732,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33407
@@ -22219,6 +22773,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33689
@@ -22259,6 +22814,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33788
@@ -22299,6 +22855,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33795
@@ -22339,6 +22896,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33813
@@ -22379,6 +22937,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33794
@@ -22419,6 +22978,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33867
@@ -22459,6 +23019,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33945
@@ -22499,6 +23060,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33997
@@ -22539,6 +23101,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34001
@@ -22579,6 +23142,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34002
@@ -22619,6 +23183,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34004
@@ -22659,6 +23224,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34005
@@ -22699,6 +23265,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34003
@@ -22739,6 +23306,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34049
@@ -22779,6 +23347,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34057
@@ -22819,6 +23388,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34175
@@ -22859,6 +23429,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34342
@@ -22899,6 +23470,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34509
@@ -22939,6 +23511,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34514
@@ -22979,6 +23552,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34516
@@ -23019,6 +23593,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34603
@@ -23059,6 +23634,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34632
@@ -23099,6 +23675,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34648
@@ -23139,6 +23716,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34650
@@ -23179,6 +23757,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34651
@@ -23219,6 +23798,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34716
@@ -23259,6 +23839,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34787
@@ -23299,6 +23880,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34788
@@ -23339,6 +23921,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34791
@@ -23379,6 +23962,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34792
@@ -23419,6 +24003,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34871
@@ -23459,6 +24044,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34907
@@ -23499,6 +24085,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34970
@@ -23539,6 +24126,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34971
@@ -23579,6 +24167,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34972
@@ -23619,6 +24208,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35074
@@ -23659,6 +24249,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35111
@@ -23699,6 +24290,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35245
@@ -23739,6 +24331,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35252
@@ -23779,6 +24372,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35272
@@ -23819,6 +24413,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35282
@@ -23859,6 +24454,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35286
@@ -23899,6 +24495,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35309
@@ -23939,6 +24536,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35442
@@ -23979,6 +24577,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35443
@@ -24019,6 +24618,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35453
@@ -24059,6 +24659,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35454
@@ -24099,6 +24700,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35460
@@ -24139,6 +24741,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35465
@@ -24179,6 +24782,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35521
@@ -24219,6 +24823,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35533
@@ -24259,6 +24864,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35534
@@ -24299,6 +24905,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35925
@@ -24339,6 +24946,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35948
@@ -24379,6 +24987,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-35959
@@ -24419,6 +25028,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36023
@@ -24459,6 +25069,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36224
@@ -24499,6 +25110,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36417
@@ -24539,6 +25151,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36419
@@ -24579,6 +25192,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36420
@@ -24619,6 +25233,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36429
@@ -24659,6 +25274,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36430
@@ -24699,6 +25315,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36551
@@ -24739,6 +25356,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36566
@@ -24779,6 +25397,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36624
@@ -24819,6 +25438,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36625
@@ -24859,6 +25479,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36602
@@ -24899,6 +25520,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36637
@@ -24939,6 +25561,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36639
@@ -24979,6 +25602,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36728
@@ -25019,6 +25643,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36730
@@ -25059,6 +25684,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36773
@@ -25099,6 +25725,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36866
@@ -25139,6 +25766,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36894
@@ -25179,6 +25807,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36896
@@ -25219,6 +25848,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36897
@@ -25259,6 +25889,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36895
@@ -25299,6 +25930,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37094
@@ -25339,6 +25971,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37098
@@ -25379,6 +26012,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37118
@@ -25419,6 +26053,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37212
@@ -25459,6 +26094,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37272
@@ -25499,6 +26135,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37273
@@ -25539,6 +26176,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37335
@@ -25579,6 +26217,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37336
@@ -25619,6 +26258,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37430
@@ -25659,6 +26299,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37446
@@ -25699,6 +26340,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37436
@@ -25739,6 +26381,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37735
@@ -25779,6 +26422,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-37848
@@ -25819,6 +26463,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38050
@@ -25859,6 +26504,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38051
@@ -25899,6 +26545,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38099
@@ -25939,6 +26586,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38098
@@ -25979,6 +26627,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38134
@@ -26019,6 +26668,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38135
@@ -26059,6 +26709,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38221
@@ -26099,6 +26750,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38302
@@ -26139,6 +26791,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38303
@@ -26179,6 +26832,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38304
@@ -26219,6 +26873,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38308
@@ -26259,6 +26914,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38309
@@ -26299,6 +26955,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38310
@@ -26339,6 +26996,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38464
@@ -26379,6 +27037,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38466
@@ -26419,6 +27078,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38849
@@ -26459,6 +27119,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38856
@@ -26499,6 +27160,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38857
@@ -26539,6 +27201,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38858
@@ -26579,6 +27242,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39027
@@ -26619,6 +27283,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39046
@@ -26659,6 +27324,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39212
@@ -26699,6 +27365,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39296
@@ -26739,6 +27406,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39297
@@ -26779,6 +27447,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39341
@@ -26819,6 +27488,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39342
@@ -26859,6 +27529,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39501
@@ -26899,6 +27570,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39767
@@ -26939,6 +27611,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39803
@@ -26979,6 +27652,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39986
@@ -27019,6 +27693,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-39989
@@ -27059,6 +27734,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40066
@@ -27099,6 +27775,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40067
@@ -27139,6 +27816,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40311
@@ -27179,6 +27857,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-40314
@@ -27219,6 +27898,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-6310
@@ -27259,6 +27939,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54607
@@ -27299,6 +27980,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54847
@@ -27339,6 +28021,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55500
@@ -27379,6 +28062,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30411
@@ -27419,6 +28103,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30756
@@ -27459,6 +28144,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-30925
@@ -27499,6 +28185,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31151
@@ -27539,6 +28226,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-31927
@@ -27579,6 +28267,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-34889
@@ -27619,6 +28308,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-32592
@@ -27659,6 +28349,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33186
@@ -27699,6 +28390,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33405
@@ -27739,6 +28431,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33851
@@ -27779,6 +28472,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-33852
@@ -27819,6 +28513,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-36964
@@ -27859,6 +28554,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-38722
@@ -27899,6 +28595,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-41245
@@ -27939,6 +28636,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-42069
@@ -27979,6 +28677,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48767
@@ -28019,6 +28718,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48814
@@ -28059,6 +28759,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49291
@@ -28099,6 +28800,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49292
@@ -28139,6 +28841,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49348
@@ -28179,6 +28882,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49479
@@ -28219,6 +28923,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-49521
@@ -28259,6 +28964,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50404
@@ -28299,6 +29005,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50420
@@ -28343,6 +29050,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50848
@@ -28383,6 +29091,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-50924
@@ -28423,6 +29132,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51160
@@ -28463,6 +29173,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51237
@@ -28503,6 +29214,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51355
@@ -28543,6 +29255,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51650
@@ -28583,6 +29296,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51906
@@ -28623,6 +29337,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51936
@@ -28663,6 +29378,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-51935
@@ -28703,6 +29419,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52018
@@ -28743,6 +29460,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52327
@@ -28787,6 +29505,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52613
@@ -28827,6 +29546,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52821
@@ -28867,6 +29587,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52823
@@ -28907,6 +29628,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52848
@@ -28947,6 +29669,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52863
@@ -28987,6 +29710,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52934
@@ -29027,6 +29751,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-52960
@@ -29067,6 +29792,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53022
@@ -29107,6 +29833,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53399
@@ -29147,6 +29874,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53403
@@ -29187,6 +29915,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53405
@@ -29227,6 +29956,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53412
@@ -29267,6 +29997,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53413
@@ -29307,6 +30038,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53422
@@ -29347,6 +30079,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53424
@@ -29387,6 +30120,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53423
@@ -29427,6 +30161,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53825
@@ -29467,6 +30202,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53827
@@ -29507,6 +30243,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53828
@@ -29547,6 +30284,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-53833
@@ -29587,6 +30325,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54006
@@ -29627,6 +30366,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54008
@@ -29667,6 +30407,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54298
@@ -29707,6 +30448,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54299
@@ -29747,6 +30489,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54361
@@ -29787,6 +30530,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54427
@@ -29827,6 +30571,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54428
@@ -29867,6 +30612,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54429
@@ -29907,6 +30653,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54493
@@ -29947,6 +30694,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54606
@@ -29987,6 +30735,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54611
@@ -30027,6 +30776,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54612
@@ -30067,6 +30817,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54931
@@ -30107,6 +30858,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54933
@@ -30147,6 +30899,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-54968
@@ -30187,6 +30940,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55005
@@ -30227,6 +30981,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55006
@@ -30267,6 +31022,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55007
@@ -30307,6 +31063,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55171
@@ -30347,6 +31104,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55188
@@ -30387,6 +31145,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55189
@@ -30427,6 +31186,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55272
@@ -30467,6 +31227,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55309
@@ -30507,6 +31268,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55331
@@ -30547,6 +31309,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55336
@@ -30587,6 +31350,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55337
@@ -30627,6 +31391,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55349
@@ -30667,6 +31432,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55383
@@ -30707,6 +31473,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55384
@@ -30747,6 +31514,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55397
@@ -30787,6 +31555,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55471
@@ -30827,6 +31596,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55472
@@ -30867,6 +31637,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55700
@@ -30907,6 +31678,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55760
@@ -30947,6 +31719,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55761
@@ -30987,6 +31760,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-55765
@@ -31027,6 +31801,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56004
@@ -31067,6 +31842,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56015
@@ -31107,6 +31883,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56069
@@ -31147,6 +31924,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56070
@@ -31187,6 +31965,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56176
@@ -31227,6 +32006,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56443
@@ -31267,6 +32047,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56444
@@ -31307,6 +32088,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56445
@@ -31347,6 +32129,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56446
@@ -31387,6 +32170,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56477
@@ -31427,6 +32211,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56492
@@ -31467,6 +32252,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56549
@@ -31507,6 +32293,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56548
@@ -31547,6 +32334,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56576
@@ -31587,6 +32375,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56587
@@ -31627,6 +32416,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56588
@@ -31667,6 +32457,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56598
@@ -31707,6 +32498,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56599
@@ -31747,6 +32539,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56600
@@ -31787,6 +32580,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56602
@@ -31827,6 +32621,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56611
@@ -31867,6 +32662,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56612
@@ -31907,6 +32703,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56738
@@ -31947,6 +32744,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56779
@@ -31987,6 +32785,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56819
@@ -32027,6 +32826,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56871
@@ -32067,6 +32867,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56967
@@ -32107,6 +32908,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56968
@@ -32147,6 +32949,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-56966
@@ -32187,6 +32990,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-57019
@@ -32227,6 +33031,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-57034
@@ -32267,6 +33072,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-57043
@@ -32307,6 +33113,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-57044
@@ -32347,6 +33154,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-57048
@@ -32387,6 +33195,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-57045
@@ -32427,6 +33236,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-57099
@@ -32467,6 +33277,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-57100
@@ -32507,6 +33318,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-57101
@@ -32547,6 +33359,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-57113
@@ -32587,6 +33400,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46181
@@ -32627,6 +33441,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46494
@@ -32667,6 +33482,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46493
@@ -32707,6 +33523,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46650
@@ -32747,6 +33564,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-46728
@@ -32787,6 +33605,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47235
@@ -32827,6 +33646,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47274
@@ -32867,6 +33687,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-47384
@@ -32907,6 +33728,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48145
@@ -32947,6 +33769,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48146
@@ -32987,6 +33810,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-48147
@@ -33027,6 +33851,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-571320
@@ -33067,6 +33892,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-571321
@@ -33107,6 +33933,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-571340
@@ -33147,6 +33974,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-571341
@@ -33187,6 +34015,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-571342
@@ -33227,6 +34056,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-571343
@@ -33267,6 +34097,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-571380
@@ -33307,6 +34138,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-571820
@@ -33347,6 +34179,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-571821
@@ -33387,6 +34220,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-573040
@@ -33427,6 +34261,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-573300
@@ -33467,6 +34302,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-573441
@@ -33507,6 +34343,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-574221
@@ -33551,6 +34388,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-574740
@@ -33591,6 +34429,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-575020
@@ -33631,6 +34470,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-575820
@@ -33671,6 +34511,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-575840
@@ -33711,6 +34552,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-576341
@@ -33751,6 +34593,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-578000
@@ -33791,6 +34634,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-578520
@@ -33831,6 +34675,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-578582
@@ -33871,6 +34716,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-580280
@@ -33911,6 +34757,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-580961
@@ -33951,6 +34798,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-580962
@@ -33991,6 +34839,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-580981
@@ -34031,6 +34880,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-580982
@@ -34071,6 +34921,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-581021
@@ -34111,6 +34962,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-581121
@@ -34151,6 +35003,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-581122
@@ -34191,6 +35044,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-581123
@@ -34231,6 +35085,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-581201
@@ -34271,6 +35126,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-581202
@@ -34311,6 +35167,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-581342
@@ -34351,6 +35208,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-581561
@@ -34391,6 +35249,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-581643
@@ -34431,6 +35290,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-584241
@@ -34471,6 +35331,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-584381
@@ -34511,6 +35372,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585101
@@ -34551,6 +35413,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585102
@@ -34591,6 +35454,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585103
@@ -34631,6 +35495,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585104
@@ -34671,6 +35536,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585141
@@ -34711,6 +35577,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585282
@@ -34751,6 +35618,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585283
@@ -34791,6 +35659,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585441
@@ -34831,6 +35700,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585561
@@ -34871,6 +35741,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585562
@@ -34911,6 +35782,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-585563
@@ -34951,6 +35823,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-587065
@@ -34991,6 +35864,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-587765
@@ -35031,6 +35905,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-587766
@@ -35071,6 +35946,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-587767
@@ -35111,6 +35987,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-587768
@@ -35151,6 +36028,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-587769
@@ -35191,6 +36069,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-587771
@@ -35231,6 +36110,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-587772
@@ -35271,6 +36151,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-587773
@@ -35311,6 +36192,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-588062
@@ -35351,6 +36233,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-588381
@@ -35391,6 +36274,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-588382
@@ -35431,6 +36315,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-588661
@@ -35471,6 +36356,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-588662
@@ -35511,6 +36397,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-588675
@@ -35551,6 +36438,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-588921
@@ -35591,6 +36479,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-588949
@@ -35631,6 +36520,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-589641
@@ -35671,6 +36561,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-589646
@@ -35711,6 +36602,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-590004
@@ -35751,6 +36643,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-590005
@@ -35791,6 +36684,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-590006
@@ -35831,6 +36725,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-590008
@@ -35871,6 +36766,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-590281
@@ -35911,6 +36807,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-590301
@@ -35951,6 +36848,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-591462
@@ -35991,6 +36889,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-591522
@@ -36031,6 +36930,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-591542
@@ -36071,6 +36971,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-591543
@@ -36111,6 +37012,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-591544
@@ -36151,6 +37053,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-591964
@@ -36191,6 +37094,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-592542
@@ -36231,6 +37135,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-592922
@@ -36275,6 +37180,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-592961
@@ -36315,6 +37221,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-592962
@@ -36355,6 +37262,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593021
@@ -36395,6 +37303,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593022
@@ -36435,6 +37344,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593082
@@ -36475,6 +37385,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593083
@@ -36515,6 +37426,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593201
@@ -36555,6 +37467,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593202
@@ -36595,6 +37508,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593261
@@ -36635,6 +37549,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593262
@@ -36675,6 +37590,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593301
@@ -36715,6 +37631,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593302
@@ -36755,6 +37672,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593662
@@ -36795,6 +37713,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-593663
@@ -36835,6 +37754,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-594243
@@ -36875,6 +37795,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-594282
@@ -36915,6 +37836,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-594402
@@ -36955,6 +37877,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-594404
@@ -36995,6 +37918,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-594405
@@ -37035,6 +37959,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-594744
@@ -37075,6 +38000,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-594745
@@ -37115,6 +38041,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-595042
@@ -37155,6 +38082,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-595226
@@ -37195,6 +38123,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-595327
@@ -37235,6 +38164,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-595542
@@ -37275,6 +38205,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-595643
@@ -37315,6 +38246,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-596302
@@ -37355,6 +38287,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-596582
@@ -37395,6 +38328,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-596602
@@ -37435,6 +38369,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-596603
@@ -37475,6 +38410,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-596664
@@ -37515,6 +38451,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-596665
@@ -37555,6 +38492,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-596822
@@ -37595,6 +38533,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-596902
@@ -37635,6 +38574,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-596903
@@ -37675,6 +38615,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-597203
@@ -37715,6 +38656,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-597204
@@ -37755,6 +38697,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-598942
@@ -37795,6 +38738,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-599185
@@ -37835,6 +38779,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-600542
@@ -37875,6 +38820,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-600543
@@ -37915,6 +38861,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-600583
@@ -37955,6 +38902,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-600682
@@ -37995,6 +38943,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-600764
@@ -38035,6 +38984,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-600803
@@ -38075,6 +39025,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601162
@@ -38115,6 +39066,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601163
@@ -38155,6 +39107,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601262
@@ -38195,6 +39148,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601263
@@ -38235,6 +39189,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601264
@@ -38275,6 +39230,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601282
@@ -38315,6 +39271,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601402
@@ -38355,6 +39312,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601502
@@ -38395,6 +39353,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601782
@@ -38435,6 +39394,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601842
@@ -38475,6 +39435,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601843
@@ -38515,6 +39476,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-601922
@@ -38555,6 +39517,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-602183
@@ -38595,6 +39558,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-602664
@@ -38635,6 +39599,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-602665
@@ -38675,6 +39640,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-602666
@@ -38715,6 +39681,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-602762
@@ -38755,6 +39722,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-602763
@@ -38795,6 +39763,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-602764
@@ -38835,6 +39804,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-602765
@@ -38875,6 +39845,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-602842
@@ -38915,6 +39886,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-602986
@@ -38955,6 +39927,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-603722
@@ -38995,6 +39968,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-603723
@@ -39035,6 +40009,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-603724
@@ -39075,6 +40050,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-604038
@@ -39115,6 +40091,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-604542
@@ -39155,6 +40132,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-604543
@@ -39195,6 +40173,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-604544
@@ -39235,6 +40214,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-604703
@@ -39275,6 +40255,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-604704
@@ -39315,6 +40296,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-604705
@@ -39355,6 +40337,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-604706
@@ -39395,6 +40378,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-604943
@@ -39435,6 +40419,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-605003
@@ -39475,6 +40460,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-605005
@@ -39515,6 +40501,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-605006
@@ -39555,6 +40542,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-605004
@@ -39595,6 +40583,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-605362
@@ -39635,6 +40624,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606069
@@ -39675,6 +40665,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606142
@@ -39715,6 +40706,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606162
@@ -39755,6 +40747,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606242
@@ -39795,6 +40788,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606243
@@ -39835,6 +40829,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606244
@@ -39875,6 +40870,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606245
@@ -39915,6 +40911,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606822
@@ -39955,6 +40952,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606823
@@ -39995,6 +40993,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606824
@@ -40035,6 +41034,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-606825
@@ -40075,6 +41075,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607162
@@ -40115,6 +41116,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607506
@@ -40155,6 +41157,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607762
@@ -40195,6 +41198,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607763
@@ -40235,6 +41239,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607842
@@ -40275,6 +41280,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607843
@@ -40315,6 +41321,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607844
@@ -40359,6 +41366,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607962
@@ -40399,6 +41407,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607963
@@ -40439,6 +41448,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607964
@@ -40479,6 +41489,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-607965
@@ -40519,6 +41530,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-609193
@@ -40559,6 +41571,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-609194
@@ -40599,6 +41612,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-609195
@@ -40639,6 +41653,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-609196
@@ -40679,6 +41694,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-609403
@@ -40719,6 +41735,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-609502
@@ -40759,6 +41776,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-609543
@@ -40799,6 +41817,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-609823
@@ -40839,6 +41858,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-609824
@@ -40879,6 +41899,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-610182
@@ -40919,6 +41940,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-610702
@@ -40959,6 +41981,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-610822
@@ -40999,6 +42022,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-610842
@@ -41039,6 +42063,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-610843
@@ -41079,6 +42104,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-610844
@@ -41119,6 +42145,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-610845
@@ -41159,6 +42186,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-611182
@@ -41199,6 +42227,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-611222
@@ -41239,6 +42268,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-611225
@@ -41279,6 +42309,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-611502
@@ -41319,6 +42350,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-611842
@@ -41359,6 +42391,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-612042
@@ -41399,6 +42432,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-612043
@@ -41439,6 +42473,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-612182
@@ -41479,6 +42514,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-612502
@@ -41519,6 +42555,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-612503
@@ -41559,6 +42596,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-612642
@@ -41599,6 +42637,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-612983
@@ -41639,6 +42678,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-613642
@@ -41679,6 +42719,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-613643
@@ -41719,6 +42760,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-613645
@@ -41759,6 +42801,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-613646
@@ -41799,6 +42842,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-613742
@@ -41839,6 +42883,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-614263
@@ -41879,6 +42924,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-614264
@@ -41919,6 +42965,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-614542
@@ -41959,6 +43006,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-614543
@@ -41999,6 +43047,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-614642
@@ -42039,6 +43088,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-614643
@@ -42079,6 +43129,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-614902
@@ -42119,6 +43170,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-615787
@@ -42159,6 +43211,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-615788
@@ -42199,6 +43252,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-615789
@@ -42239,6 +43293,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-615902
@@ -42279,6 +43334,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-616082
@@ -42319,6 +43375,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-616102
@@ -42359,6 +43416,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-618123
@@ -42399,6 +43457,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-618202
@@ -42439,6 +43498,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-618203
@@ -42479,6 +43539,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-618342
@@ -42519,6 +43580,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-618343
@@ -42559,6 +43621,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-618344
@@ -42599,6 +43662,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-618345
@@ -42639,6 +43703,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-618463
@@ -42679,6 +43744,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-619662
@@ -42719,6 +43785,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-619663
@@ -42759,6 +43826,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-619664
@@ -42799,6 +43867,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-619665
@@ -42839,6 +43908,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-619802
@@ -42879,6 +43949,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-619914
@@ -42919,6 +43990,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-619915
@@ -42959,6 +44031,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-619946
@@ -42999,6 +44072,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-619947
@@ -43039,6 +44113,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-620268
@@ -43079,6 +44154,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-620269
@@ -43119,6 +44195,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-620275
@@ -43159,6 +44236,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-620278
@@ -43199,6 +44277,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-621003
@@ -43239,6 +44318,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-621006
@@ -43279,6 +44359,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-621007
@@ -43319,6 +44400,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-621144
@@ -43359,6 +44441,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-621145
@@ -43399,6 +44482,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-621146
@@ -43439,6 +44523,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-621147
@@ -43479,6 +44564,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-621148
@@ -43519,6 +44605,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-621186
@@ -43559,6 +44646,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-621187
@@ -43599,6 +44687,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-622802
@@ -43639,6 +44728,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-622803
@@ -43679,6 +44769,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-622804
@@ -43719,6 +44810,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-622805
@@ -43759,6 +44851,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-623627
@@ -43799,6 +44892,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-623964
@@ -43839,6 +44933,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-623965
@@ -43879,6 +44974,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-623966
@@ -43919,6 +45015,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624662
@@ -43959,6 +45056,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624682
@@ -43999,6 +45097,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624702
@@ -44039,6 +45138,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624722
@@ -44079,6 +45179,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624723
@@ -44119,6 +45220,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624724
@@ -44159,6 +45261,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624822
@@ -44199,6 +45302,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624842
@@ -44239,6 +45343,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624862
@@ -44279,6 +45384,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624882
@@ -44319,6 +45425,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624883
@@ -44359,6 +45466,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624884
@@ -44399,6 +45507,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624902
@@ -44439,6 +45548,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-624903
@@ -44479,6 +45589,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-625562
@@ -44519,6 +45630,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-626322
@@ -44559,6 +45671,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-627062
@@ -44599,6 +45712,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-627082
@@ -44639,6 +45753,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-627102
@@ -44679,6 +45794,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-627522
@@ -44719,6 +45835,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-627542
@@ -44759,6 +45876,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-627702
@@ -44799,6 +45917,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-627762
@@ -44839,6 +45958,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-627763
@@ -44879,6 +45999,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-627764
@@ -44919,6 +46040,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-628562
@@ -44959,6 +46081,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-629042
@@ -44999,6 +46122,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-629043
@@ -45039,6 +46163,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-629044
@@ -45079,6 +46204,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-629162
@@ -45119,6 +46245,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-629482
@@ -45159,6 +46286,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-629542
@@ -45199,6 +46327,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-629902
@@ -45239,6 +46368,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-629922
@@ -45279,6 +46409,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-629943
@@ -45319,6 +46450,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-629944
@@ -45359,6 +46491,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-630242
@@ -45399,6 +46532,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-630322
@@ -45439,6 +46573,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-630722
@@ -45479,6 +46614,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-630723
@@ -45519,6 +46655,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-630962
@@ -45559,6 +46696,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-630963
@@ -45599,6 +46737,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-631103
@@ -45639,6 +46778,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-631163
@@ -45679,6 +46819,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-631164
@@ -45719,6 +46860,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-631165
@@ -45759,6 +46901,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-631822
@@ -45799,6 +46942,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-631902
@@ -45839,6 +46983,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-632842
@@ -45879,6 +47024,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-633082
@@ -45919,6 +47065,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-633083
@@ -45959,6 +47106,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-633084
@@ -45999,6 +47147,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-634202
@@ -46039,6 +47188,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-634203
@@ -46079,6 +47229,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-634204
@@ -46119,6 +47270,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-634242
@@ -46159,6 +47311,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-634262
@@ -46199,6 +47352,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-634263
@@ -46239,6 +47393,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-634282
@@ -46279,6 +47434,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-635543
@@ -46319,6 +47475,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-636082
@@ -46359,6 +47516,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-636182
@@ -46399,6 +47557,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-637084
@@ -46439,6 +47598,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-637402
@@ -46479,6 +47639,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-638523
@@ -46519,6 +47680,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-638544
@@ -46559,6 +47721,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-638545
@@ -46599,6 +47762,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-638583
@@ -46639,6 +47803,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-638584
@@ -46679,6 +47844,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-638585
@@ -46719,6 +47885,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-639123
@@ -46759,6 +47926,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-640143
@@ -46799,6 +47967,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-640643
@@ -46839,6 +48008,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-640644
@@ -46879,6 +48049,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-640645
@@ -46919,6 +48090,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-640646
@@ -46959,6 +48131,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-641323
@@ -46999,6 +48172,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-641463
@@ -47039,6 +48213,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-641904
@@ -47079,6 +48254,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-641905
@@ -47119,6 +48295,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-642763
@@ -47159,6 +48336,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-643904
@@ -47199,6 +48377,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-643905
@@ -47239,6 +48418,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-643963
@@ -47279,6 +48459,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-643964
@@ -47319,6 +48500,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-643965
@@ -47359,6 +48541,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-643966
@@ -47399,6 +48582,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-644825
@@ -47439,6 +48623,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-645127
@@ -47479,6 +48664,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-645245
@@ -47519,6 +48705,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-645424
@@ -47559,6 +48746,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-645426
@@ -47599,6 +48787,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-645604
@@ -47639,6 +48828,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-645665
@@ -47679,6 +48869,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-645687
@@ -47719,6 +48910,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-646424
@@ -47759,6 +48951,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-648764
@@ -47799,6 +48992,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-648765
@@ -47839,6 +49033,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-648766
@@ -47879,6 +49074,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-648767
@@ -47919,6 +49115,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-649288
@@ -47959,6 +49156,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-649324
@@ -47999,6 +49197,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-649325
@@ -48039,6 +49238,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-649326
@@ -48079,6 +49279,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-651664
@@ -48119,6 +49320,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-651665
@@ -48159,6 +49361,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-651666
@@ -48199,6 +49402,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-651667
@@ -48239,6 +49443,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-653425
@@ -48279,6 +49484,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-653426
@@ -48319,6 +49525,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-654926
@@ -48359,6 +49566,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-655004
@@ -48399,6 +49607,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-660024
@@ -48439,6 +49648,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-662124
@@ -48479,6 +49689,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-662684
@@ -48519,6 +49730,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-666264
@@ -48559,6 +49771,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
 
 
 Instance: mp-670104
@@ -48599,3 +49812,4 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072251  "Portuguese"
