@@ -51,12 +51,16 @@ env.filters["regex_replace"] = regex_replace
 # Custom filter method
 def validate_data(word):
     """validate data from another issue"""
-    df = pd.read_csv(DATA_FILE, encoding="utf-8", sep=";", skiprows=[1])
-    # print(word)
-    # print(len(df[df["Müügiloa number"] == word]))
-    if len(df[df["Müügiloa number"] == word]) > 0:
+    df = pd.read_csv(DATA_FILE, encoding="utf-8", sep=";")
+
+    if len(df[df["Müügiloa number"] == int(word)]) > 0:
+        #   print("its true for", word)
         return True
     else:
+        print("-" + word + "\\")
+        print(len(df[df["Müügiloa number"] == word]))
+        print(len(df[df["Müügiloa number"] == str(word)]))
+        print(len(df[df["Müügiloa number"] == int(word)]))
         return False
 
 
@@ -171,6 +175,8 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
     real_output_folder = OUTPUT_FOLDER + major_name + "-automatic/"
     # writing to file
     erros = {}
+    description = []
+
     for path in listdir(real_output_folder):
         print(path)
         file = open(real_output_folder + "/" + path, "r")
@@ -191,7 +197,11 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
                 error_nr = re.search("ERROR\[\d{1,2}\]", line)
                 id_ = re.findall("INDEX:(\d{1,7})", line)
                 #  print(id_)
+                # print(error_nr)
+                # print(id_)
                 message = re.findall("- (.+) INDEX:", line)
+                #   print(message)
+                description.append(message[0] + " " + id_[0])
                 # print(id_[0], message)
                 # print(error_nr[0])
                 if error_nr[0] in final_count.keys():
@@ -212,9 +222,17 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
             "error_count": error_count,
             "description": dict(Counter(errors_nr)),
         }
-    print(erros)
-    f = open("validation_output.txt", "a")
-    f.write(str(erros))
+    # print(description)
+    # print(messages)
+    f = open("validation_output.txt", "w")
+    for k, v in erros.items():
+        f.write(k + ":" + str(v))
+        f.write("\n")
+    f.write("\n")
+    for el in description:
+        f.write(el)
+        f.write("\n")
+
     f.close()
 
 

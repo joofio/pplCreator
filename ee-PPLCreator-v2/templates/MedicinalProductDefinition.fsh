@@ -37,7 +37,7 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#{{ row["Ravimvorm"]|get_data_dictionary_info(200000000004,"RMS termini id","RMS nimi eesti keeles")  }} "{{ row["Ravimvorm"]|get_data_dictionary_info(200000000004,"RMS termini nimi","RMS nimi eesti keeles")   }}"
 
 
-* classification = $who-atc#{{ row["ATC kood"]}} "{{ row["Toimeaine"]}}"
+* classification = $who-atc#{{ row["ATC kood"]}} "{{ row["Toimeaine"]|get_data_dictionary_info("substance","Description (FSN)","National Description") }}"
 //* classification[atc].coding[ema] = $100000093533#{{ row["ATC kood"]}} "{{ row["Toimeaine"]}}"
 
 
@@ -48,7 +48,7 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 {%- endif %}
 {%- endfor %}

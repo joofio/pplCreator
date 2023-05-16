@@ -3,7 +3,7 @@ from os import listdir
 import json
 
 
-FOLDER = "fsh-generated/resources"
+FOLDER = "ee-PPLCreator-v2/fhir-data/fsh-generated/resources"
 SERVER = "http://fhir.hl7.pt:8080/fhir/"
 
 

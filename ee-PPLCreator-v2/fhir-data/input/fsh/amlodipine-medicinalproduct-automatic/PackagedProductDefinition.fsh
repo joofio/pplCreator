@@ -27,10 +27,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
-//808213 -> False
-// ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:1
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808213 -> True
+// for: ALNETATablett10mg
+* packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -61,10 +60,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//808213 -> False
-// ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:2
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808213 -> True
+// for: ALNETATablett10mg
+* packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -95,10 +93,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//808213 -> False
-// ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:3
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808213 -> True
+// for: ALNETATablett10mg
+* packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -129,10 +126,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//808213 -> False
-// ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:4
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808213 -> True
+// for: ALNETATablett10mg
+* packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -163,10 +159,9 @@ Usage: #example
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//808213 -> False
-// ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:5
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808213 -> True
+// for: ALNETATablett10mg
+* packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -197,10 +192,9 @@ Usage: #example
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//808213 -> False
-// ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:6
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808213 -> True
+// for: ALNETATablett10mg
+* packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -231,10 +225,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
-//808213 -> False
-// ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:7
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808213 -> True
+// for: ALNETATablett10mg
+* packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -266,10 +259,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:8
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -298,10 +290,9 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:9
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -332,10 +323,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:10
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -364,10 +354,9 @@ Usage: #example
     * containedItem.amount.value = 105
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:11
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -399,10 +388,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:12
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -434,10 +422,9 @@ Usage: #example
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:13
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -469,10 +456,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:14
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -501,10 +487,9 @@ Usage: #example
     * containedItem.amount.value = 250
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:15
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -535,10 +520,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:16
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -570,10 +554,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:17
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -605,10 +588,9 @@ Usage: #example
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:18
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -639,10 +621,9 @@ Usage: #example
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:19
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -671,10 +652,9 @@ Usage: #example
     * containedItem.amount.value = 200
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538707 -> False
-// ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:20
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538707 -> True
+// for: AMLOCARD 10MGTablett10mg
+* packageFor = Reference(mp-e7ee4d9735c9b48b2998e52eb7179ed5)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -703,10 +683,9 @@ Usage: #example
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#None "nan"
-//527106 -> False
-// ERROR[7] - no Müügiloa number: 527106 for this package in the medicinal sheet for INDEX:21
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527106 -> True
+// for: AMLODIGAMMA 10MGTablett10mg
+* packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -735,10 +714,9 @@ Usage: #example
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//527106 -> False
-// ERROR[7] - no Müügiloa number: 527106 for this package in the medicinal sheet for INDEX:22
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527106 -> True
+// for: AMLODIGAMMA 10MGTablett10mg
+* packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -767,10 +745,9 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#None "nan"
-//527106 -> False
-// ERROR[7] - no Müügiloa number: 527106 for this package in the medicinal sheet for INDEX:23
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527106 -> True
+// for: AMLODIGAMMA 10MGTablett10mg
+* packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -799,10 +776,9 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#None "nan"
-//527106 -> False
-// ERROR[7] - no Müügiloa number: 527106 for this package in the medicinal sheet for INDEX:24
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527106 -> True
+// for: AMLODIGAMMA 10MGTablett10mg
+* packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -831,10 +807,9 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#None "nan"
-//527106 -> False
-// ERROR[7] - no Müügiloa number: 527106 for this package in the medicinal sheet for INDEX:25
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527106 -> True
+// for: AMLODIGAMMA 10MGTablett10mg
+* packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -863,10 +838,9 @@ Usage: #example
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//527106 -> False
-// ERROR[7] - no Müügiloa number: 527106 for this package in the medicinal sheet for INDEX:26
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527106 -> True
+// for: AMLODIGAMMA 10MGTablett10mg
+* packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -898,10 +872,9 @@ Usage: #example
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//527106 -> False
-// ERROR[7] - no Müügiloa number: 527106 for this package in the medicinal sheet for INDEX:27
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527106 -> True
+// for: AMLODIGAMMA 10MGTablett10mg
+* packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -930,10 +903,9 @@ Usage: #example
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#None "nan"
-//527106 -> False
-// ERROR[7] - no Müügiloa number: 527106 for this package in the medicinal sheet for INDEX:28
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527106 -> True
+// for: AMLODIGAMMA 10MGTablett10mg
+* packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -962,10 +934,9 @@ Usage: #example
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//527106 -> False
-// ERROR[7] - no Müügiloa number: 527106 for this package in the medicinal sheet for INDEX:29
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527106 -> True
+// for: AMLODIGAMMA 10MGTablett10mg
+* packageFor = Reference(mp-8ecdc31c688fde866ba554202ab24480)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -996,10 +967,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:30
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1030,10 +1000,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:31
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1064,10 +1033,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:32
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1098,10 +1066,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:33
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1132,10 +1099,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:34
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1166,10 +1132,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:35
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1200,10 +1165,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:36
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1234,10 +1198,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:37
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1269,10 +1232,9 @@ Usage: #example
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:38
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1304,10 +1266,9 @@ Usage: #example
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:39
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1338,10 +1299,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:40
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1372,10 +1332,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:41
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1406,10 +1365,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//537207 -> False
-// ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:42
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537207 -> True
+// for: AMLODIPIN-RATIOPHARM 10 MGTablett10mg
+* packageFor = Reference(mp-17aa3bb6faec404ef2e078cb38f6d778)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -1441,10 +1399,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//567207 -> False
-// ERROR[7] - no Müügiloa number: 567207 for this package in the medicinal sheet for INDEX:43
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//567207 -> True
+// for: AMLODIPINE MEDOCHEMIETablett10mg
+* packageFor = Reference(mp-9030bbd21e461a4d7993890e64808084)
 // Reference to Organization: MAH
 //* manufacturer = Reference(MO11501)
 
@@ -1476,10 +1433,9 @@ Usage: #example
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:44
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1510,10 +1466,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:45
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1544,10 +1499,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:46
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1578,10 +1532,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:47
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1613,10 +1566,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:48
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1648,10 +1600,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:49
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1682,10 +1633,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:50
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1716,10 +1666,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:51
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1750,10 +1699,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:52
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1784,10 +1732,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:53
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1819,10 +1766,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:54
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1854,10 +1800,9 @@ Usage: #example
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:55
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1888,10 +1833,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:56
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1922,10 +1866,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:57
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1956,10 +1899,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//589308 -> False
-// ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:58
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//589308 -> True
+// for: AMLODIPINE TEVATablett10mg
+* packageFor = Reference(mp-7237aa8d3abcc0e1ce1df7ef512a0eb0)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000229)
 
@@ -1990,10 +1932,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//744411 -> False
-// ERROR[7] - no Müügiloa number: 744411 for this package in the medicinal sheet for INDEX:59
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//744411 -> True
+// for: AMLODIPINE VITABALANSTablett10mg
+* packageFor = Reference(mp-938b248e75affacf29383e0738b98ea2)
 // Reference to Organization: MAH
 //* manufacturer = Reference(MO193)
 
@@ -2024,10 +1965,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//744411 -> False
-// ERROR[7] - no Müügiloa number: 744411 for this package in the medicinal sheet for INDEX:60
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//744411 -> True
+// for: AMLODIPINE VITABALANSTablett10mg
+* packageFor = Reference(mp-938b248e75affacf29383e0738b98ea2)
 // Reference to Organization: MAH
 //* manufacturer = Reference(MO193)
 
@@ -2058,10 +1998,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//744411 -> False
-// ERROR[7] - no Müügiloa number: 744411 for this package in the medicinal sheet for INDEX:61
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//744411 -> True
+// for: AMLODIPINE VITABALANSTablett10mg
+* packageFor = Reference(mp-938b248e75affacf29383e0738b98ea2)
 // Reference to Organization: MAH
 //* manufacturer = Reference(MO193)
 
@@ -2092,10 +2031,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//744411 -> False
-// ERROR[7] - no Müügiloa number: 744411 for this package in the medicinal sheet for INDEX:62
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//744411 -> True
+// for: AMLODIPINE VITABALANSTablett10mg
+* packageFor = Reference(mp-938b248e75affacf29383e0738b98ea2)
 // Reference to Organization: MAH
 //* manufacturer = Reference(MO193)
 
@@ -2126,10 +2064,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:63
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2160,10 +2097,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:64
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2194,10 +2130,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:65
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2228,10 +2163,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:66
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2262,10 +2196,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:67
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2296,10 +2229,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:68
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2330,10 +2262,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:69
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2364,10 +2295,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:70
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2398,10 +2328,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:71
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2432,10 +2361,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:72
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2466,10 +2394,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//1017320 -> False
-// ERROR[7] - no Müügiloa number: 1017320 for this package in the medicinal sheet for INDEX:73
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//1017320 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-a0a5c6fec3f94cc85dd264a42dc34740)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100010645)
 
@@ -2500,10 +2427,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:74
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2534,10 +2460,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:75
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2568,10 +2493,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:76
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2602,10 +2526,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:77
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2636,10 +2559,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:78
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2670,10 +2592,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:79
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2704,10 +2625,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:80
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2738,10 +2658,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:81
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2772,10 +2691,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:82
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2806,10 +2724,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:83
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2840,10 +2757,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:84
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -2874,10 +2790,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:85
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2908,10 +2823,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:86
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2942,10 +2856,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942417 -> False
-// ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:87
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//942417 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-78ea828e8c2e0f9915b779973ab0c27c)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
 
@@ -2976,10 +2889,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:88
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -3010,10 +2922,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//176397 -> False
-// ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:89
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176397 -> True
+// for: NORVASCTablett10mg
+* packageFor = Reference(mp-15a3485fca0150bf08be1d4cb03d6e36)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -3044,10 +2955,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//808113 -> False
-// ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:90
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808113 -> True
+// for: ALNETATablett5mg
+* packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -3078,10 +2988,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//808113 -> False
-// ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:91
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808113 -> True
+// for: ALNETATablett5mg
+* packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -3112,10 +3021,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//808113 -> False
-// ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:92
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808113 -> True
+// for: ALNETATablett5mg
+* packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -3146,10 +3054,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//808113 -> False
-// ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:93
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808113 -> True
+// for: ALNETATablett5mg
+* packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -3180,10 +3087,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//808113 -> False
-// ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:94
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808113 -> True
+// for: ALNETATablett5mg
+* packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -3214,10 +3120,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//808113 -> False
-// ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:95
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808113 -> True
+// for: ALNETATablett5mg
+* packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -3248,10 +3153,9 @@ Usage: #example
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//808113 -> False
-// ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:96
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808113 -> True
+// for: ALNETATablett5mg
+* packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -3282,10 +3186,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//808113 -> False
-// ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:97
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//808113 -> True
+// for: ALNETATablett5mg
+* packageFor = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000627)
 
@@ -3316,10 +3219,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:98
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3351,10 +3253,9 @@ Usage: #example
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:99
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3383,10 +3284,9 @@ Usage: #example
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:100
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3418,10 +3318,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:101
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3452,10 +3351,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:102
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3486,10 +3384,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:103
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3518,10 +3415,9 @@ Usage: #example
     * containedItem.amount.value = 200
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:104
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3550,10 +3446,9 @@ Usage: #example
     * containedItem.amount.value = 105
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:105
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3585,10 +3480,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:106
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3620,10 +3514,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:107
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3655,10 +3548,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:108
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3690,10 +3582,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:109
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3722,10 +3613,9 @@ Usage: #example
     * containedItem.amount.value = 250
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//538507 -> False
-// ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:110
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//538507 -> True
+// for: AMLOCARD 5 MGTablett5mg
+* packageFor = Reference(mp-9cddcc96feade261665f0a3ef5dbe6ea)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000313)
 
@@ -3757,10 +3647,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//527206 -> False
-// ERROR[7] - no Müügiloa number: 527206 for this package in the medicinal sheet for INDEX:111
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527206 -> True
+// for: AMLODIGAMMA 5MGTablett5mg
+* packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -3789,10 +3678,9 @@ Usage: #example
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#None "nan"
-//527206 -> False
-// ERROR[7] - no Müügiloa number: 527206 for this package in the medicinal sheet for INDEX:112
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527206 -> True
+// for: AMLODIGAMMA 5MGTablett5mg
+* packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -3821,10 +3709,9 @@ Usage: #example
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#None "nan"
-//527206 -> False
-// ERROR[7] - no Müügiloa number: 527206 for this package in the medicinal sheet for INDEX:113
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527206 -> True
+// for: AMLODIGAMMA 5MGTablett5mg
+* packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -3853,10 +3740,9 @@ Usage: #example
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#None "nan"
-//527206 -> False
-// ERROR[7] - no Müügiloa number: 527206 for this package in the medicinal sheet for INDEX:114
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527206 -> True
+// for: AMLODIGAMMA 5MGTablett5mg
+* packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -3885,10 +3771,9 @@ Usage: #example
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//527206 -> False
-// ERROR[7] - no Müügiloa number: 527206 for this package in the medicinal sheet for INDEX:115
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527206 -> True
+// for: AMLODIGAMMA 5MGTablett5mg
+* packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -3917,10 +3802,9 @@ Usage: #example
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//527206 -> False
-// ERROR[7] - no Müügiloa number: 527206 for this package in the medicinal sheet for INDEX:116
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527206 -> True
+// for: AMLODIGAMMA 5MGTablett5mg
+* packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -3949,10 +3833,9 @@ Usage: #example
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#None "nan"
-//527206 -> False
-// ERROR[7] - no Müügiloa number: 527206 for this package in the medicinal sheet for INDEX:117
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527206 -> True
+// for: AMLODIGAMMA 5MGTablett5mg
+* packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -3981,10 +3864,9 @@ Usage: #example
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#None "nan"
-//527206 -> False
-// ERROR[7] - no Müügiloa number: 527206 for this package in the medicinal sheet for INDEX:118
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527206 -> True
+// for: AMLODIGAMMA 5MGTablett5mg
+* packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -4013,10 +3895,9 @@ Usage: #example
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//527206 -> False
-// ERROR[7] - no Müügiloa number: 527206 for this package in the medicinal sheet for INDEX:119
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//527206 -> True
+// for: AMLODIGAMMA 5MGTablett5mg
+* packageFor = Reference(mp-2e5db5eb34247c26e6a5068649e59e59)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100000454)
 
@@ -4047,10 +3928,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:120
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4082,10 +3962,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:121
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4116,10 +3995,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:122
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4150,10 +4028,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:123
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4184,10 +4061,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:124
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4218,10 +4094,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:125
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4252,10 +4127,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:126
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4286,10 +4160,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:127
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4321,10 +4194,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:128
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4355,10 +4227,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:129
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4389,10 +4260,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:130
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4423,10 +4293,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:131
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4457,10 +4326,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//537307 -> False
-// ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:132
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//537307 -> True
+// for: AMLODIPIN-RATIOPHARM 5 MGTablett5mg
+* packageFor = Reference(mp-0117d414f0e94ef69e054e81654d62c7)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100001437)
 
@@ -4492,10 +4360,9 @@ Usage: #example
     * material[+] = $200000003199#200000003214 "PolyEthylene" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//567307 -> False
-// ERROR[7] - no Müügiloa number: 567307 for this package in the medicinal sheet for INDEX:133
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//567307 -> True
+// for: AMLODIPINE MEDOCHEMIETablett5mg
+* packageFor = Reference(mp-790c3262fcb36ab4153d147d79fb4390)
 // Reference to Organization: MAH
 //* manufacturer = Reference(MO11501)
 
@@ -4526,10 +4393,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//744511 -> False
-// ERROR[7] - no Müügiloa number: 744511 for this package in the medicinal sheet for INDEX:134
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//744511 -> True
+// for: AMLODIPINE VITABALANSTablett5mg
+* packageFor = Reference(mp-4b4b41bca51db4ce2a7ae1853bc6ea85)
 // Reference to Organization: MAH
 //* manufacturer = Reference(MO193)
 
@@ -4560,10 +4426,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//744511 -> False
-// ERROR[7] - no Müügiloa number: 744511 for this package in the medicinal sheet for INDEX:135
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//744511 -> True
+// for: AMLODIPINE VITABALANSTablett5mg
+* packageFor = Reference(mp-4b4b41bca51db4ce2a7ae1853bc6ea85)
 // Reference to Organization: MAH
 //* manufacturer = Reference(MO193)
 
@@ -4594,10 +4459,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//744511 -> False
-// ERROR[7] - no Müügiloa number: 744511 for this package in the medicinal sheet for INDEX:136
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//744511 -> True
+// for: AMLODIPINE VITABALANSTablett5mg
+* packageFor = Reference(mp-4b4b41bca51db4ce2a7ae1853bc6ea85)
 // Reference to Organization: MAH
 //* manufacturer = Reference(MO193)
 
@@ -4628,10 +4492,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//744511 -> False
-// ERROR[7] - no Müügiloa number: 744511 for this package in the medicinal sheet for INDEX:137
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//744511 -> True
+// for: AMLODIPINE VITABALANSTablett5mg
+* packageFor = Reference(mp-4b4b41bca51db4ce2a7ae1853bc6ea85)
 // Reference to Organization: MAH
 //* manufacturer = Reference(MO193)
 
@@ -4662,9 +4525,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:138
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -4696,9 +4558,8 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:139
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -4730,10 +4591,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:140
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -4764,9 +4624,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:141
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -4798,9 +4657,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:142
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -4832,9 +4690,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:143
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -4866,9 +4723,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:144
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -4900,10 +4756,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:145
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -4934,9 +4789,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:146
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -4968,9 +4822,8 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:147
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -5002,9 +4855,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:148
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -5036,9 +4888,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:149
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -5070,9 +4921,8 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:150
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -5104,9 +4954,8 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//942317 -> False
-// ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:151
-//DUMMY
+//942317 -> True
+// for: NORVASCTablett5mg
 * packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100009587)
@@ -5138,10 +4987,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//1017220 -> False
-// ERROR[7] - no Müügiloa number: 1017220 for this package in the medicinal sheet for INDEX:152
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//1017220 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-7622a96b7cdac59b9ebbffcc7e1a4fa4)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100010645)
 
@@ -5172,10 +5020,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:153
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -5206,10 +5053,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:154
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -5240,10 +5086,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:155
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -5274,10 +5119,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:156
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -5308,10 +5152,9 @@ Usage: #example
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:157
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -5342,10 +5185,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:158
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -5376,10 +5218,9 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:159
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -5410,10 +5251,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:160
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -5444,10 +5284,9 @@ Usage: #example
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:161
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)
 
@@ -5478,9 +5317,8 @@ Usage: #example
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
-//176297 -> False
-// ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:162
-//DUMMY
-* packageFor = Reference(mp-ab811c9807131a6fe102e644fd451c1f)
+//176297 -> True
+// for: NORVASCTablett5mg
+* packageFor = Reference(mp-820a0f5b4d1867edcdb92826125560f3)
 // Reference to Organization: MAH
 //* manufacturer = Reference(ORG-100023206)

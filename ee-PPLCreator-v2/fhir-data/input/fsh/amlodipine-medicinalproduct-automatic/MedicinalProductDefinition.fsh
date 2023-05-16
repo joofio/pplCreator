@@ -20,7 +20,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "ALNETA 10mg Tablett"
@@ -29,7 +29,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-e7ee4d9735c9b48b2998e52eb7179ed5
 InstanceOf: PPLMedicinalProductDefinition
@@ -51,7 +51,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLOCARD 10MG 10mg Tablett"
@@ -60,7 +60,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-9cddcc96feade261665f0a3ef5dbe6ea
 InstanceOf: PPLMedicinalProductDefinition
@@ -82,7 +82,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLOCARD 5 MG 5mg Tablett"
@@ -91,7 +91,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-8ecdc31c688fde866ba554202ab24480
 InstanceOf: PPLMedicinalProductDefinition
@@ -113,7 +113,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIGAMMA 10MG 10mg Tablett"
@@ -122,7 +122,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-2e5db5eb34247c26e6a5068649e59e59
 InstanceOf: PPLMedicinalProductDefinition
@@ -144,7 +144,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIGAMMA 5MG 5mg Tablett"
@@ -153,7 +153,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-17aa3bb6faec404ef2e078cb38f6d778
 InstanceOf: PPLMedicinalProductDefinition
@@ -175,7 +175,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPIN-RATIOPHARM 10 MG 10mg Tablett"
@@ -184,7 +184,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-0117d414f0e94ef69e054e81654d62c7
 InstanceOf: PPLMedicinalProductDefinition
@@ -206,7 +206,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPIN-RATIOPHARM 5 MG 5mg Tablett"
@@ -215,7 +215,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-9030bbd21e461a4d7993890e64808084
 InstanceOf: PPLMedicinalProductDefinition
@@ -237,7 +237,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE MEDOCHEMIE 10mg Tablett"
@@ -246,7 +246,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-790c3262fcb36ab4153d147d79fb4390
 InstanceOf: PPLMedicinalProductDefinition
@@ -268,7 +268,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE MEDOCHEMIE 5mg Tablett"
@@ -277,7 +277,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-7237aa8d3abcc0e1ce1df7ef512a0eb0
 InstanceOf: PPLMedicinalProductDefinition
@@ -299,7 +299,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE TEVA 10mg Tablett"
@@ -308,7 +308,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-938b248e75affacf29383e0738b98ea2
 InstanceOf: PPLMedicinalProductDefinition
@@ -330,7 +330,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE VITABALANS 10mg Tablett"
@@ -339,7 +339,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-4b4b41bca51db4ce2a7ae1853bc6ea85
 InstanceOf: PPLMedicinalProductDefinition
@@ -361,7 +361,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "AMLODIPINE VITABALANS 5mg Tablett"
@@ -370,7 +370,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-7622a96b7cdac59b9ebbffcc7e1a4fa4
 InstanceOf: PPLMedicinalProductDefinition
@@ -392,7 +392,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "NORVASC 5mg Tablett"
@@ -401,7 +401,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-ab811c9807131a6fe102e644fd451c1f
 InstanceOf: PPLMedicinalProductDefinition
@@ -423,7 +423,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "NORVASC 5mg Tablett"
@@ -432,7 +432,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-78ea828e8c2e0f9915b779973ab0c27c
 InstanceOf: PPLMedicinalProductDefinition
@@ -454,7 +454,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "NORVASC 10mg Tablett"
@@ -463,7 +463,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-820a0f5b4d1867edcdb92826125560f3
 InstanceOf: PPLMedicinalProductDefinition
@@ -485,7 +485,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "NORVASC 5mg Tablett"
@@ -494,7 +494,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-a0a5c6fec3f94cc85dd264a42dc34740
 InstanceOf: PPLMedicinalProductDefinition
@@ -516,7 +516,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "NORVASC 10mg Tablett"
@@ -525,7 +525,7 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 Instance: mp-15a3485fca0150bf08be1d4cb03d6e36
 InstanceOf: PPLMedicinalProductDefinition
@@ -547,7 +547,7 @@ Usage: #example
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
-* classification = $who-atc#C08CA01 "amlodipiin"
+* classification = $who-atc#C08CA01 "Amlodipine"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
 
 * name.productName = "NORVASC 10mg Tablett"
@@ -556,4 +556,4 @@ Usage: #example
 * name.part[doseForm].part = "Tablett"
 * name.usage.country.coding[ema].code = #100000000388
 * name.usage.country.coding[ema].display = "Republic of Estonia"
-//* name.countryLanguage.language = $100000072057#100000072172  "Estonian"
+* name.usage.language = $100000072057#100000072172  "Estonian"
