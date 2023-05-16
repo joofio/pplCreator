@@ -2,7 +2,7 @@
 
 Instance: auth-for-0b5de376a6e3694afd4c906d71a20a93
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for ALNETATablett10mg"
+Title: "Regulated Authorization for ALNETA Tablett 10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -23,7 +23,7 @@ Usage: #example
 
 Instance: auth-for-e7ee4d9735c9b48b2998e52eb7179ed5
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLOCARD 10MGTablett10mg"
+Title: "Regulated Authorization for AMLOCARD 10MG Tablett 10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -44,7 +44,7 @@ Usage: #example
 
 Instance: auth-for-9cddcc96feade261665f0a3ef5dbe6ea
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLOCARD 5 MGTablett5mg"
+Title: "Regulated Authorization for AMLOCARD 5 MG Tablett 5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -65,7 +65,7 @@ Usage: #example
 
 Instance: auth-for-8ecdc31c688fde866ba554202ab24480
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLODIGAMMA 10MGTablett10mg"
+Title: "Regulated Authorization for AMLODIGAMMA 10MG Tablett 10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -86,7 +86,7 @@ Usage: #example
 
 Instance: auth-for-2e5db5eb34247c26e6a5068649e59e59
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLODIGAMMA 5MGTablett5mg"
+Title: "Regulated Authorization for AMLODIGAMMA 5MG Tablett 5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -107,7 +107,7 @@ Usage: #example
 
 Instance: auth-for-17aa3bb6faec404ef2e078cb38f6d778
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLODIPIN-RATIOPHARM 10 MGTablett10mg"
+Title: "Regulated Authorization for AMLODIPIN-RATIOPHARM 10 MG Tablett 10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -128,7 +128,7 @@ Usage: #example
 
 Instance: auth-for-0117d414f0e94ef69e054e81654d62c7
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLODIPIN-RATIOPHARM 5 MGTablett5mg"
+Title: "Regulated Authorization for AMLODIPIN-RATIOPHARM 5 MG Tablett 5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -149,7 +149,7 @@ Usage: #example
 
 Instance: auth-for-9030bbd21e461a4d7993890e64808084
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLODIPINE MEDOCHEMIETablett10mg"
+Title: "Regulated Authorization for AMLODIPINE MEDOCHEMIE Tablett 10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -170,7 +170,7 @@ Usage: #example
 
 Instance: auth-for-790c3262fcb36ab4153d147d79fb4390
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLODIPINE MEDOCHEMIETablett5mg"
+Title: "Regulated Authorization for AMLODIPINE MEDOCHEMIE Tablett 5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -191,7 +191,7 @@ Usage: #example
 
 Instance: auth-for-7237aa8d3abcc0e1ce1df7ef512a0eb0
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLODIPINE TEVATablett10mg"
+Title: "Regulated Authorization for AMLODIPINE TEVA Tablett 10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -212,7 +212,7 @@ Usage: #example
 
 Instance: auth-for-938b248e75affacf29383e0738b98ea2
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLODIPINE VITABALANSTablett10mg"
+Title: "Regulated Authorization for AMLODIPINE VITABALANS Tablett 10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -233,7 +233,7 @@ Usage: #example
 
 Instance: auth-for-4b4b41bca51db4ce2a7ae1853bc6ea85
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for AMLODIPINE VITABALANSTablett5mg"
+Title: "Regulated Authorization for AMLODIPINE VITABALANS Tablett 5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -254,7 +254,7 @@ Usage: #example
 
 Instance: auth-for-7622a96b7cdac59b9ebbffcc7e1a4fa4
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for NORVASCTablett5mg"
+Title: "Regulated Authorization for NORVASC Tablett 5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -275,7 +275,7 @@ Usage: #example
 
 Instance: auth-for-ab811c9807131a6fe102e644fd451c1f
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for NORVASCTablett5mg"
+Title: "Regulated Authorization for NORVASC Tablett 5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -296,7 +296,7 @@ Usage: #example
 
 Instance: auth-for-78ea828e8c2e0f9915b779973ab0c27c
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for NORVASCTablett10mg"
+Title: "Regulated Authorization for NORVASC Tablett 10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -317,7 +317,7 @@ Usage: #example
 
 Instance: auth-for-820a0f5b4d1867edcdb92826125560f3
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for NORVASCTablett5mg"
+Title: "Regulated Authorization for NORVASC Tablett 5mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -338,7 +338,7 @@ Usage: #example
 
 Instance: auth-for-a0a5c6fec3f94cc85dd264a42dc34740
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for NORVASCTablett10mg"
+Title: "Regulated Authorization for NORVASC Tablett 10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 
@@ -359,7 +359,7 @@ Usage: #example
 
 Instance: auth-for-15a3485fca0150bf08be1d4cb03d6e36
 InstanceOf: PPLRegulatedAuthorization
-Title: "Regulated Authorization for NORVASCTablett10mg"
+Title: "Regulated Authorization for NORVASC Tablett 10mg"
 Description: "Regulated Authorization for amlodipiin"
 Usage: #example
 //* id = "" 

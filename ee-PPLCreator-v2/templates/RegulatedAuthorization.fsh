@@ -6,7 +6,7 @@
 {% set ns.one = row['Ravimi nimetus'] %}
 {% set ns.two = row['Ravimvorm'] %}
 {% set ns.three= row['Ravimi tugevus'] %}
-{% set ns.name_to_has= ns.one ~ ns.two ~ns.three  %}
+{% set ns.name_to_has= ns.one ~ " "~ns.two~" " ~ns.three  %}
 
 
 Instance: auth-for-{{ row["Müügiloa number"]| trim| create_hash_id}}

@@ -2,9 +2,9 @@
  
 
 
-Instance: ingredient-855b4a80ed4d11813f679f0732bc39da
+Instance: ingredient-c47c4d69bb7c2c072bc5abd02599759a
 InstanceOf: PPLIngredient
-Title: "amlodipiinALNETA10mg"
+Title: "amlodipiin ALNETA 10mg"
 Description: "ingredient amlodipiin with strength 10mg for ALNETA"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -13,11 +13,11 @@ Usage: #example
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 10  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //ALNETATablett10mg
@@ -27,9 +27,9 @@ Usage: #example
  
 
 
-Instance: ingredient-03d7a8b37f8445f68dfa929b4ee86f3b
+Instance: ingredient-931ea985a0b40fed4dd91eec7484e788
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLOCARD 10MG10mg"
+Title: "amlodipiin AMLOCARD 10MG 10mg"
 Description: "ingredient amlodipiin with strength 10mg for AMLOCARD 10MG"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -38,11 +38,11 @@ Usage: #example
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 10  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLOCARD 10MGTablett10mg
@@ -52,9 +52,9 @@ Usage: #example
  
 
 
-Instance: ingredient-a55cf16edd6d4988e3804ef7bf697c61
+Instance: ingredient-2b57c0838e1438a3a384bd009e51fabc
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLOCARD 5 MG5mg"
+Title: "amlodipiin AMLOCARD 5 MG 5mg"
 Description: "ingredient amlodipiin with strength 5mg for AMLOCARD 5 MG"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -63,11 +63,11 @@ Usage: #example
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLOCARD 5 MGTablett5mg
@@ -77,9 +77,9 @@ Usage: #example
  
 
 
-Instance: ingredient-8b01327370cc55dbbd84cf8aa2ecac4c
+Instance: ingredient-86a70587fe8d1d9cf61c3d96cc31330d
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLODIGAMMA 10MG10mg"
+Title: "amlodipiin AMLODIGAMMA 10MG 10mg"
 Description: "ingredient amlodipiin with strength 10mg for AMLODIGAMMA 10MG"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -88,11 +88,11 @@ Usage: #example
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 10  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLODIGAMMA 10MGTablett10mg
@@ -102,9 +102,9 @@ Usage: #example
  
 
 
-Instance: ingredient-2a6af82b108b39d2e2882c3086230937
+Instance: ingredient-3f0ea427ffdc79a42ab6579cd7248601
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLODIGAMMA 5MG5mg"
+Title: "amlodipiin AMLODIGAMMA 5MG 5mg"
 Description: "ingredient amlodipiin with strength 5mg for AMLODIGAMMA 5MG"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -113,11 +113,11 @@ Usage: #example
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLODIGAMMA 5MGTablett5mg
@@ -127,9 +127,9 @@ Usage: #example
  
 
 
-Instance: ingredient-f2a0538a16f3e7f988b37e408a7d2082
+Instance: ingredient-b8d3008a8bb4d7f0f0503f26ffc7d4ee
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLODIPIN-RATIOPHARM 10 MG10mg"
+Title: "amlodipiin AMLODIPIN-RATIOPHARM 10 MG 10mg"
 Description: "ingredient amlodipiin with strength 10mg for AMLODIPIN-RATIOPHARM 10 MG"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -138,11 +138,11 @@ Usage: #example
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 10  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLODIPIN-RATIOPHARM 10 MGTablett10mg
@@ -152,9 +152,9 @@ Usage: #example
  
 
 
-Instance: ingredient-8293b766aa7349a7c1fa292f1535e31f
+Instance: ingredient-fdf2a997dd6440249f9f40c72a19a328
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLODIPIN-RATIOPHARM 5 MG5mg"
+Title: "amlodipiin AMLODIPIN-RATIOPHARM 5 MG 5mg"
 Description: "ingredient amlodipiin with strength 5mg for AMLODIPIN-RATIOPHARM 5 MG"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -163,11 +163,11 @@ Usage: #example
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLODIPIN-RATIOPHARM 5 MGTablett5mg
@@ -177,9 +177,9 @@ Usage: #example
  
 
 
-Instance: ingredient-856cbfe157ab27efe107d7e182ddd32c
+Instance: ingredient-d33896493abc4e7b8d6414db2d336808
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLODIPINE MEDOCHEMIE10mg"
+Title: "amlodipiin AMLODIPINE MEDOCHEMIE 10mg"
 Description: "ingredient amlodipiin with strength 10mg for AMLODIPINE MEDOCHEMIE"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -188,11 +188,11 @@ Usage: #example
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 10  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLODIPINE MEDOCHEMIETablett10mg
@@ -202,9 +202,9 @@ Usage: #example
  
 
 
-Instance: ingredient-2d25d35991d52ccd586b8b8cd54ee83a
+Instance: ingredient-0a4a52d79ad29d7e6272423d1c11d6f5
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLODIPINE MEDOCHEMIE5mg"
+Title: "amlodipiin AMLODIPINE MEDOCHEMIE 5mg"
 Description: "ingredient amlodipiin with strength 5mg for AMLODIPINE MEDOCHEMIE"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -213,11 +213,11 @@ Usage: #example
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLODIPINE MEDOCHEMIETablett5mg
@@ -227,9 +227,9 @@ Usage: #example
  
 
 
-Instance: ingredient-31f5aaac8c89dac3361eeda6fa6dcbe9
+Instance: ingredient-be3564b21bd5ab2f49c9c49bbc85dbfb
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLODIPINE TEVA10mg"
+Title: "amlodipiin AMLODIPINE TEVA 10mg"
 Description: "ingredient amlodipiin with strength 10mg for AMLODIPINE TEVA"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -238,11 +238,11 @@ Usage: #example
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 10  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLODIPINE TEVATablett10mg
@@ -252,9 +252,9 @@ Usage: #example
  
 
 
-Instance: ingredient-d42e68fdf1f469aeca8794df880e1d6c
+Instance: ingredient-4807cc57d62220d605835d5de32e1665
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLODIPINE VITABALANS10mg"
+Title: "amlodipiin AMLODIPINE VITABALANS 10mg"
 Description: "ingredient amlodipiin with strength 10mg for AMLODIPINE VITABALANS"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -263,11 +263,11 @@ Usage: #example
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 10  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLODIPINE VITABALANSTablett10mg
@@ -277,9 +277,9 @@ Usage: #example
  
 
 
-Instance: ingredient-386b463842910880e03a32a33a8fccbb
+Instance: ingredient-51c31499b99e33f9809d8f5e869c04a7
 InstanceOf: PPLIngredient
-Title: "amlodipiinAMLODIPINE VITABALANS5mg"
+Title: "amlodipiin AMLODIPINE VITABALANS 5mg"
 Description: "ingredient amlodipiin with strength 5mg for AMLODIPINE VITABALANS"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -288,11 +288,11 @@ Usage: #example
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //AMLODIPINE VITABALANSTablett5mg
@@ -302,9 +302,9 @@ Usage: #example
  
 
 
-Instance: ingredient-e553282b54b0da3c75d978be5d3ce398
+Instance: ingredient-e6645ae1050484b426cdf026d2d895b3
 InstanceOf: PPLIngredient
-Title: "amlodipiinNORVASC5mg"
+Title: "amlodipiin NORVASC 5mg"
 Description: "ingredient amlodipiin with strength 5mg for NORVASC"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -313,11 +313,11 @@ Usage: #example
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //NORVASCTablett5mg
@@ -327,9 +327,9 @@ Usage: #example
  
 
 
-Instance: ingredient-0da0f6c55bbb795b759e98c4a4b8079c
+Instance: ingredient-81d5dd17cdcfb7ac87640ac1a6dd5340
 InstanceOf: PPLIngredient
-Title: "amlodipiinNORVASC10mg"
+Title: "amlodipiin NORVASC 10mg"
 Description: "ingredient amlodipiin with strength 10mg for NORVASC"
 Usage: #example
 * role = $100000072050#100000072072 "active"
@@ -338,11 +338,11 @@ Usage: #example
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 10  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1 $200000000014#None "Tablett"
+* substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablett"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipiin"
 // Reference to products item
 //NORVASCTablett10mg

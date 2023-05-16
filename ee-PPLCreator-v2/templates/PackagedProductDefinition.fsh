@@ -17,14 +17,12 @@ InstanceOf: PPLPackagedProductDefinition
 Title: "{{ row["Ravimi nimetus"] }} - {{row["Ravimi tugevus"]}} - {{ row["Pakendi suurus"] }}"
 Description: "{{ row["Ravimi nimetus"] }} - {{row["Ravimi tugevus"]}} - {{ row["Pakendi suurus"] }}"
 Usage: #example
-//* id = "{{row['id']}}" 
 
 * identifier[pcid].value = "EE-{{row['Müügiloa hoidja organisatsiooni asukoha LOC ID']| replace('LOC-','')}}-{{row['Ravimikaardi number']}}-{{row['Pakendikood']}}"
 
 * name = "{{ row["Ravimi nimetus"] }} - {{row["Ravimi tugevus"]}} - {{ row["Pakendi suurus"] }}"
 
-
-* description = ""
+* description = "{{ row["Ravimi nimetus"] }} - {{row["Ravimi tugevus"]}} - {{ row["Pakendi suurus"] }}"
 
 * status = #active
 {# //remove for the time being
@@ -39,7 +37,7 @@ Usage: #example
 {% if row["quantity"]|string !="nan"  %}
 
 //Pakendi suurus
-* containedItemQuantity = {{ row["Pakendi suurus"]|get_by_regex("\d+") }} $200000000014#{{ row["Pakendi suurus"]| get_by_regex("[A-Za-z]+")|get_data_dictionary_info(200000000014,"RMS termini id","RMS termini nimi")}} "{{ row["Pakendi suurus"]| get_by_regex("[A-Za-z]+")}}"
+* containedItemQuantity = {{ row["Pakendi suurus"]|get_by_regex("\d+") }} $200000000014#{{ row["Pakendi suurus"]| get_by_regex("[A-Za-z]+")|get_data_dictionary_info(200000000014,"RMS termini id","RMS nimi eesti keeles")}} "{{ row["Pakendi suurus"]| get_by_regex("[A-Za-z]+")|get_data_dictionary_info(200000000014,"RMS termini nimi","RMS nimi eesti keeles")}}"
 
 {%- endif %}
 
@@ -53,12 +51,12 @@ Usage: #example
   
 
   * packaging.
-    * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS termini nimi") }} "{{ row["Sisepakendi liik"] }}"
+    * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini nimi","RMS nimi eesti keeles") }}"
     * containedItem.item.reference = Reference(mid-{{row["Müügiloa number"]|trim|create_hash_id}})
     * containedItem.amount.value = {{ row["Pakendi suurus"]|get_by_regex("\d+") }}
     {% for idx in range(0,row["Sisepakendi materjal"].count(",")+1) %} 
 
-    * material[+] = $200000003199#{{ row["Sisepakendi materjal"].split(",")[idx]|strip_spaces|get_data_dictionary_info(200000003199,"RMS termini id","RMS termini nimi") }} "{{ row["Sisepakendi materjal"].split(",")[idx] }}"
+    * material[+] = $200000003199#{{ row["Sisepakendi materjal"].split(",")[idx]|strip_spaces|get_data_dictionary_info(200000003199,"RMS termini id","RMS termini nimi") }} "{{ row["Sisepakendi materjal"].split(",")[idx]|strip_spaces}}"
 
   {%- endfor %}
 

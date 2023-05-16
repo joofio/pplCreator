@@ -11,5 +11,5 @@ Usage: #example
 
 * name = "{{row["Müügiloa hoidja organisatsioon"]  }}"
 
-{%- endif %}
-{%- endfor %}
+{% endif %}
+{% endfor %}

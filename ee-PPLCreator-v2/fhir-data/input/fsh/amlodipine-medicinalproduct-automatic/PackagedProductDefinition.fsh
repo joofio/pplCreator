@@ -10,11 +10,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4196-1564152"
 * name = "ALNETA - 10mg - 84 Tablett"
 
-* description = ""
+* description = "ALNETA - 10mg - 84 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 84 $200000000014#None "Tablett"
+* containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -22,13 +22,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 84
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
 //808213 -> False
 // ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:1
 //DUMMY
@@ -46,11 +46,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4196-1564185"
 * name = "ALNETA - 10mg - 100 Tablett"
 
-* description = ""
+* description = "ALNETA - 10mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -58,13 +58,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //808213 -> False
 // ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:2
 //DUMMY
@@ -82,11 +82,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4196-1564163"
 * name = "ALNETA - 10mg - 90 Tablett"
 
-* description = ""
+* description = "ALNETA - 10mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -94,13 +94,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //808213 -> False
 // ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:3
 //DUMMY
@@ -118,11 +118,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4196-1564174"
 * name = "ALNETA - 10mg - 98 Tablett"
 
-* description = ""
+* description = "ALNETA - 10mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -130,13 +130,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //808213 -> False
 // ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:4
 //DUMMY
@@ -154,11 +154,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4196-1564141"
 * name = "ALNETA - 10mg - 60 Tablett"
 
-* description = ""
+* description = "ALNETA - 10mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -166,13 +166,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //808213 -> False
 // ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:5
 //DUMMY
@@ -190,11 +190,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4196-1564130"
 * name = "ALNETA - 10mg - 56 Tablett"
 
-* description = ""
+* description = "ALNETA - 10mg - 56 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 56 $200000000014#None "Tablett"
+* containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -202,13 +202,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //808213 -> False
 // ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:6
 //DUMMY
@@ -226,11 +226,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4196-1564129"
 * name = "ALNETA - 10mg - 30 Tablett"
 
-* description = ""
+* description = "ALNETA - 10mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -238,13 +238,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
 //808213 -> False
 // ERROR[7] - no Müügiloa number: 808213 for this package in the medicinal sheet for INDEX:7
 //DUMMY
@@ -262,11 +262,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1243044"
 * name = "AMLOCARD 10MG - 10mg - 20 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -274,14 +274,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
 //538707 -> False
 // ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:8
 //DUMMY
@@ -299,11 +299,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1730089"
 * name = "AMLOCARD 10MG - 10mg - 90 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -311,7 +311,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 90
      
@@ -333,11 +333,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1243055"
 * name = "AMLOCARD 10MG - 10mg - 28 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -345,13 +345,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //538707 -> False
 // ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:10
 //DUMMY
@@ -369,11 +369,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1730090"
 * name = "AMLOCARD 10MG - 10mg - 105 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 105 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 105 $200000000014#None "Tablett"
+* containedItemQuantity = 105 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -381,7 +381,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 105
      
@@ -403,11 +403,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1243077"
 * name = "AMLOCARD 10MG - 10mg - 50 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -415,14 +415,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Üksikannuseline blister"
+    * type = $100000073346#100000174066 "Unit-dose blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //538707 -> False
 // ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:12
 //DUMMY
@@ -440,11 +440,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1243099"
 * name = "AMLOCARD 10MG - 10mg - 100 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -452,14 +452,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //538707 -> False
 // ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:13
 //DUMMY
@@ -477,11 +477,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1243101"
 * name = "AMLOCARD 10MG - 10mg - 120 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 120 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 120 $200000000014#None "Tablett"
+* containedItemQuantity = 120 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -489,14 +489,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 120
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
 //538707 -> False
 // ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:14
 //DUMMY
@@ -514,11 +514,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1243123"
 * name = "AMLOCARD 10MG - 10mg - 250 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 250 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 250 $200000000014#None "Tablett"
+* containedItemQuantity = 250 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -526,7 +526,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 250
      
@@ -548,11 +548,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1243033"
 * name = "AMLOCARD 10MG - 10mg - 14 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 14 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 14 $200000000014#None "Tablett"
+* containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -560,13 +560,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
 //538707 -> False
 // ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:16
 //DUMMY
@@ -584,11 +584,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1087905"
 * name = "AMLOCARD 10MG - 10mg - 30 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -596,14 +596,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
 //538707 -> False
 // ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:17
 //DUMMY
@@ -621,11 +621,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1243088"
 * name = "AMLOCARD 10MG - 10mg - 60 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -633,14 +633,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //538707 -> False
 // ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:18
 //DUMMY
@@ -658,11 +658,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1243022"
 * name = "AMLOCARD 10MG - 10mg - 10 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 10 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 10 $200000000014#None "Tablett"
+* containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -670,13 +670,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //538707 -> False
 // ERROR[7] - no Müügiloa number: 538707 for this package in the medicinal sheet for INDEX:19
 //DUMMY
@@ -694,11 +694,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2095-1243112"
 * name = "AMLOCARD 10MG - 10mg - 200 Tablett"
 
-* description = ""
+* description = "AMLOCARD 10MG - 10mg - 200 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 200 $200000000014#None "Tablett"
+* containedItemQuantity = 200 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -706,7 +706,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
     * containedItem.amount.value = 200
      
@@ -728,11 +728,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2086-1241525"
 * name = "AMLODIGAMMA 10MG - 10mg - 50 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 10MG - 10mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -740,7 +740,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "nan"
+    * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 50
      
@@ -762,11 +762,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2086-1241558"
 * name = "AMLODIGAMMA 10MG - 10mg - 300 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 10MG - 10mg - 300 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 300 $200000000014#None "Tablett"
+* containedItemQuantity = 300 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -774,7 +774,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 300
      
@@ -796,11 +796,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2086-1241503"
 * name = "AMLODIGAMMA 10MG - 10mg - 28 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 10MG - 10mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -808,7 +808,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "nan"
+    * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 28
      
@@ -830,11 +830,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2086-1241514"
 * name = "AMLODIGAMMA 10MG - 10mg - 30 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 10MG - 10mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -842,7 +842,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "nan"
+    * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 30
      
@@ -864,11 +864,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2086-1241536"
 * name = "AMLODIGAMMA 10MG - 10mg - 98 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 10MG - 10mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -876,7 +876,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "nan"
+    * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 98
      
@@ -898,11 +898,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2086-1241547"
 * name = "AMLODIGAMMA 10MG - 10mg - 100 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 10MG - 10mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -910,7 +910,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 100
      
@@ -932,11 +932,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2086-1241480"
 * name = "AMLODIGAMMA 10MG - 10mg - 10 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 10MG - 10mg - 10 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 10 $200000000014#None "Tablett"
+* containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -944,14 +944,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "pudel"
+    * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //527106 -> False
 // ERROR[7] - no Müügiloa number: 527106 for this package in the medicinal sheet for INDEX:27
 //DUMMY
@@ -969,11 +969,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2086-1241491"
 * name = "AMLODIGAMMA 10MG - 10mg - 20 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 10MG - 10mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -981,7 +981,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "nan"
+    * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 20
      
@@ -1003,11 +1003,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2086-1241569"
 * name = "AMLODIGAMMA 10MG - 10mg - 500 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 10MG - 10mg - 500 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 500 $200000000014#None "Tablett"
+* containedItemQuantity = 500 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1015,7 +1015,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
     * containedItem.amount.value = 500
      
@@ -1037,11 +1037,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1252145"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 90 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1049,13 +1049,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:30
 //DUMMY
@@ -1073,11 +1073,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1109810"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 20 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1085,13 +1085,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:31
 //DUMMY
@@ -1109,11 +1109,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1252077"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 14 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 14 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 14 $200000000014#None "Tablett"
+* containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1121,13 +1121,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:32
 //DUMMY
@@ -1145,11 +1145,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1252099"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 28 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1157,13 +1157,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:33
 //DUMMY
@@ -1181,11 +1181,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1252123"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 56 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 56 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 56 $200000000014#None "Tablett"
+* containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1193,13 +1193,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:34
 //DUMMY
@@ -1217,11 +1217,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1252178"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 200 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 200 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 200 $200000000014#None "Tablett"
+* containedItemQuantity = 200 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1229,13 +1229,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 200
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:35
 //DUMMY
@@ -1253,11 +1253,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1109821"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 50 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1265,13 +1265,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:36
 //DUMMY
@@ -1289,11 +1289,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1109832"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 98 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1301,13 +1301,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:37
 //DUMMY
@@ -1325,11 +1325,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1109843"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 100 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1337,14 +1337,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:38
 //DUMMY
@@ -1362,11 +1362,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1252189"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 250 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 250 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 250 $200000000014#None "Tablett"
+* containedItemQuantity = 250 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1374,14 +1374,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 250
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:39
 //DUMMY
@@ -1399,11 +1399,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1252134"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 60 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1411,13 +1411,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:40
 //DUMMY
@@ -1435,11 +1435,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1147003"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 30 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1447,13 +1447,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:41
 //DUMMY
@@ -1471,11 +1471,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2155-1252066"
 * name = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 10 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 10 MG - 10mg - 10 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 10 $200000000014#None "Tablett"
+* containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1483,13 +1483,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //537207 -> False
 // ERROR[7] - no Müügiloa number: 537207 for this package in the medicinal sheet for INDEX:42
 //DUMMY
@@ -1507,11 +1507,11 @@ Usage: #example
 * identifier[pcid].value = "EE-ML11502-2394-1295748"
 * name = "AMLODIPINE MEDOCHEMIE - 10mg - 30 Tablett"
 
-* description = ""
+* description = "AMLODIPINE MEDOCHEMIE - 10mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1519,14 +1519,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-9030bbd21e461a4d7993890e64808084)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003214 "PolyEthylene" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //567207 -> False
 // ERROR[7] - no Müügiloa number: 567207 for this package in the medicinal sheet for INDEX:43
 //DUMMY
@@ -1544,11 +1544,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1647367"
 * name = "AMLODIPINE TEVA - 10mg - 250 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 250 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 250 $200000000014#None "Tablett"
+* containedItemQuantity = 250 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1556,14 +1556,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "pudel"
+    * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 250
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:44
 //DUMMY
@@ -1581,11 +1581,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1318913"
 * name = "AMLODIPINE TEVA - 10mg - 14 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 14 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 14 $200000000014#None "Tablett"
+* containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1593,13 +1593,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:45
 //DUMMY
@@ -1617,11 +1617,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1318924"
 * name = "AMLODIPINE TEVA - 10mg - 20 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1629,13 +1629,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:46
 //DUMMY
@@ -1653,11 +1653,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1318935"
 * name = "AMLODIPINE TEVA - 10mg - 28 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1665,13 +1665,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:47
 //DUMMY
@@ -1689,11 +1689,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1647356"
 * name = "AMLODIPINE TEVA - 10mg - 200 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 200 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 200 $200000000014#None "Tablett"
+* containedItemQuantity = 200 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1701,14 +1701,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 200
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:48
 //DUMMY
@@ -1726,11 +1726,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1318946"
 * name = "AMLODIPINE TEVA - 10mg - 30 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1738,14 +1738,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:49
 //DUMMY
@@ -1763,11 +1763,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1318957"
 * name = "AMLODIPINE TEVA - 10mg - 50 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1775,13 +1775,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:50
 //DUMMY
@@ -1799,11 +1799,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1318968"
 * name = "AMLODIPINE TEVA - 10mg - 56 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 56 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 56 $200000000014#None "Tablett"
+* containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1811,13 +1811,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:51
 //DUMMY
@@ -1835,11 +1835,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1318979"
 * name = "AMLODIPINE TEVA - 10mg - 84 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 84 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 84 $200000000014#None "Tablett"
+* containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1847,13 +1847,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 84
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:52
 //DUMMY
@@ -1871,11 +1871,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1318980"
 * name = "AMLODIPINE TEVA - 10mg - 90 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1883,13 +1883,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:53
 //DUMMY
@@ -1907,11 +1907,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1318991"
 * name = "AMLODIPINE TEVA - 10mg - 98 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1919,14 +1919,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:54
 //DUMMY
@@ -1944,11 +1944,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1319004"
 * name = "AMLODIPINE TEVA - 10mg - 100 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1956,14 +1956,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "pudel"
+    * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:55
 //DUMMY
@@ -1981,11 +1981,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1319015"
 * name = "AMLODIPINE TEVA - 10mg - 112 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 112 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 112 $200000000014#None "Tablett"
+* containedItemQuantity = 112 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -1993,13 +1993,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 112
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:56
 //DUMMY
@@ -2017,11 +2017,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1319026"
 * name = "AMLODIPINE TEVA - 10mg - 15 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 15 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 15 $200000000014#None "Tablett"
+* containedItemQuantity = 15 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2029,13 +2029,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 15
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:57
 //DUMMY
@@ -2053,11 +2053,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100005270-9145-1701740"
 * name = "AMLODIPINE TEVA - 10mg - 120 Tablett"
 
-* description = ""
+* description = "AMLODIPINE TEVA - 10mg - 120 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 120 $200000000014#None "Tablett"
+* containedItemQuantity = 120 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2065,13 +2065,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
     * containedItem.amount.value = 120
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //589308 -> False
 // ERROR[7] - no Müügiloa number: 589308 for this package in the medicinal sheet for INDEX:58
 //DUMMY
@@ -2089,11 +2089,11 @@ Usage: #example
 * identifier[pcid].value = "EE-ML194-3287-1445419"
 * name = "AMLODIPINE VITABALANS - 10mg - 100 Tablett"
 
-* description = ""
+* description = "AMLODIPINE VITABALANS - 10mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2101,13 +2101,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //744411 -> False
 // ERROR[7] - no Müügiloa number: 744411 for this package in the medicinal sheet for INDEX:59
 //DUMMY
@@ -2125,11 +2125,11 @@ Usage: #example
 * identifier[pcid].value = "EE-ML194-3287-1865718"
 * name = "AMLODIPINE VITABALANS - 10mg - 90 Tablett"
 
-* description = ""
+* description = "AMLODIPINE VITABALANS - 10mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2137,13 +2137,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //744411 -> False
 // ERROR[7] - no Müügiloa number: 744411 for this package in the medicinal sheet for INDEX:60
 //DUMMY
@@ -2161,11 +2161,11 @@ Usage: #example
 * identifier[pcid].value = "EE-ML194-3287-1445396"
 * name = "AMLODIPINE VITABALANS - 10mg - 30 Tablett"
 
-* description = ""
+* description = "AMLODIPINE VITABALANS - 10mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2173,13 +2173,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //744411 -> False
 // ERROR[7] - no Müügiloa number: 744411 for this package in the medicinal sheet for INDEX:61
 //DUMMY
@@ -2197,11 +2197,11 @@ Usage: #example
 * identifier[pcid].value = "EE-ML194-3287-1445408"
 * name = "AMLODIPINE VITABALANS - 10mg - 60 Tablett"
 
-* description = ""
+* description = "AMLODIPINE VITABALANS - 10mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2209,13 +2209,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //744411 -> False
 // ERROR[7] - no Müügiloa number: 744411 for this package in the medicinal sheet for INDEX:62
 //DUMMY
@@ -2233,11 +2233,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553688"
 * name = "NORVASC - 10mg - 4 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 4 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 4 $200000000014#None "Tablett"
+* containedItemQuantity = 4 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2245,13 +2245,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 4
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:63
 //DUMMY
@@ -2269,11 +2269,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738605"
 * name = "NORVASC - 10mg - 4 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 4 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 4 $200000000014#None "Tablett"
+* containedItemQuantity = 4 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2281,13 +2281,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 4
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:64
 //DUMMY
@@ -2305,11 +2305,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738694"
 * name = "NORVASC - 10mg - 100 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2317,13 +2317,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:65
 //DUMMY
@@ -2341,11 +2341,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553712"
 * name = "NORVASC - 10mg - 20 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2353,13 +2353,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:66
 //DUMMY
@@ -2377,11 +2377,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553778"
 * name = "NORVASC - 10mg - 100 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2389,13 +2389,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:67
 //DUMMY
@@ -2413,11 +2413,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738638"
 * name = "NORVASC - 10mg - 20 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2425,13 +2425,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:68
 //DUMMY
@@ -2449,11 +2449,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738649"
 * name = "NORVASC - 10mg - 28 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2461,13 +2461,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:69
 //DUMMY
@@ -2485,11 +2485,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738672"
 * name = "NORVASC - 10mg - 90 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2497,13 +2497,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:70
 //DUMMY
@@ -2521,11 +2521,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738661"
 * name = "NORVASC - 10mg - 60 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2533,13 +2533,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:71
 //DUMMY
@@ -2557,11 +2557,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738683"
 * name = "NORVASC - 10mg - 98 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2569,13 +2569,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:72
 //DUMMY
@@ -2593,11 +2593,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100044049-7864-1830596"
 * name = "NORVASC - 10mg - 30 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2605,13 +2605,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-a0a5c6fec3f94cc85dd264a42dc34740)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //1017320 -> False
 // ERROR[7] - no Müügiloa number: 1017320 for this package in the medicinal sheet for INDEX:73
 //DUMMY
@@ -2629,11 +2629,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738616"
 * name = "NORVASC - 10mg - 10 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 10 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 10 $200000000014#None "Tablett"
+* containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2641,13 +2641,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:74
 //DUMMY
@@ -2665,11 +2665,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738627"
 * name = "NORVASC - 10mg - 14 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 14 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 14 $200000000014#None "Tablett"
+* containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2677,13 +2677,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:75
 //DUMMY
@@ -2701,11 +2701,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738650"
 * name = "NORVASC - 10mg - 50 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2713,13 +2713,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:76
 //DUMMY
@@ -2737,11 +2737,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553701"
 * name = "NORVASC - 10mg - 14 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 14 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 14 $200000000014#None "Tablett"
+* containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2749,13 +2749,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:77
 //DUMMY
@@ -2773,11 +2773,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553734"
 * name = "NORVASC - 10mg - 50 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2785,13 +2785,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:78
 //DUMMY
@@ -2809,11 +2809,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553756"
 * name = "NORVASC - 10mg - 90 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2821,13 +2821,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:79
 //DUMMY
@@ -2845,11 +2845,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1018527"
 * name = "NORVASC - 10mg - 30 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2857,13 +2857,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:80
 //DUMMY
@@ -2881,11 +2881,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553699"
 * name = "NORVASC - 10mg - 10 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 10 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 10 $200000000014#None "Tablett"
+* containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2893,13 +2893,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:81
 //DUMMY
@@ -2917,11 +2917,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553723"
 * name = "NORVASC - 10mg - 28 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2929,13 +2929,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:82
 //DUMMY
@@ -2953,11 +2953,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553767"
 * name = "NORVASC - 10mg - 98 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -2965,13 +2965,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:83
 //DUMMY
@@ -2989,11 +2989,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553789"
 * name = "NORVASC - 10mg - 300 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 300 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 300 $200000000014#None "Tablett"
+* containedItemQuantity = 300 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3001,13 +3001,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:84
 //DUMMY
@@ -3025,11 +3025,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738717"
 * name = "NORVASC - 10mg - 500 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 500 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 500 $200000000014#None "Tablett"
+* containedItemQuantity = 500 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3037,13 +3037,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:85
 //DUMMY
@@ -3061,11 +3061,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738728"
 * name = "NORVASC - 10mg - 30 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3073,13 +3073,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:86
 //DUMMY
@@ -3097,11 +3097,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6160-1738706"
 * name = "NORVASC - 10mg - 300 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 300 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 300 $200000000014#None "Tablett"
+* containedItemQuantity = 300 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3109,13 +3109,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942417 -> False
 // ERROR[7] - no Müügiloa number: 942417 for this package in the medicinal sheet for INDEX:87
 //DUMMY
@@ -3133,11 +3133,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553745"
 * name = "NORVASC - 10mg - 60 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3145,13 +3145,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:88
 //DUMMY
@@ -3169,11 +3169,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-241-1553790"
 * name = "NORVASC - 10mg - 500 Tablett"
 
-* description = ""
+* description = "NORVASC - 10mg - 500 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 500 $200000000014#None "Tablett"
+* containedItemQuantity = 500 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3181,13 +3181,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //176397 -> False
 // ERROR[7] - no Müügiloa number: 176397 for this package in the medicinal sheet for INDEX:89
 //DUMMY
@@ -3205,11 +3205,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4195-1564062"
 * name = "ALNETA - 5mg - 60 Tablett"
 
-* description = ""
+* description = "ALNETA - 5mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3217,13 +3217,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //808113 -> False
 // ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:90
 //DUMMY
@@ -3241,11 +3241,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4195-1564040"
 * name = "ALNETA - 5mg - 30 Tablett"
 
-* description = ""
+* description = "ALNETA - 5mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3253,13 +3253,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //808113 -> False
 // ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:91
 //DUMMY
@@ -3277,11 +3277,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4195-1564084"
 * name = "ALNETA - 5mg - 90 Tablett"
 
-* description = ""
+* description = "ALNETA - 5mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3289,13 +3289,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //808113 -> False
 // ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:92
 //DUMMY
@@ -3313,11 +3313,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4195-1564095"
 * name = "ALNETA - 5mg - 98 Tablett"
 
-* description = ""
+* description = "ALNETA - 5mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3325,13 +3325,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //808113 -> False
 // ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:93
 //DUMMY
@@ -3349,11 +3349,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4195-1564039"
 * name = "ALNETA - 5mg - 28 Tablett"
 
-* description = ""
+* description = "ALNETA - 5mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3361,13 +3361,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //808113 -> False
 // ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:94
 //DUMMY
@@ -3385,11 +3385,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4195-1564051"
 * name = "ALNETA - 5mg - 56 Tablett"
 
-* description = ""
+* description = "ALNETA - 5mg - 56 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 56 $200000000014#None "Tablett"
+* containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3397,13 +3397,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //808113 -> False
 // ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:95
 //DUMMY
@@ -3421,11 +3421,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4195-1564073"
 * name = "ALNETA - 5mg - 84 Tablett"
 
-* description = ""
+* description = "ALNETA - 5mg - 84 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 84 $200000000014#None "Tablett"
+* containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3433,13 +3433,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 84
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //808113 -> False
 // ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:96
 //DUMMY
@@ -3457,11 +3457,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100009540-4195-1564107"
 * name = "ALNETA - 5mg - 100 Tablett"
 
-* description = ""
+* description = "ALNETA - 5mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3469,13 +3469,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //808113 -> False
 // ERROR[7] - no Müügiloa number: 808113 for this package in the medicinal sheet for INDEX:97
 //DUMMY
@@ -3493,11 +3493,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1242818"
 * name = "AMLOCARD 5 MG - 5mg - 14 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 14 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 14 $200000000014#None "Tablett"
+* containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3505,13 +3505,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //538507 -> False
 // ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:98
 //DUMMY
@@ -3529,11 +3529,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1242829"
 * name = "AMLOCARD 5 MG - 5mg - 20 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3541,14 +3541,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //538507 -> False
 // ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:99
 //DUMMY
@@ -3566,11 +3566,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1730067"
 * name = "AMLOCARD 5 MG - 5mg - 90 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3578,7 +3578,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 90
      
@@ -3600,11 +3600,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1087871"
 * name = "AMLOCARD 5 MG - 5mg - 30 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3612,14 +3612,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
 //538507 -> False
 // ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:101
 //DUMMY
@@ -3637,11 +3637,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1242807"
 * name = "AMLOCARD 5 MG - 5mg - 10 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 10 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 10 $200000000014#None "Tablett"
+* containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3649,13 +3649,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
 //538507 -> False
 // ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:102
 //DUMMY
@@ -3673,11 +3673,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1242830"
 * name = "AMLOCARD 5 MG - 5mg - 28 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3685,13 +3685,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
 //538507 -> False
 // ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:103
 //DUMMY
@@ -3709,11 +3709,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1242896"
 * name = "AMLOCARD 5 MG - 5mg - 200 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 200 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 200 $200000000014#None "Tablett"
+* containedItemQuantity = 200 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3721,7 +3721,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 200
      
@@ -3743,11 +3743,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1730078"
 * name = "AMLOCARD 5 MG - 5mg - 105 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 105 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 105 $200000000014#None "Tablett"
+* containedItemQuantity = 105 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3755,7 +3755,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 105
      
@@ -3777,11 +3777,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1242852"
 * name = "AMLOCARD 5 MG - 5mg - 50 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3789,14 +3789,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Üksikannuseline blister"
+    * type = $100000073346#100000174066 "Unit-dose blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
 //538507 -> False
 // ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:106
 //DUMMY
@@ -3814,11 +3814,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1242863"
 * name = "AMLOCARD 5 MG - 5mg - 60 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3826,14 +3826,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
 //538507 -> False
 // ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:107
 //DUMMY
@@ -3851,11 +3851,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1242885"
 * name = "AMLOCARD 5 MG - 5mg - 120 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 120 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 120 $200000000014#None "Tablett"
+* containedItemQuantity = 120 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3863,14 +3863,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 120
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
 //538507 -> False
 // ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:108
 //DUMMY
@@ -3888,11 +3888,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1242874"
 * name = "AMLOCARD 5 MG - 5mg - 100 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3900,14 +3900,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003210 " Orientated PolyAmide"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide"
 //538507 -> False
 // ERROR[7] - no Müügiloa number: 538507 for this package in the medicinal sheet for INDEX:109
 //DUMMY
@@ -3925,11 +3925,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100002475-2094-1242908"
 * name = "AMLOCARD 5 MG - 5mg - 250 Tablett"
 
-* description = ""
+* description = "AMLOCARD 5 MG - 5mg - 250 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 250 $200000000014#None "Tablett"
+* containedItemQuantity = 250 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3937,7 +3937,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "Konteiner"
+    * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
     * containedItem.amount.value = 250
      
@@ -3959,11 +3959,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2085-1241390"
 * name = "AMLODIGAMMA 5MG - 5mg - 10 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 5MG - 5mg - 10 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 10 $200000000014#None "Tablett"
+* containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -3971,14 +3971,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "pudel"
+    * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
 //527206 -> False
 // ERROR[7] - no Müügiloa number: 527206 for this package in the medicinal sheet for INDEX:111
 //DUMMY
@@ -3996,11 +3996,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2085-1241402"
 * name = "AMLODIGAMMA 5MG - 5mg - 20 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 5MG - 5mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4008,7 +4008,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "nan"
+    * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 20
      
@@ -4030,11 +4030,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2085-1241413"
 * name = "AMLODIGAMMA 5MG - 5mg - 28 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 5MG - 5mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4042,7 +4042,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "nan"
+    * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 28
      
@@ -4064,11 +4064,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2085-1241424"
 * name = "AMLODIGAMMA 5MG - 5mg - 30 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 5MG - 5mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4076,7 +4076,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "nan"
+    * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 30
      
@@ -4098,11 +4098,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2085-1241457"
 * name = "AMLODIGAMMA 5MG - 5mg - 100 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 5MG - 5mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4110,7 +4110,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 100
      
@@ -4132,11 +4132,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2085-1241468"
 * name = "AMLODIGAMMA 5MG - 5mg - 300 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 5MG - 5mg - 300 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 300 $200000000014#None "Tablett"
+* containedItemQuantity = 300 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4144,7 +4144,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 300
      
@@ -4166,11 +4166,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2085-1241435"
 * name = "AMLODIGAMMA 5MG - 5mg - 50 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 5MG - 5mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4178,7 +4178,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "nan"
+    * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 50
      
@@ -4200,11 +4200,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2085-1241446"
 * name = "AMLODIGAMMA 5MG - 5mg - 98 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 5MG - 5mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4212,7 +4212,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "nan"
+    * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 98
      
@@ -4234,11 +4234,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100054619-2085-1241479"
 * name = "AMLODIGAMMA 5MG - 5mg - 500 Tablett"
 
-* description = ""
+* description = "AMLODIGAMMA 5MG - 5mg - 500 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 500 $200000000014#None "Tablett"
+* containedItemQuantity = 500 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4246,7 +4246,7 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
     * containedItem.amount.value = 500
      
@@ -4268,11 +4268,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1251885"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 200 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 200 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 200 $200000000014#None "Tablett"
+* containedItemQuantity = 200 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4280,13 +4280,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 200
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:120
 //DUMMY
@@ -4304,11 +4304,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1251896"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 250 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 250 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 250 $200000000014#None "Tablett"
+* containedItemQuantity = 250 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4316,14 +4316,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 250
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:121
 //DUMMY
@@ -4341,11 +4341,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1251773"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 10 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 10 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 10 $200000000014#None "Tablett"
+* containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4353,13 +4353,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:122
 //DUMMY
@@ -4377,11 +4377,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1251784"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 14 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 14 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 14 $200000000014#None "Tablett"
+* containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4389,13 +4389,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:123
 //DUMMY
@@ -4413,11 +4413,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1251830"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 56 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 56 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 56 $200000000014#None "Tablett"
+* containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4425,13 +4425,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 56
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:124
 //DUMMY
@@ -4449,11 +4449,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1109753"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 20 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4461,13 +4461,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:125
 //DUMMY
@@ -4485,11 +4485,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1251841"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 60 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4497,13 +4497,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:126
 //DUMMY
@@ -4521,11 +4521,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1251852"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 90 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4533,13 +4533,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:127
 //DUMMY
@@ -4557,11 +4557,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1109809"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 100 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4569,14 +4569,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003215 " High Density PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003215 "High Density PolyEthylene" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:128
 //DUMMY
@@ -4594,11 +4594,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1109786"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 50 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4606,13 +4606,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:129
 //DUMMY
@@ -4630,11 +4630,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1109797"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 98 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4642,13 +4642,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:130
 //DUMMY
@@ -4666,11 +4666,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1109764"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 28 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4678,13 +4678,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:131
 //DUMMY
@@ -4702,11 +4702,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100006906-2153-1109775"
 * name = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 30 Tablett"
 
-* description = ""
+* description = "AMLODIPIN-RATIOPHARM 5 MG - 5mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4714,13 +4714,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //537307 -> False
 // ERROR[7] - no Müügiloa number: 537307 for this package in the medicinal sheet for INDEX:132
 //DUMMY
@@ -4738,11 +4738,11 @@ Usage: #example
 * identifier[pcid].value = "EE-ML11502-2393-1295737"
 * name = "AMLODIPINE MEDOCHEMIE - 5mg - 30 Tablett"
 
-* description = ""
+* description = "AMLODIPINE MEDOCHEMIE - 5mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4750,14 +4750,14 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-790c3262fcb36ab4153d147d79fb4390)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003214 " PolyEthylene" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003214 "PolyEthylene" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //567307 -> False
 // ERROR[7] - no Müügiloa number: 567307 for this package in the medicinal sheet for INDEX:133
 //DUMMY
@@ -4775,11 +4775,11 @@ Usage: #example
 * identifier[pcid].value = "EE-ML194-3286-1445284"
 * name = "AMLODIPINE VITABALANS - 5mg - 30 Tablett"
 
-* description = ""
+* description = "AMLODIPINE VITABALANS - 5mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4787,13 +4787,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //744511 -> False
 // ERROR[7] - no Müügiloa number: 744511 for this package in the medicinal sheet for INDEX:134
 //DUMMY
@@ -4811,11 +4811,11 @@ Usage: #example
 * identifier[pcid].value = "EE-ML194-3286-1445307"
 * name = "AMLODIPINE VITABALANS - 5mg - 100 Tablett"
 
-* description = ""
+* description = "AMLODIPINE VITABALANS - 5mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4823,13 +4823,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //744511 -> False
 // ERROR[7] - no Müügiloa number: 744511 for this package in the medicinal sheet for INDEX:135
 //DUMMY
@@ -4847,11 +4847,11 @@ Usage: #example
 * identifier[pcid].value = "EE-ML194-3286-1865707"
 * name = "AMLODIPINE VITABALANS - 5mg - 90 Tablett"
 
-* description = ""
+* description = "AMLODIPINE VITABALANS - 5mg - 90 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 90 $200000000014#None "Tablett"
+* containedItemQuantity = 90 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4859,13 +4859,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
     * containedItem.amount.value = 90
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //744511 -> False
 // ERROR[7] - no Müügiloa number: 744511 for this package in the medicinal sheet for INDEX:136
 //DUMMY
@@ -4883,11 +4883,11 @@ Usage: #example
 * identifier[pcid].value = "EE-ML194-3286-1445295"
 * name = "AMLODIPINE VITABALANS - 5mg - 60 Tablett"
 
-* description = ""
+* description = "AMLODIPINE VITABALANS - 5mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4895,13 +4895,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //744511 -> False
 // ERROR[7] - no Müügiloa number: 744511 for this package in the medicinal sheet for INDEX:137
 //DUMMY
@@ -4919,11 +4919,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738515"
 * name = "NORVASC - 5mg - 14 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 14 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 14 $200000000014#None "Tablett"
+* containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4931,13 +4931,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:138
 //DUMMY
@@ -4955,11 +4955,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738548"
 * name = "NORVASC - 5mg - 50 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -4967,13 +4967,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:139
 //DUMMY
@@ -4991,11 +4991,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553644"
 * name = "NORVASC - 5mg - 98 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5003,13 +5003,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:140
 //DUMMY
@@ -5027,11 +5027,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738481"
 * name = "NORVASC - 5mg - 30 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5039,13 +5039,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:141
 //DUMMY
@@ -5063,11 +5063,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738504"
 * name = "NORVASC - 5mg - 10 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 10 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 10 $200000000014#None "Tablett"
+* containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5075,13 +5075,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:142
 //DUMMY
@@ -5099,11 +5099,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738492"
 * name = "NORVASC - 5mg - 4 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 4 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 4 $200000000014#None "Tablett"
+* containedItemQuantity = 4 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5111,13 +5111,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 4
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:143
 //DUMMY
@@ -5135,11 +5135,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738526"
 * name = "NORVASC - 5mg - 20 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5147,13 +5147,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:144
 //DUMMY
@@ -5171,11 +5171,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1018538"
 * name = "NORVASC - 5mg - 30 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5183,13 +5183,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:145
 //DUMMY
@@ -5207,11 +5207,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738537"
 * name = "NORVASC - 5mg - 28 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5219,13 +5219,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:146
 //DUMMY
@@ -5243,11 +5243,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738559"
 * name = "NORVASC - 5mg - 60 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5255,13 +5255,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:147
 //DUMMY
@@ -5279,11 +5279,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738560"
 * name = "NORVASC - 5mg - 98 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 98 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 98 $200000000014#None "Tablett"
+* containedItemQuantity = 98 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5291,13 +5291,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 98
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:148
 //DUMMY
@@ -5315,11 +5315,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738593"
 * name = "NORVASC - 5mg - 500 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 500 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 500 $200000000014#None "Tablett"
+* containedItemQuantity = 500 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5327,13 +5327,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:149
 //DUMMY
@@ -5351,11 +5351,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738571"
 * name = "NORVASC - 5mg - 100 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5363,13 +5363,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:150
 //DUMMY
@@ -5387,11 +5387,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100055675-6159-1738582"
 * name = "NORVASC - 5mg - 300 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 300 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 300 $200000000014#None "Tablett"
+* containedItemQuantity = 300 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5399,13 +5399,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //942317 -> False
 // ERROR[7] - no Müügiloa number: 942317 for this package in the medicinal sheet for INDEX:151
 //DUMMY
@@ -5423,11 +5423,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100044049-7863-1830585"
 * name = "NORVASC - 5mg - 30 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 30 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 30 $200000000014#None "Tablett"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5435,13 +5435,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7622a96b7cdac59b9ebbffcc7e1a4fa4)
     * containedItem.amount.value = 30
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //1017220 -> False
 // ERROR[7] - no Müügiloa number: 1017220 for this package in the medicinal sheet for INDEX:152
 //DUMMY
@@ -5459,11 +5459,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553622"
 * name = "NORVASC - 5mg - 50 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 50 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 50 $200000000014#None "Tablett"
+* containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5471,13 +5471,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 50
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:153
 //DUMMY
@@ -5495,11 +5495,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553633"
 * name = "NORVASC - 5mg - 60 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 60 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 60 $200000000014#None "Tablett"
+* containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5507,13 +5507,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 60
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:154
 //DUMMY
@@ -5531,11 +5531,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553655"
 * name = "NORVASC - 5mg - 100 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 100 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 100 $200000000014#None "Tablett"
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5543,13 +5543,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 100
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:155
 //DUMMY
@@ -5567,11 +5567,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553666"
 * name = "NORVASC - 5mg - 300 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 300 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 300 $200000000014#None "Tablett"
+* containedItemQuantity = 300 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5579,13 +5579,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 300
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:156
 //DUMMY
@@ -5603,11 +5603,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553677"
 * name = "NORVASC - 5mg - 500 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 500 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 500 $200000000014#None "Tablett"
+* containedItemQuantity = 500 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5615,13 +5615,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 500
      
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:157
 //DUMMY
@@ -5639,11 +5639,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553598"
 * name = "NORVASC - 5mg - 14 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 14 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 14 $200000000014#None "Tablett"
+* containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5651,13 +5651,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 14
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:158
 //DUMMY
@@ -5675,11 +5675,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553600"
 * name = "NORVASC - 5mg - 20 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 20 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 20 $200000000014#None "Tablett"
+* containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5687,13 +5687,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 20
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:159
 //DUMMY
@@ -5711,11 +5711,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553611"
 * name = "NORVASC - 5mg - 28 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 28 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 28 $200000000014#None "Tablett"
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5723,13 +5723,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 28
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:160
 //DUMMY
@@ -5747,11 +5747,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553576"
 * name = "NORVASC - 5mg - 4 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 4 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 4 $200000000014#None "Tablett"
+* containedItemQuantity = 4 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5759,13 +5759,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 4
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride" 
-    * material[+] = $200000003199#200000003222 " PolyVinyl Chloride"
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:161
 //DUMMY
@@ -5783,11 +5783,11 @@ Usage: #example
 * identifier[pcid].value = "EE-100032008-240-1553587"
 * name = "NORVASC - 5mg - 10 Tablett"
 
-* description = ""
+* description = "NORVASC - 5mg - 10 Tablett"
 * status = #active
 
 //Pakendi suurus
-* containedItemQuantity = 10 $200000000014#None "Tablett"
+* containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging
@@ -5795,13 +5795,13 @@ Usage: #example
   * type = $100000073346#100000073498 "Box"
   
   * packaging.
-    * type = $100000073346#None "blister"
+    * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
     * containedItem.amount.value = 10
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
-    * material[+] = $200000003199#200000003200 " Aluminium" 
-    * material[+] = $200000003199#200000003225 " PolyVinylidene Chloride"
+    * material[+] = $200000003199#200000003200 "Aluminium" 
+    * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //176297 -> False
 // ERROR[7] - no Müügiloa number: 176297 for this package in the medicinal sheet for INDEX:162
 //DUMMY

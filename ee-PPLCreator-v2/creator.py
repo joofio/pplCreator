@@ -15,6 +15,8 @@ if n < 3:
         "Please provide the path to the input file and the path to the output file"
     )
 
+# RMS nimi eesti keeles->RMS termini nimi
+
 
 DATA_FILE = sys.argv[1]
 TEMPLATE_FOLDER = sys.argv[2]
@@ -79,10 +81,18 @@ def hash_id(string):
 env.filters["create_hash_id"] = hash_id
 
 
-def get_data_dictionary_info(word, data_dictionary, target, input_col):
+def get_data_dictionary_info(
+    word,
+    data_dictionary,
+    target,
+    input_col,
+):
     df = dict_data[str(data_dictionary)]
     # print(df)
     # return df[df["RMS nimi eesti keeles"] == "Tablett"]["RMS termini id"].values[0]
+    #  if data_dictionary == 200000000004 and word == "Tablett":
+    #      print(df[df[input_col] == word])
+
     try:
         return df[df[input_col] == word][target].values[0]
     except:

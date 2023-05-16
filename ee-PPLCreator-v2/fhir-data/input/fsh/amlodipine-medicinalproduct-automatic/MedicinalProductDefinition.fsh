@@ -18,7 +18,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -49,7 +49,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -80,7 +80,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -111,7 +111,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -142,7 +142,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -173,7 +173,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -204,7 +204,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -235,7 +235,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -266,7 +266,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -297,7 +297,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -328,7 +328,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -359,7 +359,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -390,7 +390,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -421,7 +421,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -452,7 +452,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -483,7 +483,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -514,7 +514,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
@@ -545,7 +545,7 @@ Usage: #example
 //Default: 200000005004 'Current'
 //* legalStatusOfSupply = $100000072051# ""
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
-* combinedPharmaceuticalDoseForm = $200000000004#None "Tablett"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 
 * classification = $who-atc#C08CA01 "amlodipiin"
 //* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
