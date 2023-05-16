@@ -152,13 +152,10 @@ def create_from_template(DATA_FILE, TEMPLATE_FOLDER, OUTPUT_FOLDER):
         print(DATA_FILE)
         if "PackagedProductDefinition" in file:
             df = pd.read_csv(
-                "Amlodipine/Amlodipine-packages.csv",
-                encoding="utf-8",
-                sep=";",
-                skiprows=[1],
+                "Amlodipine/Amlodipine-packages.csv", encoding="utf-8", sep=";"
             )
         else:
-            df = pd.read_csv(DATA_FILE, encoding="utf-8", sep=";", skiprows=[1])
+            df = pd.read_csv(DATA_FILE, encoding="utf-8", sep=";")
         #  print(df.columns)
         df = df.astype(str)
         data["data"] = df

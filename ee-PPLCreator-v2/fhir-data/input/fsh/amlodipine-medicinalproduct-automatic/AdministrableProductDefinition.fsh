@@ -1,5 +1,17 @@
 
 
+Instance: ap-1679e02bd535d5bf19f330ce4bcf681e
+InstanceOf: PPLAdministrableProductDefinition
+Title: "Administrable product ALNETA-Tablett-5mg"
+Description: "ALNETA-Tablett-5mg"
+Usage: #example
+* status = #active
+* formOf = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
+* administrableDoseForm = $200000000004#100000073664 "Tablet"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
+
 Instance: ap-0b5de376a6e3694afd4c906d71a20a93
 InstanceOf: PPLAdministrableProductDefinition
 Title: "Administrable product ALNETA-Tablett-10mg"

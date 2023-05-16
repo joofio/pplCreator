@@ -1,6 +1,39 @@
 
 
 
+Instance: ppd-a61a0c343957dca382fbb87f4016a0ee
+InstanceOf: PPLPackagedProductDefinition
+Title: "ALNETA - 10mg - 28 Tablett"
+Description: "ALNETA - 10mg - 28 Tablett"
+Usage: #example
+* identifier[pcid].value = "EE-100009540-4196-1564118"
+* name = "ALNETA - 10mg - 28 Tablett"
+* description = "ALNETA - 10mg - 28 Tablett"
+* status = #active
+
+//Pakendi suurus
+* containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
+* marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
+* marketingStatus.status = $100000072052#100000072083 "Marketed"
+* packaging
+  * quantity = 1
+  * type = $100000073346#100000073498 "Box"
+  
+  * packaging.
+    * type = $100000073346#100000073496 "Blister"
+    * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
+    * containedItem.amount.value = 28
+     
+    * material[+] = $200000003199#200000003210 "Orientated PolyAmide" 
+    * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
+    * material[+] = $200000003199#200000003200 "Aluminium"
+//808213 -> True
+// for: ALNETATablett10mg
+* packageFor = Reference(mp-0b5de376a6e3694afd4c906d71a20a93)
+// Reference to Organization: MAH
+//* manufacturer = Reference(ORG-100000627)
+
+
 Instance: ppd-dd17c90229aab4f9dfd784d0c0704bf1
 InstanceOf: PPLPackagedProductDefinition
 Title: "ALNETA - 10mg - 84 Tablett"

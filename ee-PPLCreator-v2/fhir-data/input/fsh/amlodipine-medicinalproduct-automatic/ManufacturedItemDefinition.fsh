@@ -1,5 +1,18 @@
 
 
+Instance: mid-1679e02bd535d5bf19f330ce4bcf681e
+InstanceOf: PPLManufacturedItemDefinition
+Title: "Manufactured item ALNETA Tablett 5mg"
+Description: "ALNETA"
+Usage: #example
+
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
+//Tablett
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+
+//* manufacturer = Reference(ORG-100000627)
+
 Instance: mid-0b5de376a6e3694afd4c906d71a20a93
 InstanceOf: PPLManufacturedItemDefinition
 Title: "Manufactured item ALNETA Tablett 10mg"

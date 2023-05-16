@@ -1,5 +1,26 @@
 
 
+Instance: auth-for-1679e02bd535d5bf19f330ce4bcf681e
+InstanceOf: PPLRegulatedAuthorization
+Title: "Regulated Authorization for ALNETA Tablett 5mg"
+Description: "Regulated Authorization for amlodipiin"
+Usage: #example
+//* id = "" 
+//* identifier.system = $spor-prod
+* identifier.value = "808113"
+//* identifier.use = #official
+// Reference to MedicinalProductDefinition:
+//MPD
+* subject = Reference(mp-1679e02bd535d5bf19f330ce4bcf681e)
+
+* type = $220000000060#220000000061 "Marketing Authorisation"
+* region = $100000000002#100000000388 "Republic of Estonia"
+* status = $100000072049#100000072099  "Valid"
+
+ 
+* statusDate = "2013-03-04"
+* holder = Reference(ORG-100000627)
+
 Instance: auth-for-0b5de376a6e3694afd4c906d71a20a93
 InstanceOf: PPLRegulatedAuthorization
 Title: "Regulated Authorization for ALNETA Tablett 10mg"

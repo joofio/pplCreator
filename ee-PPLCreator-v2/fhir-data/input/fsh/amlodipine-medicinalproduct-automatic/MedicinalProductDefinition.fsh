@@ -1,5 +1,36 @@
 
 
+Instance: mp-1679e02bd535d5bf19f330ce4bcf681e
+InstanceOf: PPLMedicinalProductDefinition
+Title: "Medicinal Product ALNETATablett5mg"
+Description: "808113 ALNETA"
+Usage: #example
+//* id = "" 
+// MPID in our example data has been EE-[number from LOC-ID]-[Medication card number]
+//* identifier[pmsid].value = "" 
+* identifier[mpid].value = "EE-100009540-4195"
+* type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
+* domain = $100000000004#100000000012 "Human use"
+//* status.coding[0] = $200000005003#Valid "Valid"
+* status.coding[0] = $200000005003#200000005005 "Provisional"
+//* status.coding[0] = http://hl7.org/fhir/publication-status#draft "Draft"
+//* indication = ""
+//Default: 200000005004 'Current'
+//* legalStatusOfSupply = $100000072051# ""
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+
+* classification = $who-atc#C08CA01 "Amlodipine"
+//* classification[atc].coding[ema] = $100000093533#C08CA01 "amlodipiin"
+
+* name.productName = "ALNETA 5mg Tablett"
+* name.part[invented].part = "ALNETA"
+* name.part[strength].part = "5mg"
+* name.part[doseForm].part = "Tablett"
+* name.usage.country.coding[ema].code = #100000000388
+* name.usage.country.coding[ema].display = "Republic of Estonia"
+* name.usage.language = $100000072057#100000072172  "Estonian"
+
 Instance: mp-0b5de376a6e3694afd4c906d71a20a93
 InstanceOf: PPLMedicinalProductDefinition
 Title: "Medicinal Product ALNETATablett10mg"
