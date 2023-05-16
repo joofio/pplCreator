@@ -10,12 +10,12 @@ Description: "ingredient amlodipiin with strength 5mg for ALNETA"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
@@ -37,12 +37,12 @@ Description: "ingredient amlodipiin with strength 10mg for ALNETA"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
@@ -64,12 +64,12 @@ Description: "ingredient amlodipiin with strength 10mg for AMLOCARD 10MG"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
@@ -91,12 +91,12 @@ Description: "ingredient amlodipiin with strength 5mg for AMLOCARD 5 MG"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
@@ -118,12 +118,12 @@ Description: "ingredient amlodipiin with strength 10mg for AMLODIGAMMA 10MG"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
@@ -145,12 +145,12 @@ Description: "ingredient amlodipiin with strength 5mg for AMLODIGAMMA 5MG"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
@@ -172,12 +172,12 @@ Description: "ingredient amlodipiin with strength 10mg for AMLODIPIN-RATIOPHARM 
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
@@ -199,12 +199,12 @@ Description: "ingredient amlodipiin with strength 5mg for AMLODIPIN-RATIOPHARM 5
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
@@ -226,12 +226,12 @@ Description: "ingredient amlodipiin with strength 10mg for AMLODIPINE MEDOCHEMIE
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
@@ -253,12 +253,12 @@ Description: "ingredient amlodipiin with strength 5mg for AMLODIPINE MEDOCHEMIE"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
@@ -280,12 +280,12 @@ Description: "ingredient amlodipiin with strength 10mg for AMLODIPINE TEVA"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
@@ -307,12 +307,12 @@ Description: "ingredient amlodipiin with strength 10mg for AMLODIPINE VITABALANS
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
@@ -334,12 +334,12 @@ Description: "ingredient amlodipiin with strength 5mg for AMLODIPINE VITABALANS"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
@@ -361,12 +361,12 @@ Description: "ingredient amlodipiin with strength 5mg for NORVASC"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
@@ -388,12 +388,12 @@ Description: "ingredient amlodipiin with strength 5mg for NORVASC"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
@@ -415,12 +415,12 @@ Description: "ingredient amlodipiin with strength 10mg for NORVASC"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
@@ -442,12 +442,12 @@ Description: "ingredient amlodipiin with strength 5mg for NORVASC"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
 * substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
@@ -469,12 +469,12 @@ Description: "ingredient amlodipiin with strength 10mg for NORVASC"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
@@ -496,12 +496,12 @@ Description: "ingredient amlodipiin with strength 10mg for NORVASC"
 Usage: #example
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
 * substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
-* substance.code.concept = $sms#100000085259 "Amlodipine"
+//* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"

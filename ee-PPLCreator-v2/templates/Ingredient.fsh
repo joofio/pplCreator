@@ -27,14 +27,14 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#{{ row["Toimeaine"].split(",")[idx]|strip_spaces|get_data_dictionary_info("substance","Concept Code","National Description")  }} "{{ row["Toimeaine"].split(",")[idx]|strip_spaces|get_data_dictionary_info("substance","Description (FSN)","National Description")  }}"
+* substance.code.concept = $sms#{{ row["Ravimis sisalduv toimeaine"].split(",")[idx]|strip_spaces|get_data_dictionary_info("substance","Concept Code","National Description")  }} "{{ row["Ravimis sisalduv toimeaine"].split(",")[idx]|strip_spaces|get_data_dictionary_info("substance","Description (FSN)","National Description")  }}"
 
 //full: {{row["Ravimi tugevus"].split(",")[idx]}}
 {{ "// ERROR[4] - strengths and principles are wrong for INDEX:{}".format(index+1) if row["Toimeaine"].split(",")|length != row["Ravimi tugevus"].split(",")|length }}
 
 * substance.strength.presentationRatio.numerator = {{ row["Ravimis sisalduva toimeaine tugevus"].split(",")[idx]| get_by_regex("(\d+|\.)")  }}  $100000110633#{{ row["Ravimi tugevus"].split(",")[idx]| get_by_regex("[a-z]+")|get_data_dictionary_info(100000110633,"RMS termini id","Termini sümbol")}}  "{{ row["Ravimi tugevus"].split(",")[idx]| get_by_regex("[a-z]+") }}"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#{{row["Pakendi suurus"].split(",")[0]|get_by_regex("[A-Za-z]+")|get_data_dictionary_info(200000000014,"RMS termini id","RMS nimi eesti keeles")}} "{{row["Pakendi suurus"].split(",")[0]|get_by_regex("[A-Za-z]+")|get_data_dictionary_info(200000000014,"RMS termini nimi","RMS nimi eesti keeles") }}"
-* substance.code.concept = $sms#{{ row["Toimeaine"].split(",")[idx]|strip_spaces|get_data_dictionary_info("substance","Concept Code","National Description")  }} "{{ row["Toimeaine"].split(",")[idx]|strip_spaces|get_data_dictionary_info("substance","Description (FSN)","National Description")   }}"
+//* substance.code.concept = $sms#{{ row["Toimeaine"].split(",")[idx]|strip_spaces|get_data_dictionary_info("substance","Concept Code","National Description")  }} "{{ row["Toimeaine"].split(",")[idx]|strip_spaces|get_data_dictionary_info("substance","Description (FSN)","National Description")   }}"
 
 {{"// ERROR[5] - reference strengths and principles are wrong for INDEX:{}".format(index+1) if row["Referentstoimeaine"].split(",")|length != row["Referentstoimeaine tugevus"].split(",")|length }}
 //full: {{row["Referentstoimeaine tugevus"].split(",")[idx]}}

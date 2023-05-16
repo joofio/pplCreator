@@ -46,5 +46,6 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
+* name.usage.language = $100000072057#100000072172  "Estonian"
 
 {%- endfor %}
