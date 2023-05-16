@@ -191,6 +191,7 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
         count = 0
         final_count = {}
         ids_to_skip = {}
+        description = []
         # Strips the newline character
         for line in Lines:
             count += 1
@@ -200,6 +201,8 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
                 id_ = re.findall("INDEX:(\d{1,7})", line)
                 #  print(id_)
                 message = re.findall("- (.+) INDEX:", line)
+                description.append(message[0] + " " + id_[0])
+
                 # print(id_[0], message)
                 # print(error_nr[0])
                 if error_nr[0] in final_count.keys():
@@ -214,7 +217,20 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
                     # print("{} @{}".format( line.strip(),count))
                 error_count += 1
         erros[path] = error_count
-    print(erros)
+    # print(erros)
+
+    # print(description)
+    # print(messages)
+    f = open("validation_output.txt", "w")
+    for k, v in erros.items():
+        f.write(k + ":" + str(v))
+        f.write("\n")
+    f.write("\n")
+    for el in description:
+        f.write(el)
+        f.write("\n")
+
+    f.close()
 
 
 # remove duplicates

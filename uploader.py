@@ -31,3 +31,7 @@ for item in ORDER_LIST:
             if x.status_code == 400:
                 print(res)
                 print(x.text)
+                f = open("validation_output.txt", "a")
+                f.write(res)
+                f.write("\n")
+                f.close()
