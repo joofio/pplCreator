@@ -88,6 +88,8 @@ def get_data_from_sheet(
 ):
     df = data[sheet]
     # print(df)
+    #  if sheet == "ATC_EXTRA":
+    #     print(sheet, input_value, target, input_col)
     # return df[df["RMS nimi eesti keeles"] == "Tablett"]["RMS termini id"].values[0]
     try:
         return df[df[input_col] == input_value][target].values[0]
@@ -130,6 +132,7 @@ def create_from_template(DATA_FILE, TEMPLATE_FOLDER, OUTPUT_FOLDER):
         "Measurement Units",
         "Recipient",
         "Extra",
+        "ATC_EXTRA",
     ]
 
     # create temp_folder:

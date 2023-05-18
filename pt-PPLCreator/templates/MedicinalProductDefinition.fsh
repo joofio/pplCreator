@@ -31,8 +31,8 @@ Usage: #example
 {% for idx in range(0,ns.atc_ema.count(";")+1) %} 
 
 
-* classification[+] = $who-atc#{{ ns.atc_ema.split(";")[idx]|trim}} ""
-* classification[+] = $100000093533#{{ ns.atc_spor.split(";")[idx]|trim}} ""
+* classification[+] = $who-atc#{{ ns.atc_ema.split(";")[idx]|trim}} "{{ns.atc_ema.split(";")[idx]|trim|get_data_from_sheet(data["data"],"ATC_EXTRA","RMS_descr","Source_ID")}}"
+* classification[+] = $100000093533#{{ ns.atc_spor.split(";")[idx]|trim}} "{{ns.atc_spor.split(";")[idx]|trim|get_data_from_sheet(data["data"],"ATC_EXTRA","RMS_descr","RMS_ID")}}"
 
 {%- endfor %}
 

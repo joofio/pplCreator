@@ -1,0 +1,8 @@
+Ingredient.fsh:0
+AdministrableProductDefinition.fsh:7
+RegulatedAuthorization.fsh:1636
+Organization.fsh:0
+PackagedProductDefinition.fsh:0
+MedicinalProductDefinition.fsh:0
+ManufacturedItemDefinition.fsh:0
+

@@ -3,7 +3,11 @@
 
 
 
+
  
+
+
+
 
 
 
@@ -21,15 +25,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#345 "Amoxicilina tri-hidratada"
+* substance.code.concept = $sms#100000091596 "Amoxicilina tri-hidratada"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 573.96  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 500.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#345 "Amoxicilina tri-hidratada"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092629 "Amoxicilina"
 
 // Reference to products item
 
@@ -38,6 +42,9 @@ Usage: #example
 * for[+] = Reference(mid-709)
 
  
+
+
+
 
 
 
@@ -55,15 +62,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#346 "Clavulanato de potássio"
+* substance.code.concept = $sms#100000089842 "Clavulanato de potássio"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 148.91  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 125.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#346 "Clavulanato de potássio"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000093061 "Ácido Clavulânico"
 
 // Reference to products item
 
@@ -76,7 +83,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -94,15 +105,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#9478 "Paracetamol"
+* substance.code.concept = $sms#100000090270 "Paracetamol"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 500.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 500.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#9478 "Paracetamol"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090270 "Paracetamol"
 
 // Reference to products item
 
@@ -115,7 +126,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -133,15 +148,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#11787 "Ibuprofeno"
+* substance.code.concept = $sms#100000090365 "Ibuprofeno"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 600.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002143  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002143  "Saqueta"
 * substance.strength.referenceStrength.strengthRatio.numerator = 600.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002143  "saqueta"
-* substance.strength.referenceStrength.substance.concept = $sms#11787 "Ibuprofeno"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090365 "Ibuprofeno"
 
 // Reference to products item
 
@@ -154,7 +169,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -172,7 +191,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#4115 "Clotrimazol"
+* substance.code.concept = $sms#100000092074 "Clotrimazol"
 
 
 
@@ -183,8 +202,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#4115 "Clotrimazol"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092074 "Clotrimazol"
 
 // Reference to products item
 
@@ -197,7 +215,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -215,15 +237,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#19921 "Ciproterona, acetato"
+* substance.code.concept = $sms#100000090321 "Ciproterona, acetato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 2.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#19921 "Ciproterona, acetato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090321 "Ciproterona, acetato"
 
 // Reference to products item
 
@@ -232,6 +254,9 @@ Usage: #example
 * for[+] = Reference(mid-2516)
 
  
+
+
+
 
 
 
@@ -249,15 +274,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#19922 "Etinilestradiol"
+* substance.code.concept = $sms#100000091721 "Etinilestradiol"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 0.035  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.035  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#19922 "Etinilestradiol"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091721 "Etinilestradiol"
 
 // Reference to products item
 
@@ -270,7 +295,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -288,7 +317,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#24658 "Cefuroxima axetil"
+* substance.code.concept = $sms#100000093039 "Cefuroxima axetil"
 
 
 
@@ -299,8 +328,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 60.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#24658 "Cefuroxima axetil"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000093039 "Cefuroxima axetil"
 
 // Reference to products item
 
@@ -313,7 +341,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -331,15 +363,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#25298 "Gestodeno"
+* substance.code.concept = $sms#100000092348 "Gestodeno"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 0.06  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.06  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#25298 "Gestodeno"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092348 "Gestodeno"
 
 // Reference to products item
 
@@ -348,6 +380,9 @@ Usage: #example
 * for[+] = Reference(mid-3299)
 
  
+
+
+
 
 
 
@@ -365,15 +400,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#1564 "Diclofenac sódico"
+* substance.code.concept = $sms#100000092272 "Diclofenac sódico"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#1564 "Diclofenac sódico"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092272 "Diclofenac sódico"
 
 // Reference to products item
 
@@ -386,7 +421,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -404,15 +443,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#24068 "Metformina, cloridrato"
+* substance.code.concept = $sms#100000085448 "Metformina, cloridrato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 500.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 390.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#24068 "Metformina, cloridrato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091366 "Metformina"
 
 // Reference to products item
 
@@ -425,7 +464,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -443,15 +486,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3940 "Desogestrel"
+* substance.code.concept = $sms#100000083191 "Desogestrel"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 0.15  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.15  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3940 "Desogestrel"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000083191 "Desogestrel"
 
 // Reference to products item
 
@@ -460,6 +503,9 @@ Usage: #example
 * for[+] = Reference(mid-5323)
 
  
+
+
+
 
 
 
@@ -477,15 +523,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#35904 "Levonorgestrel"
+* substance.code.concept = $sms#100000091059 "Levonorgestrel"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 0.15  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.15  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#35904 "Levonorgestrel"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091059 "Levonorgestrel"
 
 // Reference to products item
 
@@ -498,7 +544,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -516,7 +566,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#41090 "Hidrocortisona"
+* substance.code.concept = $sms#100000092635 "Hidrocortisona"
 
 
 
@@ -527,8 +577,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#41090 "Hidrocortisona"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092635 "Hidrocortisona"
 
 // Reference to products item
 
@@ -541,7 +590,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -559,15 +612,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#38069 "Enalapril, maleato"
+* substance.code.concept = $sms#100000091343 "Enalapril, maleato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#38069 "Enalapril, maleato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091343 "Enalapril, maleato"
 
 // Reference to products item
 
@@ -580,7 +633,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -598,15 +655,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#4305 "Ciclosporina"
+* substance.code.concept = $sms#100000092121 "Ciclosporina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 25.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.strengthRatio.numerator = 25.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
-* substance.strength.referenceStrength.substance.concept = $sms#4305 "Ciclosporina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092121 "Ciclosporina"
 
 // Reference to products item
 
@@ -619,7 +676,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -637,15 +698,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#2209 "Itraconazol"
+* substance.code.concept = $sms#100000091697 "Itraconazol"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 100.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
-* substance.strength.referenceStrength.substance.concept = $sms#2209 "Itraconazol"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091697 "Itraconazol"
 
 // Reference to products item
 
@@ -658,7 +719,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -676,15 +741,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#2361 "Carbamazepina"
+* substance.code.concept = $sms#100000092127 "Carbamazepina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 200.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 200.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#2361 "Carbamazepina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092127 "Carbamazepina"
 
 // Reference to products item
 
@@ -697,7 +762,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -715,15 +784,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#2531 "Tramadol, cloridrato"
+* substance.code.concept = $sms#100000093275 "Tramadol, cloridrato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
-* substance.strength.referenceStrength.substance.concept = $sms#2531 "Tramadol, cloridrato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000093275 "Tramadol, cloridrato"
 
 // Reference to products item
 
@@ -736,7 +805,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -754,15 +827,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#5139 "Diazepam"
+* substance.code.concept = $sms#100000092362 "Diazepam"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#5139 "Diazepam"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092362 "Diazepam"
 
 // Reference to products item
 
@@ -775,7 +848,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -793,15 +870,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#5184 "Salbutamol, sulfato"
+* substance.code.concept = $sms#100000091629 "Salbutamol, sulfato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 0.1205  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002163  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002163  "Aplicação"
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110656  "µg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002163  "Aplicação"
-* substance.strength.referenceStrength.substance.concept = $sms#5184 "Salbutamol, sulfato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090564 "Salbutamol"
 
 // Reference to products item
 
@@ -814,7 +891,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -832,7 +913,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#5352 "Diclofenac, dietilamónio"
+* substance.code.concept = $sms#100000092798 "Diclofenac, dietilamónio"
 
 
 
@@ -843,8 +924,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#5352 "Diclofenac, dietilamónio"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091074 "Diclofenac"
 
 // Reference to products item
 
@@ -857,7 +937,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -875,15 +959,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3449 "Sinvastatina"
+* substance.code.concept = $sms#100000091786 "Sinvastatina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3449 "Sinvastatina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091786 "Sinvastatina"
 
 // Reference to products item
 
@@ -896,7 +980,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -914,15 +1002,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#8531 "Goserrelina, acetato"
+* substance.code.concept = $sms#100000086673 "Goserrelina, acetato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 10.8  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002150  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002150  "Seringa"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.8  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002150  "seringa"
-* substance.strength.referenceStrength.substance.concept = $sms#8531 "Goserrelina, acetato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000086673 "Goserrelina, acetato"
 
 // Reference to products item
 
@@ -935,7 +1023,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -953,15 +1045,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#57949 "Codeína, fosfato hemi-hidratado"
+* substance.code.concept = $sms#100000090188 "Codeína, fosfato hemi-hidratado"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 30.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.strengthRatio.numerator = 30.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
-* substance.strength.referenceStrength.substance.concept = $sms#57949 "Codeína, fosfato hemi-hidratado"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090188 "Codeína, fosfato hemi-hidratado"
 
 // Reference to products item
 
@@ -984,7 +1076,13 @@ Usage: #example
 
 
 
+
+
+
  
+
+
+
 
 
 
@@ -1002,7 +1100,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#72209 "Brometo de ipratrópio mono-hidratado"
+* substance.code.concept = $sms#100000091674 "Brometo de ipratrópio mono-hidratado"
 
 
 
@@ -1013,8 +1111,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.208  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#72209 "Brometo de ipratrópio mono-hidratado"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091674 "Brometo de ipratrópio mono-hidratado"
 
 // Reference to products item
 
@@ -1027,7 +1124,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1045,15 +1146,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#72616 "Diclofenac hidroxietilpirrolidina"
+* substance.code.concept = $sms#100000092272 "Diclofenac hidroxietilpirrolidina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 180.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "Sistema"
 * substance.strength.referenceStrength.strengthRatio.numerator = 140.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002151  "sistema"
-* substance.strength.referenceStrength.substance.concept = $sms#72616 "Diclofenac hidroxietilpirrolidina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000085789 "Diclofenac sódico"
 
 // Reference to products item
 
@@ -1066,7 +1167,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1084,7 +1189,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#74998 "Hidrocortisona, succinato sódico"
+* substance.code.concept = $sms#100000092550 "Hidrocortisona, succinato sódico"
 
 
 
@@ -1095,8 +1200,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  2.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#74998 "Hidrocortisona, succinato sódico"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092550 "Hidrocortisona, succinato sódico"
 
 // Reference to products item
 
@@ -1114,7 +1218,12 @@ Usage: #example
 
 
 
+
+
  
+
+
+
 
 
 
@@ -1132,15 +1241,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#94901 "Dienogest"
+* substance.code.concept = $sms#100000092815 "Dienogest"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 2.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#94901 "Dienogest"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092815 "Dienogest"
 
 // Reference to products item
 
@@ -1149,6 +1258,9 @@ Usage: #example
 * for[+] = Reference(mid-33195)
 
  
+
+
+
 
 
 
@@ -1166,7 +1278,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#117693 "Lidocaína, cloridrato"
+* substance.code.concept = $sms#100000139489 "Lidocaína, cloridrato"
 
 
 
@@ -1177,8 +1289,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#117693 "Lidocaína, cloridrato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000139489 "Lidocaína, cloridrato"
 
 // Reference to products item
 
@@ -1191,7 +1302,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1209,15 +1324,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#134999 "Imatinib, mesilato"
+* substance.code.concept = $sms#100000091894 "Imatinib, mesilato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 478.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 400.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#134999 "Imatinib, mesilato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091825 "Imatinib"
 
 // Reference to products item
 
@@ -1230,7 +1345,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1248,15 +1367,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#161862 "Perindopril arginina"
+* substance.code.concept = $sms#100000091461 "Perindopril arginina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.395  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#161862 "Perindopril arginina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000088816 "Perindopril"
 
 // Reference to products item
 
@@ -1269,7 +1388,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1287,15 +1410,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#163713 "Cloromadinona, acetato"
+* substance.code.concept = $sms#100000090550 "Cloromadinona, acetato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 2.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#163713 "Cloromadinona, acetato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090550 "Cloromadinona, acetato"
 
 // Reference to products item
 
@@ -1308,7 +1431,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1326,15 +1453,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#170079 "Drospirenona"
+* substance.code.concept = $sms#100000092375 "Drospirenona"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 3.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#170079 "Drospirenona"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092375 "Drospirenona"
 
 // Reference to products item
 
@@ -1343,6 +1470,9 @@ Usage: #example
 * for[+] = Reference(mid-41073)
 
  
+
+
+
 
 
 
@@ -1360,15 +1490,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#170080 "Etinilestradiol ß-ciclodextrina, complexo"
+* substance.code.concept = $sms#100000091721 "Etinilestradiol ß-ciclodextrina, complexo"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 0.173  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.02  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#170080 "Etinilestradiol ß-ciclodextrina, complexo"
-
+* substance.strength.referenceStrength.substance.concept = $sms#ND "Etinilestradiol"
 
 // Reference to products item
 
@@ -1381,7 +1511,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1399,15 +1533,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#174099 "Indapamida"
+* substance.code.concept = $sms#100000092651 "Indapamida"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 0.625  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.625  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#174099 "Indapamida"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092651 "Indapamida"
 
 // Reference to products item
 
@@ -1420,7 +1554,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1438,15 +1576,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#215369 "Lercanidipina, cloridrato"
+* substance.code.concept = $sms#100000092283 "Lercanidipina, cloridrato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 9.44  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#215369 "Lercanidipina, cloridrato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091632 "Lercanidipina"
 
 // Reference to products item
 
@@ -1455,6 +1593,9 @@ Usage: #example
 * for[+] = Reference(mid-45545)
 
  
+
+
+
 
 
 
@@ -1472,15 +1613,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#45170 "Hidroclorotiazida"
+* substance.code.concept = $sms#100000091737 "Hidroclorotiazida"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 12.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 12.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#45170 "Hidroclorotiazida"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091737 "Hidroclorotiazida"
 
 // Reference to products item
 
@@ -1493,7 +1634,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1511,15 +1656,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#1778 "Besilato de amlodipina"
+* substance.code.concept = $sms#100000085259 "Besilato de amlodipina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 6.944  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#1778 "Besilato de amlodipina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090079 "Amlodipina"
 
 // Reference to products item
 
@@ -1532,7 +1677,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1550,15 +1699,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#1630 "Omeprazol"
+* substance.code.concept = $sms#100000092047 "Omeprazol"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
-* substance.strength.referenceStrength.substance.concept = $sms#1630 "Omeprazol"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092047 "Omeprazol"
 
 // Reference to products item
 
@@ -1571,7 +1720,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1589,7 +1742,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3674 "Hidrocortisona, butirato"
+* substance.code.concept = $sms#100000085172 "Hidrocortisona, butirato"
 
 
 
@@ -1600,8 +1753,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#3674 "Hidrocortisona, butirato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000085172 "Hidrocortisona, butirato"
 
 // Reference to products item
 
@@ -1614,7 +1766,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1632,7 +1788,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#4721 "Ácido fusídico"
+* substance.code.concept = $sms#100000091797 "Ácido fusídico"
 
 
 
@@ -1643,8 +1799,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#4721 "Ácido fusídico"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091797 "Ácido fusídico"
 
 // Reference to products item
 
@@ -1653,6 +1808,9 @@ Usage: #example
 * for[+] = Reference(mid-9682)
 
  
+
+
+
 
 
 
@@ -1670,7 +1828,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#4722 "Hidrocortisona, acetato"
+* substance.code.concept = $sms#100000092260 "Hidrocortisona, acetato"
 
 
 
@@ -1681,8 +1839,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#4722 "Hidrocortisona, acetato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092260 "Hidrocortisona, acetato"
 
 // Reference to products item
 
@@ -1695,7 +1852,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1713,7 +1874,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#16455 "Morfina, cloridrato tri-hidratado"
+* substance.code.concept = $sms#100000091614 "Morfina, cloridrato tri-hidratado"
 
 
 
@@ -1724,8 +1885,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#16455 "Morfina, cloridrato tri-hidratado"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091614 "Morfina, cloridrato tri-hidratado"
 
 // Reference to products item
 
@@ -1738,7 +1898,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1756,7 +1920,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#30732 "Enoxaparina sódica"
+* substance.code.concept = $sms#100000090152 "Enoxaparina sódica"
 
 
 
@@ -1767,8 +1931,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#30732 "Enoxaparina sódica"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090152 "Enoxaparina sódica"
 
 // Reference to products item
 
@@ -1781,7 +1944,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1799,7 +1966,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#37343 "Amoxicilina sódica"
+* substance.code.concept = $sms#100000091596 "Amoxicilina sódica"
 
 
 
@@ -1810,8 +1977,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 500.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  10.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#37343 "Amoxicilina sódica"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090113 "Amoxicilina"
 
 // Reference to products item
 
@@ -1820,6 +1986,9 @@ Usage: #example
 * for[+] = Reference(mid-10347)
 
  
+
+
+
 
 
 
@@ -1837,7 +2006,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#48606 "Insulina glargina"
+* substance.code.concept = $sms#100000085460 "Insulina glargina"
 
 
 
@@ -1848,8 +2017,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110756  "U"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#48606 "Insulina glargina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000085460 "Insulina glargina"
 
 // Reference to products item
 
@@ -1862,7 +2030,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1880,15 +2052,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#63078 "Colecalciferol"
+* substance.code.concept = $sms#100000092724 "Colecalciferol"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 0.01  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.01  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#63078 "Colecalciferol"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092724 "Colecalciferol"
 
 // Reference to products item
 
@@ -1897,6 +2069,9 @@ Usage: #example
 * for[+] = Reference(mid-19795)
 
  
+
+
+
 
 
 
@@ -1914,15 +2089,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#63081 "Carbonato de cálcio"
+* substance.code.concept = $sms#100000092619 "Carbonato de cálcio"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 1500.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 600.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#63081 "Carbonato de cálcio"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091518 "Cálcio"
 
 // Reference to products item
 
@@ -1935,7 +2110,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1953,7 +2132,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#63843 "Morfina, sulfato"
+* substance.code.concept = $sms#100000076239 "Morfina, sulfato"
 
 
 
@@ -1964,8 +2143,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#63843 "Morfina, sulfato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000076239 "Morfina, sulfato"
 
 // Reference to products item
 
@@ -1978,7 +2156,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -1996,7 +2178,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#66220 "Lidocaína"
+* substance.code.concept = $sms#100000091713 "Lidocaína"
 
 
 
@@ -2007,8 +2189,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#66220 "Lidocaína"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091713 "Lidocaína"
 
 // Reference to products item
 
@@ -2021,7 +2202,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2039,15 +2224,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#5732 "Tiocolquicosido"
+* substance.code.concept = $sms#100000091997 "Tiocolquicosido"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 2.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#5732 "Tiocolquicosido"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091997 "Tiocolquicosido"
 
 // Reference to products item
 
@@ -2060,7 +2245,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2078,15 +2267,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#6018 "Ácido ascórbico"
+* substance.code.concept = $sms#100000086036 "Ácido ascórbico"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 300.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 300.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#6018 "Ácido ascórbico"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000086036 "Ácido ascórbico"
 
 // Reference to products item
 
@@ -2095,6 +2284,9 @@ Usage: #example
 * for[+] = Reference(mid-147)
 
  
+
+
+
 
 
 
@@ -2112,15 +2304,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#6017 "Ácido acetilsalicílico"
+* substance.code.concept = $sms#100000092077 "Ácido acetilsalicílico"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 300.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 300.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#6017 "Ácido acetilsalicílico"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092077 "Ácido acetilsalicílico"
 
 // Reference to products item
 
@@ -2133,7 +2325,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2151,15 +2347,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#6416 "Cafeína"
+* substance.code.concept = $sms#100000089693 "Cafeína"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002143  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002143  "Saqueta"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002143  "saqueta"
-* substance.strength.referenceStrength.substance.concept = $sms#6416 "Cafeína"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000089693 "Cafeína"
 
 // Reference to products item
 
@@ -2172,7 +2368,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2190,15 +2390,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#6945 "Clomipramina, cloridrato"
+* substance.code.concept = $sms#100000090503 "Clomipramina, cloridrato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Frasco"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#6945 "Clomipramina, cloridrato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090503 "Clomipramina, cloridrato"
 
 // Reference to products item
 
@@ -2211,7 +2411,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2229,15 +2433,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#7565 "Misoprostol"
+* substance.code.concept = $sms#100000092418 "Misoprostol"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 0.2  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Frasco"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.2  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#7565 "Misoprostol"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092418 "Misoprostol"
 
 // Reference to products item
 
@@ -2250,7 +2454,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2268,7 +2476,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#8945 "Dexametasona, acetato"
+* substance.code.concept = $sms#100000092605 "Dexametasona, acetato"
 
 
 
@@ -2279,8 +2487,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.4  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#8945 "Dexametasona, acetato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092167 "Dexametasona"
 
 // Reference to products item
 
@@ -2293,7 +2500,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2311,15 +2522,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#12281 "Butilescopolamina, brometo"
+* substance.code.concept = $sms#100000093055 "Butilescopolamina, brometo"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002149  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002149  "Supositório"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002149  "supositório"
-* substance.strength.referenceStrength.substance.concept = $sms#12281 "Butilescopolamina, brometo"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000093055 "Butilescopolamina, brometo"
 
 // Reference to products item
 
@@ -2328,6 +2539,9 @@ Usage: #example
 * for[+] = Reference(mid-1294)
 
  
+
+
+
 
 
 
@@ -2345,15 +2559,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#4089 "Lactogluconato de cálcio"
+* substance.code.concept = $sms#100000090512 "Lactogluconato de cálcio"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 1132.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 1132.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#4089 "Lactogluconato de cálcio"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090512 "Lactogluconato de cálcio"
 
 // Reference to products item
 
@@ -2362,6 +2576,9 @@ Usage: #example
 * for[+] = Reference(mid-1352)
 
  
+
+
+
 
 
 
@@ -2379,15 +2596,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#495 "Diclofenac, potássio"
+* substance.code.concept = $sms#100000092368 "Diclofenac, potássio"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#495 "Diclofenac, potássio"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092368 "Diclofenac, potássio"
 
 // Reference to products item
 
@@ -2400,7 +2617,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2418,7 +2639,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#13768 "Cefuroxima sódica"
+* substance.code.concept = $sms#100000092667 "Cefuroxima sódica"
 
 
 
@@ -2429,8 +2650,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 750.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  6.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#13768 "Cefuroxima sódica"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091436 "Cefuroxima"
 
 // Reference to products item
 
@@ -2448,7 +2668,12 @@ Usage: #example
 
 
 
+
+
  
+
+
+
 
 
 
@@ -2466,7 +2691,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#28422 "Miconazol, nitrato"
+* substance.code.concept = $sms#100000091859 "Miconazol, nitrato"
 
 
 
@@ -2477,8 +2702,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#28422 "Miconazol, nitrato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091859 "Miconazol, nitrato"
 
 // Reference to products item
 
@@ -2487,6 +2711,9 @@ Usage: #example
 * for[+] = Reference(mid-2316)
 
  
+
+
+
 
 
 
@@ -2504,7 +2731,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#19570 "Metilprednisolona, acetato"
+* substance.code.concept = $sms#100000091568 "Metilprednisolona, acetato"
 
 
 
@@ -2515,8 +2742,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 40.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#19570 "Metilprednisolona, acetato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091568 "Metilprednisolona, acetato"
 
 // Reference to products item
 
@@ -2525,6 +2751,9 @@ Usage: #example
 * for[+] = Reference(mid-2422)
 
  
+
+
+
 
 
 
@@ -2542,15 +2771,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#20405 "Carbonato de magnésio pesado"
+* substance.code.concept = $sms#100000088910 "Carbonato de magnésio pesado"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 80.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 80.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#20405 "Carbonato de magnésio pesado"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092358 "Carbonato de magnésio"
 
 // Reference to products item
 
@@ -2563,7 +2792,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2581,7 +2814,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#21809 "Dobesilato de cálcio mono-hidratado"
+* substance.code.concept = $sms#100000092815 "Dobesilato de cálcio mono-hidratado"
 
 
 
@@ -2592,8 +2825,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 40.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#21809 "Dobesilato de cálcio mono-hidratado"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091966 "Dobesilato de cálcio mono-hidratado"
 
 // Reference to products item
 
@@ -2602,6 +2834,9 @@ Usage: #example
 * for[+] = Reference(mid-2821)
 
  
+
+
+
 
 
 
@@ -2619,7 +2854,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#22599 "Prilocaína"
+* substance.code.concept = $sms#100000092015 "Prilocaína"
 
 
 
@@ -2630,8 +2865,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 25.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#22599 "Prilocaína"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092015 "Prilocaína"
 
 // Reference to products item
 
@@ -2644,7 +2878,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2662,15 +2900,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#1222 "Diclofenac"
+* substance.code.concept = $sms#100000092798 "Diclofenac"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 46.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 46.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#1222 "Diclofenac"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092798 "Diclofenac"
 
 // Reference to products item
 
@@ -2683,7 +2921,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2701,7 +2943,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#26898 "Betametasona, dipropionato"
+* substance.code.concept = $sms#100000091947 "Betametasona, dipropionato"
 
 
 
@@ -2712,8 +2954,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#26898 "Betametasona, dipropionato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091514 "Betametasona"
 
 // Reference to products item
 
@@ -2722,6 +2963,9 @@ Usage: #example
 * for[+] = Reference(mid-3508)
 
  
+
+
+
 
 
 
@@ -2739,15 +2983,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#31218 "Bromofeniramina, maleato"
+* substance.code.concept = $sms#100000088205 "Bromofeniramina, maleato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 3.0  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#31218 "Bromofeniramina, maleato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000088205 "Bromofeniramina, maleato"
 
 // Reference to products item
 
@@ -2756,6 +3000,9 @@ Usage: #example
 * for[+] = Reference(mid-4432)
 
  
+
+
+
 
 
 
@@ -2773,15 +3020,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#31216 "Ascorbato de cálcio"
+* substance.code.concept = $sms#100000091071 "Ascorbato de cálcio"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 36.0  $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 36.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#31216 "Ascorbato de cálcio"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091071 "Ascorbato de cálcio"
 
 // Reference to products item
 
@@ -2790,6 +3037,9 @@ Usage: #example
 * for[+] = Reference(mid-4432)
 
  
+
+
+
 
 
 
@@ -2807,7 +3057,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#33295 "Adrenalina, tartarato"
+* substance.code.concept = $sms#100000087265 "Adrenalina, tartarato"
 
 
 
@@ -2818,8 +3068,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.018  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#33295 "Adrenalina, tartarato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000087265 "Adrenalina, tartarato"
 
 // Reference to products item
 
@@ -2832,7 +3081,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2850,15 +3103,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#35995 "Ergotamina, tartarato"
+* substance.code.concept = $sms#100000091078 "Ergotamina, tartarato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#35995 "Ergotamina, tartarato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091078 "Ergotamina, tartarato"
 
 // Reference to products item
 
@@ -2867,6 +3120,9 @@ Usage: #example
 * for[+] = Reference(mid-5601)
 
  
+
+
+
 
 
 
@@ -2884,15 +3140,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#35997 "Beladona, alcalóides"
+* substance.code.concept = $sms#100000077129 "Beladona, alcalóides"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 0.1  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.1  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#35997 "Beladona, alcalóides"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000077129 "Beladona, alcalóides"
 
 // Reference to products item
 
@@ -2905,7 +3161,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2923,15 +3183,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#38753 "Nitroglicerina"
+* substance.code.concept = $sms#100000087614 "Nitroglicerina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 18.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "Sistema"
 * substance.strength.referenceStrength.strengthRatio.numerator = 18.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002151  "sistema"
-* substance.strength.referenceStrength.substance.concept = $sms#38753 "Nitroglicerina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000087614 "Nitroglicerina"
 
 // Reference to products item
 
@@ -2944,7 +3204,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -2962,7 +3226,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#41041 "Hidrocortisona, probutato"
+* substance.code.concept = $sms#100000086709 "Hidrocortisona, probutato"
 
 
 
@@ -2973,8 +3237,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#41041 "Hidrocortisona, probutato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000086709 "Hidrocortisona, probutato"
 
 // Reference to products item
 
@@ -2987,7 +3250,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3005,7 +3272,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#42344 "Neomicina, sulfato"
+* substance.code.concept = $sms#100000090029 "Neomicina, sulfato"
 
 
 
@@ -3016,8 +3283,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#42344 "Neomicina, sulfato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090029 "Neomicina, sulfato"
 
 // Reference to products item
 
@@ -3026,6 +3292,9 @@ Usage: #example
 * for[+] = Reference(mid-6869)
 
  
+
+
+
 
 
 
@@ -3043,7 +3312,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#42343 "Natamicina"
+* substance.code.concept = $sms#100000080343 "Natamicina"
 
 
 
@@ -3054,8 +3323,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#42343 "Natamicina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000080343 "Natamicina"
 
 // Reference to products item
 
@@ -3068,7 +3336,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3086,7 +3358,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#43567 "Tribenosido"
+* substance.code.concept = $sms#100000077513 "Tribenosido"
 
 
 
@@ -3097,8 +3369,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#43567 "Tribenosido"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000077513 "Tribenosido"
 
 // Reference to products item
 
@@ -3107,6 +3378,9 @@ Usage: #example
 * for[+] = Reference(mid-7131)
 
  
+
+
+
 
 
 
@@ -3124,15 +3398,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#46975 "Propifenazona"
+* substance.code.concept = $sms#100000092130 "Propifenazona"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 150.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 150.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#46975 "Propifenazona"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092130 "Propifenazona"
 
 // Reference to products item
 
@@ -3145,7 +3419,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3163,15 +3441,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#47511 "Pseudoefedrina, cloridrato"
+* substance.code.concept = $sms#100000092030 "Pseudoefedrina, cloridrato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 30.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 30.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#47511 "Pseudoefedrina, cloridrato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092030 "Pseudoefedrina, cloridrato"
 
 // Reference to products item
 
@@ -3184,7 +3462,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3202,15 +3484,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#48260 "Metformina, embonato"
+* substance.code.concept = $sms#100000085448 "Metformina, embonato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 700.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 280.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#48260 "Metformina, embonato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091840 "Metformina"
 
 // Reference to products item
 
@@ -3223,7 +3505,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3241,7 +3527,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#48936 "Fluocinolona, acetonido"
+* substance.code.concept = $sms#100000090159 "Fluocinolona, acetonido"
 
 
 
@@ -3252,8 +3538,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.11  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#48936 "Fluocinolona, acetonido"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090159 "Fluocinolona, acetonido"
 
 // Reference to products item
 
@@ -3262,6 +3547,9 @@ Usage: #example
 * for[+] = Reference(mid-8206)
 
  
+
+
+
 
 
 
@@ -3279,7 +3567,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#48938 "Bismuto, subgalhato"
+* substance.code.concept = $sms#100000090478 "Bismuto, subgalhato"
 
 
 
@@ -3290,8 +3578,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#48938 "Bismuto, subgalhato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090478 "Bismuto, subgalhato"
 
 // Reference to products item
 
@@ -3300,6 +3587,9 @@ Usage: #example
 * for[+] = Reference(mid-8206)
 
  
+
+
+
 
 
 
@@ -3317,7 +3607,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#52296 "Fluocortolona, pivalato"
+* substance.code.concept = $sms#100000091889 "Fluocortolona, pivalato"
 
 
 
@@ -3328,8 +3618,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#52296 "Fluocortolona, pivalato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091889 "Fluocortolona, pivalato"
 
 // Reference to products item
 
@@ -3338,6 +3627,9 @@ Usage: #example
 * for[+] = Reference(mid-8853)
 
  
+
+
+
 
 
 
@@ -3355,15 +3647,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#83262 "Etonogestrel"
+* substance.code.concept = $sms#100000082090 "Etonogestrel"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 11.7  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "Sistema"
 * substance.strength.referenceStrength.strengthRatio.numerator = 11.7  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002151  "sistema"
-* substance.strength.referenceStrength.substance.concept = $sms#83262 "Etonogestrel"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000082090 "Etonogestrel"
 
 // Reference to products item
 
@@ -3372,6 +3664,9 @@ Usage: #example
 * for[+] = Reference(mid-31814)
 
  
+
+
+
 
 
 
@@ -3389,15 +3684,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#94988 "Norelgestromina"
+* substance.code.concept = $sms#100000092089 "Norelgestromina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 6.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002151  "Sistema"
 * substance.strength.referenceStrength.strengthRatio.numerator = 6.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002151  "sistema"
-* substance.strength.referenceStrength.substance.concept = $sms#94988 "Norelgestromina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092089 "Norelgestromina"
 
 // Reference to products item
 
@@ -3410,7 +3705,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3428,15 +3727,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#170242 "Perindopril, tert-butilamina"
+* substance.code.concept = $sms#100000091461 "Perindopril, tert-butilamina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 4.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.338  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#170242 "Perindopril, tert-butilamina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091602 "Perindopril"
 
 // Reference to products item
 
@@ -3449,7 +3748,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3467,15 +3770,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#174547 "Valsartan"
+* substance.code.concept = $sms#100000088000 "Valsartan"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 80.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 80.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#174547 "Valsartan"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000088000 "Valsartan"
 
 // Reference to products item
 
@@ -3488,7 +3791,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3506,15 +3813,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#201125 "Vildagliptina"
+* substance.code.concept = $sms#100000089156 "Vildagliptina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#201125 "Vildagliptina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000089156 "Vildagliptina"
 
 // Reference to products item
 
@@ -3523,6 +3830,9 @@ Usage: #example
 * for[+] = Reference(mid-44264)
 
  
+
+
+
 
 
 
@@ -3540,7 +3850,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#201135 "Brometo de ipratrópio"
+* substance.code.concept = $sms#100000092610 "Brometo de ipratrópio"
 
 
 
@@ -3551,8 +3861,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.2  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#201135 "Brometo de ipratrópio"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092610 "Brometo de ipratrópio"
 
 // Reference to products item
 
@@ -3561,6 +3870,9 @@ Usage: #example
 * for[+] = Reference(mid-44265)
 
  
+
+
+
 
 
 
@@ -3578,15 +3890,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#204850 "Clorofenamina, maleato"
+* substance.code.concept = $sms#100000090211 "Clorofenamina, maleato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#204850 "Clorofenamina, maleato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090211 "Clorofenamina, maleato"
 
 // Reference to products item
 
@@ -3599,7 +3911,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3617,15 +3933,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#207856 "Sitagliptina, fosfato monohidratado"
+* substance.code.concept = $sms#100000091875 "Sitagliptina, fosfato monohidratado"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 64.25  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#207856 "Sitagliptina, fosfato monohidratado"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000089173 "Sitagliptina"
 
 // Reference to products item
 
@@ -3634,6 +3950,9 @@ Usage: #example
 * for[+] = Reference(mid-44912)
 
  
+
+
+
 
 
 
@@ -3651,15 +3970,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#212345 "Olmesartan medoxomilo"
+* substance.code.concept = $sms#100000089966 "Olmesartan medoxomilo"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 20.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#212345 "Olmesartan medoxomilo"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000089966 "Olmesartan medoxomilo"
 
 // Reference to products item
 
@@ -3668,6 +3987,9 @@ Usage: #example
 * for[+] = Reference(mid-45282)
 
  
+
+
+
 
 
 
@@ -3685,7 +4007,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#255673 "Tafluprost"
+* substance.code.concept = $sms#100000115886 "Tafluprost"
 
 
 
@@ -3696,8 +4018,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.015  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#255673 "Tafluprost"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000115886 "Tafluprost"
 
 // Reference to products item
 
@@ -3710,7 +4031,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3728,15 +4053,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#252322 "Amlodipina, maleato"
+* substance.code.concept = $sms#100000085259 "Amlodipina, maleato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 6.42  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#252322 "Amlodipina, maleato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000089370 "Amlodipina"
 
 // Reference to products item
 
@@ -3749,7 +4074,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3767,15 +4096,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#266633 "Alginato de sódio"
+* substance.code.concept = $sms#100000090123 "Alginato de sódio"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 250.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 250.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#266633 "Alginato de sódio"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090123 "Alginato de sódio"
 
 // Reference to products item
 
@@ -3784,6 +4113,9 @@ Usage: #example
 * for[+] = Reference(mid-50312)
 
  
+
+
+
 
 
 
@@ -3801,15 +4133,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#266634 "Bicarbonato de sódio"
+* substance.code.concept = $sms#100000079337 "Bicarbonato de sódio"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 133.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 133.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#266634 "Bicarbonato de sódio"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000079337 "Bicarbonato de sódio"
 
 // Reference to products item
 
@@ -3818,6 +4150,9 @@ Usage: #example
 * for[+] = Reference(mid-50312)
 
  
+
+
+
 
 
 
@@ -3835,15 +4170,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#289359 "Telmisartan"
+* substance.code.concept = $sms#100000089190 "Telmisartan"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 40.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 40.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#289359 "Telmisartan"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000089190 "Telmisartan"
 
 // Reference to products item
 
@@ -3852,6 +4187,9 @@ Usage: #example
 * for[+] = Reference(mid-52240)
 
  
+
+
+
 
 
 
@@ -3869,15 +4207,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#98648 "Glibenclamida"
+* substance.code.concept = $sms#100000080403 "Glibenclamida"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 2.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#98648 "Glibenclamida"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000080403 "Glibenclamida"
 
 // Reference to products item
 
@@ -3890,7 +4228,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3908,15 +4250,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#122720 "Estradiol hemi-hidratado"
+* substance.code.concept = $sms#100000089218 "Estradiol hemi-hidratado"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 1.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#122720 "Estradiol hemi-hidratado"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000089218 "Estradiol hemi-hidratado"
 
 // Reference to products item
 
@@ -3925,6 +4267,9 @@ Usage: #example
 * for[+] = Reference(mid-35925)
 
  
+
+
+
 
 
 
@@ -3942,15 +4287,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#142049 "Ezetimiba"
+* substance.code.concept = $sms#100000091598 "Ezetimiba"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 10.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#142049 "Ezetimiba"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091598 "Ezetimiba"
 
 // Reference to products item
 
@@ -3963,7 +4308,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -3981,15 +4330,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#159272 "Pioglitazona, cloridrato"
+* substance.code.concept = $sms#100000085494 "Pioglitazona, cloridrato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 16.53  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 15.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#159272 "Pioglitazona, cloridrato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091439 "Pioglitazona"
 
 // Reference to products item
 
@@ -3998,6 +4347,9 @@ Usage: #example
 * for[+] = Reference(mid-39989)
 
  
+
+
+
 
 
 
@@ -4015,7 +4367,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#77071 "Cloro-hexidina, gluconato"
+* substance.code.concept = $sms#100000091036 "Cloro-hexidina, gluconato"
 
 
 
@@ -4026,8 +4378,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#77071 "Cloro-hexidina, gluconato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091036 "Cloro-hexidina, gluconato"
 
 // Reference to products item
 
@@ -4040,7 +4391,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4058,7 +4413,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#273747 "Aciclovir"
+* substance.code.concept = $sms#100000092808 "Aciclovir"
 
 
 
@@ -4069,8 +4424,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110654  "g"
-* substance.strength.referenceStrength.substance.concept = $sms#273747 "Aciclovir"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092808 "Aciclovir"
 
 // Reference to products item
 
@@ -4079,6 +4433,9 @@ Usage: #example
 * for[+] = Reference(mid-50924)
 
  
+
+
+
 
 
 
@@ -4096,15 +4453,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#295484 "Saxagliptina"
+* substance.code.concept = $sms#100000089235 "Saxagliptina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 2.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#295484 "Saxagliptina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000089235 "Saxagliptina"
 
 // Reference to products item
 
@@ -4117,7 +4474,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4135,15 +4496,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#313743 "Atorvastatina L-lisina"
+* substance.code.concept = $sms#100000092373 "Atorvastatina L-lisina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 12.628  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#313743 "Atorvastatina L-lisina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000170402 "Atorvastatina"
 
 // Reference to products item
 
@@ -4152,6 +4513,9 @@ Usage: #example
 * for[+] = Reference(mid-52848)
 
  
+
+
+
 
 
 
@@ -4169,15 +4533,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#296910 "Lisinopril, di-hidratado"
+* substance.code.concept = $sms#100000091915 "Lisinopril, di-hidratado"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 21.76  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 20.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#296910 "Lisinopril, di-hidratado"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091631 "Lisinopril"
 
 // Reference to products item
 
@@ -4190,7 +4554,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4208,15 +4576,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#314325 "Cloridrato de fenilefrina"
+* substance.code.concept = $sms#100000090176 "Cloridrato de fenilefrina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#314325 "Cloridrato de fenilefrina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090176 "Cloridrato de fenilefrina"
 
 // Reference to products item
 
@@ -4229,7 +4597,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4247,15 +4619,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#324463 "Clavulanato de potássio, diluído com celulose microcristalina (1:1)"
+* substance.code.concept = $sms#100000089842 "Clavulanato de potássio, diluído com celulose microcristalina (1:1)"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 148.9  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 125.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#324463 "Clavulanato de potássio, diluído com celulose microcristalina (1:1)"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000168460 "Ácido Clavulânico"
 
 // Reference to products item
 
@@ -4268,7 +4640,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4286,15 +4662,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#325020 "Perindopril, tosilato"
+* substance.code.concept = $sms#100000091461 "Perindopril, tosilato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 2.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 1.7  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#325020 "Perindopril, tosilato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000141420 "Perindopril"
 
 // Reference to products item
 
@@ -4303,6 +4679,9 @@ Usage: #example
 * for[+] = Reference(mid-55331)
 
  
+
+
+
 
 
 
@@ -4320,15 +4699,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#338247 "Linagliptina"
+* substance.code.concept = $sms#100000115340 "Linagliptina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 2.5  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#338247 "Linagliptina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000115340 "Linagliptina"
 
 // Reference to products item
 
@@ -4337,6 +4716,9 @@ Usage: #example
 * for[+] = Reference(mid-56477)
 
  
+
+
+
 
 
 
@@ -4354,15 +4736,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#339386 "Candesartan cilexetil"
+* substance.code.concept = $sms#100000091533 "Candesartan cilexetil"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 8.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 8.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#339386 "Candesartan cilexetil"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091533 "Candesartan cilexetil"
 
 // Reference to products item
 
@@ -4371,6 +4753,9 @@ Usage: #example
 * for[+] = Reference(mid-56600)
 
  
+
+
+
 
 
 
@@ -4388,15 +4773,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3471266 "Fenofibrato"
+* substance.code.concept = $sms#100000092530 "Fenofibrato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 145.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 145.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3471266 "Fenofibrato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092530 "Fenofibrato"
 
 // Reference to products item
 
@@ -4405,6 +4790,9 @@ Usage: #example
 * for[+] = Reference(mid-56871)
 
  
+
+
+
 
 
 
@@ -4422,15 +4810,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#233033 "Ibuprofeno, sódico di-hidratado"
+* substance.code.concept = $sms#100000090365 "Ibuprofeno, sódico di-hidratado"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 512.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 400.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#233033 "Ibuprofeno, sódico di-hidratado"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000140150 "Ibuprofeno"
 
 // Reference to products item
 
@@ -4443,7 +4831,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4461,7 +4853,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3464707 "Timolol, maleato"
+* substance.code.concept = $sms#100000090033 "Timolol, maleato"
 
 
 
@@ -4472,8 +4864,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#3464707 "Timolol, maleato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090033 "Timolol, maleato"
 
 // Reference to products item
 
@@ -4486,7 +4877,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4504,15 +4899,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3467299 " Alogliptina, benzoato"
+* substance.code.concept = $sms#100000124299 " Alogliptina, benzoato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 17.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 12.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3467299 " Alogliptina, benzoato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000124472 " Alogliptina"
 
 // Reference to products item
 
@@ -4521,6 +4916,9 @@ Usage: #example
 * for[+] = Reference(mid-576341)
 
  
+
+
+
 
 
 
@@ -4538,15 +4936,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3479051 "Dapagliflozina"
+* substance.code.concept = $sms#100000124178 "Dapagliflozina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3479051 "Dapagliflozina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000124178 "Dapagliflozina"
 
 // Reference to products item
 
@@ -4555,6 +4953,9 @@ Usage: #example
 * for[+] = Reference(mid-581021)
 
  
+
+
+
 
 
 
@@ -4572,15 +4973,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3522084 "Cloro-hexidina, dicloridrato"
+* substance.code.concept = $sms#100000092569 "Cloro-hexidina, dicloridrato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3522084 "Cloro-hexidina, dicloridrato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092569 "Cloro-hexidina, dicloridrato"
 
 // Reference to products item
 
@@ -4593,7 +4994,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4611,15 +5016,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3489388 "Canagliflozina hemi-hidratada"
+* substance.code.concept = $sms#100000127420 "Canagliflozina hemi-hidratada"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 51.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3489388 "Canagliflozina hemi-hidratada"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000155682 "Canagliflozina"
 
 // Reference to products item
 
@@ -4628,6 +5033,9 @@ Usage: #example
 * for[+] = Reference(mid-584381)
 
  
+
+
+
 
 
 
@@ -4645,7 +5053,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3491909 "Tropicamida"
+* substance.code.concept = $sms#100000091954 "Tropicamida"
 
 
 
@@ -4656,8 +5064,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.2  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#3491909 "Tropicamida"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091954 "Tropicamida"
 
 // Reference to products item
 
@@ -4670,7 +5077,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4688,15 +5099,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3506255 "Guaifenesina"
+* substance.code.concept = $sms#100000090413 "Guaifenesina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 100.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.strengthRatio.numerator = 100.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
-* substance.strength.referenceStrength.substance.concept = $sms#3506255 "Guaifenesina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090413 "Guaifenesina"
 
 // Reference to products item
 
@@ -4705,6 +5116,9 @@ Usage: #example
 * for[+] = Reference(mid-588062)
 
  
+
+
+
 
 
 
@@ -4722,15 +5136,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3512608 "Atorvastatina cálcica tri-hidratada"
+* substance.code.concept = $sms#100000092373 "Atorvastatina cálcica tri-hidratada"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 10.82  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3512608 "Atorvastatina cálcica tri-hidratada"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091257 "Atorvastatina"
 
 // Reference to products item
 
@@ -4743,7 +5157,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4761,15 +5179,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3515053 "Feniramina, maleato"
+* substance.code.concept = $sms#100000090467 "Feniramina, maleato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 25.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002143  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002143  "Saqueta"
 * substance.strength.referenceStrength.strengthRatio.numerator = 25.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002143  "saqueta"
-* substance.strength.referenceStrength.substance.concept = $sms#3515053 "Feniramina, maleato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090467 "Feniramina, maleato"
 
 // Reference to products item
 
@@ -4782,7 +5200,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4800,7 +5222,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3518963 "Hidrocortisona, fosfato sódico"
+* substance.code.concept = $sms#100000086691 "Hidrocortisona, fosfato sódico"
 
 
 
@@ -4811,8 +5233,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 3.35  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#3518963 "Hidrocortisona, fosfato sódico"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000086691 "Hidrocortisona, fosfato sódico"
 
 // Reference to products item
 
@@ -4825,7 +5246,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4843,15 +5268,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3519110 "Bisoprolol, fumarato"
+* substance.code.concept = $sms#100000092277 "Bisoprolol, fumarato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 4.24  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3519110 "Bisoprolol, fumarato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092741 "Bisoprolol"
 
 // Reference to products item
 
@@ -4864,7 +5289,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4882,15 +5311,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3523835 "Dexcetoprofeno, trometamol"
+* substance.code.concept = $sms#100000083407 "Dexcetoprofeno, trometamol"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 36.9  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 25.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3523835 "Dexcetoprofeno, trometamol"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000093008 "Dexcetoprofeno"
 
 // Reference to products item
 
@@ -4903,7 +5332,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4921,15 +5354,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3536384 "Empagliflozina"
+* substance.code.concept = $sms#100000128629 "Empagliflozina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3536384 "Empagliflozina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000128629 "Empagliflozina"
 
 // Reference to products item
 
@@ -4938,6 +5371,9 @@ Usage: #example
 * for[+] = Reference(mid-596302)
 
  
+
+
+
 
 
 
@@ -4955,7 +5391,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3538373 "Teriparatida"
+* substance.code.concept = $sms#100000089193 "Teriparatida"
 
 
 
@@ -4966,8 +5402,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 0.25  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#3538373 "Teriparatida"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000089193 "Teriparatida"
 
 // Reference to products item
 
@@ -4980,7 +5415,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -4998,15 +5437,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3555867 "Dapagliflozina propanodiol mono hidratada"
+* substance.code.concept = $sms#100000124178 "Dapagliflozina propanodiol mono hidratada"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 6.15  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3555867 "Dapagliflozina propanodiol mono hidratada"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000140964 "Dapagliflozina"
 
 // Reference to products item
 
@@ -5019,7 +5458,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -5037,15 +5480,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3560038 "Ibuprofeno, lisinato"
+* substance.code.concept = $sms#100000090365 "Ibuprofeno, lisinato"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 684.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 400.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3560038 "Ibuprofeno, lisinato"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090111 "Ibuprofeno"
 
 // Reference to products item
 
@@ -5058,7 +5501,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -5076,15 +5523,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3572050 "Amlodipina"
+* substance.code.concept = $sms#100000085259 "Amlodipina"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3572050 "Amlodipina"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipina"
 
 // Reference to products item
 
@@ -5097,7 +5544,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -5115,15 +5566,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3571424 "Ramipril"
+* substance.code.concept = $sms#100000092240 "Ramipril"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 5.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002113  "Cápsula"
 * substance.strength.referenceStrength.strengthRatio.numerator = 5.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002113  "Cápsula"
-* substance.strength.referenceStrength.substance.concept = $sms#3571424 "Ramipril"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092240 "Ramipril"
 
 // Reference to products item
 
@@ -5132,6 +5583,9 @@ Usage: #example
 * for[+] = Reference(mid-606242)
 
  
+
+
+
 
 
 
@@ -5149,15 +5603,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3572999 "Losartan de potássio"
+* substance.code.concept = $sms#100000091442 "Losartan de potássio"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 50.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 50.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3572999 "Losartan de potássio"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091442 "Losartan de potássio"
 
 // Reference to products item
 
@@ -5166,6 +5620,9 @@ Usage: #example
 * for[+] = Reference(mid-606822)
 
  
+
+
+
 
 
 
@@ -5183,7 +5640,7 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3595419 "Clavulanato de potássio diluído"
+* substance.code.concept = $sms#100000089842 "Clavulanato de potássio diluído"
 
 
 
@@ -5194,8 +5651,7 @@ Usage: #example
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 8.58  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#100000110662  "ml"
-* substance.strength.referenceStrength.substance.concept = $sms#3595419 "Clavulanato de potássio diluído"
-
+* substance.strength.referenceStrength.substance.concept = $sms#ND "Ácido Clavulânico"
 
 // Reference to products item
 
@@ -5208,7 +5664,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -5226,15 +5686,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3597819 "Rosuvastatina cálcica"
+* substance.code.concept = $sms#100000088232 "Rosuvastatina cálcica"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 10.395  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 10.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "Comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3597819 "Rosuvastatina cálcica"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000091449 "Rosuvastatina"
 
 // Reference to products item
 
@@ -5247,7 +5707,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -5265,15 +5729,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3643884 "Cefuroxima"
+* substance.code.concept = $sms#100000092667 "Cefuroxima"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 750.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002158  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002158  "Frasco para injetáveis"
 * substance.strength.referenceStrength.strengthRatio.numerator = 750.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3643884 "Cefuroxima"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000092667 "Cefuroxima"
 
 // Reference to products item
 
@@ -5286,7 +5750,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -5304,15 +5772,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3650784 "Ertugliflozina, ácido L-piroglutâmico"
+* substance.code.concept = $sms#100000169082 "Ertugliflozina, ácido L-piroglutâmico"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 3.238  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 2.5  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3650784 "Ertugliflozina, ácido L-piroglutâmico"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000170090 "Ertugliflozina"
 
 // Reference to products item
 
@@ -5321,6 +5789,9 @@ Usage: #example
 * for[+] = Reference(mid-630242)
 
  
+
+
+
 
 
 
@@ -5338,15 +5809,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3723362 "Ácido algínico"
+* substance.code.concept = $sms#100000090118 "Ácido algínico"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 150.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 150.0  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3723362 "Ácido algínico"
-
+* substance.strength.referenceStrength.substance.concept = $sms#100000090118 "Ácido algínico"
 
 // Reference to products item
 
@@ -5359,7 +5830,11 @@ Usage: #example
 
 
 
+
  
+
+
+
 
 
 
@@ -5377,15 +5852,15 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-* substance.code.concept = $sms#3735153 "Estetrol mono-hidratado"
+* substance.code.concept = $sms#100000172329 "Estetrol mono-hidratado"
 
 
+//num_value !=Nan
 * substance.strength.presentationRatio.numerator = 15.0  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "nan"
+* substance.strength.presentationRatio.denominator = 1.0  $100000110633#200000002152  "Comprimido"
 * substance.strength.referenceStrength.strengthRatio.numerator = 14.2  $100000110633#100000110655  "mg"
 * substance.strength.referenceStrength.strengthRatio.denominator =  1.0  $100000110633#200000002152  "comprimido"
-* substance.strength.referenceStrength.substance.concept = $sms#3735153 "Estetrol mono-hidratado"
-
+* substance.strength.referenceStrength.substance.concept = $sms#300000014640 "Estetrol"
 
 // Reference to products item
 
@@ -5394,6 +5869,9 @@ Usage: #example
 * for[+] = Reference(mid-666264)
 
  
+
+
+
 
 
 

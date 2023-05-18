@@ -9,7 +9,8 @@ Title: "Augmentin 500 mg + 125 mg Comprimido revestido por película 16 Comprimi
 Description: "Augmentin 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001639"
+//true??
+* identifier[pcid].value = "50001639"
 
 * name = "Augmentin 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -27,7 +28,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51,7 +52,8 @@ Title: "Augmentin Forte 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Fr
 Description: "Augmentin Forte 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001728"
+//true??
+* identifier[pcid].value = "50001728"
 
 * name = "Augmentin Forte 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -69,7 +71,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -93,7 +95,8 @@ Title: "Ben-U-Ron 500 mg Comprimido 20 Comprimido Blister"
 Description: "Ben-U-Ron 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Ben-U-Ron 500 mg Comprimido 20 Comprimido Blister"
 
@@ -111,7 +114,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -135,7 +138,8 @@ Title: "Ben-U-Ron 125 mg Supositório 10 Supositório Blister"
 Description: "Ben-U-Ron 125 mg Supositório 10 Supositório Blister"
 Usage: #example
 
-* identifier.value = "50003429"
+//true??
+* identifier[pcid].value = "50003429"
 
 * name = "Ben-U-Ron 125 mg Supositório 10 Supositório Blister"
 
@@ -153,7 +157,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -177,7 +181,8 @@ Title: "Ben-U-Ron 250 mg Supositório 10 Supositório Blister"
 Description: "Ben-U-Ron 250 mg Supositório 10 Supositório Blister"
 Usage: #example
 
-* identifier.value = "50003437"
+//true??
+* identifier[pcid].value = "50003437"
 
 * name = "Ben-U-Ron 250 mg Supositório 10 Supositório Blister"
 
@@ -195,7 +200,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -219,7 +224,8 @@ Title: "Ben-U-Ron 500 mg Supositório 10 Supositório Blister"
 Description: "Ben-U-Ron 500 mg Supositório 10 Supositório Blister"
 Usage: #example
 
-* identifier.value = "50003445"
+//true??
+* identifier[pcid].value = "50003445"
 
 * name = "Ben-U-Ron 500 mg Supositório 10 Supositório Blister"
 
@@ -237,7 +243,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -261,7 +267,8 @@ Title: "Ben-U-Ron 1000 mg Supositório 10 Supositório Fita termossoldada"
 Description: "Ben-U-Ron 1000 mg Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50003453"
+//true??
+* identifier[pcid].value = "50003453"
 
 * name = "Ben-U-Ron 1000 mg Supositório 10 Supositório Fita termossoldada"
 
@@ -279,7 +286,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -303,7 +310,8 @@ Title: "Ben-U-Ron 40 mg/ml Xarope 1 Frasco 85 ml"
 Description: "Ben-U-Ron 40 mg/ml Xarope 1 Frasco 85 ml"
 Usage: #example
 
-* identifier.value = "50003461"
+//true??
+* identifier[pcid].value = "50003461"
 
 * name = "Ben-U-Ron 40 mg/ml Xarope 1 Frasco 85 ml"
 
@@ -321,7 +329,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -345,7 +353,8 @@ Title: "Brufen 600 mg Granulado efervescente 20 Saqueta"
 Description: "Brufen 600 mg Granulado efervescente 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50004220"
+//true??
+* identifier[pcid].value = "50004220"
 
 * name = "Brufen 600 mg Granulado efervescente 20 Saqueta"
 
@@ -363,7 +372,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -387,7 +396,8 @@ Title: "Brufen 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Brufen 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004239"
+//true??
+* identifier[pcid].value = "50004239"
 
 * name = "Brufen 200 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -405,7 +415,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -429,7 +439,8 @@ Title: "Brufen 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Brufen 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Brufen 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -447,7 +458,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -471,7 +482,8 @@ Title: "Brufen 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Brufen 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Brufen 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -489,7 +501,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -513,7 +525,8 @@ Title: "Brufen 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Brufen 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Brufen 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -531,7 +544,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -555,7 +568,8 @@ Title: "Brufen 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Brufen 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Brufen 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -573,7 +587,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -597,7 +611,8 @@ Title: "Canesten 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Canesten 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-* identifier.value = "50004417"
+//true??
+* identifier[pcid].value = "50004417"
 
 * name = "Canesten 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -615,7 +630,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -639,7 +654,8 @@ Title: "Clamoxyl 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Clamoxyl 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001914"
+//true??
+* identifier[pcid].value = "50001914"
 
 * name = "Clamoxyl 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -657,7 +673,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -681,7 +697,8 @@ Title: "Diane 35 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Diane 35 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006592"
+//true??
+* identifier[pcid].value = "50006592"
 
 * name = "Diane 35 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -699,7 +716,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -723,7 +740,8 @@ Title: "Diane 35 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Diane 35 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006606"
+//true??
+* identifier[pcid].value = "50006606"
 
 * name = "Diane 35 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -741,7 +759,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -765,7 +783,8 @@ Title: "Zoref 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Description: "Zoref 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Usage: #example
 
-* identifier.value = "50007955"
+//true??
+* identifier[pcid].value = "50007955"
 
 * name = "Zoref 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 
@@ -783,7 +802,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -807,7 +826,8 @@ Title: "Minesse 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprim
 Description: "Minesse 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50007971"
+//true??
+* identifier[pcid].value = "50007971"
 
 * name = "Minesse 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -825,7 +845,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -849,7 +869,8 @@ Title: "Fenil-V 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 Description: "Fenil-V 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50007254"
+//true??
+* identifier[pcid].value = "50007254"
 
 * name = "Fenil-V 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 
@@ -867,7 +888,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -891,7 +912,8 @@ Title: "Fenil-V 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Description: "Fenil-V 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50007262"
+//true??
+* identifier[pcid].value = "50007262"
 
 * name = "Fenil-V 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 
@@ -909,7 +931,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -933,7 +955,8 @@ Title: "Fenil-V 100 mg Supositório 12 Supositório Blister"
 Description: "Fenil-V 100 mg Supositório 12 Supositório Blister"
 Usage: #example
 
-* identifier.value = "50006720"
+//true??
+* identifier[pcid].value = "50006720"
 
 * name = "Fenil-V 100 mg Supositório 12 Supositório Blister"
 
@@ -951,7 +974,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -975,7 +998,8 @@ Title: "Fenil-V Retard 100 mg Cápsula de libertação prolongada 30 Cápsula Bl
 Description: "Fenil-V Retard 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50006690"
+//true??
+* identifier[pcid].value = "50006690"
 
 * name = "Fenil-V Retard 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -993,7 +1017,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1017,7 +1041,8 @@ Title: "Gino-Canesten 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Gino-Canesten 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50008943"
+//true??
+* identifier[pcid].value = "50008943"
 
 * name = "Gino-Canesten 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -1035,7 +1060,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -1059,7 +1084,8 @@ Title: "Glucophage 500 mg Comprimido revestido por película 50 Comprimido Blist
 Description: "Glucophage 500 mg Comprimido revestido por película 50 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009010"
+//true??
+* identifier[pcid].value = "50009010"
 
 * name = "Glucophage 500 mg Comprimido revestido por película 50 Comprimido Blister"
 
@@ -1077,7 +1103,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1101,7 +1127,8 @@ Title: "Glucophage 500 mg Comprimido revestido por película 20 Comprimido Blist
 Description: "Glucophage 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009028"
+//true??
+* identifier[pcid].value = "50009028"
 
 * name = "Glucophage 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -1119,7 +1146,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1143,7 +1170,8 @@ Title: "Gynera 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Gynera 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009249"
+//true??
+* identifier[pcid].value = "50009249"
 
 * name = "Gynera 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -1161,7 +1189,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1185,7 +1213,8 @@ Title: "Gynera 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Gynera 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009257"
+//true??
+* identifier[pcid].value = "50009257"
 
 * name = "Gynera 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -1203,7 +1232,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1227,7 +1256,8 @@ Title: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009362"
+//true??
+* identifier[pcid].value = "50009362"
 
 * name = "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -1245,7 +1275,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1269,7 +1299,8 @@ Title: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009370"
+//true??
+* identifier[pcid].value = "50009370"
 
 * name = "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -1287,7 +1318,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1311,7 +1342,8 @@ Title: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 Description: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009389"
+//true??
+* identifier[pcid].value = "50009389"
 
 * name = "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 
@@ -1329,7 +1361,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1353,7 +1385,8 @@ Title: "Marvelon 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 Description: "Marvelon 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012142"
+//true??
+* identifier[pcid].value = "50012142"
 
 * name = "Marvelon 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 
@@ -1371,7 +1404,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1395,7 +1428,8 @@ Title: "Marvelon 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 Description: "Marvelon 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012150"
+//true??
+* identifier[pcid].value = "50012150"
 
 * name = "Marvelon 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 
@@ -1413,7 +1447,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1437,7 +1471,8 @@ Title: "Mercilon 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 Description: "Mercilon 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012231"
+//true??
+* identifier[pcid].value = "50012231"
 
 * name = "Mercilon 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 
@@ -1455,7 +1490,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1479,7 +1514,8 @@ Title: "Mercilon 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 Description: "Mercilon 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012223"
+//true??
+* identifier[pcid].value = "50012223"
 
 * name = "Mercilon 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 
@@ -1497,7 +1533,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1521,7 +1557,8 @@ Title: "Microginon 0.03 mg + 0.15 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Microginon 0.03 mg + 0.15 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012371"
+//true??
+* identifier[pcid].value = "50012371"
 
 * name = "Microginon 0.03 mg + 0.15 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -1539,7 +1576,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1563,7 +1600,8 @@ Title: "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009370"
+//true??
+* identifier[pcid].value = "50009370"
 
 * name = "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -1581,7 +1619,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1605,7 +1643,8 @@ Title: "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009362"
+//true??
+* identifier[pcid].value = "50009362"
 
 * name = "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -1623,7 +1662,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1647,7 +1686,8 @@ Title: "Minulet 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Minulet 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009249"
+//true??
+* identifier[pcid].value = "50009249"
 
 * name = "Minulet 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -1665,7 +1705,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1689,7 +1729,8 @@ Title: "Minulet 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Minulet 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009257"
+//true??
+* identifier[pcid].value = "50009257"
 
 * name = "Minulet 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -1707,7 +1748,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1731,7 +1772,8 @@ Title: "Panadol 500 mg Comprimido revestido por película 24 Comprimido Blister"
 Description: "Panadol 500 mg Comprimido revestido por película 24 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50017268"
+//true??
+* identifier[pcid].value = "50017268"
 
 * name = "Panadol 500 mg Comprimido revestido por película 24 Comprimido Blister"
 
@@ -1749,7 +1791,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1773,7 +1815,8 @@ Title: "Pandermil 10 mg/g Creme 1 Bisnaga 30 g"
 Description: "Pandermil 10 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50009478"
+//true??
+* identifier[pcid].value = "50009478"
 
 * name = "Pandermil 10 mg/g Creme 1 Bisnaga 30 g"
 
@@ -1791,7 +1834,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -1815,7 +1858,8 @@ Title: "Paramolan 24 mg/ml Solução oral 1 Frasco"
 Description: "Paramolan 24 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50014080"
+//true??
+* identifier[pcid].value = "50014080"
 
 * name = "Paramolan 24 mg/ml Solução oral 1 Frasco"
 
@@ -1833,7 +1877,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -1857,7 +1901,8 @@ Title: "Renitec 20 mg Comprimido 56 Comprimido Blister"
 Description: "Renitec 20 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003372"
+//true??
+* identifier[pcid].value = "50003372"
 
 * name = "Renitec 20 mg Comprimido 56 Comprimido Blister"
 
@@ -1875,7 +1920,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1899,7 +1944,8 @@ Title: "Risidon 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Risidon 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Risidon 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -1917,7 +1963,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1941,7 +1987,8 @@ Title: "Risidon 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Risidon 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014862"
+//true??
+* identifier[pcid].value = "50014862"
 
 * name = "Risidon 850 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -1959,7 +2006,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -1983,7 +2030,8 @@ Title: "Sandimmun Neoral 25 mg Cápsula mole 20 Cápsula Blister"
 Description: "Sandimmun Neoral 25 mg Cápsula mole 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015214"
+//true??
+* identifier[pcid].value = "50015214"
 
 * name = "Sandimmun Neoral 25 mg Cápsula mole 20 Cápsula Blister"
 
@@ -2001,7 +2049,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2025,7 +2073,8 @@ Title: "Sandimmun Neoral 25 mg Cápsula mole 50 Cápsula Blister"
 Description: "Sandimmun Neoral 25 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015206"
+//true??
+* identifier[pcid].value = "50015206"
 
 * name = "Sandimmun Neoral 25 mg Cápsula mole 50 Cápsula Blister"
 
@@ -2043,7 +2092,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2067,7 +2116,8 @@ Title: "Sandimmun Neoral 50 mg Cápsula mole 30 Cápsula Blister"
 Description: "Sandimmun Neoral 50 mg Cápsula mole 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015222"
+//true??
+* identifier[pcid].value = "50015222"
 
 * name = "Sandimmun Neoral 50 mg Cápsula mole 30 Cápsula Blister"
 
@@ -2085,7 +2135,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2109,7 +2159,8 @@ Title: "Sandimmun Neoral 100 mg Cápsula mole 50 Cápsula Blister"
 Description: "Sandimmun Neoral 100 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015257"
+//true??
+* identifier[pcid].value = "50015257"
 
 * name = "Sandimmun Neoral 100 mg Cápsula mole 50 Cápsula Blister"
 
@@ -2127,7 +2178,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2151,7 +2202,8 @@ Title: "Sandimmun Neoral 100 mg/ml Solução oral 1 Frasco"
 Description: "Sandimmun Neoral 100 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50015265"
+//true??
+* identifier[pcid].value = "50015265"
 
 * name = "Sandimmun Neoral 100 mg/ml Solução oral 1 Frasco"
 
@@ -2169,7 +2221,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -2193,7 +2245,8 @@ Title: "Sporanox 100 mg Cápsula 28 Cápsula Blister"
 Description: "Sporanox 100 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015753"
+//true??
+* identifier[pcid].value = "50015753"
 
 * name = "Sporanox 100 mg Cápsula 28 Cápsula Blister"
 
@@ -2211,7 +2264,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2235,7 +2288,8 @@ Title: "Sporanox 100 mg Cápsula 15 Cápsula Blister"
 Description: "Sporanox 100 mg Cápsula 15 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015745"
+//true??
+* identifier[pcid].value = "50015745"
 
 * name = "Sporanox 100 mg Cápsula 15 Cápsula Blister"
 
@@ -2253,7 +2307,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2277,7 +2331,8 @@ Title: "Tegretol 200 mg Comprimido 20 Comprimido Blister"
 Description: "Tegretol 200 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016164"
+//true??
+* identifier[pcid].value = "50016164"
 
 * name = "Tegretol 200 mg Comprimido 20 Comprimido Blister"
 
@@ -2295,7 +2350,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2319,7 +2374,8 @@ Title: "Tegretol 200 mg Comprimido 60 Comprimido Blister"
 Description: "Tegretol 200 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016172"
+//true??
+* identifier[pcid].value = "50016172"
 
 * name = "Tegretol 200 mg Comprimido 60 Comprimido Blister"
 
@@ -2337,7 +2393,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2361,7 +2417,8 @@ Title: "Tegretol 400 mg Comprimido 60 Comprimido Blister"
 Description: "Tegretol 400 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016180"
+//true??
+* identifier[pcid].value = "50016180"
 
 * name = "Tegretol 400 mg Comprimido 60 Comprimido Blister"
 
@@ -2379,7 +2436,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2403,7 +2460,8 @@ Title: "Tegretol Cr 200 mg Comprimido de libertação prolongada 60 Comprimido B
 Description: "Tegretol Cr 200 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016210"
+//true??
+* identifier[pcid].value = "50016210"
 
 * name = "Tegretol Cr 200 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -2421,7 +2479,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2445,7 +2503,8 @@ Title: "Tegretol Cr 400 mg Comprimido de libertação prolongada 60 Comprimido B
 Description: "Tegretol Cr 400 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016237"
+//true??
+* identifier[pcid].value = "50016237"
 
 * name = "Tegretol Cr 400 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -2463,7 +2522,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2487,7 +2546,8 @@ Title: "Tramal 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramal 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016717"
+//true??
+* identifier[pcid].value = "50016717"
 
 * name = "Tramal 50 mg Cápsula 20 Cápsula Blister"
 
@@ -2505,7 +2565,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2529,7 +2589,8 @@ Title: "Tramal 100 mg/2 ml Solução injetável 5 Ampola"
 Description: "Tramal 100 mg/2 ml Solução injetável 5 Ampola"
 Usage: #example
 
-* identifier.value = "50016750"
+//true??
+* identifier[pcid].value = "50016750"
 
 * name = "Tramal 100 mg/2 ml Solução injetável 5 Ampola"
 
@@ -2547,7 +2608,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -2571,7 +2632,8 @@ Title: "Tramal 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 Description: "Tramal 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 Usage: #example
 
-* identifier.value = "50016741"
+//true??
+* identifier[pcid].value = "50016741"
 
 * name = "Tramal 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 
@@ -2589,7 +2651,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -2613,7 +2675,8 @@ Title: "Tramal retard 100 mg Comprimido de libertação prolongada 20 Comprimido
 Description: "Tramal retard 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016776"
+//true??
+* identifier[pcid].value = "50016776"
 
 * name = "Tramal retard 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -2631,7 +2694,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2655,7 +2718,8 @@ Title: "Tramal retard 100 mg Comprimido de libertação prolongada 30 Comprimido
 Description: "Tramal retard 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016792"
+//true??
+* identifier[pcid].value = "50016792"
 
 * name = "Tramal retard 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -2673,7 +2737,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2697,7 +2761,8 @@ Title: "Tramal retard 150 mg Comprimido de libertação prolongada 30 Comprimido
 Description: "Tramal retard 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016822"
+//true??
+* identifier[pcid].value = "50016822"
 
 * name = "Tramal retard 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -2715,7 +2780,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2739,7 +2804,8 @@ Title: "Tramal retard 150 mg Comprimido de libertação prolongada 20 Comprimido
 Description: "Tramal retard 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016806"
+//true??
+* identifier[pcid].value = "50016806"
 
 * name = "Tramal retard 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -2757,7 +2823,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2781,7 +2847,8 @@ Title: "Tramal retard 200 mg Comprimido de libertação prolongada 30 Comprimido
 Description: "Tramal retard 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016857"
+//true??
+* identifier[pcid].value = "50016857"
 
 * name = "Tramal retard 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -2799,7 +2866,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2823,7 +2890,8 @@ Title: "Tramal retard 200 mg Comprimido de libertação prolongada 20 Comprimido
 Description: "Tramal retard 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016830"
+//true??
+* identifier[pcid].value = "50016830"
 
 * name = "Tramal retard 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -2841,7 +2909,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2865,7 +2933,8 @@ Title: "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etiniles
 Description: "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062409"
+//true??
+* identifier[pcid].value = "50062409"
 
 * name = "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -2883,7 +2952,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2907,7 +2976,8 @@ Title: "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etiniles
 Description: "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062417"
+//true??
+* identifier[pcid].value = "50062417"
 
 * name = "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -2925,7 +2995,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2949,7 +3019,8 @@ Title: "Valium 10 mg Comprimido 25 Comprimido Blister"
 Description: "Valium 10 mg Comprimido 25 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006657"
+//true??
+* identifier[pcid].value = "50006657"
 
 * name = "Valium 10 mg Comprimido 25 Comprimido Blister"
 
@@ -2967,7 +3038,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -2991,7 +3062,8 @@ Title: "Valium 5 mg Comprimido 25 Comprimido Blister"
 Description: "Valium 5 mg Comprimido 25 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006614"
+//true??
+* identifier[pcid].value = "50006614"
 
 * name = "Valium 5 mg Comprimido 25 Comprimido Blister"
 
@@ -3009,7 +3081,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3033,7 +3105,8 @@ Title: "Ventilan-Inalador 100 µg/dose Suspensão pressurizada para inalação 1
 Description: "Ventilan-Inalador 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 Usage: #example
 
-* identifier.value = "50063618"
+//true??
+* identifier[pcid].value = "50063618"
 
 * name = "Ventilan-Inalador 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 
@@ -3051,7 +3124,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3075,7 +3148,8 @@ Title: "Voltaren 1 mg/ml Colírio, solução 1 Frasco conta-gotas 5 ml"
 Description: "Voltaren 1 mg/ml Colírio, solução 1 Frasco conta-gotas 5 ml"
 Usage: #example
 
-* identifier.value = "50017667"
+//true??
+* identifier[pcid].value = "50017667"
 
 * name = "Voltaren 1 mg/ml Colírio, solução 1 Frasco conta-gotas 5 ml"
 
@@ -3093,7 +3167,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -3117,7 +3191,8 @@ Title: "Voltaren 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 Description: "Voltaren 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50007254"
+//true??
+* identifier[pcid].value = "50007254"
 
 * name = "Voltaren 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 
@@ -3135,7 +3210,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3159,7 +3234,8 @@ Title: "Voltaren 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Description: "Voltaren 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50007262"
+//true??
+* identifier[pcid].value = "50007262"
 
 * name = "Voltaren 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 
@@ -3177,7 +3253,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3201,7 +3277,8 @@ Title: "Voltaren 100 mg Supositório 12 Supositório Fita termossoldada"
 Description: "Voltaren 100 mg Supositório 12 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50006720"
+//true??
+* identifier[pcid].value = "50006720"
 
 * name = "Voltaren 100 mg Supositório 12 Supositório Fita termossoldada"
 
@@ -3219,7 +3296,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3243,7 +3320,8 @@ Title: "Voltaren 75 mg/3 ml Solução injetável 3 Ampola"
 Description: "Voltaren 75 mg/3 ml Solução injetável 3 Ampola"
 Usage: #example
 
-* identifier.value = "50008277"
+//true??
+* identifier[pcid].value = "50008277"
 
 * name = "Voltaren 75 mg/3 ml Solução injetável 3 Ampola"
 
@@ -3261,7 +3339,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -3285,7 +3363,8 @@ Title: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -3303,7 +3382,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -3327,7 +3406,8 @@ Title: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 60 g"
 Description: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 60 g"
 Usage: #example
 
-* identifier.value = "50008307"
+//true??
+* identifier[pcid].value = "50008307"
 
 * name = "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 60 g"
 
@@ -3345,7 +3425,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -3369,7 +3449,8 @@ Title: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 150 g"
 Description: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 150 g"
 Usage: #example
 
-* identifier.value = "50017705"
+//true??
+* identifier[pcid].value = "50017705"
 
 * name = "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 150 g"
 
@@ -3387,7 +3468,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -3411,7 +3492,8 @@ Title: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 120 g"
 Description: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 120 g"
 Usage: #example
 
-* identifier.value = "50166212"
+//true??
+* identifier[pcid].value = "50166212"
 
 * name = "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 120 g"
 
@@ -3429,7 +3511,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -3453,7 +3535,8 @@ Title: "Zocor 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Zocor 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018450"
+//true??
+* identifier[pcid].value = "50018450"
 
 * name = "Zocor 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -3471,7 +3554,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3495,7 +3578,8 @@ Title: "Zoref 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Zoref 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018299"
+//true??
+* identifier[pcid].value = "50018299"
 
 * name = "Zoref 250 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -3513,7 +3597,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3537,7 +3621,8 @@ Title: "Zoref 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Zoref 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018337"
+//true??
+* identifier[pcid].value = "50018337"
 
 * name = "Zoref 500 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -3555,7 +3640,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3579,7 +3664,8 @@ Title: "Zoref 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Description: "Zoref 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Usage: #example
 
-* identifier.value = "50018345"
+//true??
+* identifier[pcid].value = "50018345"
 
 * name = "Zoref 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 
@@ -3597,7 +3683,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -3621,7 +3707,8 @@ Title: "Augmentin 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Augmentin 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001701"
+//true??
+* identifier[pcid].value = "50001701"
 
 * name = "Augmentin 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -3639,7 +3726,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3663,7 +3750,8 @@ Title: "Zoladex LA 10.8 mg Implante 1 Seringa"
 Description: "Zoladex LA 10.8 mg Implante 1 Seringa"
 Usage: #example
 
-* identifier.value = "50156225"
+//true??
+* identifier[pcid].value = "50156225"
 
 * name = "Zoladex LA 10.8 mg Implante 1 Seringa"
 
@@ -3681,7 +3769,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3705,7 +3793,8 @@ Title: "Dol-U-Ron Forte 500 mg + 30 mg Cápsula 20 Cápsula Blister"
 Description: "Dol-U-Ron Forte 500 mg + 30 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50022300"
+//true??
+* identifier[pcid].value = "50022300"
 
 * name = "Dol-U-Ron Forte 500 mg + 30 mg Cápsula 20 Cápsula Blister"
 
@@ -3723,7 +3812,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3747,7 +3836,8 @@ Title: "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comp
 Description: "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50007980"
+//true??
+* identifier[pcid].value = "50007980"
 
 * name = "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -3765,7 +3855,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3789,7 +3879,8 @@ Title: "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comp
 Description: "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50007971"
+//true??
+* identifier[pcid].value = "50007971"
 
 * name = "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -3807,7 +3898,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3831,7 +3922,8 @@ Title: "Combivent Unidose 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalaçã
 Description: "Combivent Unidose 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização 20 Ampola"
 Usage: #example
 
-* identifier.value = "50048228"
+//true??
+* identifier[pcid].value = "50048228"
 
 * name = "Combivent Unidose 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização 20 Ampola"
 
@@ -3849,7 +3941,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -3873,7 +3965,8 @@ Title: "Flector Tissugel 140 mg Sistema transdérmico 10 Sistema"
 Description: "Flector Tissugel 140 mg Sistema transdérmico 10 Sistema"
 Usage: #example
 
-* identifier.value = "50026453"
+//true??
+* identifier[pcid].value = "50026453"
 
 * name = "Flector Tissugel 140 mg Sistema transdérmico 10 Sistema"
 
@@ -3891,7 +3984,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3915,7 +4008,8 @@ Title: "Solu-Cortef 100 mg/2 ml Pó e solvente para solução injetável 1 Frasc
 Description: "Solu-Cortef 100 mg/2 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50026968"
+//true??
+* identifier[pcid].value = "50026968"
 
 * name = "Solu-Cortef 100 mg/2 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 
@@ -3933,7 +4027,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3957,7 +4051,8 @@ Title: "Nurofen 200 mg Comprimido revestido 24 Comprimido Blister"
 Description: "Nurofen 200 mg Comprimido revestido 24 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004255"
+//true??
+* identifier[pcid].value = "50004255"
 
 * name = "Nurofen 200 mg Comprimido revestido 24 Comprimido Blister"
 
@@ -3975,7 +4070,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -3999,7 +4094,8 @@ Title: "Risidon 1000 mg Comprimido revestido por película 60 Comprimido Blister
 Description: "Risidon 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Risidon 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -4017,7 +4113,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4041,7 +4137,8 @@ Title: "Clamoxyl 1000 mg Comprimido dispersível 16 Comprimido Blister"
 Description: "Clamoxyl 1000 mg Comprimido dispersível 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50032364"
+//true??
+* identifier[pcid].value = "50032364"
 
 * name = "Clamoxyl 1000 mg Comprimido dispersível 16 Comprimido Blister"
 
@@ -4059,7 +4156,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4083,7 +4180,8 @@ Title: "Valette 2 mg + 0.03 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Valette 2 mg + 0.03 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50033115"
+//true??
+* identifier[pcid].value = "50033115"
 
 * name = "Valette 2 mg + 0.03 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -4101,7 +4199,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4125,7 +4223,8 @@ Title: "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 Description: "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 Usage: #example
 
-* identifier.value = "50037650"
+//true??
+* identifier[pcid].value = "50037650"
 
 * name = "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 
@@ -4143,7 +4242,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -4167,7 +4266,8 @@ Title: "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 Description: "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 Usage: #example
 
-* identifier.value = "50037668"
+//true??
+* identifier[pcid].value = "50037668"
 
 * name = "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 
@@ -4185,7 +4285,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -4209,7 +4309,8 @@ Title: "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 Description: "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 Usage: #example
 
-* identifier.value = "50037676"
+//true??
+* identifier[pcid].value = "50037676"
 
 * name = "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 
@@ -4227,7 +4328,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -4251,7 +4352,8 @@ Title: "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 Description: "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 Usage: #example
 
-* identifier.value = "50037684"
+//true??
+* identifier[pcid].value = "50037684"
 
 * name = "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 
@@ -4269,7 +4371,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -4293,7 +4395,8 @@ Title: "Brufen 200 mg Granulado efervescente 20 Saqueta"
 Description: "Brufen 200 mg Granulado efervescente 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50018957"
+//true??
+* identifier[pcid].value = "50018957"
 
 * name = "Brufen 200 mg Granulado efervescente 20 Saqueta"
 
@@ -4311,7 +4414,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4335,7 +4438,8 @@ Title: "Glivec 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Glivec 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040308"
+//true??
+* identifier[pcid].value = "50040308"
 
 * name = "Glivec 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -4353,7 +4457,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4377,7 +4481,8 @@ Title: "Zaldiar 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimid
 Description: "Zaldiar 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Zaldiar 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -4395,7 +4500,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4419,7 +4524,8 @@ Title: "Coversyl 5 mg 5 mg Comprimido revestido por película 30 Comprimido Reci
 Description: "Coversyl 5 mg 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Coversyl 5 mg 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -4437,7 +4543,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4461,7 +4567,8 @@ Title: "Coversyl 10 mg 10 mg Comprimido revestido por película 30 Comprimido Re
 Description: "Coversyl 10 mg 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Coversyl 10 mg 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -4479,7 +4586,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4503,7 +4610,8 @@ Title: "Belara 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido B
 Description: "Belara 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042939"
+//true??
+* identifier[pcid].value = "50042939"
 
 * name = "Belara 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -4521,7 +4629,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4545,7 +4653,8 @@ Title: "Belara 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido B
 Description: "Belara 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042947"
+//true??
+* identifier[pcid].value = "50042947"
 
 * name = "Belara 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -4563,7 +4672,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4587,7 +4696,8 @@ Title: "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimi
 Description: "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50043951"
+//true??
+* identifier[pcid].value = "50043951"
 
 * name = "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -4605,7 +4715,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4629,7 +4739,8 @@ Title: "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimi
 Description: "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50043960"
+//true??
+* identifier[pcid].value = "50043960"
 
 * name = "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -4647,7 +4758,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4671,7 +4782,8 @@ Title: "Preterax 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprim
 Description: "Preterax 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Preterax 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -4689,7 +4801,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4713,7 +4825,8 @@ Title: "Zanitek 10 mg + 10 mg Comprimido revestido por película 56 Comprimido B
 Description: "Zanitek 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Zanitek 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -4731,7 +4844,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4755,7 +4868,8 @@ Title: "Zanitek 20 mg + 10 mg Comprimido revestido por película 14 Comprimido B
 Description: "Zanitek 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116320"
+//true??
+* identifier[pcid].value = "50116320"
 
 * name = "Zanitek 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -4773,7 +4887,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4797,7 +4911,8 @@ Title: "Zanitek 20 mg + 10 mg Comprimido revestido por película 56 Comprimido B
 Description: "Zanitek 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Zanitek 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -4815,7 +4930,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4839,7 +4954,8 @@ Title: "Zanipress 10 mg + 10 mg Comprimido revestido por película 14 Comprimido
 Description: "Zanipress 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116282"
+//true??
+* identifier[pcid].value = "50116282"
 
 * name = "Zanipress 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -4857,7 +4973,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4881,7 +4997,8 @@ Title: "Zanipress 10 mg + 10 mg Comprimido revestido por película 56 Comprimido
 Description: "Zanipress 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Zanipress 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -4899,7 +5016,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4923,7 +5040,8 @@ Title: "Zanipress 20 mg + 10 mg Comprimido revestido por película 56 Comprimido
 Description: "Zanipress 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Zanipress 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -4941,7 +5059,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -4965,7 +5083,8 @@ Title: "Yaz 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blis
 Description: "Yaz 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050028"
+//true??
+* identifier[pcid].value = "50050028"
 
 * name = "Yaz 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -4983,7 +5102,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5007,7 +5126,8 @@ Title: "Yaz 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blis
 Description: "Yaz 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050036"
+//true??
+* identifier[pcid].value = "50050036"
 
 * name = "Yaz 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -5025,7 +5145,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5049,7 +5169,8 @@ Title: "Preterax 10 mg + 2.5 mg Comprimido revestido por película 30 Comprimido
 Description: "Preterax 10 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Preterax 10 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Frasco"
 
@@ -5067,7 +5188,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5091,7 +5212,8 @@ Title: "Yasmin 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido B
 Description: "Yasmin 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026690"
+//true??
+* identifier[pcid].value = "50026690"
 
 * name = "Yasmin 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -5109,7 +5231,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5133,7 +5255,8 @@ Title: "Renidur 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Description: "Renidur 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Renidur 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -5151,7 +5274,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5175,7 +5298,8 @@ Title: "Renidur 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Description: "Renidur 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006240"
+//true??
+* identifier[pcid].value = "50006240"
 
 * name = "Renidur 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -5193,7 +5317,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5217,7 +5341,8 @@ Title: "Dafalgan 1 g 1000 mg Comprimido efervescente 32 Comprimido Fita termosso
 Description: "Dafalgan 1 g 1000 mg Comprimido efervescente 32 Comprimido Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50050044"
+//true??
+* identifier[pcid].value = "50050044"
 
 * name = "Dafalgan 1 g 1000 mg Comprimido efervescente 32 Comprimido Fita termossoldada"
 
@@ -5235,7 +5360,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5259,7 +5384,8 @@ Title: "Dafalgan 1 g 1000 mg Comprimido efervescente 8 Comprimido Fita termossol
 Description: "Dafalgan 1 g 1000 mg Comprimido efervescente 8 Comprimido Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50193821"
+//true??
+* identifier[pcid].value = "50193821"
 
 * name = "Dafalgan 1 g 1000 mg Comprimido efervescente 8 Comprimido Fita termossoldada"
 
@@ -5277,7 +5403,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5301,7 +5427,8 @@ Title: "Ben-U-Ron 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Ben-U-Ron 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Ben-U-Ron 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -5319,7 +5446,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5343,7 +5470,8 @@ Title: "Norvasc 5 mg Comprimido 60 Comprimido Blister"
 Description: "Norvasc 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Norvasc 5 mg Comprimido 60 Comprimido Blister"
 
@@ -5361,7 +5489,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5385,7 +5513,8 @@ Title: "Norvasc 10 mg Comprimido 60 Comprimido Blister"
 Description: "Norvasc 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Norvasc 10 mg Comprimido 60 Comprimido Blister"
 
@@ -5403,7 +5532,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5427,7 +5556,8 @@ Title: "Losec 20 mg Cápsula gastrorresistente 28 Cápsula Frasco"
 Description: "Losec 20 mg Cápsula gastrorresistente 28 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008706"
+//true??
+* identifier[pcid].value = "50008706"
 
 * name = "Losec 20 mg Cápsula gastrorresistente 28 Cápsula Frasco"
 
@@ -5445,7 +5575,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5469,7 +5599,8 @@ Title: "Losec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Losec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Losec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -5487,7 +5618,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5511,7 +5642,8 @@ Title: "Augmentin Duo, comprimidos 875/125 mg 875 mg + 125 mg Comprimido revesti
 Description: "Augmentin Duo, comprimidos 875/125 mg 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Augmentin Duo, comprimidos 875/125 mg 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -5529,7 +5661,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5553,7 +5685,8 @@ Title: "Zipos 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Description: "Zipos 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Usage: #example
 
-* identifier.value = "50018345"
+//true??
+* identifier[pcid].value = "50018345"
 
 * name = "Zipos 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 
@@ -5571,7 +5704,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -5595,7 +5728,8 @@ Title: "Zoladex 3.6 mg Implante 1 Seringa"
 Description: "Zoladex 3.6 mg Implante 1 Seringa"
 Usage: #example
 
-* identifier.value = "50156217"
+//true??
+* identifier[pcid].value = "50156217"
 
 * name = "Zoladex 3.6 mg Implante 1 Seringa"
 
@@ -5613,7 +5747,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5637,7 +5771,8 @@ Title: "Zipos 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Zipos 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018337"
+//true??
+* identifier[pcid].value = "50018337"
 
 * name = "Zipos 500 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -5655,7 +5790,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5679,7 +5814,8 @@ Title: "Amoxicilina + Ácido Clavulânico Sandoz 125 mg + 31,25 mg/5 ml Pó para
 Description: "Amoxicilina + Ácido Clavulânico Sandoz 125 mg + 31,25 mg/5 ml Pó para susp. oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001701"
+//true??
+* identifier[pcid].value = "50001701"
 
 * name = "Amoxicilina + Ácido Clavulânico Sandoz 125 mg + 31,25 mg/5 ml Pó para susp. oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -5697,7 +5833,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5721,7 +5857,8 @@ Title: "Locoid Lipocreme 1 mg/g Creme 1 Bisnaga 30 g"
 Description: "Locoid Lipocreme 1 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50078259"
+//true??
+* identifier[pcid].value = "50078259"
 
 * name = "Locoid Lipocreme 1 mg/g Creme 1 Bisnaga 30 g"
 
@@ -5739,7 +5876,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -5763,7 +5900,8 @@ Title: "Proton 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Proton 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019066"
+//true??
+* identifier[pcid].value = "50019066"
 
 * name = "Proton 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -5781,7 +5919,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5805,7 +5943,8 @@ Title: "Proton 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Proton 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Proton 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -5823,7 +5962,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5847,7 +5986,8 @@ Title: "Fucidine H 10 mg/g + 20 mg/g Creme 1 Bisnaga 30 g"
 Description: "Fucidine H 10 mg/g + 20 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50090143"
+//true??
+* identifier[pcid].value = "50090143"
 
 * name = "Fucidine H 10 mg/g + 20 mg/g Creme 1 Bisnaga 30 g"
 
@@ -5865,7 +6005,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -5889,7 +6029,8 @@ Title: "Betamox 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Betamox 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001728"
+//true??
+* identifier[pcid].value = "50001728"
 
 * name = "Betamox 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -5907,7 +6048,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -5931,7 +6072,8 @@ Title: "Morfina 2% Braun 40 mg/2 ml Solução injetável 10 Ampola"
 Description: "Morfina 2% Braun 40 mg/2 ml Solução injetável 10 Ampola"
 Usage: #example
 
-* identifier.value = "50019791"
+//true??
+* identifier[pcid].value = "50019791"
 
 * name = "Morfina 2% Braun 40 mg/2 ml Solução injetável 10 Ampola"
 
@@ -5949,7 +6091,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -5973,7 +6115,8 @@ Title: "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-* identifier.value = "50004417"
+//true??
+* identifier[pcid].value = "50004417"
 
 * name = "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -5991,7 +6134,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -6015,7 +6158,8 @@ Title: "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 50 g"
 Description: "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50019805"
+//true??
+* identifier[pcid].value = "50019805"
 
 * name = "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 50 g"
 
@@ -6033,7 +6177,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -6057,7 +6201,8 @@ Title: "Tramadol Mylan 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Mylan 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016717"
+//true??
+* identifier[pcid].value = "50016717"
 
 * name = "Tramadol Mylan 50 mg Cápsula 20 Cápsula Blister"
 
@@ -6075,7 +6220,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -6099,7 +6244,8 @@ Title: "Tramadol Mylan 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 Description: "Tramadol Mylan 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 Usage: #example
 
-* identifier.value = "50016741"
+//true??
+* identifier[pcid].value = "50016741"
 
 * name = "Tramadol Mylan 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 
@@ -6117,7 +6263,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6141,7 +6287,8 @@ Title: "Painex 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Painex 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Painex 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -6159,7 +6306,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -6183,7 +6330,8 @@ Title: "Lovenox 60 mg/0.6 ml Solução injetável 2 Seringa"
 Description: "Lovenox 60 mg/0.6 ml Solução injetável 2 Seringa"
 Usage: #example
 
-* identifier.value = "50172417"
+//true??
+* identifier[pcid].value = "50172417"
 
 * name = "Lovenox 60 mg/0.6 ml Solução injetável 2 Seringa"
 
@@ -6201,7 +6349,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6225,7 +6373,8 @@ Title: "Lovenox 60 mg/0.6 ml Solução injetável 6 Seringa"
 Description: "Lovenox 60 mg/0.6 ml Solução injetável 6 Seringa"
 Usage: #example
 
-* identifier.value = "50172425"
+//true??
+* identifier[pcid].value = "50172425"
 
 * name = "Lovenox 60 mg/0.6 ml Solução injetável 6 Seringa"
 
@@ -6243,7 +6392,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6267,7 +6416,8 @@ Title: "Lovenox 80 mg/0.8 ml Solução injetável 2 Seringa"
 Description: "Lovenox 80 mg/0.8 ml Solução injetável 2 Seringa"
 Usage: #example
 
-* identifier.value = "50172441"
+//true??
+* identifier[pcid].value = "50172441"
 
 * name = "Lovenox 80 mg/0.8 ml Solução injetável 2 Seringa"
 
@@ -6285,7 +6435,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6309,7 +6459,8 @@ Title: "Lovenox 80 mg/0.8 ml Solução injetável 6 Seringa"
 Description: "Lovenox 80 mg/0.8 ml Solução injetável 6 Seringa"
 Usage: #example
 
-* identifier.value = "50172450"
+//true??
+* identifier[pcid].value = "50172450"
 
 * name = "Lovenox 80 mg/0.8 ml Solução injetável 6 Seringa"
 
@@ -6327,7 +6478,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6351,7 +6502,8 @@ Title: "Betamox 500 mg/10 ml + 50 mg/10 ml Pó e solvente para solução injetá
 Description: "Betamox 500 mg/10 ml + 50 mg/10 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50021168"
+//true??
+* identifier[pcid].value = "50021168"
 
 * name = "Betamox 500 mg/10 ml + 50 mg/10 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 
@@ -6369,7 +6521,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -6393,7 +6545,8 @@ Title: "Betamox 1000 mg/20 ml + 200 mg/20 ml Pó e solvente para solução injet
 Description: "Betamox 1000 mg/20 ml + 200 mg/20 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50021176"
+//true??
+* identifier[pcid].value = "50021176"
 
 * name = "Betamox 1000 mg/20 ml + 200 mg/20 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 
@@ -6411,7 +6564,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -6435,7 +6588,8 @@ Title: "Betamox 2000 mg + 200 mg Pó para solução para perfusão 1 Frasco para
 Description: "Betamox 2000 mg + 200 mg Pó para solução para perfusão 1 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50021192"
+//true??
+* identifier[pcid].value = "50021192"
 
 * name = "Betamox 2000 mg + 200 mg Pó para solução para perfusão 1 Frasco para injetáveis"
 
@@ -6453,7 +6607,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -6477,7 +6631,8 @@ Title: "Paracetamol Generis 500 mg Comprimidos 500 mg Comprimido 20 Comprimido B
 Description: "Paracetamol Generis 500 mg Comprimidos 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Paracetamol Generis 500 mg Comprimidos 500 mg Comprimido 20 Comprimido Blister"
 
@@ -6495,7 +6650,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -6519,7 +6674,8 @@ Title: "Lantus 100 U/ml Solução injetável 5 Cartucho"
 Description: "Lantus 100 U/ml Solução injetável 5 Cartucho"
 Usage: #example
 
-* identifier.value = "50093061"
+//true??
+* identifier[pcid].value = "50093061"
 
 * name = "Lantus 100 U/ml Solução injetável 5 Cartucho"
 
@@ -6537,7 +6693,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6561,7 +6717,8 @@ Title: "Diclofenac Labesfal 50 mg Comprimido gastrorresistente 60 Comprimido Bli
 Description: "Diclofenac Labesfal 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50007262"
+//true??
+* identifier[pcid].value = "50007262"
 
 * name = "Diclofenac Labesfal 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 
@@ -6579,7 +6736,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -6603,7 +6760,8 @@ Title: "Diclofenac Labesfal 100 mg Cápsula de libertação prolongada 30 Cápsu
 Description: "Diclofenac Labesfal 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50006690"
+//true??
+* identifier[pcid].value = "50006690"
 
 * name = "Diclofenac Labesfal 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -6621,7 +6779,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -6645,7 +6803,8 @@ Title: "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 40 Recipien
 Description: "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 40 Recipiente unidose 0,3 ml"
 Usage: #example
 
-* identifier.value = "50021680"
+//true??
+* identifier[pcid].value = "50021680"
 
 * name = "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 40 Recipiente unidose 0,3 ml"
 
@@ -6663,7 +6822,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6687,7 +6846,8 @@ Title: "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 20 Recipien
 Description: "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 20 Recipiente unidose 0,3 ml"
 Usage: #example
 
-* identifier.value = "50021672"
+//true??
+* identifier[pcid].value = "50021672"
 
 * name = "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 20 Recipiente unidose 0,3 ml"
 
@@ -6705,7 +6865,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6729,7 +6889,8 @@ Title: "Betamox Plus 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Description: "Betamox Plus 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Betamox Plus 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 
@@ -6747,7 +6908,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -6771,7 +6932,8 @@ Title: "Zip-A-Dol 200 mg Cápsula 20 Cápsula Blister"
 Description: "Zip-A-Dol 200 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Zip-A-Dol 200 mg Cápsula 20 Cápsula Blister"
 
@@ -6789,7 +6951,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -6813,7 +6975,8 @@ Title: "Nurofen 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 Description: "Nurofen 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 Usage: #example
 
-* identifier.value = "50013556"
+//true??
+* identifier[pcid].value = "50013556"
 
 * name = "Nurofen 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 
@@ -6831,7 +6994,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6855,7 +7018,8 @@ Title: "Clavamox DT 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Fras
 Description: "Clavamox DT 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022202"
+//true??
+* identifier[pcid].value = "50022202"
 
 * name = "Clavamox DT 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -6873,7 +7037,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -6897,7 +7061,8 @@ Title: "Lovenox 120 mg/0.8 ml Solução injetável 2 Seringa"
 Description: "Lovenox 120 mg/0.8 ml Solução injetável 2 Seringa"
 Usage: #example
 
-* identifier.value = "50172476"
+//true??
+* identifier[pcid].value = "50172476"
 
 * name = "Lovenox 120 mg/0.8 ml Solução injetável 2 Seringa"
 
@@ -6915,7 +7080,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6939,7 +7104,8 @@ Title: "Lovenox 120 mg/0.8 ml Solução injetável 6 Seringa"
 Description: "Lovenox 120 mg/0.8 ml Solução injetável 6 Seringa"
 Usage: #example
 
-* identifier.value = "50172484"
+//true??
+* identifier[pcid].value = "50172484"
 
 * name = "Lovenox 120 mg/0.8 ml Solução injetável 6 Seringa"
 
@@ -6957,7 +7123,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -6981,7 +7147,8 @@ Title: "Lovenox 150 mg/1 ml Solução injetável 6 Seringa"
 Description: "Lovenox 150 mg/1 ml Solução injetável 6 Seringa"
 Usage: #example
 
-* identifier.value = "50172514"
+//true??
+* identifier[pcid].value = "50172514"
 
 * name = "Lovenox 150 mg/1 ml Solução injetável 6 Seringa"
 
@@ -6999,7 +7166,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -7023,7 +7190,8 @@ Title: "Lovenox 150 mg/1 ml Solução injetável 2 Seringa"
 Description: "Lovenox 150 mg/1 ml Solução injetável 2 Seringa"
 Usage: #example
 
-* identifier.value = "50172506"
+//true??
+* identifier[pcid].value = "50172506"
 
 * name = "Lovenox 150 mg/1 ml Solução injetável 2 Seringa"
 
@@ -7041,7 +7209,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -7065,7 +7233,8 @@ Title: "Dol-U-Ron Forte 1000 mg + 60 mg Supositório 10 Supositório Fita termos
 Description: "Dol-U-Ron Forte 1000 mg + 60 mg Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50022326"
+//true??
+* identifier[pcid].value = "50022326"
 
 * name = "Dol-U-Ron Forte 1000 mg + 60 mg Supositório 10 Supositório Fita termossoldada"
 
@@ -7083,7 +7252,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7107,7 +7276,8 @@ Title: "Panadol 500 mg Comprimido efervescente 16 Comprimido Blister"
 Description: "Panadol 500 mg Comprimido efervescente 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50041320"
+//true??
+* identifier[pcid].value = "50041320"
 
 * name = "Panadol 500 mg Comprimido efervescente 16 Comprimido Blister"
 
@@ -7125,7 +7295,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7149,7 +7319,8 @@ Title: "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestid
 Description: "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004638"
+//true??
+* identifier[pcid].value = "50004638"
 
 * name = "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -7167,7 +7338,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7191,7 +7362,8 @@ Title: "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestid
 Description: "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004646"
+//true??
+* identifier[pcid].value = "50004646"
 
 * name = "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -7209,7 +7381,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7233,7 +7405,8 @@ Title: "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 15 Comp
 Description: "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 15 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016229"
+//true??
+* identifier[pcid].value = "50016229"
 
 * name = "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 15 Comprimido Blister"
 
@@ -7251,7 +7424,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7275,7 +7448,8 @@ Title: "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 60 Comp
 Description: "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016210"
+//true??
+* identifier[pcid].value = "50016210"
 
 * name = "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -7293,7 +7467,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7317,7 +7491,8 @@ Title: "Carbamazepina Mylan 400 mg Comprimido de libertação prolongada 60 Comp
 Description: "Carbamazepina Mylan 400 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016237"
+//true??
+* identifier[pcid].value = "50016237"
 
 * name = "Carbamazepina Mylan 400 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -7335,7 +7510,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7359,7 +7534,8 @@ Title: "Morfina Labesfal 10 mg/1 ml Solução injetável 10 Ampola"
 Description: "Morfina Labesfal 10 mg/1 ml Solução injetável 10 Ampola"
 Usage: #example
 
-* identifier.value = "50022741"
+//true??
+* identifier[pcid].value = "50022741"
 
 * name = "Morfina Labesfal 10 mg/1 ml Solução injetável 10 Ampola"
 
@@ -7377,7 +7553,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -7401,7 +7577,8 @@ Title: "Morfina Labesfal (sem conservantes) 10 mg/1 ml Solução injetável 10 A
 Description: "Morfina Labesfal (sem conservantes) 10 mg/1 ml Solução injetável 10 Ampola"
 Usage: #example
 
-* identifier.value = "50006002"
+//true??
+* identifier[pcid].value = "50006002"
 
 * name = "Morfina Labesfal (sem conservantes) 10 mg/1 ml Solução injetável 10 Ampola"
 
@@ -7419,7 +7596,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -7443,7 +7620,8 @@ Title: "Morfina Labesfal (sem conservantes) 40 mg/2 ml Solução injetável 10 A
 Description: "Morfina Labesfal (sem conservantes) 40 mg/2 ml Solução injetável 10 Ampola"
 Usage: #example
 
-* identifier.value = "50019791"
+//true??
+* identifier[pcid].value = "50019791"
 
 * name = "Morfina Labesfal (sem conservantes) 40 mg/2 ml Solução injetável 10 Ampola"
 
@@ -7461,7 +7639,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -7485,7 +7663,8 @@ Title: "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gas
 Description: "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -7503,7 +7682,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7527,7 +7706,8 @@ Title: "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gas
 Description: "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -7545,7 +7725,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7569,7 +7749,8 @@ Title: "Cálcio + Vitamina D3 ratiopharm 1500 mg + 400 U.I. Comprimido efervesce
 Description: "Cálcio + Vitamina D3 ratiopharm 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50193783"
+//true??
+* identifier[pcid].value = "50193783"
 
 * name = "Cálcio + Vitamina D3 ratiopharm 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -7587,7 +7768,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7611,7 +7792,8 @@ Title: "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimid
 Description: "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50193783"
+//true??
+* identifier[pcid].value = "50193783"
 
 * name = "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -7629,7 +7811,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7653,7 +7835,8 @@ Title: "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 60 Comprimid
 Description: "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 60 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50193805"
+//true??
+* identifier[pcid].value = "50193805"
 
 * name = "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 60 Comprimido Recipiente para comprimidos"
 
@@ -7671,7 +7854,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7695,7 +7878,8 @@ Title: "Amlodipina Farmoz 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister
 Description: "Amlodipina Farmoz 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Farmoz 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -7713,7 +7897,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7737,7 +7921,8 @@ Title: "Amlodipina Farmoz 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blist
 Description: "Amlodipina Farmoz 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Farmoz 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -7755,7 +7940,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7779,7 +7964,8 @@ Title: "Amlodipina Basi 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Basi 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Basi 5 mg Comprimido 60 Comprimido Blister"
 
@@ -7797,7 +7983,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7821,7 +8007,8 @@ Title: "Amlodipina Basi 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Basi 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Basi 10 mg Comprimido 60 Comprimido Blister"
 
@@ -7839,7 +8026,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7863,7 +8050,8 @@ Title: "Amlodipina Mibral 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Mibral 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Mibral 5 mg Comprimido 10 Comprimido Blister"
 
@@ -7881,7 +8069,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7905,7 +8093,8 @@ Title: "Amlodipina Mibral 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mibral 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Mibral 5 mg Comprimido 60 Comprimido Blister"
 
@@ -7923,7 +8112,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7947,7 +8136,8 @@ Title: "Amlodipina Mibral 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mibral 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Mibral 10 mg Comprimido 60 Comprimido Blister"
 
@@ -7965,7 +8155,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -7989,7 +8179,8 @@ Title: "Maleato de Enalapril Mylan 5 mg Comprimido 60 Comprimido Fita termossold
 Description: "Maleato de Enalapril Mylan 5 mg Comprimido 60 Comprimido Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50003356"
+//true??
+* identifier[pcid].value = "50003356"
 
 * name = "Maleato de Enalapril Mylan 5 mg Comprimido 60 Comprimido Fita termossoldada"
 
@@ -8007,7 +8198,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8031,7 +8222,8 @@ Title: "Maleato de Enalapril Mylan 5 mg Comprimido 10 Comprimido Fita termossold
 Description: "Maleato de Enalapril Mylan 5 mg Comprimido 10 Comprimido Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50003364"
+//true??
+* identifier[pcid].value = "50003364"
 
 * name = "Maleato de Enalapril Mylan 5 mg Comprimido 10 Comprimido Fita termossoldada"
 
@@ -8049,7 +8241,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8073,7 +8265,8 @@ Title: "Maleato de Enalapril Mylan 20 mg Comprimido 56 Comprimido Fita termossol
 Description: "Maleato de Enalapril Mylan 20 mg Comprimido 56 Comprimido Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50003372"
+//true??
+* identifier[pcid].value = "50003372"
 
 * name = "Maleato de Enalapril Mylan 20 mg Comprimido 56 Comprimido Fita termossoldada"
 
@@ -8091,7 +8284,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8115,7 +8308,8 @@ Title: "Oramorph 20 mg/ml Solução oral 1 Frasco"
 Description: "Oramorph 20 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50024272"
+//true??
+* identifier[pcid].value = "50024272"
 
 * name = "Oramorph 20 mg/ml Solução oral 1 Frasco"
 
@@ -8133,7 +8327,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -8157,7 +8351,8 @@ Title: "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Description: "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 
@@ -8175,7 +8370,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8199,7 +8394,8 @@ Title: "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Description: "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 
@@ -8217,7 +8413,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8241,7 +8437,8 @@ Title: "Amoxicilina + Ácido Clavulânico-Ratiopharm 125 mg e 31,25mg/5 ml, Susp
 Description: "Amoxicilina + Ácido Clavulânico-Ratiopharm 125 mg e 31,25mg/5 ml, Suspensão Oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001698"
+//true??
+* identifier[pcid].value = "50001698"
 
 * name = "Amoxicilina + Ácido Clavulânico-Ratiopharm 125 mg e 31,25mg/5 ml, Suspensão Oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -8259,7 +8456,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8283,7 +8480,8 @@ Title: "Lidonostrum Bomba-Spray 10% 100 mg/ml Solução para pulverização cut�
 Description: "Lidonostrum Bomba-Spray 10% 100 mg/ml Solução para pulverização cutânea 1 Frasco"
 Usage: #example
 
-* identifier.value = "50025015"
+//true??
+* identifier[pcid].value = "50025015"
 
 * name = "Lidonostrum Bomba-Spray 10% 100 mg/ml Solução para pulverização cutânea 1 Frasco"
 
@@ -8301,7 +8499,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -8325,7 +8523,8 @@ Title: "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 60 Comprim
 Description: "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004646"
+//true??
+* identifier[pcid].value = "50004646"
 
 * name = "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -8343,7 +8542,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8367,7 +8566,8 @@ Title: "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 10 Comprim
 Description: "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004638"
+//true??
+* identifier[pcid].value = "50004638"
 
 * name = "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -8385,7 +8585,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8409,7 +8609,8 @@ Title: "Amoxicilina + Ácido Clavulânico-Ratiopharm 250 mg e 62,5 mg/5 ml, Susp
 Description: "Amoxicilina + Ácido Clavulânico-Ratiopharm 250 mg e 62,5 mg/5 ml, Suspensão Oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001710"
+//true??
+* identifier[pcid].value = "50001710"
 
 * name = "Amoxicilina + Ácido Clavulânico-Ratiopharm 250 mg e 62,5 mg/5 ml, Suspensão Oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -8427,7 +8628,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8451,7 +8652,8 @@ Title: "Amoxicilina + Ácido Clavulânico-Ratiopharm 500 mg e 125 mg Comprimido 
 Description: "Amoxicilina + Ácido Clavulânico-Ratiopharm 500 mg e 125 mg Comprimido Revestido 500 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001639"
+//true??
+* identifier[pcid].value = "50001639"
 
 * name = "Amoxicilina + Ácido Clavulânico-Ratiopharm 500 mg e 125 mg Comprimido Revestido 500 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 
@@ -8469,7 +8671,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8493,7 +8695,8 @@ Title: "Sinvastatina Zera 10 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Zera 10 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Zera 10 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -8511,7 +8714,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8535,7 +8738,8 @@ Title: "Sinvastatina Zera 10 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sinvastatina Zera 10 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Zera 10 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -8553,7 +8757,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8577,7 +8781,8 @@ Title: "Sinvastatina Zera 20 mg Comprimidos Revestidos 20 mg Comprimido revestid
 Description: "Sinvastatina Zera 20 mg Comprimidos Revestidos 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Zera 20 mg Comprimidos Revestidos 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -8595,7 +8800,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8619,7 +8824,8 @@ Title: "Calcitab 1500 mg Comprimido para mastigar 20 Comprimido Frasco"
 Description: "Calcitab 1500 mg Comprimido para mastigar 20 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50094858"
+//true??
+* identifier[pcid].value = "50094858"
 
 * name = "Calcitab 1500 mg Comprimido para mastigar 20 Comprimido Frasco"
 
@@ -8637,7 +8843,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8661,7 +8867,8 @@ Title: "Calcitab 1500 mg Comprimido para mastigar 60 Comprimido Frasco"
 Description: "Calcitab 1500 mg Comprimido para mastigar 60 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50094866"
+//true??
+* identifier[pcid].value = "50094866"
 
 * name = "Calcitab 1500 mg Comprimido para mastigar 60 Comprimido Frasco"
 
@@ -8679,7 +8886,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8703,7 +8910,8 @@ Title: "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 60 Comprimido
 Description: "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016172"
+//true??
+* identifier[pcid].value = "50016172"
 
 * name = "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 60 Comprimido Blister"
 
@@ -8721,7 +8929,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8745,7 +8953,8 @@ Title: "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 20 Comprimido
 Description: "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016164"
+//true??
+* identifier[pcid].value = "50016164"
 
 * name = "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 20 Comprimido Blister"
 
@@ -8763,7 +8972,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8787,7 +8996,8 @@ Title: "Carbamazepina Generis 400 mg Comprimidos 400 mg Comprimido 60 Comprimido
 Description: "Carbamazepina Generis 400 mg Comprimidos 400 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016180"
+//true??
+* identifier[pcid].value = "50016180"
 
 * name = "Carbamazepina Generis 400 mg Comprimidos 400 mg Comprimido 60 Comprimido Blister"
 
@@ -8805,7 +9015,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8829,7 +9039,8 @@ Title: "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revesti
 Description: "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004646"
+//true??
+* identifier[pcid].value = "50004646"
 
 * name = "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -8847,7 +9058,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8871,7 +9082,8 @@ Title: "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revesti
 Description: "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004638"
+//true??
+* identifier[pcid].value = "50004638"
 
 * name = "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -8889,7 +9101,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8913,7 +9125,8 @@ Title: "Canesten 10 mg/g Pó cutâneo 1 Frasco 30 g"
 Description: "Canesten 10 mg/g Pó cutâneo 1 Frasco 30 g"
 Usage: #example
 
-* identifier.value = "50025783"
+//true??
+* identifier[pcid].value = "50025783"
 
 * name = "Canesten 10 mg/g Pó cutâneo 1 Frasco 30 g"
 
@@ -8931,7 +9144,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -8955,7 +9168,8 @@ Title: "Enalapril Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003364"
+//true??
+* identifier[pcid].value = "50003364"
 
 * name = "Enalapril Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 
@@ -8973,7 +9187,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -8997,7 +9211,8 @@ Title: "Enalapril Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003356"
+//true??
+* identifier[pcid].value = "50003356"
 
 * name = "Enalapril Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 
@@ -9015,7 +9230,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9039,7 +9254,8 @@ Title: "Enalapril Ratiopharm 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Ratiopharm 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003372"
+//true??
+* identifier[pcid].value = "50003372"
 
 * name = "Enalapril Ratiopharm 20 mg Comprimido 60 Comprimido Blister"
 
@@ -9057,7 +9273,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9081,7 +9297,8 @@ Title: "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003356"
+//true??
+* identifier[pcid].value = "50003356"
 
 * name = "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -9099,7 +9316,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9123,7 +9340,8 @@ Title: "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003364"
+//true??
+* identifier[pcid].value = "50003364"
 
 * name = "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 
@@ -9141,7 +9359,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9165,7 +9383,8 @@ Title: "Fenil-V Gelcreme 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Fenil-V Gelcreme 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Fenil-V Gelcreme 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -9183,7 +9402,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -9207,7 +9426,8 @@ Title: "Carbamazepina Labesfal 200 mg Comprimidos 200 mg Comprimido 60 Comprimid
 Description: "Carbamazepina Labesfal 200 mg Comprimidos 200 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016172"
+//true??
+* identifier[pcid].value = "50016172"
 
 * name = "Carbamazepina Labesfal 200 mg Comprimidos 200 mg Comprimido 60 Comprimido Blister"
 
@@ -9225,7 +9445,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9249,7 +9469,8 @@ Title: "Carbamazepina Labesfal 400 mg Comprimidos 400 mg Comprimido 60 Comprimid
 Description: "Carbamazepina Labesfal 400 mg Comprimidos 400 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016180"
+//true??
+* identifier[pcid].value = "50016180"
 
 * name = "Carbamazepina Labesfal 400 mg Comprimidos 400 mg Comprimido 60 Comprimido Blister"
 
@@ -9267,7 +9488,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9291,7 +9512,8 @@ Title: "Enalapril Teva 20 mg Comprimidos 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Teva 20 mg Comprimidos 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003372"
+//true??
+* identifier[pcid].value = "50003372"
 
 * name = "Enalapril Teva 20 mg Comprimidos 20 mg Comprimido 60 Comprimido Blister"
 
@@ -9309,7 +9531,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9333,7 +9555,8 @@ Title: "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 apl
 Description: "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 aplicações"
 Usage: #example
 
-* identifier.value = "50063596"
+//true??
+* identifier[pcid].value = "50063596"
 
 * name = "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 aplicações"
 
@@ -9351,7 +9574,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9375,7 +9598,8 @@ Title: "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 apl
 Description: "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 aplicações e 1 aplicador"
 Usage: #example
 
-* identifier.value = "50063600"
+//true??
+* identifier[pcid].value = "50063600"
 
 * name = "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 aplicações e 1 aplicador"
 
@@ -9393,7 +9617,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9417,7 +9641,8 @@ Title: "Adalgur N 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 Description: "Adalgur N 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50064428"
+//true??
+* identifier[pcid].value = "50064428"
 
 * name = "Adalgur N 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 
@@ -9435,7 +9660,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9459,7 +9684,8 @@ Title: "Adalgur N 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 Description: "Adalgur N 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50064436"
+//true??
+* identifier[pcid].value = "50064436"
 
 * name = "Adalgur N 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 
@@ -9477,7 +9703,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9501,7 +9727,8 @@ Title: "Afebryl 300 mg + 200 mg + 300 mg Comprimido efervescente 16 Comprimido R
 Description: "Afebryl 300 mg + 200 mg + 300 mg Comprimido efervescente 16 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50193678"
+//true??
+* identifier[pcid].value = "50193678"
 
 * name = "Afebryl 300 mg + 200 mg + 300 mg Comprimido efervescente 16 Comprimido Recipiente para comprimidos"
 
@@ -9519,7 +9746,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9543,7 +9770,8 @@ Title: "Paracetamol + Cafeína Algik 500 mg + 50 mg Pó para solução oral 20 S
 Description: "Paracetamol + Cafeína Algik 500 mg + 50 mg Pó para solução oral 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50064886"
+//true??
+* identifier[pcid].value = "50064886"
 
 * name = "Paracetamol + Cafeína Algik 500 mg + 50 mg Pó para solução oral 20 Saqueta"
 
@@ -9561,7 +9789,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9585,7 +9813,8 @@ Title: "Amoxicilina + Ácido Clavulânico Sandoz 500 mg + 125 mg Comprimidos rev
 Description: "Amoxicilina + Ácido Clavulânico Sandoz 500 mg + 125 mg Comprimidos revestidos 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001639"
+//true??
+* identifier[pcid].value = "50001639"
 
 * name = "Amoxicilina + Ácido Clavulânico Sandoz 500 mg + 125 mg Comprimidos revestidos 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -9603,7 +9832,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9627,7 +9856,8 @@ Title: "Amoxicilina + Ácido Clavulânico Sandoz 250 mg + 62,5 mg/5 ml Pó para 
 Description: "Amoxicilina + Ácido Clavulânico Sandoz 250 mg + 62,5 mg/5 ml Pó para susp. oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001728"
+//true??
+* identifier[pcid].value = "50001728"
 
 * name = "Amoxicilina + Ácido Clavulânico Sandoz 250 mg + 62,5 mg/5 ml Pó para susp. oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -9645,7 +9875,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9669,7 +9899,8 @@ Title: "Amoxicilina Labesfal 1000 mg Comprimido 16 Comprimido Blister"
 Description: "Amoxicilina Labesfal 1000 mg Comprimido 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001817"
+//true??
+* identifier[pcid].value = "50001817"
 
 * name = "Amoxicilina Labesfal 1000 mg Comprimido 16 Comprimido Blister"
 
@@ -9687,7 +9918,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9711,7 +9942,8 @@ Title: "Anafranil 10 mg Comprimido revestido 10 Comprimido Blister"
 Description: "Anafranil 10 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50065084"
+//true??
+* identifier[pcid].value = "50065084"
 
 * name = "Anafranil 10 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -9729,7 +9961,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9753,7 +9985,8 @@ Title: "Anafranil 10 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Anafranil 10 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50065092"
+//true??
+* identifier[pcid].value = "50065092"
 
 * name = "Anafranil 10 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -9771,7 +10004,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9795,7 +10028,8 @@ Title: "Anafranil 25 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Anafranil 25 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50065106"
+//true??
+* identifier[pcid].value = "50065106"
 
 * name = "Anafranil 25 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -9813,7 +10047,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9837,7 +10071,8 @@ Title: "Anafranil 75 mg Comprimido de libertação prolongada 60 Comprimido Blis
 Description: "Anafranil 75 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50065122"
+//true??
+* identifier[pcid].value = "50065122"
 
 * name = "Anafranil 75 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -9855,7 +10090,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9879,7 +10114,8 @@ Title: "Anafranil 25 mg/2 ml Solução injetável 5 Ampola"
 Description: "Anafranil 25 mg/2 ml Solução injetável 5 Ampola"
 Usage: #example
 
-* identifier.value = "50065130"
+//true??
+* identifier[pcid].value = "50065130"
 
 * name = "Anafranil 25 mg/2 ml Solução injetável 5 Ampola"
 
@@ -9897,7 +10133,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -9921,7 +10157,8 @@ Title: "Atralidon 500 mg Comprimido 20 Comprimido Blister"
 Description: "Atralidon 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Atralidon 500 mg Comprimido 20 Comprimido Blister"
 
@@ -9939,7 +10176,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -9963,7 +10200,8 @@ Title: "Arthrotec 50 mg + 0.2 mg Comprimido 20 Comprimido Blister"
 Description: "Arthrotec 50 mg + 0.2 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50065572"
+//true??
+* identifier[pcid].value = "50065572"
 
 * name = "Arthrotec 50 mg + 0.2 mg Comprimido 20 Comprimido Blister"
 
@@ -9981,7 +10219,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10005,7 +10243,8 @@ Title: "Arthrotec 50 mg + 0.2 mg Comprimido 60 Comprimido Blister"
 Description: "Arthrotec 50 mg + 0.2 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50065580"
+//true??
+* identifier[pcid].value = "50065580"
 
 * name = "Arthrotec 50 mg + 0.2 mg Comprimido 60 Comprimido Blister"
 
@@ -10023,7 +10262,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10047,7 +10286,8 @@ Title: "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 60 Com
 Description: "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50065602"
+//true??
+* identifier[pcid].value = "50065602"
 
 * name = "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 60 Comprimido Blister"
 
@@ -10065,7 +10305,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10089,7 +10329,8 @@ Title: "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 20 Com
 Description: "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50065610"
+//true??
+* identifier[pcid].value = "50065610"
 
 * name = "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 20 Comprimido Blister"
 
@@ -10107,7 +10348,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10131,7 +10372,8 @@ Title: "Baycuten 0.4 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 Description: "Baycuten 0.4 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50066110"
+//true??
+* identifier[pcid].value = "50066110"
 
 * name = "Baycuten 0.4 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 
@@ -10149,7 +10391,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -10173,7 +10415,8 @@ Title: "Bialzepam 3 mg Cápsula 60 Cápsula Blister"
 Description: "Bialzepam 3 mg Cápsula 60 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50003836"
+//true??
+* identifier[pcid].value = "50003836"
 
 * name = "Bialzepam 3 mg Cápsula 60 Cápsula Blister"
 
@@ -10191,7 +10434,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10215,7 +10458,8 @@ Title: "Bialzepam 3 mg Cápsula 20 Cápsula Blister"
 Description: "Bialzepam 3 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50003844"
+//true??
+* identifier[pcid].value = "50003844"
 
 * name = "Bialzepam 3 mg Cápsula 20 Cápsula Blister"
 
@@ -10233,7 +10477,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10257,7 +10501,8 @@ Title: "Bialzepam 6 mg Cápsula 20 Cápsula Blister"
 Description: "Bialzepam 6 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50003879"
+//true??
+* identifier[pcid].value = "50003879"
 
 * name = "Bialzepam 6 mg Cápsula 20 Cápsula Blister"
 
@@ -10275,7 +10520,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10299,7 +10544,8 @@ Title: "Bialzepam 6 mg Cápsula 60 Cápsula Blister"
 Description: "Bialzepam 6 mg Cápsula 60 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50003860"
+//true??
+* identifier[pcid].value = "50003860"
 
 * name = "Bialzepam 6 mg Cápsula 60 Cápsula Blister"
 
@@ -10317,7 +10563,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10341,7 +10587,8 @@ Title: "Bialzepam Retard 10 mg Cápsula de libertação prolongada 20 Cápsula B
 Description: "Bialzepam Retard 10 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50003909"
+//true??
+* identifier[pcid].value = "50003909"
 
 * name = "Bialzepam Retard 10 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -10359,7 +10606,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10383,7 +10630,8 @@ Title: "Bialzepam Retard 10 mg Cápsula de libertação prolongada 60 Cápsula B
 Description: "Bialzepam Retard 10 mg Cápsula de libertação prolongada 60 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50003895"
+//true??
+* identifier[pcid].value = "50003895"
 
 * name = "Bialzepam Retard 10 mg Cápsula de libertação prolongada 60 Cápsula Blister"
 
@@ -10401,7 +10649,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10425,7 +10673,8 @@ Title: "Buscopan Compositum N 10 mg + 800 mg Supositório 12 Supositório Bliste
 Description: "Buscopan Compositum N 10 mg + 800 mg Supositório 12 Supositório Blister"
 Usage: #example
 
-* identifier.value = "50066986"
+//true??
+* identifier[pcid].value = "50066986"
 
 * name = "Buscopan Compositum N 10 mg + 800 mg Supositório 12 Supositório Blister"
 
@@ -10443,7 +10692,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10467,7 +10716,8 @@ Title: "Buscopan Compositum N 10 mg + 500 mg Comprimido revestido 20 Comprimido 
 Description: "Buscopan Compositum N 10 mg + 500 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50066978"
+//true??
+* identifier[pcid].value = "50066978"
 
 * name = "Buscopan Compositum N 10 mg + 500 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -10485,7 +10735,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10509,7 +10759,8 @@ Title: "Calcium Sandoz Forte 875 mg + 1132 mg Comprimido efervescente 20 Comprim
 Description: "Calcium Sandoz Forte 875 mg + 1132 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50193694"
+//true??
+* identifier[pcid].value = "50193694"
 
 * name = "Calcium Sandoz Forte 875 mg + 1132 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -10527,7 +10778,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10551,7 +10802,8 @@ Title: "Carbonato Cálcio Labesfal 500 mg Cápsula 100 Cápsula Blister"
 Description: "Carbonato Cálcio Labesfal 500 mg Cápsula 100 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50067257"
+//true??
+* identifier[pcid].value = "50067257"
 
 * name = "Carbonato Cálcio Labesfal 500 mg Cápsula 100 Cápsula Blister"
 
@@ -10569,7 +10821,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10593,7 +10845,8 @@ Title: "Cataflam 50 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Cataflam 50 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004646"
+//true??
+* identifier[pcid].value = "50004646"
 
 * name = "Cataflam 50 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -10611,7 +10864,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10635,7 +10888,8 @@ Title: "Cataflam 50 mg Comprimido revestido 10 Comprimido Blister"
 Description: "Cataflam 50 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004638"
+//true??
+* identifier[pcid].value = "50004638"
 
 * name = "Cataflam 50 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -10653,7 +10907,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10677,7 +10931,8 @@ Title: "Cefuroxima Hikma 750 mg/6 ml Pó e solvente para solução injetável 50
 Description: "Cefuroxima Hikma 750 mg/6 ml Pó e solvente para solução injetável 50 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50004808"
+//true??
+* identifier[pcid].value = "50004808"
 
 * name = "Cefuroxima Hikma 750 mg/6 ml Pó e solvente para solução injetável 50 Frasco para injetáveis"
 
@@ -10695,7 +10950,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10719,7 +10974,8 @@ Title: "Cipamox 500 mg Cápsula 16 Cápsula Blister"
 Description: "Cipamox 500 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50001795"
+//true??
+* identifier[pcid].value = "50001795"
 
 * name = "Cipamox 500 mg Cápsula 16 Cápsula Blister"
 
@@ -10737,7 +10993,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10761,7 +11017,8 @@ Title: "Cipamox 1000 mg Comprimido 16 Comprimido Blister"
 Description: "Cipamox 1000 mg Comprimido 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001817"
+//true??
+* identifier[pcid].value = "50001817"
 
 * name = "Cipamox 1000 mg Comprimido 16 Comprimido Blister"
 
@@ -10779,7 +11036,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10803,7 +11060,8 @@ Title: "Cipamox 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Cipamox 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001914"
+//true??
+* identifier[pcid].value = "50001914"
 
 * name = "Cipamox 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -10821,7 +11079,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10845,7 +11103,8 @@ Title: "Cipamox 3000 mg Pó para suspensão oral 1 Saqueta"
 Description: "Cipamox 3000 mg Pó para suspensão oral 1 Saqueta"
 Usage: #example
 
-* identifier.value = "50005324"
+//true??
+* identifier[pcid].value = "50005324"
 
 * name = "Cipamox 3000 mg Pó para suspensão oral 1 Saqueta"
 
@@ -10863,7 +11122,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10887,7 +11146,8 @@ Title: "Clavamox 125 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Fras
 Description: "Clavamox 125 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001701"
+//true??
+* identifier[pcid].value = "50001701"
 
 * name = "Clavamox 125 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -10905,7 +11165,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10929,7 +11189,8 @@ Title: "Clavamox 250 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasc
 Description: "Clavamox 250 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001728"
+//true??
+* identifier[pcid].value = "50001728"
 
 * name = "Clavamox 250 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -10947,7 +11208,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -10971,7 +11232,8 @@ Title: "Clavamox 500 500 mg + 125 mg Comprimido revestido por película 16 Compr
 Description: "Clavamox 500 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001639"
+//true??
+* identifier[pcid].value = "50001639"
 
 * name = "Clavamox 500 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -10989,7 +11251,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11013,7 +11275,8 @@ Title: "Clavamox DT 875 mg + 125 mg Comprimido revestido por película 16 Compri
 Description: "Clavamox DT 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Clavamox DT 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -11031,7 +11294,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11055,7 +11318,8 @@ Title: "Morfina 1% Braun 10 mg/1 ml Solução injetável 10 Ampola"
 Description: "Morfina 1% Braun 10 mg/1 ml Solução injetável 10 Ampola"
 Usage: #example
 
-* identifier.value = "50006002"
+//true??
+* identifier[pcid].value = "50006002"
 
 * name = "Morfina 1% Braun 10 mg/1 ml Solução injetável 10 Ampola"
 
@@ -11073,7 +11337,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -11097,7 +11361,8 @@ Title: "Daktacort 20 mg/g + 10 mg/g Creme 1 Bisnaga 15 g"
 Description: "Daktacort 20 mg/g + 10 mg/g Creme 1 Bisnaga 15 g"
 Usage: #example
 
-* identifier.value = "50069470"
+//true??
+* identifier[pcid].value = "50069470"
 
 * name = "Daktacort 20 mg/g + 10 mg/g Creme 1 Bisnaga 15 g"
 
@@ -11115,7 +11380,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -11139,7 +11404,8 @@ Title: "Depo-Medrol Com Lidocaína 40 mg/ml + 10 mg/ml Suspensão injetável 3 F
 Description: "Depo-Medrol Com Lidocaína 40 mg/ml + 10 mg/ml Suspensão injetável 3 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50069837"
+//true??
+* identifier[pcid].value = "50069837"
 
 * name = "Depo-Medrol Com Lidocaína 40 mg/ml + 10 mg/ml Suspensão injetável 3 Frasco para injetáveis"
 
@@ -11157,7 +11423,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -11181,7 +11447,8 @@ Title: "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blist
 Description: "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006622"
+//true??
+* identifier[pcid].value = "50006622"
 
 * name = "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 
@@ -11199,7 +11466,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11223,7 +11490,8 @@ Title: "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blist
 Description: "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006649"
+//true??
+* identifier[pcid].value = "50006649"
 
 * name = "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -11241,7 +11509,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11265,7 +11533,8 @@ Title: "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 20 Comprimido Bli
 Description: "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006665"
+//true??
+* identifier[pcid].value = "50006665"
 
 * name = "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 20 Comprimido Blister"
 
@@ -11283,7 +11552,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11307,7 +11576,8 @@ Title: "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Bli
 Description: "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006681"
+//true??
+* identifier[pcid].value = "50006681"
 
 * name = "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -11325,7 +11595,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11349,7 +11619,8 @@ Title: "Diclofenac Mylan 100 mg Cápsula de libertação prolongada 30 Cápsula 
 Description: "Diclofenac Mylan 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50006690"
+//true??
+* identifier[pcid].value = "50006690"
 
 * name = "Diclofenac Mylan 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -11367,7 +11638,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11391,7 +11662,8 @@ Title: "Diclofenac Retard Ratiopharm 100 mg Cápsula de libertação prolongada 
 Description: "Diclofenac Retard Ratiopharm 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50006690"
+//true??
+* identifier[pcid].value = "50006690"
 
 * name = "Diclofenac Retard Ratiopharm 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -11409,7 +11681,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11433,7 +11705,8 @@ Title: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 24 Comprimido Bl
 Description: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 24 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50070380"
+//true??
+* identifier[pcid].value = "50070380"
 
 * name = "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 24 Comprimido Blister"
 
@@ -11451,7 +11724,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11475,7 +11748,8 @@ Title: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 96 Comprimido Bl
 Description: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 96 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50070371"
+//true??
+* identifier[pcid].value = "50070371"
 
 * name = "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 96 Comprimido Blister"
 
@@ -11493,7 +11767,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11517,7 +11791,8 @@ Title: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 48 Comprimido Bl
 Description: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 48 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50070398"
+//true??
+* identifier[pcid].value = "50070398"
 
 * name = "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 48 Comprimido Blister"
 
@@ -11535,7 +11810,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11559,7 +11834,8 @@ Title: "Diomicete 10 mg/ml Colírio, solução 1 Frasco 10 ml"
 Description: "Diomicete 10 mg/ml Colírio, solução 1 Frasco 10 ml"
 Usage: #example
 
-* identifier.value = "50007122"
+//true??
+* identifier[pcid].value = "50007122"
 
 * name = "Diomicete 10 mg/ml Colírio, solução 1 Frasco 10 ml"
 
@@ -11577,7 +11853,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -11601,7 +11877,8 @@ Title: "Doxiproct 40 mg/g + 20 mg/g Pomada retal 1 Bisnaga 30 g"
 Description: "Doxiproct 40 mg/g + 20 mg/g Pomada retal 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50071033"
+//true??
+* identifier[pcid].value = "50071033"
 
 * name = "Doxiproct 40 mg/g + 20 mg/g Pomada retal 1 Bisnaga 30 g"
 
@@ -11619,7 +11896,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -11643,7 +11920,8 @@ Title: "Dafalgan 500mg 500 mg Comprimido efervescente 16 Comprimido Fita termoss
 Description: "Dafalgan 500mg 500 mg Comprimido efervescente 16 Comprimido Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50041320"
+//true??
+* identifier[pcid].value = "50041320"
 
 * name = "Dafalgan 500mg 500 mg Comprimido efervescente 16 Comprimido Fita termossoldada"
 
@@ -11661,7 +11939,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11685,7 +11963,8 @@ Title: "Emla 25 mg/g + 25 mg/g Creme 5 Bisnaga 5 g"
 Description: "Emla 25 mg/g + 25 mg/g Creme 5 Bisnaga 5 g"
 Usage: #example
 
-* identifier.value = "50071530"
+//true??
+* identifier[pcid].value = "50071530"
 
 * name = "Emla 25 mg/g + 25 mg/g Creme 5 Bisnaga 5 g"
 
@@ -11703,7 +11982,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -11727,7 +12006,8 @@ Title: "Emla Penso 25 mg/g + 25 mg/g Penso impregnado 20 Penso"
 Description: "Emla Penso 25 mg/g + 25 mg/g Penso impregnado 20 Penso"
 Usage: #example
 
-* identifier.value = "50071556"
+//true??
+* identifier[pcid].value = "50071556"
 
 * name = "Emla Penso 25 mg/g + 25 mg/g Penso impregnado 20 Penso"
 
@@ -11745,7 +12025,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11769,7 +12049,8 @@ Title: "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 60 C
 Description: "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -11787,7 +12068,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11811,7 +12092,8 @@ Title: "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 10 C
 Description: "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006240"
+//true??
+* identifier[pcid].value = "50006240"
 
 * name = "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -11829,7 +12111,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11853,7 +12135,8 @@ Title: "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 10 Comprimido Bliste
 Description: "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50008137"
+//true??
+* identifier[pcid].value = "50008137"
 
 * name = "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 10 Comprimido Blister"
 
@@ -11871,7 +12154,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11895,7 +12178,8 @@ Title: "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 60 Comprimido Bliste
 Description: "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50008129"
+//true??
+* identifier[pcid].value = "50008129"
 
 * name = "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 60 Comprimido Blister"
 
@@ -11913,7 +12197,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -11937,7 +12221,8 @@ Title: "Fenil-V 75 mg/2 ml Solução injetável 3 Ampola"
 Description: "Fenil-V 75 mg/2 ml Solução injetável 3 Ampola"
 Usage: #example
 
-* identifier.value = "50008153"
+//true??
+* identifier[pcid].value = "50008153"
 
 * name = "Fenil-V 75 mg/2 ml Solução injetável 3 Ampola"
 
@@ -11955,7 +12240,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -11979,7 +12264,8 @@ Title: "Flotiran 0.5 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 Description: "Flotiran 0.5 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50072978"
+//true??
+* identifier[pcid].value = "50072978"
 
 * name = "Flotiran 0.5 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 
@@ -11997,7 +12283,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -12021,7 +12307,8 @@ Title: "Flotiran 0.5 mg/g + 10 mg/g Pomada 1 Bisnaga 30 g"
 Description: "Flotiran 0.5 mg/g + 10 mg/g Pomada 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50072978"
+//true??
+* identifier[pcid].value = "50072978"
 
 * name = "Flotiran 0.5 mg/g + 10 mg/g Pomada 1 Bisnaga 30 g"
 
@@ -12039,7 +12326,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -12063,7 +12350,8 @@ Title: "Albosan 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Albosan 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Albosan 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -12081,7 +12369,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12105,7 +12393,8 @@ Title: "Gino-Canesten 100 mg Comprimido vaginal 6 Comprimido Blister"
 Description: "Gino-Canesten 100 mg Comprimido vaginal 6 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50008935"
+//true??
+* identifier[pcid].value = "50008935"
 
 * name = "Gino-Canesten 100 mg Comprimido vaginal 6 Comprimido Blister"
 
@@ -12123,7 +12412,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12147,7 +12436,8 @@ Title: "Gracial Cor: azul; Forma: redondo, biconvexo;: Desogestrel 0.025 mg + Et
 Description: "Gracial Cor: azul; Forma: redondo, biconvexo;: Desogestrel 0.025 mg + Etinilestradiol 0.04 mg; Cor: branco; Forma: redondo, biconvexo;: Desogestrel 0.125 mg + Etinilestradiol 0.03 mg Comprimido 22 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062301"
+//true??
+* identifier[pcid].value = "50062301"
 
 * name = "Gracial Cor: azul; Forma: redondo, biconvexo;: Desogestrel 0.025 mg + Etinilestradiol 0.04 mg; Cor: branco; Forma: redondo, biconvexo;: Desogestrel 0.125 mg + Etinilestradiol 0.03 mg Comprimido 22 Comprimido Blister"
 
@@ -12165,7 +12455,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12189,7 +12479,8 @@ Title: "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 20 Compr
 Description: "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -12207,7 +12498,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12231,7 +12522,8 @@ Title: "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 60 Compr
 Description: "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004239"
+//true??
+* identifier[pcid].value = "50004239"
 
 * name = "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -12249,7 +12541,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12273,7 +12565,8 @@ Title: "Ibuprofeno Ratiopharm 400 mg Comprimidos Revestidos 400 mg Comprimido re
 Description: "Ibuprofeno Ratiopharm 400 mg Comprimidos Revestidos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Ratiopharm 400 mg Comprimidos Revestidos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -12291,7 +12584,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12315,7 +12608,8 @@ Title: "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido re
 Description: "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -12333,7 +12627,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12357,7 +12651,8 @@ Title: "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido re
 Description: "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -12375,7 +12670,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12399,7 +12694,8 @@ Title: "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Recipien
 Description: "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50076264"
+//true??
+* identifier[pcid].value = "50076264"
 
 * name = "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Recipiente para comprimidos"
 
@@ -12417,7 +12713,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12441,7 +12737,8 @@ Title: "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Recipien
 Description: "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50076272"
+//true??
+* identifier[pcid].value = "50076272"
 
 * name = "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Recipiente para comprimidos"
 
@@ -12459,7 +12756,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12483,7 +12780,8 @@ Title: "Ilvico 250 mg + 3 mg + 10 mg + 36 mg Comprimido revestido 20 Comprimido 
 Description: "Ilvico 250 mg + 3 mg + 10 mg + 36 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50076299"
+//true??
+* identifier[pcid].value = "50076299"
 
 * name = "Ilvico 250 mg + 3 mg + 10 mg + 36 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -12501,7 +12799,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12525,7 +12823,8 @@ Title: "Diazepam Labesfal 5 mg Comprimido 20 Comprimido Blister"
 Description: "Diazepam Labesfal 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006622"
+//true??
+* identifier[pcid].value = "50006622"
 
 * name = "Diazepam Labesfal 5 mg Comprimido 20 Comprimido Blister"
 
@@ -12543,7 +12842,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12567,7 +12866,8 @@ Title: "Diazepam Labesfal 5 mg Comprimido 40 Comprimido Blister"
 Description: "Diazepam Labesfal 5 mg Comprimido 40 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006630"
+//true??
+* identifier[pcid].value = "50006630"
 
 * name = "Diazepam Labesfal 5 mg Comprimido 40 Comprimido Blister"
 
@@ -12585,7 +12885,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12609,7 +12909,8 @@ Title: "Diazepam Labesfal 10 mg Comprimido 40 Comprimido Blister"
 Description: "Diazepam Labesfal 10 mg Comprimido 40 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006673"
+//true??
+* identifier[pcid].value = "50006673"
 
 * name = "Diazepam Labesfal 10 mg Comprimido 40 Comprimido Blister"
 
@@ -12627,7 +12928,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -12651,7 +12952,8 @@ Title: "Lidocaína Adrenalina Labesfal 20 mg/ml + 0.018 mg/ml Solução injetáv
 Description: "Lidocaína Adrenalina Labesfal 20 mg/ml + 0.018 mg/ml Solução injetável 50 Ampola"
 Usage: #example
 
-* identifier.value = "50011138"
+//true??
+* identifier[pcid].value = "50011138"
 
 * name = "Lidocaína Adrenalina Labesfal 20 mg/ml + 0.018 mg/ml Solução injetável 50 Ampola"
 
@@ -12669,7 +12971,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -12693,7 +12995,8 @@ Title: "Lidocaína Adrenalina Labesfal 10 mg/ml + 0.018 mg/ml Solução injetáv
 Description: "Lidocaína Adrenalina Labesfal 10 mg/ml + 0.018 mg/ml Solução injetável 50 Ampola"
 Usage: #example
 
-* identifier.value = "50011332"
+//true??
+* identifier[pcid].value = "50011332"
 
 * name = "Lidocaína Adrenalina Labesfal 10 mg/ml + 0.018 mg/ml Solução injetável 50 Ampola"
 
@@ -12711,7 +13014,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -12735,7 +13038,8 @@ Title: "Lidonostrum 20 mg/ml Gel bucal 1 Frasco 125 ml"
 Description: "Lidonostrum 20 mg/ml Gel bucal 1 Frasco 125 ml"
 Usage: #example
 
-* identifier.value = "50011430"
+//true??
+* identifier[pcid].value = "50011430"
 
 * name = "Lidonostrum 20 mg/ml Gel bucal 1 Frasco 125 ml"
 
@@ -12753,7 +13057,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -12777,7 +13081,8 @@ Title: "Lidonostrum 50 mg/g Pomada 1 Bisnaga 35 g"
 Description: "Lidonostrum 50 mg/g Pomada 1 Bisnaga 35 g"
 Usage: #example
 
-* identifier.value = "50011448"
+//true??
+* identifier[pcid].value = "50011448"
 
 * name = "Lidonostrum 50 mg/g Pomada 1 Bisnaga 35 g"
 
@@ -12795,7 +13100,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -12819,7 +13124,8 @@ Title: "Lincaína 1% Braun 10 mg/ml Solução injetável 50 Frasco para injetáv
 Description: "Lincaína 1% Braun 10 mg/ml Solução injetável 50 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50011472"
+//true??
+* identifier[pcid].value = "50011472"
 
 * name = "Lincaína 1% Braun 10 mg/ml Solução injetável 50 Frasco para injetáveis"
 
@@ -12837,7 +13143,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -12861,7 +13167,8 @@ Title: "Lincaína 2% Braun 20 mg/ml Solução injetável 50 Frasco para injetáv
 Description: "Lincaína 2% Braun 20 mg/ml Solução injetável 50 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50011545"
+//true??
+* identifier[pcid].value = "50011545"
 
 * name = "Lincaína 2% Braun 20 mg/ml Solução injetável 50 Frasco para injetáveis"
 
@@ -12879,7 +13186,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -12903,7 +13210,8 @@ Title: "Lovenox 20 mg/0.2 ml Solução injetável 6 Seringa"
 Description: "Lovenox 20 mg/0.2 ml Solução injetável 6 Seringa"
 Usage: #example
 
-* identifier.value = "50172212"
+//true??
+* identifier[pcid].value = "50172212"
 
 * name = "Lovenox 20 mg/0.2 ml Solução injetável 6 Seringa"
 
@@ -12921,7 +13229,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -12945,7 +13253,8 @@ Title: "Lovenox 20 mg/0.2 ml Solução injetável 2 Seringa"
 Description: "Lovenox 20 mg/0.2 ml Solução injetável 2 Seringa"
 Usage: #example
 
-* identifier.value = "50172220"
+//true??
+* identifier[pcid].value = "50172220"
 
 * name = "Lovenox 20 mg/0.2 ml Solução injetável 2 Seringa"
 
@@ -12963,7 +13272,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -12987,7 +13296,8 @@ Title: "Lovenox 40 mg/0.4 ml Solução injetável 6 Seringa"
 Description: "Lovenox 40 mg/0.4 ml Solução injetável 6 Seringa"
 Usage: #example
 
-* identifier.value = "50172280"
+//true??
+* identifier[pcid].value = "50172280"
 
 * name = "Lovenox 40 mg/0.4 ml Solução injetável 6 Seringa"
 
@@ -13005,7 +13315,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -13029,7 +13339,8 @@ Title: "Lovenox 100 mg/1 ml Solução injetável 2 Seringa"
 Description: "Lovenox 100 mg/1 ml Solução injetável 2 Seringa"
 Usage: #example
 
-* identifier.value = "50172352"
+//true??
+* identifier[pcid].value = "50172352"
 
 * name = "Lovenox 100 mg/1 ml Solução injetável 2 Seringa"
 
@@ -13047,7 +13358,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -13071,7 +13382,8 @@ Title: "Lovenox 100 mg/1 ml Solução injetável 6 Seringa"
 Description: "Lovenox 100 mg/1 ml Solução injetável 6 Seringa"
 Usage: #example
 
-* identifier.value = "50172360"
+//true??
+* identifier[pcid].value = "50172360"
 
 * name = "Lovenox 100 mg/1 ml Solução injetável 6 Seringa"
 
@@ -13089,7 +13401,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -13113,7 +13425,8 @@ Title: "Locoid 1 mg/g Creme 1 Bisnaga 30 g"
 Description: "Locoid 1 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50078259"
+//true??
+* identifier[pcid].value = "50078259"
 
 * name = "Locoid 1 mg/g Creme 1 Bisnaga 30 g"
 
@@ -13131,7 +13444,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -13155,7 +13468,8 @@ Title: "Locoid Capilar 1 mg/ml Solução cutânea 1 Frasco conta-gotas 100 ml"
 Description: "Locoid Capilar 1 mg/ml Solução cutânea 1 Frasco conta-gotas 100 ml"
 Usage: #example
 
-* identifier.value = "50078267"
+//true??
+* identifier[pcid].value = "50078267"
 
 * name = "Locoid Capilar 1 mg/ml Solução cutânea 1 Frasco conta-gotas 100 ml"
 
@@ -13173,7 +13487,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -13197,7 +13511,8 @@ Title: "Locoid Crelo 1 mg/g Emulsão cutânea 1 Frasco Frasco"
 Description: "Locoid Crelo 1 mg/g Emulsão cutânea 1 Frasco Frasco"
 Usage: #example
 
-* identifier.value = "50078275"
+//true??
+* identifier[pcid].value = "50078275"
 
 * name = "Locoid Crelo 1 mg/g Emulsão cutânea 1 Frasco Frasco"
 
@@ -13215,7 +13530,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -13239,7 +13554,8 @@ Title: "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastror
 Description: "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 
@@ -13257,7 +13573,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13281,7 +13597,8 @@ Title: "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastror
 Description: "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 
@@ -13299,7 +13616,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13323,7 +13640,8 @@ Title: "Micolysin 10 mg/g Creme 1 Bisnaga 40 g"
 Description: "Micolysin 10 mg/g Creme 1 Bisnaga 40 g"
 Usage: #example
 
-* identifier.value = "50012355"
+//true??
+* identifier[pcid].value = "50012355"
 
 * name = "Micolysin 10 mg/g Creme 1 Bisnaga 40 g"
 
@@ -13341,7 +13659,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -13365,7 +13683,8 @@ Title: "Micolysin 10 mg/g Solução cutânea 1 Frasco 20 ml"
 Description: "Micolysin 10 mg/g Solução cutânea 1 Frasco 20 ml"
 Usage: #example
 
-* identifier.value = "50012363"
+//true??
+* identifier[pcid].value = "50012363"
 
 * name = "Micolysin 10 mg/g Solução cutânea 1 Frasco 20 ml"
 
@@ -13383,7 +13702,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -13407,7 +13726,8 @@ Title: "Migretil Beladona, alcalóides 0.1 mg + Cafeína 100 mg + Ergotamina, ta
 Description: "Migretil Beladona, alcalóides 0.1 mg + Cafeína 100 mg + Ergotamina, tartarato 1 mg + Paracetamol 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50079573"
+//true??
+* identifier[pcid].value = "50079573"
 
 * name = "Migretil Beladona, alcalóides 0.1 mg + Cafeína 100 mg + Ergotamina, tartarato 1 mg + Paracetamol 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -13425,7 +13745,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13449,7 +13769,8 @@ Title: "MST 10 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "MST 10 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012800"
+//true??
+* identifier[pcid].value = "50012800"
 
 * name = "MST 10 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -13467,7 +13788,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13491,7 +13812,8 @@ Title: "MST 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "MST 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012819"
+//true??
+* identifier[pcid].value = "50012819"
 
 * name = "MST 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -13509,7 +13831,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13533,7 +13855,8 @@ Title: "MST 30 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "MST 30 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012835"
+//true??
+* identifier[pcid].value = "50012835"
 
 * name = "MST 30 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -13551,7 +13874,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13575,7 +13898,8 @@ Title: "MST 60 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "MST 60 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012843"
+//true??
+* identifier[pcid].value = "50012843"
 
 * name = "MST 60 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -13593,7 +13917,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13617,7 +13941,8 @@ Title: "Nalbix 100 mg Comprimido vaginal 6 Comprimido Blister"
 Description: "Nalbix 100 mg Comprimido vaginal 6 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50008935"
+//true??
+* identifier[pcid].value = "50008935"
 
 * name = "Nalbix 100 mg Comprimido vaginal 6 Comprimido Blister"
 
@@ -13635,7 +13960,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13659,7 +13984,8 @@ Title: "Nalbix 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Nalbix 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-* identifier.value = "50004417"
+//true??
+* identifier[pcid].value = "50004417"
 
 * name = "Nalbix 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -13677,7 +14003,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -13701,7 +14027,8 @@ Title: "Nalbix 10 mg/ml Solução cutânea 1 Frasco 30 ml"
 Description: "Nalbix 10 mg/ml Solução cutânea 1 Frasco 30 ml"
 Usage: #example
 
-* identifier.value = "50012894"
+//true??
+* identifier[pcid].value = "50012894"
 
 * name = "Nalbix 10 mg/ml Solução cutânea 1 Frasco 30 ml"
 
@@ -13719,7 +14046,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -13743,7 +14070,8 @@ Title: "Nitradisc 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Nitradisc 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-* identifier.value = "50080814"
+//true??
+* identifier[pcid].value = "50080814"
 
 * name = "Nitradisc 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -13761,7 +14089,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13785,7 +14113,8 @@ Title: "Nitradisc 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Nitradisc 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-* identifier.value = "50080849"
+//true??
+* identifier[pcid].value = "50080849"
 
 * name = "Nitradisc 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -13803,7 +14132,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13827,7 +14156,8 @@ Title: "Nitromint 0.5 mg Comprimido sublingual 60 Comprimido Frasco"
 Description: "Nitromint 0.5 mg Comprimido sublingual 60 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50080938"
+//true??
+* identifier[pcid].value = "50080938"
 
 * name = "Nitromint 0.5 mg Comprimido sublingual 60 Comprimido Frasco"
 
@@ -13845,7 +14175,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13869,7 +14199,8 @@ Title: "Trifene 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Trifene 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50004336"
+//true??
+* identifier[pcid].value = "50004336"
 
 * name = "Trifene 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -13887,7 +14218,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -13911,7 +14242,8 @@ Title: "Oraminax 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Oraminax 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001892"
+//true??
+* identifier[pcid].value = "50001892"
 
 * name = "Oraminax 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -13929,7 +14261,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13953,7 +14285,8 @@ Title: "Oraminax 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Oraminax 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001914"
+//true??
+* identifier[pcid].value = "50001914"
 
 * name = "Oraminax 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -13971,7 +14304,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -13995,7 +14328,8 @@ Title: "Panasorbe 500 mg Comprimido 20 Comprimido Blister"
 Description: "Panasorbe 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Panasorbe 500 mg Comprimido 20 Comprimido Blister"
 
@@ -14013,7 +14347,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14037,7 +14371,8 @@ Title: "Pandel 1 mg/g Creme 1 Bisnaga 30 g"
 Description: "Pandel 1 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50081829"
+//true??
+* identifier[pcid].value = "50081829"
 
 * name = "Pandel 1 mg/g Creme 1 Bisnaga 30 g"
 
@@ -14055,7 +14390,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -14079,7 +14414,8 @@ Title: "Pandermil 10 mg/g Pomada 1 Bisnaga 30 g"
 Description: "Pandermil 10 mg/g Pomada 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50009478"
+//true??
+* identifier[pcid].value = "50009478"
 
 * name = "Pandermil 10 mg/g Pomada 1 Bisnaga 30 g"
 
@@ -14097,7 +14433,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -14121,7 +14457,8 @@ Title: "Paramolan 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paramolan 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Paramolan 500 mg Comprimido 20 Comprimido Blister"
 
@@ -14139,7 +14476,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14163,7 +14500,8 @@ Title: "Paramolan 125 mg Supositório 5 Supositório Fita termossoldada"
 Description: "Paramolan 125 mg Supositório 5 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50014064"
+//true??
+* identifier[pcid].value = "50014064"
 
 * name = "Paramolan 125 mg Supositório 5 Supositório Fita termossoldada"
 
@@ -14181,7 +14519,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14205,7 +14543,8 @@ Title: "Paramolan 250 mg Supositório 5 Supositório Fita termossoldada"
 Description: "Paramolan 250 mg Supositório 5 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50014072"
+//true??
+* identifier[pcid].value = "50014072"
 
 * name = "Paramolan 250 mg Supositório 5 Supositório Fita termossoldada"
 
@@ -14223,7 +14562,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14247,7 +14586,8 @@ Title: "Paramolan C 500 mg + 250 mg Pó para solução oral 20 Saqueta"
 Description: "Paramolan C 500 mg + 250 mg Pó para solução oral 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50081934"
+//true??
+* identifier[pcid].value = "50081934"
 
 * name = "Paramolan C 500 mg + 250 mg Pó para solução oral 20 Saqueta"
 
@@ -14265,7 +14605,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14289,7 +14629,8 @@ Title: "Doloramol 500 mg Comprimido 20 Comprimido Blister"
 Description: "Doloramol 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Doloramol 500 mg Comprimido 20 Comprimido Blister"
 
@@ -14307,7 +14648,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14331,7 +14672,8 @@ Title: "Paxilfar 100 mg Comprimido 20 Comprimido Blister"
 Description: "Paxilfar 100 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014137"
+//true??
+* identifier[pcid].value = "50014137"
 
 * name = "Paxilfar 100 mg Comprimido 20 Comprimido Blister"
 
@@ -14349,7 +14691,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14373,7 +14715,8 @@ Title: "Pimafucort 10 mg/g + 10 mg/g + 3.5 mg/g Creme 1 Bisnaga 30 g"
 Description: "Pimafucort 10 mg/g + 10 mg/g + 3.5 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50082418"
+//true??
+* identifier[pcid].value = "50082418"
 
 * name = "Pimafucort 10 mg/g + 10 mg/g + 3.5 mg/g Creme 1 Bisnaga 30 g"
 
@@ -14391,7 +14734,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -14415,7 +14758,8 @@ Title: "Plastranit 5 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Plastranit 5 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-* identifier.value = "50080814"
+//true??
+* identifier[pcid].value = "50080814"
 
 * name = "Plastranit 5 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -14433,7 +14777,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14457,7 +14801,8 @@ Title: "Plastranit 10 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Plastranit 10 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-* identifier.value = "50080849"
+//true??
+* identifier[pcid].value = "50080849"
 
 * name = "Plastranit 10 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -14475,7 +14820,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14499,7 +14844,8 @@ Title: "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gast
 Description: "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 
@@ -14517,7 +14863,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14541,7 +14887,8 @@ Title: "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gast
 Description: "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 
@@ -14559,7 +14906,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14583,7 +14930,8 @@ Title: "Procto-Glyvenol 50 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 Description: "Procto-Glyvenol 50 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50083210"
+//true??
+* identifier[pcid].value = "50083210"
 
 * name = "Procto-Glyvenol 50 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 
@@ -14601,7 +14949,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -14625,7 +14973,8 @@ Title: "Proton 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Proton 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Proton 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -14643,7 +14992,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14667,7 +15016,8 @@ Title: "Sandimmun 50 mg/ml Concentrado para solução para perfusão 10 Ampola 1
 Description: "Sandimmun 50 mg/ml Concentrado para solução para perfusão 10 Ampola 1 ml"
 Usage: #example
 
-* identifier.value = "50015184"
+//true??
+* identifier[pcid].value = "50015184"
 
 * name = "Sandimmun 50 mg/ml Concentrado para solução para perfusão 10 Ampola 1 ml"
 
@@ -14685,7 +15035,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -14709,7 +15059,8 @@ Title: "Saridon-N 250 mg + 150 mg + 50 mg Comprimido 10 Comprimido Blister"
 Description: "Saridon-N 250 mg + 150 mg + 50 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50084798"
+//true??
+* identifier[pcid].value = "50084798"
 
 * name = "Saridon-N 250 mg + 150 mg + 50 mg Comprimido 10 Comprimido Blister"
 
@@ -14727,7 +15078,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14751,7 +15102,8 @@ Title: "Sinutab II 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Description: "Sinutab II 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50085379"
+//true??
+* identifier[pcid].value = "50085379"
 
 * name = "Sinutab II 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 
@@ -14769,7 +15121,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14793,7 +15145,8 @@ Title: "Sporanox 10 mg/ml Solução oral 1 Frasco"
 Description: "Sporanox 10 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50015761"
+//true??
+* identifier[pcid].value = "50015761"
 
 * name = "Sporanox 10 mg/ml Solução oral 1 Frasco"
 
@@ -14811,7 +15164,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -14835,7 +15188,8 @@ Title: "Stagid 700 mg Comprimido 20 Comprimido Blister"
 Description: "Stagid 700 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50015800"
+//true??
+* identifier[pcid].value = "50015800"
 
 * name = "Stagid 700 mg Comprimido 20 Comprimido Blister"
 
@@ -14853,7 +15207,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14877,7 +15231,8 @@ Title: "Stagid 700 mg Comprimido 60 Comprimido Blister"
 Description: "Stagid 700 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50015818"
+//true??
+* identifier[pcid].value = "50015818"
 
 * name = "Stagid 700 mg Comprimido 60 Comprimido Blister"
 
@@ -14895,7 +15250,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -14919,7 +15274,8 @@ Title: "Stesolid 5 mg/2.5 ml Solução retal 5 Cânula"
 Description: "Stesolid 5 mg/2.5 ml Solução retal 5 Cânula"
 Usage: #example
 
-* identifier.value = "50015826"
+//true??
+* identifier[pcid].value = "50015826"
 
 * name = "Stesolid 5 mg/2.5 ml Solução retal 5 Cânula"
 
@@ -14937,7 +15293,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -14961,7 +15317,8 @@ Title: "Stesolid 10 mg/2.5 ml Solução retal 5 Cânula"
 Description: "Stesolid 10 mg/2.5 ml Solução retal 5 Cânula"
 Usage: #example
 
-* identifier.value = "50015834"
+//true??
+* identifier[pcid].value = "50015834"
 
 * name = "Stesolid 10 mg/2.5 ml Solução retal 5 Cânula"
 
@@ -14979,7 +15336,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -15003,7 +15360,8 @@ Title: "Supofen 500 mg Supositório 12 Supositório Fita termossoldada"
 Description: "Supofen 500 mg Supositório 12 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50003445"
+//true??
+* identifier[pcid].value = "50003445"
 
 * name = "Supofen 500 mg Supositório 12 Supositório Fita termossoldada"
 
@@ -15021,7 +15379,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15045,7 +15403,8 @@ Title: "Supofen 125 mg Supositório 12 Supositório Fita termossoldada"
 Description: "Supofen 125 mg Supositório 12 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50003429"
+//true??
+* identifier[pcid].value = "50003429"
 
 * name = "Supofen 125 mg Supositório 12 Supositório Fita termossoldada"
 
@@ -15063,7 +15422,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15087,7 +15446,8 @@ Title: "Supofen 500 mg Comprimido 20 Comprimido Blister"
 Description: "Supofen 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Supofen 500 mg Comprimido 20 Comprimido Blister"
 
@@ -15105,7 +15465,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15129,7 +15489,8 @@ Title: "Supofen 250 mg Supositório 12 Supositório Fita termossoldada"
 Description: "Supofen 250 mg Supositório 12 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50003437"
+//true??
+* identifier[pcid].value = "50003437"
 
 * name = "Supofen 250 mg Supositório 12 Supositório Fita termossoldada"
 
@@ -15147,7 +15508,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15171,7 +15532,8 @@ Title: "Synalar Rectal Bismuto, subgalhato 50 mg/g + Fluocinolona, acetonido 0.1
 Description: "Synalar Rectal Bismuto, subgalhato 50 mg/g + Fluocinolona, acetonido 0.11 mg/g + Lidocaína, cloridrato 20 mg/g Pomada retal 1 Bisnaga 40 g"
 Usage: #example
 
-* identifier.value = "50086278"
+//true??
+* identifier[pcid].value = "50086278"
 
 * name = "Synalar Rectal Bismuto, subgalhato 50 mg/g + Fluocinolona, acetonido 0.11 mg/g + Lidocaína, cloridrato 20 mg/g Pomada retal 1 Bisnaga 40 g"
 
@@ -15189,7 +15551,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -15213,7 +15575,8 @@ Title: "Tegretol 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 Description: "Tegretol 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 Usage: #example
 
-* identifier.value = "50016202"
+//true??
+* identifier[pcid].value = "50016202"
 
 * name = "Tegretol 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 
@@ -15231,7 +15594,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -15255,7 +15618,8 @@ Title: "Tramadol Ciclum 50 mg, cápsulas 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Ciclum 50 mg, cápsulas 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016717"
+//true??
+* identifier[pcid].value = "50016717"
 
 * name = "Tramadol Ciclum 50 mg, cápsulas 50 mg Cápsula 20 Cápsula Blister"
 
@@ -15273,7 +15637,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15297,7 +15661,8 @@ Title: "Tramadol Ciclum 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 Description: "Tramadol Ciclum 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 Usage: #example
 
-* identifier.value = "50016733"
+//true??
+* identifier[pcid].value = "50016733"
 
 * name = "Tramadol Ciclum 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 
@@ -15315,7 +15680,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -15339,7 +15704,8 @@ Title: "Travex 50 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Travex 50 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016865"
+//true??
+* identifier[pcid].value = "50016865"
 
 * name = "Travex 50 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -15357,7 +15723,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15381,7 +15747,8 @@ Title: "Travex 50 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Travex 50 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016873"
+//true??
+* identifier[pcid].value = "50016873"
 
 * name = "Travex 50 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -15399,7 +15766,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15423,7 +15790,8 @@ Title: "Travex 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Travex 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016776"
+//true??
+* identifier[pcid].value = "50016776"
 
 * name = "Travex 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -15441,7 +15809,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15465,7 +15833,8 @@ Title: "Travex 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Travex 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016792"
+//true??
+* identifier[pcid].value = "50016792"
 
 * name = "Travex 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -15483,7 +15852,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15507,7 +15876,8 @@ Title: "Travex 150 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Travex 150 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016822"
+//true??
+* identifier[pcid].value = "50016822"
 
 * name = "Travex 150 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -15525,7 +15895,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15549,7 +15919,8 @@ Title: "Travex 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Travex 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016806"
+//true??
+* identifier[pcid].value = "50016806"
 
 * name = "Travex 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -15567,7 +15938,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15591,7 +15962,8 @@ Title: "Travex 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Travex 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016830"
+//true??
+* identifier[pcid].value = "50016830"
 
 * name = "Travex 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -15609,7 +15981,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15633,7 +16005,8 @@ Title: "Travex 200 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Travex 200 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016857"
+//true??
+* identifier[pcid].value = "50016857"
 
 * name = "Travex 200 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -15651,7 +16024,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15675,7 +16048,8 @@ Title: "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Ge
 Description: "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062166"
+//true??
+* identifier[pcid].value = "50062166"
 
 * name = "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -15693,7 +16067,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15717,7 +16091,8 @@ Title: "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Ge
 Description: "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062174"
+//true??
+* identifier[pcid].value = "50062174"
 
 * name = "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -15735,7 +16110,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15759,7 +16134,8 @@ Title: "Trifene 200 200 mg Comprimido revestido por película 20 Comprimido Blis
 Description: "Trifene 200 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Trifene 200 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -15777,7 +16153,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15801,7 +16177,8 @@ Title: "Trifene 200 200 mg Comprimido revestido por película 60 Comprimido Blis
 Description: "Trifene 200 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004239"
+//true??
+* identifier[pcid].value = "50004239"
 
 * name = "Trifene 200 200 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -15819,7 +16196,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15843,7 +16220,8 @@ Title: "Ultraproct 1 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 Description: "Ultraproct 1 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50087940"
+//true??
+* identifier[pcid].value = "50087940"
 
 * name = "Ultraproct 1 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 
@@ -15861,7 +16239,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -15885,7 +16263,8 @@ Title: "Ultraproct 1 mg + 40 mg Supositório 10 Supositório Fita termossoldada"
 Description: "Ultraproct 1 mg + 40 mg Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50087967"
+//true??
+* identifier[pcid].value = "50087967"
 
 * name = "Ultraproct 1 mg + 40 mg Supositório 10 Supositório Fita termossoldada"
 
@@ -15903,7 +16282,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15927,7 +16306,8 @@ Title: "Unisedil 5 mg Comprimido 20 Comprimido Blister"
 Description: "Unisedil 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006622"
+//true??
+* identifier[pcid].value = "50006622"
 
 * name = "Unisedil 5 mg Comprimido 20 Comprimido Blister"
 
@@ -15945,7 +16325,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -15969,7 +16349,8 @@ Title: "Unisedil 5 mg Comprimido 60 Comprimido Blister"
 Description: "Unisedil 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006649"
+//true??
+* identifier[pcid].value = "50006649"
 
 * name = "Unisedil 5 mg Comprimido 60 Comprimido Blister"
 
@@ -15987,7 +16368,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16011,7 +16392,8 @@ Title: "Ventilan 5 mg/5 ml Solução para perfusão 5 Ampola"
 Description: "Ventilan 5 mg/5 ml Solução para perfusão 5 Ampola"
 Usage: #example
 
-* identifier.value = "50017462"
+//true??
+* identifier[pcid].value = "50017462"
 
 * name = "Ventilan 5 mg/5 ml Solução para perfusão 5 Ampola"
 
@@ -16029,7 +16411,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -16053,7 +16435,8 @@ Title: "Ventilan 0.5 mg/1 ml Solução injetável 5 Ampola"
 Description: "Ventilan 0.5 mg/1 ml Solução injetável 5 Ampola"
 Usage: #example
 
-* identifier.value = "50017470"
+//true??
+* identifier[pcid].value = "50017470"
 
 * name = "Ventilan 0.5 mg/1 ml Solução injetável 5 Ampola"
 
@@ -16071,7 +16454,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -16095,7 +16478,8 @@ Title: "Ventilan 0.4 mg/ml Xarope 1 Frasco 150 ml"
 Description: "Ventilan 0.4 mg/ml Xarope 1 Frasco 150 ml"
 Usage: #example
 
-* identifier.value = "50164619"
+//true??
+* identifier[pcid].value = "50164619"
 
 * name = "Ventilan 0.4 mg/ml Xarope 1 Frasco 150 ml"
 
@@ -16113,7 +16497,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -16137,7 +16521,8 @@ Title: "Ventilan 5 mg/ml Solução para inalação por nebulização 1 Frasco co
 Description: "Ventilan 5 mg/ml Solução para inalação por nebulização 1 Frasco conta-gotas"
 Usage: #example
 
-* identifier.value = "50063693"
+//true??
+* identifier[pcid].value = "50063693"
 
 * name = "Ventilan 5 mg/ml Solução para inalação por nebulização 1 Frasco conta-gotas"
 
@@ -16155,7 +16540,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -16179,7 +16564,8 @@ Title: "Voltaren 75 75 mg Comprimido de libertação prolongada 60 Comprimido Bl
 Description: "Voltaren 75 75 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50017683"
+//true??
+* identifier[pcid].value = "50017683"
 
 * name = "Voltaren 75 75 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -16197,7 +16583,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16221,7 +16607,8 @@ Title: "Voltaren 75 75 mg Comprimido de libertação prolongada 10 Comprimido Bl
 Description: "Voltaren 75 75 mg Comprimido de libertação prolongada 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50017675"
+//true??
+* identifier[pcid].value = "50017675"
 
 * name = "Voltaren 75 75 mg Comprimido de libertação prolongada 10 Comprimido Blister"
 
@@ -16239,7 +16626,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16263,7 +16650,8 @@ Title: "Voltaren Rapid 50 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Voltaren Rapid 50 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004646"
+//true??
+* identifier[pcid].value = "50004646"
 
 * name = "Voltaren Rapid 50 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -16281,7 +16669,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16305,7 +16693,8 @@ Title: "Voltaren Rapid 50 mg Comprimido revestido 10 Comprimido Blister"
 Description: "Voltaren Rapid 50 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004638"
+//true??
+* identifier[pcid].value = "50004638"
 
 * name = "Voltaren Rapid 50 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -16323,7 +16712,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16347,7 +16736,8 @@ Title: "Voltaren Retard 100 mg Comprimido de libertação prolongada 30 Comprimi
 Description: "Voltaren Retard 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006690"
+//true??
+* identifier[pcid].value = "50006690"
 
 * name = "Voltaren Retard 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -16365,7 +16755,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16389,7 +16779,8 @@ Title: "Xilonibsa Spray 10% 100 mg/ml Solução para pulverização nasal ou buc
 Description: "Xilonibsa Spray 10% 100 mg/ml Solução para pulverização nasal ou bucal 1 Frasco"
 Usage: #example
 
-* identifier.value = "50174860"
+//true??
+* identifier[pcid].value = "50174860"
 
 * name = "Xilonibsa Spray 10% 100 mg/ml Solução para pulverização nasal ou bucal 1 Frasco"
 
@@ -16407,7 +16798,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -16431,7 +16822,8 @@ Title: "Zipos 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Zipos 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018299"
+//true??
+* identifier[pcid].value = "50018299"
 
 * name = "Zipos 250 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -16449,7 +16841,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16473,7 +16865,8 @@ Title: "Tramadol Labesfal 100 mg/2 ml Solução injetável 50 Ampola"
 Description: "Tramadol Labesfal 100 mg/2 ml Solução injetável 50 Ampola"
 Usage: #example
 
-* identifier.value = "50026097"
+//true??
+* identifier[pcid].value = "50026097"
 
 * name = "Tramadol Labesfal 100 mg/2 ml Solução injetável 50 Ampola"
 
@@ -16491,7 +16884,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -16515,7 +16908,8 @@ Title: "Miranova 0.02 mg + 0.1 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Miranova 0.02 mg + 0.1 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026100"
+//true??
+* identifier[pcid].value = "50026100"
 
 * name = "Miranova 0.02 mg + 0.1 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -16533,7 +16927,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16557,7 +16951,8 @@ Title: "Miranova 0.02 mg + 0.1 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Miranova 0.02 mg + 0.1 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026119"
+//true??
+* identifier[pcid].value = "50026119"
 
 * name = "Miranova 0.02 mg + 0.1 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -16575,7 +16970,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16599,7 +16994,8 @@ Title: "Amoxicilina Generis 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina Generis 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001914"
+//true??
+* identifier[pcid].value = "50001914"
 
 * name = "Amoxicilina Generis 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -16617,7 +17013,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16641,7 +17037,8 @@ Title: "Sevredol 20 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sevredol 20 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026429"
+//true??
+* identifier[pcid].value = "50026429"
 
 * name = "Sevredol 20 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -16659,7 +17056,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16683,7 +17080,8 @@ Title: "Sevredol 10 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sevredol 10 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026410"
+//true??
+* identifier[pcid].value = "50026410"
 
 * name = "Sevredol 10 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -16701,7 +17099,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16725,7 +17123,8 @@ Title: "Tramadol Basi 100 mg/2 ml Solução injetável 50 Ampola"
 Description: "Tramadol Basi 100 mg/2 ml Solução injetável 50 Ampola"
 Usage: #example
 
-* identifier.value = "50026097"
+//true??
+* identifier[pcid].value = "50026097"
 
 * name = "Tramadol Basi 100 mg/2 ml Solução injetável 50 Ampola"
 
@@ -16743,7 +17142,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -16767,7 +17166,8 @@ Title: "Moment 200 200 mg Comprimido revestido 12 Comprimido Blister"
 Description: "Moment 200 200 mg Comprimido revestido 12 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Moment 200 200 mg Comprimido revestido 12 Comprimido Blister"
 
@@ -16785,7 +17185,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16809,7 +17209,8 @@ Title: "Enalapril Sandoz 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Sandoz 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003364"
+//true??
+* identifier[pcid].value = "50003364"
 
 * name = "Enalapril Sandoz 5 mg Comprimido 20 Comprimido Blister"
 
@@ -16827,7 +17228,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16851,7 +17252,8 @@ Title: "Enalapril Sandoz 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Sandoz 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003356"
+//true??
+* identifier[pcid].value = "50003356"
 
 * name = "Enalapril Sandoz 5 mg Comprimido 60 Comprimido Blister"
 
@@ -16869,7 +17271,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16893,7 +17295,8 @@ Title: "Enalapril Sandoz 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Sandoz 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003372"
+//true??
+* identifier[pcid].value = "50003372"
 
 * name = "Enalapril Sandoz 20 mg Comprimido 60 Comprimido Blister"
 
@@ -16911,7 +17314,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16935,7 +17338,8 @@ Title: "Epinitril 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Epinitril 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-* identifier.value = "50080849"
+//true??
+* identifier[pcid].value = "50080849"
 
 * name = "Epinitril 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -16953,7 +17357,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -16977,7 +17381,8 @@ Title: "Omezolan 40 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omezolan 40 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omezolan 40 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -16995,7 +17400,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17019,7 +17424,8 @@ Title: "Epinitril 5 5 mg/24 h Sistema transdérmico 15 Sistema"
 Description: "Epinitril 5 5 mg/24 h Sistema transdérmico 15 Sistema"
 Usage: #example
 
-* identifier.value = "50096400"
+//true??
+* identifier[pcid].value = "50096400"
 
 * name = "Epinitril 5 5 mg/24 h Sistema transdérmico 15 Sistema"
 
@@ -17037,7 +17443,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17061,7 +17467,8 @@ Title: "Epinitril 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Epinitril 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-* identifier.value = "50080814"
+//true??
+* identifier[pcid].value = "50080814"
 
 * name = "Epinitril 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -17079,7 +17486,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17103,7 +17510,8 @@ Title: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -17121,7 +17529,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17145,7 +17553,8 @@ Title: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -17163,7 +17572,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17187,7 +17596,8 @@ Title: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -17205,7 +17615,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17229,7 +17639,8 @@ Title: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -17247,7 +17658,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17271,7 +17682,8 @@ Title: "Densical D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Fra
 Description: "Densical D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50096281"
+//true??
+* identifier[pcid].value = "50096281"
 
 * name = "Densical D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 
@@ -17289,7 +17701,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17313,7 +17725,8 @@ Title: "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Fra
 Description: "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50096265"
+//true??
+* identifier[pcid].value = "50096265"
 
 * name = "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Frasco"
 
@@ -17331,7 +17744,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17355,7 +17768,8 @@ Title: "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Fra
 Description: "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50096281"
+//true??
+* identifier[pcid].value = "50096281"
 
 * name = "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 
@@ -17373,7 +17787,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17397,7 +17811,8 @@ Title: "Zipos 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Description: "Zipos 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Usage: #example
 
-* identifier.value = "50007955"
+//true??
+* identifier[pcid].value = "50007955"
 
 * name = "Zipos 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 
@@ -17415,7 +17830,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -17439,7 +17854,8 @@ Title: "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 
 Description: "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 
@@ -17457,7 +17873,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17481,7 +17897,8 @@ Title: "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 
 Description: "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 
@@ -17499,7 +17916,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17523,7 +17940,8 @@ Title: "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003364"
+//true??
+* identifier[pcid].value = "50003364"
 
 * name = "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 
@@ -17541,7 +17959,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17565,7 +17983,8 @@ Title: "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003356"
+//true??
+* identifier[pcid].value = "50003356"
 
 * name = "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -17583,7 +18002,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17607,7 +18026,8 @@ Title: "Enalapril Ciclum 20 mg comprimidos 20 mg Comprimido 56 Comprimido Bliste
 Description: "Enalapril Ciclum 20 mg comprimidos 20 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003372"
+//true??
+* identifier[pcid].value = "50003372"
 
 * name = "Enalapril Ciclum 20 mg comprimidos 20 mg Comprimido 56 Comprimido Blister"
 
@@ -17625,7 +18045,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17649,7 +18069,8 @@ Title: "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg +
 Description: "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006240"
+//true??
+* identifier[pcid].value = "50006240"
 
 * name = "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 
@@ -17667,7 +18088,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17691,7 +18112,8 @@ Title: "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg +
 Description: "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 
@@ -17709,7 +18131,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17733,7 +18155,8 @@ Title: "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 60 Compr
 Description: "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -17751,7 +18174,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17775,7 +18198,8 @@ Title: "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 10 Compr
 Description: "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006240"
+//true??
+* identifier[pcid].value = "50006240"
 
 * name = "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -17793,7 +18217,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17817,7 +18241,8 @@ Title: "Sinvastatina Farmoz 20 mg Comprimido revestido por película 60 Comprimi
 Description: "Sinvastatina Farmoz 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Farmoz 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -17835,7 +18260,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17859,7 +18284,8 @@ Title: "Sinvastatina Farmoz 40 mg Comprimido revestido por película 60 Comprimi
 Description: "Sinvastatina Farmoz 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Farmoz 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -17877,7 +18303,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17901,7 +18327,8 @@ Title: "Sinvastatina Vitória 20 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Vitória 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Vitória 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -17919,7 +18346,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17943,7 +18370,8 @@ Title: "Sinvastatina Vitória 40 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Vitória 40 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Vitória 40 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -17961,7 +18389,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -17985,7 +18413,8 @@ Title: "Sinvastatina Zera 40 mg Comprimidos Revestidos 40 mg Comprimido revestid
 Description: "Sinvastatina Zera 40 mg Comprimidos Revestidos 40 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Zera 40 mg Comprimidos Revestidos 40 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -18003,7 +18432,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18027,7 +18456,8 @@ Title: "Trifene Dispersível 200 mg Comprimido dispersível 20 Comprimido Bliste
 Description: "Trifene Dispersível 200 mg Comprimido dispersível 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50028499"
+//true??
+* identifier[pcid].value = "50028499"
 
 * name = "Trifene Dispersível 200 mg Comprimido dispersível 20 Comprimido Blister"
 
@@ -18045,7 +18475,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18069,7 +18499,8 @@ Title: "Tramadol Generis 100 mg/2 ml Solução injetável 10 Ampola"
 Description: "Tramadol Generis 100 mg/2 ml Solução injetável 10 Ampola"
 Usage: #example
 
-* identifier.value = "50028618"
+//true??
+* identifier[pcid].value = "50028618"
 
 * name = "Tramadol Generis 100 mg/2 ml Solução injetável 10 Ampola"
 
@@ -18087,7 +18518,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -18111,7 +18542,8 @@ Title: "Tramadol Generis 100 mg/ml Solução Oral 100 mg/ml Gotas orais, soluç�
 Description: "Tramadol Generis 100 mg/ml Solução Oral 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 Usage: #example
 
-* identifier.value = "50016733"
+//true??
+* identifier[pcid].value = "50016733"
 
 * name = "Tramadol Generis 100 mg/ml Solução Oral 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 
@@ -18129,7 +18561,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -18153,7 +18585,8 @@ Title: "Proclor 40 mg cápsulas duras gastrorresistentes 40 mg Cápsula gastrorr
 Description: "Proclor 40 mg cápsulas duras gastrorresistentes 40 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Proclor 40 mg cápsulas duras gastrorresistentes 40 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 
@@ -18171,7 +18604,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18195,7 +18628,8 @@ Title: "NuvaRing 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 
 Description: "NuvaRing 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Usage: #example
 
-* identifier.value = "50099485"
+//true??
+* identifier[pcid].value = "50099485"
 
 * name = "NuvaRing 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 
@@ -18213,7 +18647,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18237,7 +18671,8 @@ Title: "Amoxicilina + Ácido Clavulânico Sandoz 875 mg + 125 mg Comprimidos rev
 Description: "Amoxicilina + Ácido Clavulânico Sandoz 875 mg + 125 mg Comprimidos revestidos 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Amoxicilina + Ácido Clavulânico Sandoz 875 mg + 125 mg Comprimidos revestidos 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 
@@ -18255,7 +18690,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18279,7 +18714,8 @@ Title: "Amoxicilina + Ácido clavulânico Mylan 875 mg + 125 mg Comprimido reves
 Description: "Amoxicilina + Ácido clavulânico Mylan 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Amoxicilina + Ácido clavulânico Mylan 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -18297,7 +18733,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18321,7 +18757,8 @@ Title: "Amoxicilina + Ácido clavulânico Ratiopharm 875 mg e 125mg comprimidos 
 Description: "Amoxicilina + Ácido clavulânico Ratiopharm 875 mg e 125mg comprimidos revestidos 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Amoxicilina + Ácido clavulânico Ratiopharm 875 mg e 125mg comprimidos revestidos 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 
@@ -18339,7 +18776,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18363,7 +18800,8 @@ Title: "Enalapril + Hidroclorotiazida Ratiopharm 20 mg + 12,5 mg Comprimidos 20 
 Description: "Enalapril + Hidroclorotiazida Ratiopharm 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril + Hidroclorotiazida Ratiopharm 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -18381,7 +18819,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18405,7 +18843,8 @@ Title: "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 20 Compri
 Description: "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006240"
+//true??
+* identifier[pcid].value = "50006240"
 
 * name = "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 20 Comprimido Blister"
 
@@ -18423,7 +18862,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18447,7 +18886,8 @@ Title: "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 60 Compri
 Description: "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -18465,7 +18905,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18489,7 +18929,8 @@ Title: "Lidonostrum Gele 2% 20 mg/g Gel 1 Bisnaga 30 g"
 Description: "Lidonostrum Gele 2% 20 mg/g Gel 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50011375"
+//true??
+* identifier[pcid].value = "50011375"
 
 * name = "Lidonostrum Gele 2% 20 mg/g Gel 1 Bisnaga 30 g"
 
@@ -18507,7 +18948,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -18531,7 +18972,8 @@ Title: "Sinvastatina Zentiva 20 mg Comprimido revestido por película 20 Comprim
 Description: "Sinvastatina Zentiva 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018450"
+//true??
+* identifier[pcid].value = "50018450"
 
 * name = "Sinvastatina Zentiva 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -18549,7 +18991,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18573,7 +19015,8 @@ Title: "Sinvastatina Zentiva 20 mg Comprimido revestido por película 60 Comprim
 Description: "Sinvastatina Zentiva 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Zentiva 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -18591,7 +19034,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18615,7 +19058,8 @@ Title: "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 3 Sistema"
 Description: "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 3 Sistema"
 Usage: #example
 
-* identifier.value = "50163230"
+//true??
+* identifier[pcid].value = "50163230"
 
 * name = "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 3 Sistema"
 
@@ -18633,7 +19077,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18657,7 +19101,8 @@ Title: "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 9 Sistema"
 Description: "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 9 Sistema"
 Usage: #example
 
-* identifier.value = "50163248"
+//true??
+* identifier[pcid].value = "50163248"
 
 * name = "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 9 Sistema"
 
@@ -18675,7 +19120,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18699,7 +19144,8 @@ Title: "Lantus 100 U/ml Solução injetável 5 Caneta"
 Description: "Lantus 100 U/ml Solução injetável 5 Caneta"
 Usage: #example
 
-* identifier.value = "50131460"
+//true??
+* identifier[pcid].value = "50131460"
 
 * name = "Lantus 100 U/ml Solução injetável 5 Caneta"
 
@@ -18717,7 +19163,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -18741,7 +19187,8 @@ Title: "Tramadol Azevedos 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Azevedos 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016717"
+//true??
+* identifier[pcid].value = "50016717"
 
 * name = "Tramadol Azevedos 50 mg Cápsula 20 Cápsula Blister"
 
@@ -18759,7 +19206,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18783,7 +19230,8 @@ Title: "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -18801,7 +19249,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18825,7 +19273,8 @@ Title: "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -18843,7 +19292,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18867,7 +19316,8 @@ Title: "Sinvastatina Sandoz 10 mg Comprimido revestido por película 20 Comprimi
 Description: "Sinvastatina Sandoz 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Sandoz 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -18885,7 +19335,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18909,7 +19359,8 @@ Title: "Sinvastatina Sandoz 10 mg Comprimido revestido por película 60 Comprimi
 Description: "Sinvastatina Sandoz 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Sandoz 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -18927,7 +19378,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18951,7 +19402,8 @@ Title: "Omeprazol Sandoz 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Sandoz 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol Sandoz 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -18969,7 +19421,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -18993,7 +19445,8 @@ Title: "Sinvastatina Sandoz 20 mg Comprimido revestido por película 60 Comprimi
 Description: "Sinvastatina Sandoz 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Sandoz 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -19011,7 +19464,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19035,7 +19488,8 @@ Title: "Sinvastatina Sandoz 20 mg Comprimido revestido por película 20 Comprimi
 Description: "Sinvastatina Sandoz 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018450"
+//true??
+* identifier[pcid].value = "50018450"
 
 * name = "Sinvastatina Sandoz 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -19053,7 +19507,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19077,7 +19531,8 @@ Title: "Sinvastatina Sandoz 40 mg Comprimido revestido por película 60 Comprimi
 Description: "Sinvastatina Sandoz 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Sandoz 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -19095,7 +19550,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19119,7 +19574,8 @@ Title: "Ibuprofeno Pharmakern 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Ibuprofeno Pharmakern 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50004336"
+//true??
+* identifier[pcid].value = "50004336"
 
 * name = "Ibuprofeno Pharmakern 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -19137,7 +19593,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -19161,7 +19617,8 @@ Title: "Ibuprofeno Pharmakern 600 mg Granulado efervescente 20 Saqueta"
 Description: "Ibuprofeno Pharmakern 600 mg Granulado efervescente 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50004220"
+//true??
+* identifier[pcid].value = "50004220"
 
 * name = "Ibuprofeno Pharmakern 600 mg Granulado efervescente 20 Saqueta"
 
@@ -19179,7 +19636,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19203,7 +19660,8 @@ Title: "Rectogesic 4 mg/g Pomada retal 1 Bisnaga 30 g"
 Description: "Rectogesic 4 mg/g Pomada retal 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50110624"
+//true??
+* identifier[pcid].value = "50110624"
 
 * name = "Rectogesic 4 mg/g Pomada retal 1 Bisnaga 30 g"
 
@@ -19221,7 +19679,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -19245,7 +19703,8 @@ Title: "Perindopril Krka 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Krka 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Perindopril Krka 4 mg Comprimido 30 Comprimido Blister"
 
@@ -19263,7 +19722,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19287,7 +19746,8 @@ Title: "Perindopril Krka 4 mg Comprimido 14 Comprimido Blister"
 Description: "Perindopril Krka 4 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062247"
+//true??
+* identifier[pcid].value = "50062247"
 
 * name = "Perindopril Krka 4 mg Comprimido 14 Comprimido Blister"
 
@@ -19305,7 +19765,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19329,7 +19789,8 @@ Title: "Perindopril ratiopharm 4 mg Comprimidos 4 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril ratiopharm 4 mg Comprimidos 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Perindopril ratiopharm 4 mg Comprimidos 4 mg Comprimido 30 Comprimido Blister"
 
@@ -19347,7 +19808,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19371,7 +19832,8 @@ Title: "Dagesil 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Dagesil 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Dagesil 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -19389,7 +19851,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -19413,7 +19875,8 @@ Title: "Perindopril + Indapamida Teva 2 mg + 0.625 mg Comprimido 30 Comprimido B
 Description: "Perindopril + Indapamida Teva 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Teva 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -19431,7 +19894,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19455,7 +19918,8 @@ Title: "Perindopril + Indapamida Teva 4 mg + 1.25 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril + Indapamida Teva 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Teva 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -19473,7 +19937,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19497,7 +19961,8 @@ Title: "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 20 Compri
 Description: "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133470"
+//true??
+* identifier[pcid].value = "50133470"
 
 * name = "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 20 Comprimido Blister"
 
@@ -19515,7 +19980,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19539,7 +20004,8 @@ Title: "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 30 Compri
 Description: "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -19557,7 +20023,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19581,7 +20047,8 @@ Title: "Perindopril + Indapamida Ratiopharm 4 mg + 1.25 mg Comprimido 30 Comprim
 Description: "Perindopril + Indapamida Ratiopharm 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Ratiopharm 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -19599,7 +20066,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19623,7 +20090,8 @@ Title: "Perindopril + Indapamida Generis 2 mg + 0.625 mg Comprimido 30 Comprimid
 Description: "Perindopril + Indapamida Generis 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Generis 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -19641,7 +20109,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19665,7 +20133,8 @@ Title: "Perindopril Tensoliber 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Tensoliber 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Perindopril Tensoliber 4 mg Comprimido 30 Comprimido Blister"
 
@@ -19683,7 +20152,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19707,7 +20176,8 @@ Title: "Perindopril Tensoliber 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Tensoliber 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Tensoliber 8 mg Comprimido 30 Comprimido Blister"
 
@@ -19725,7 +20195,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19749,7 +20219,8 @@ Title: "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 14 Comprimido
 Description: "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133470"
+//true??
+* identifier[pcid].value = "50133470"
 
 * name = "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -19767,7 +20238,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19791,7 +20262,8 @@ Title: "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 30 Comprimido
 Description: "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -19809,7 +20281,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19833,7 +20305,8 @@ Title: "Perindopril + Indapamida Tecazo 4 mg + 1.25 mg Comprimido 30 Comprimido 
 Description: "Perindopril + Indapamida Tecazo 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Tecazo 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -19851,7 +20324,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19875,7 +20348,8 @@ Title: "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 30 Comprimido B
 Description: "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -19893,7 +20367,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19917,7 +20391,8 @@ Title: "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 14 Comprimido B
 Description: "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133470"
+//true??
+* identifier[pcid].value = "50133470"
 
 * name = "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -19935,7 +20410,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -19959,7 +20434,8 @@ Title: "Perindopril + Indapamida Krka 4 mg + 1.25 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril + Indapamida Krka 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Krka 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -19977,7 +20453,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20001,7 +20477,8 @@ Title: "Exforge 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Bl
 Description: "Exforge 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112163"
+//true??
+* identifier[pcid].value = "50112163"
 
 * name = "Exforge 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -20019,7 +20496,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20043,7 +20520,8 @@ Title: "Exforge 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Bl
 Description: "Exforge 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112147"
+//true??
+* identifier[pcid].value = "50112147"
 
 * name = "Exforge 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -20061,7 +20539,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20085,7 +20563,8 @@ Title: "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revest
 Description: "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009362"
+//true??
+* identifier[pcid].value = "50009362"
 
 * name = "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -20103,7 +20582,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20127,7 +20606,8 @@ Title: "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revest
 Description: "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009370"
+//true??
+* identifier[pcid].value = "50009370"
 
 * name = "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -20145,7 +20625,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20169,7 +20649,8 @@ Title: "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revest
 Description: "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009249"
+//true??
+* identifier[pcid].value = "50009249"
 
 * name = "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -20187,7 +20668,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20211,7 +20692,8 @@ Title: "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revest
 Description: "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009257"
+//true??
+* identifier[pcid].value = "50009257"
 
 * name = "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -20229,7 +20711,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20253,7 +20735,8 @@ Title: "Exforge 5 mg + 160 mg Comprimido revestido por película 56 Comprimido B
 Description: "Exforge 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112201"
+//true??
+* identifier[pcid].value = "50112201"
 
 * name = "Exforge 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -20271,7 +20754,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20295,7 +20778,8 @@ Title: "Morfina Basi 10 mg/ml Solução injetável 10 Ampola"
 Description: "Morfina Basi 10 mg/ml Solução injetável 10 Ampola"
 Usage: #example
 
-* identifier.value = "50045539"
+//true??
+* identifier[pcid].value = "50045539"
 
 * name = "Morfina Basi 10 mg/ml Solução injetável 10 Ampola"
 
@@ -20313,7 +20797,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -20337,7 +20821,8 @@ Title: "Morfina Basi 20 mg/ml Solução injetável 10 Ampola"
 Description: "Morfina Basi 20 mg/ml Solução injetável 10 Ampola"
 Usage: #example
 
-* identifier.value = "50045695"
+//true??
+* identifier[pcid].value = "50045695"
 
 * name = "Morfina Basi 20 mg/ml Solução injetável 10 Ampola"
 
@@ -20355,7 +20840,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -20379,7 +20864,8 @@ Title: "Amlodipina Sandoz 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Sandoz 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Sandoz 5 mg Comprimido 60 Comprimido Blister"
 
@@ -20397,7 +20883,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20421,7 +20907,8 @@ Title: "Amlodipina Sandoz 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Sandoz 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Sandoz 5 mg Comprimido 20 Comprimido Blister"
 
@@ -20439,7 +20926,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20463,7 +20950,8 @@ Title: "Amlodipina Sandoz 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Sandoz 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Sandoz 10 mg Comprimido 60 Comprimido Blister"
 
@@ -20481,7 +20969,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20505,7 +20993,8 @@ Title: "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -20523,7 +21012,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -20547,7 +21036,8 @@ Title: "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 150 g"
 Description: "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 150 g"
 Usage: #example
 
-* identifier.value = "50017705"
+//true??
+* identifier[pcid].value = "50017705"
 
 * name = "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 150 g"
 
@@ -20565,7 +21055,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -20589,7 +21079,8 @@ Title: "Ibuprofeno Bluepharma 400 mg Comprimido revestido por película 20 Compr
 Description: "Ibuprofeno Bluepharma 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Bluepharma 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -20607,7 +21098,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20631,7 +21122,8 @@ Title: "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 20 Compr
 Description: "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -20649,7 +21141,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20673,7 +21165,8 @@ Title: "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 60 Compr
 Description: "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -20691,7 +21184,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20715,7 +21208,8 @@ Title: "Perindopril Farmoz 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Farmoz 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Perindopril Farmoz 4 mg Comprimido 30 Comprimido Blister"
 
@@ -20733,7 +21227,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20757,7 +21251,8 @@ Title: "Perindopril Farmoz 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Farmoz 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Farmoz 8 mg Comprimido 30 Comprimido Blister"
 
@@ -20775,7 +21270,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20799,7 +21294,8 @@ Title: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 10 Comprimido
 Description: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133470"
+//true??
+* identifier[pcid].value = "50133470"
 
 * name = "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 10 Comprimido Blister"
 
@@ -20817,7 +21313,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20841,7 +21337,8 @@ Title: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 14 Comprimido
 Description: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133470"
+//true??
+* identifier[pcid].value = "50133470"
 
 * name = "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -20859,7 +21356,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20883,7 +21380,8 @@ Title: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 30 Comprimido
 Description: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -20901,7 +21399,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20925,7 +21423,8 @@ Title: "Perindopril + Indapamida Farmoz 4 mg + 1.25 mg Comprimido 30 Comprimido 
 Description: "Perindopril + Indapamida Farmoz 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Farmoz 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -20943,7 +21442,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -20967,7 +21466,8 @@ Title: "Amlodipina Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 
@@ -20985,7 +21485,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21009,7 +21509,8 @@ Title: "Amlodipina Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 
@@ -21027,7 +21528,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21051,7 +21552,8 @@ Title: "Amlodipina Ratiopharm 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Ratiopharm 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Ratiopharm 10 mg Comprimido 60 Comprimido Blister"
 
@@ -21069,7 +21571,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21093,7 +21595,8 @@ Title: "Copalia 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Bl
 Description: "Copalia 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112163"
+//true??
+* identifier[pcid].value = "50112163"
 
 * name = "Copalia 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -21111,7 +21614,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21135,7 +21638,8 @@ Title: "Copalia 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Bl
 Description: "Copalia 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112147"
+//true??
+* identifier[pcid].value = "50112147"
 
 * name = "Copalia 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -21153,7 +21657,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21177,7 +21681,8 @@ Title: "Copalia 5 mg + 160 mg Comprimido revestido por película 56 Comprimido B
 Description: "Copalia 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112201"
+//true??
+* identifier[pcid].value = "50112201"
 
 * name = "Copalia 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -21195,7 +21700,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21219,7 +21724,8 @@ Title: "Diclofenac Reuloran 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Reuloran 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclofenac Reuloran 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -21237,7 +21743,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -21261,7 +21767,8 @@ Title: "Perindopril Krka 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Krka 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Krka 8 mg Comprimido 30 Comprimido Blister"
 
@@ -21279,7 +21786,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21303,7 +21810,8 @@ Title: "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 30 Compr
 Description: "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016792"
+//true??
+* identifier[pcid].value = "50016792"
 
 * name = "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -21321,7 +21829,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21345,7 +21853,8 @@ Title: "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 20 Compr
 Description: "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016776"
+//true??
+* identifier[pcid].value = "50016776"
 
 * name = "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -21363,7 +21872,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21387,7 +21896,8 @@ Title: "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 30 Compr
 Description: "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016822"
+//true??
+* identifier[pcid].value = "50016822"
 
 * name = "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -21405,7 +21915,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21429,7 +21939,8 @@ Title: "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 20 Compr
 Description: "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016806"
+//true??
+* identifier[pcid].value = "50016806"
 
 * name = "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -21447,7 +21958,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21471,7 +21982,8 @@ Title: "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 20 Compr
 Description: "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016830"
+//true??
+* identifier[pcid].value = "50016830"
 
 * name = "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -21489,7 +22001,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21513,7 +22025,8 @@ Title: "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 30 Compr
 Description: "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016857"
+//true??
+* identifier[pcid].value = "50016857"
 
 * name = "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -21531,7 +22044,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21555,7 +22068,8 @@ Title: "Diclofenac Vitoria 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Vitoria 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclofenac Vitoria 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -21573,7 +22087,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -21597,7 +22111,8 @@ Title: "Metformina Ratiopharm 1000 mg Comprimido revestido por película 60 Comp
 Description: "Metformina Ratiopharm 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Metformina Ratiopharm 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -21615,7 +22130,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21639,7 +22154,8 @@ Title: "Calcitab D 1500 mg + 400 U.I. Comprimido orodispersível 60 Comprimido F
 Description: "Calcitab D 1500 mg + 400 U.I. Comprimido orodispersível 60 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50096281"
+//true??
+* identifier[pcid].value = "50096281"
 
 * name = "Calcitab D 1500 mg + 400 U.I. Comprimido orodispersível 60 Comprimido Frasco"
 
@@ -21657,7 +22173,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21681,7 +22197,8 @@ Title: "Salbutamol Sandoz 100 µg/dose Suspensão pressurizada para inalação 1
 Description: "Salbutamol Sandoz 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 Usage: #example
 
-* identifier.value = "50063618"
+//true??
+* identifier[pcid].value = "50063618"
 
 * name = "Salbutamol Sandoz 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 
@@ -21699,7 +22216,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21723,7 +22240,8 @@ Title: "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 14 Comprim
 Description: "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006240"
+//true??
+* identifier[pcid].value = "50006240"
 
 * name = "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 
@@ -21741,7 +22259,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21765,7 +22283,8 @@ Title: "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 56 Comprim
 Description: "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 
@@ -21783,7 +22302,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21807,7 +22326,8 @@ Title: "Sinvastatina Teva 10 mg Comprimido revestido por película 20 Comprimido
 Description: "Sinvastatina Teva 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Teva 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -21825,7 +22345,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21849,7 +22369,8 @@ Title: "Sinvastatina Teva 10 mg Comprimido revestido por película 50 Comprimido
 Description: "Sinvastatina Teva 10 mg Comprimido revestido por película 50 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Teva 10 mg Comprimido revestido por película 50 Comprimido Blister"
 
@@ -21867,7 +22388,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21891,7 +22412,8 @@ Title: "Sinvastatina Teva 20 mg Comprimido revestido por película 60 Comprimido
 Description: "Sinvastatina Teva 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Teva 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -21909,7 +22431,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21933,7 +22455,8 @@ Title: "Sinvastatina Teva 20 mg Comprimido revestido por película 20 Comprimido
 Description: "Sinvastatina Teva 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018450"
+//true??
+* identifier[pcid].value = "50018450"
 
 * name = "Sinvastatina Teva 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -21951,7 +22474,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -21975,7 +22498,8 @@ Title: "Sinvastatina Teva 40 mg Comprimido revestido por película 60 Comprimido
 Description: "Sinvastatina Teva 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Teva 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -21993,7 +22517,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22017,7 +22541,8 @@ Title: "Eucreas 850 mg + 50 mg Comprimido revestido por película 10 Comprimido 
 Description: "Eucreas 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114522"
+//true??
+* identifier[pcid].value = "50114522"
 
 * name = "Eucreas 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -22035,7 +22560,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22059,7 +22584,8 @@ Title: "Eucreas 850 mg + 50 mg Comprimido revestido por película 60 Comprimido 
 Description: "Eucreas 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114530"
+//true??
+* identifier[pcid].value = "50114530"
 
 * name = "Eucreas 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -22077,7 +22603,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22101,7 +22627,8 @@ Title: "Ipramol 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebu
 Description: "Ipramol 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização 20 Ampola"
 Usage: #example
 
-* identifier.value = "50048228"
+//true??
+* identifier[pcid].value = "50048228"
 
 * name = "Ipramol 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização 20 Ampola"
 
@@ -22119,7 +22646,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -22143,7 +22670,8 @@ Title: "Eucreas 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido
 Description: "Eucreas 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114565"
+//true??
+* identifier[pcid].value = "50114565"
 
 * name = "Eucreas 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -22161,7 +22689,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22185,7 +22713,8 @@ Title: "Eucreas 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido
 Description: "Eucreas 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114573"
+//true??
+* identifier[pcid].value = "50114573"
 
 * name = "Eucreas 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -22203,7 +22732,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22227,7 +22756,8 @@ Title: "Coveram 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimido
 Description: "Coveram 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Coveram 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -22245,7 +22775,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22269,7 +22799,8 @@ Title: "Coveram 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimid
 Description: "Coveram 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Coveram 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -22287,7 +22818,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22311,7 +22842,8 @@ Title: "Coveram 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimido
 Description: "Coveram 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Coveram 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -22329,7 +22861,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22353,7 +22885,8 @@ Title: "Omeprazol Teva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Teva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Teva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -22371,7 +22904,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22395,7 +22928,8 @@ Title: "Omeprazol Teva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Teva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Teva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -22413,7 +22947,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22437,7 +22971,8 @@ Title: "Omeprazol Teva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Teva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol Teva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -22455,7 +22990,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22479,7 +23014,8 @@ Title: "Omeprazol Ratiopharm 40 mg Cápsula gastrorresistente 56 Cápsula Bliste
 Description: "Omeprazol Ratiopharm 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol Ratiopharm 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -22497,7 +23033,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22521,7 +23057,8 @@ Title: "Omeprazol Bravet 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Bravet 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Bravet 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -22539,7 +23076,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22563,7 +23100,8 @@ Title: "Omeprazol Bravet 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Bravet 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Bravet 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -22581,7 +23119,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22605,7 +23143,8 @@ Title: "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 56 Cápsula Bliste
 Description: "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -22623,7 +23162,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22647,7 +23186,8 @@ Title: "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 14 Cápsula Bliste
 Description: "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -22665,7 +23205,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22689,7 +23229,8 @@ Title: "Metformina Ciclum 850 mg Comprimido revestido por película 60 Comprimid
 Description: "Metformina Ciclum 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Metformina Ciclum 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -22707,7 +23248,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22731,7 +23272,8 @@ Title: "Metformina Ciclum 1000 mg Comprimido revestido por película 60 Comprimi
 Description: "Metformina Ciclum 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Metformina Ciclum 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -22749,7 +23291,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22773,7 +23315,8 @@ Title: "Metformina Ciclum 500 mg Comprimido revestido por película 60 Comprimid
 Description: "Metformina Ciclum 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009010"
+//true??
+* identifier[pcid].value = "50009010"
 
 * name = "Metformina Ciclum 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -22791,7 +23334,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22815,7 +23358,8 @@ Title: "Metformina Ciclum 500 mg Comprimido revestido por película 20 Comprimid
 Description: "Metformina Ciclum 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009028"
+//true??
+* identifier[pcid].value = "50009028"
 
 * name = "Metformina Ciclum 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -22833,7 +23377,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22857,7 +23401,8 @@ Title: "Cêgripe 1 mg + 500 mg Comprimido 20 Comprimido Blister"
 Description: "Cêgripe 1 mg + 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50181491"
+//true??
+* identifier[pcid].value = "50181491"
 
 * name = "Cêgripe 1 mg + 500 mg Comprimido 20 Comprimido Blister"
 
@@ -22875,7 +23420,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22899,7 +23444,8 @@ Title: "Omeprazol Azevedos 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Azevedos 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Azevedos 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -22917,7 +23463,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22941,7 +23487,8 @@ Title: "Janumet 850 mg + 50 mg Comprimido revestido por película 56 Comprimido 
 Description: "Janumet 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115685"
+//true??
+* identifier[pcid].value = "50115685"
 
 * name = "Janumet 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -22959,7 +23506,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -22983,7 +23530,8 @@ Title: "Janumet 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido
 Description: "Janumet 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115715"
+//true??
+* identifier[pcid].value = "50115715"
 
 * name = "Janumet 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -23001,7 +23549,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23025,7 +23573,8 @@ Title: "Velmetia 850 mg + 50 mg Comprimido revestido por película 56 Comprimido
 Description: "Velmetia 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115685"
+//true??
+* identifier[pcid].value = "50115685"
 
 * name = "Velmetia 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -23043,7 +23592,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23067,7 +23616,8 @@ Title: "Velmetia 1000 mg + 50 mg Comprimido revestido por película 56 Comprimid
 Description: "Velmetia 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115715"
+//true??
+* identifier[pcid].value = "50115715"
 
 * name = "Velmetia 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -23085,7 +23635,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23109,7 +23659,8 @@ Title: "Metformina Zentiva 1000 mg Comprimido revestido por película 60 Comprim
 Description: "Metformina Zentiva 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Metformina Zentiva 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -23127,7 +23678,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23151,7 +23702,8 @@ Title: "Omeprazol Genkern 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Genkern 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Genkern 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -23169,7 +23721,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23193,7 +23745,8 @@ Title: "Omeprazol Genkern 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Genkern 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Genkern 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -23211,7 +23764,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23235,7 +23788,8 @@ Title: "Lambdalina 40 mg/g Creme 1 Bisnaga 5 g"
 Description: "Lambdalina 40 mg/g Creme 1 Bisnaga 5 g"
 Usage: #example
 
-* identifier.value = "50049593"
+//true??
+* identifier[pcid].value = "50049593"
 
 * name = "Lambdalina 40 mg/g Creme 1 Bisnaga 5 g"
 
@@ -23253,7 +23807,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -23277,7 +23831,8 @@ Title: "Lambdalina 40 mg/g Creme 1 Bisnaga 30 g"
 Description: "Lambdalina 40 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50049607"
+//true??
+* identifier[pcid].value = "50049607"
 
 * name = "Lambdalina 40 mg/g Creme 1 Bisnaga 30 g"
 
@@ -23295,7 +23850,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -23319,7 +23874,8 @@ Title: "Gasec 10 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Gasec 10 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50024485"
+//true??
+* identifier[pcid].value = "50024485"
 
 * name = "Gasec 10 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -23337,7 +23893,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23361,7 +23917,8 @@ Title: "Sevikar 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Bl
 Description: "Sevikar 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Sevikar 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -23379,7 +23936,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23403,7 +23960,8 @@ Title: "Zolnor 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Bli
 Description: "Zolnor 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Zolnor 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -23421,7 +23979,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23445,7 +24003,8 @@ Title: "Zolnor 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Bli
 Description: "Zolnor 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115898"
+//true??
+* identifier[pcid].value = "50115898"
 
 * name = "Zolnor 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -23463,7 +24022,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23487,7 +24046,8 @@ Title: "Paracetamol Pharmakern 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Pharmakern 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Pharmakern 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -23505,7 +24065,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23529,7 +24089,8 @@ Title: "Denille 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido 
 Description: "Denille 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50033115"
+//true??
+* identifier[pcid].value = "50033115"
 
 * name = "Denille 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -23547,7 +24108,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23571,7 +24132,8 @@ Title: "Denille 2 mg + 0.03 mg Comprimido revestido por película 126 Comprimido
 Description: "Denille 2 mg + 0.03 mg Comprimido revestido por película 126 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50049810"
+//true??
+* identifier[pcid].value = "50049810"
 
 * name = "Denille 2 mg + 0.03 mg Comprimido revestido por película 126 Comprimido Blister"
 
@@ -23589,7 +24151,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23613,7 +24175,8 @@ Title: "Denille 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido 
 Description: "Denille 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50033123"
+//true??
+* identifier[pcid].value = "50033123"
 
 * name = "Denille 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -23631,7 +24194,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23655,7 +24218,8 @@ Title: "Efficib 850 mg + 50 mg Comprimido revestido por película 56 Comprimido 
 Description: "Efficib 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115685"
+//true??
+* identifier[pcid].value = "50115685"
 
 * name = "Efficib 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -23673,7 +24237,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23697,7 +24261,8 @@ Title: "Efficib 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido
 Description: "Efficib 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115715"
+//true??
+* identifier[pcid].value = "50115715"
 
 * name = "Efficib 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -23715,7 +24280,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23739,7 +24304,8 @@ Title: "Perindopril ratiopharm 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril ratiopharm 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril ratiopharm 8 mg Comprimido 30 Comprimido Blister"
 
@@ -23757,7 +24323,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23781,7 +24347,8 @@ Title: "Paracetamol Generis 1000 mg Pó efervescente 20 Saqueta"
 Description: "Paracetamol Generis 1000 mg Pó efervescente 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50037960"
+//true??
+* identifier[pcid].value = "50037960"
 
 * name = "Paracetamol Generis 1000 mg Pó efervescente 20 Saqueta"
 
@@ -23799,7 +24366,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23823,7 +24390,8 @@ Title: "Amlodipina Teva 5 mg Comprimido 56 Comprimido Blister"
 Description: "Amlodipina Teva 5 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Teva 5 mg Comprimido 56 Comprimido Blister"
 
@@ -23841,7 +24409,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23865,7 +24433,8 @@ Title: "Amlodipina Teva 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Teva 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Teva 5 mg Comprimido 20 Comprimido Blister"
 
@@ -23883,7 +24452,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23907,7 +24476,8 @@ Title: "Amlodipina Teva 10 mg Comprimido 56 Comprimido Blister"
 Description: "Amlodipina Teva 10 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Teva 10 mg Comprimido 56 Comprimido Blister"
 
@@ -23925,7 +24495,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23949,7 +24519,8 @@ Title: "Zaldiar Efe 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Fita 
 Description: "Zaldiar Efe 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50193929"
+//true??
+* identifier[pcid].value = "50193929"
 
 * name = "Zaldiar Efe 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Fita termossoldada"
 
@@ -23967,7 +24538,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -23991,7 +24562,8 @@ Title: "Omeprazol Lumec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Omeprazol Lumec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Lumec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -24009,7 +24581,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24033,7 +24605,8 @@ Title: "Omeprazol Lumec 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Description: "Omeprazol Lumec 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Lumec 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 
@@ -24051,7 +24624,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24075,7 +24648,8 @@ Title: "Ciclosporina Generis 100 mg/ml Solução oral 1 Frasco"
 Description: "Ciclosporina Generis 100 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50015265"
+//true??
+* identifier[pcid].value = "50015265"
 
 * name = "Ciclosporina Generis 100 mg/ml Solução oral 1 Frasco"
 
@@ -24093,7 +24667,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -24117,7 +24691,8 @@ Title: "Carplexil 10 mg/g Creme 1 Bisnaga 30 g"
 Description: "Carplexil 10 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50009478"
+//true??
+* identifier[pcid].value = "50009478"
 
 * name = "Carplexil 10 mg/g Creme 1 Bisnaga 30 g"
 
@@ -24135,7 +24710,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -24159,7 +24734,8 @@ Title: "Olfen 140 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 Description: "Olfen 140 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 Usage: #example
 
-* identifier.value = "50026453"
+//true??
+* identifier[pcid].value = "50026453"
 
 * name = "Olfen 140 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 
@@ -24177,7 +24753,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24201,7 +24777,8 @@ Title: "Sinvastatina Aurobindo 20 mg Comprimido revestido por película 60 Compr
 Description: "Sinvastatina Aurobindo 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Aurobindo 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24219,7 +24796,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24243,7 +24820,8 @@ Title: "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 14 Compr
 Description: "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -24261,7 +24839,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24285,7 +24863,8 @@ Title: "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 60 Compr
 Description: "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24303,7 +24882,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24327,7 +24906,8 @@ Title: "Sinvastatina Aurobindo 40 mg Comprimido revestido por película 60 Compr
 Description: "Sinvastatina Aurobindo 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Aurobindo 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24345,7 +24925,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24369,7 +24949,8 @@ Title: "Sinvastatina Bluefish 10 mg Comprimido revestido por película 14 Compri
 Description: "Sinvastatina Bluefish 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Bluefish 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -24387,7 +24968,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24411,7 +24992,8 @@ Title: "Sinvastatina Bluefish 10 mg Comprimido revestido por película 56 Compri
 Description: "Sinvastatina Bluefish 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Bluefish 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -24429,7 +25011,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24453,7 +25035,8 @@ Title: "Sinvastatina Bluefish 20 mg Comprimido revestido por película 56 Compri
 Description: "Sinvastatina Bluefish 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Bluefish 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -24471,7 +25054,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24495,7 +25078,8 @@ Title: "Sinvastatina Bluefish 40 mg Comprimido revestido por película 56 Compri
 Description: "Sinvastatina Bluefish 40 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Bluefish 40 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -24513,7 +25097,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24537,7 +25121,8 @@ Title: "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprim
 Description: "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50043951"
+//true??
+* identifier[pcid].value = "50043951"
 
 * name = "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -24555,7 +25140,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24579,7 +25164,8 @@ Title: "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprim
 Description: "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50043960"
+//true??
+* identifier[pcid].value = "50043960"
 
 * name = "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -24597,7 +25183,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24621,7 +25207,8 @@ Title: "Drosianne 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimid
 Description: "Drosianne 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026690"
+//true??
+* identifier[pcid].value = "50026690"
 
 * name = "Drosianne 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -24639,7 +25226,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24663,7 +25250,8 @@ Title: "Omeprazol Tolife 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Tolife 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Tolife 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -24681,7 +25269,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24705,7 +25293,8 @@ Title: "Omeprazol Tolife 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Tolife 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Tolife 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -24723,7 +25312,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24747,7 +25336,8 @@ Title: "Omeprazol Tolife 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Tolife 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol Tolife 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -24765,7 +25355,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24789,7 +25379,8 @@ Title: "Proton 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Proton 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50024485"
+//true??
+* identifier[pcid].value = "50024485"
 
 * name = "Proton 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -24807,7 +25398,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24831,7 +25422,8 @@ Title: "Tramadol + Paracetamol Generis 37.5 mg + 325 mg Comprimido revestido por
 Description: "Tramadol + Paracetamol Generis 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Tramadol + Paracetamol Generis 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -24849,7 +25441,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24873,7 +25465,8 @@ Title: "Tomin 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido 
 Description: "Tomin 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Tomin 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -24891,7 +25484,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24915,7 +25508,8 @@ Title: "Tramadol + Paracetamol Krka 37.5 mg + 325 mg Comprimido revestido por pe
 Description: "Tramadol + Paracetamol Krka 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Tramadol + Paracetamol Krka 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -24933,7 +25527,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24957,7 +25551,8 @@ Title: "Metformina Aurobindo 500 mg Comprimido revestido por película 60 Compri
 Description: "Metformina Aurobindo 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009010"
+//true??
+* identifier[pcid].value = "50009010"
 
 * name = "Metformina Aurobindo 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24975,7 +25570,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -24999,7 +25594,8 @@ Title: "Metformina Aurobindo 500 mg Comprimido revestido por película 20 Compri
 Description: "Metformina Aurobindo 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009028"
+//true??
+* identifier[pcid].value = "50009028"
 
 * name = "Metformina Aurobindo 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -25017,7 +25613,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25041,7 +25637,8 @@ Title: "Metformina Aurobindo 850 mg Comprimido revestido por película 60 Compri
 Description: "Metformina Aurobindo 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Metformina Aurobindo 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -25059,7 +25656,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25083,7 +25680,8 @@ Title: "Metformina Aurobindo 1000 mg Comprimido revestido por película 60 Compr
 Description: "Metformina Aurobindo 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Metformina Aurobindo 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -25101,7 +25699,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25125,7 +25723,8 @@ Title: "Metformina Bluefish 850 mg Comprimido revestido por película 60 Comprim
 Description: "Metformina Bluefish 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Metformina Bluefish 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -25143,7 +25742,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25167,7 +25766,8 @@ Title: "Metformina Bluefish 850 mg Comprimido revestido por película 20 Comprim
 Description: "Metformina Bluefish 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014862"
+//true??
+* identifier[pcid].value = "50014862"
 
 * name = "Metformina Bluefish 850 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -25185,7 +25785,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25209,7 +25809,8 @@ Title: "Metformina Bluefish 1000 mg Comprimido revestido por película 60 Compri
 Description: "Metformina Bluefish 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Metformina Bluefish 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -25227,7 +25828,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25251,7 +25852,8 @@ Title: "Tramadol + Paracetamol Ratiopharm 37.5 mg + 325 mg Comprimido revestido 
 Description: "Tramadol + Paracetamol Ratiopharm 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Tramadol + Paracetamol Ratiopharm 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -25269,7 +25871,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25293,7 +25895,8 @@ Title: "Omeprazol Basi 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Basi 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Basi 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -25311,7 +25914,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25335,7 +25938,8 @@ Title: "Omeprazol Basi 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Basi 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Basi 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -25353,7 +25957,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25377,7 +25981,8 @@ Title: "Icandra 850 mg + 50 mg Comprimido revestido por película 10 Comprimido 
 Description: "Icandra 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114522"
+//true??
+* identifier[pcid].value = "50114522"
 
 * name = "Icandra 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -25395,7 +26000,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25419,7 +26024,8 @@ Title: "Icandra 850 mg + 50 mg Comprimido revestido por película 60 Comprimido 
 Description: "Icandra 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114530"
+//true??
+* identifier[pcid].value = "50114530"
 
 * name = "Icandra 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -25437,7 +26043,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25461,7 +26067,8 @@ Title: "Zomarist 1000 mg + 50 mg Comprimido revestido por película 10 Comprimid
 Description: "Zomarist 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114565"
+//true??
+* identifier[pcid].value = "50114565"
 
 * name = "Zomarist 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -25479,7 +26086,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25503,7 +26110,8 @@ Title: "Zomarist 1000 mg + 50 mg Comprimido revestido por película 60 Comprimid
 Description: "Zomarist 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114573"
+//true??
+* identifier[pcid].value = "50114573"
 
 * name = "Zomarist 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -25521,7 +26129,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25545,7 +26153,8 @@ Title: "Zomarist 850 mg + 50 mg Comprimido revestido por película 10 Comprimido
 Description: "Zomarist 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114522"
+//true??
+* identifier[pcid].value = "50114522"
 
 * name = "Zomarist 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -25563,7 +26172,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25587,7 +26196,8 @@ Title: "Zomarist 850 mg + 50 mg Comprimido revestido por película 60 Comprimido
 Description: "Zomarist 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114530"
+//true??
+* identifier[pcid].value = "50114530"
 
 * name = "Zomarist 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -25605,7 +26215,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25629,7 +26239,8 @@ Title: "Omeprazol GP 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol GP 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019066"
+//true??
+* identifier[pcid].value = "50019066"
 
 * name = "Omeprazol GP 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -25647,7 +26258,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25671,7 +26282,8 @@ Title: "Omeprazol GP 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol GP 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol GP 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -25689,7 +26301,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25713,7 +26325,8 @@ Title: "Icandra 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido
 Description: "Icandra 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114565"
+//true??
+* identifier[pcid].value = "50114565"
 
 * name = "Icandra 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -25731,7 +26344,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25755,7 +26368,8 @@ Title: "Icandra 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido
 Description: "Icandra 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50114573"
+//true??
+* identifier[pcid].value = "50114573"
 
 * name = "Icandra 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -25773,7 +26387,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25797,7 +26411,8 @@ Title: "Paracetamol Accord 10 mg/ml Solução para perfusão 20 Frasco"
 Description: "Paracetamol Accord 10 mg/ml Solução para perfusão 20 Frasco"
 Usage: #example
 
-* identifier.value = "50053205"
+//true??
+* identifier[pcid].value = "50053205"
 
 * name = "Paracetamol Accord 10 mg/ml Solução para perfusão 20 Frasco"
 
@@ -25815,7 +26430,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -25839,7 +26454,8 @@ Title: "Sinvastatina Azevedos 20 mg Comprimido revestido por película 60 Compri
 Description: "Sinvastatina Azevedos 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Azevedos 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -25857,7 +26473,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25881,7 +26497,8 @@ Title: "Voltaren 25 25 mg Cápsula mole 20 Cápsula Blister"
 Description: "Voltaren 25 25 mg Cápsula mole 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50013858"
+//true??
+* identifier[pcid].value = "50013858"
 
 * name = "Voltaren 25 25 mg Cápsula mole 20 Cápsula Blister"
 
@@ -25899,7 +26516,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -25923,7 +26540,8 @@ Title: "Saflutan 15 µg/ml Colírio, solução 30 Recipiente unidose 0,3 ml"
 Description: "Saflutan 15 µg/ml Colírio, solução 30 Recipiente unidose 0,3 ml"
 Usage: #example
 
-* identifier.value = "50118560"
+//true??
+* identifier[pcid].value = "50118560"
 
 * name = "Saflutan 15 µg/ml Colírio, solução 30 Recipiente unidose 0,3 ml"
 
@@ -25941,7 +26559,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -25965,7 +26583,8 @@ Title: "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido rev
 Description: "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026119"
+//true??
+* identifier[pcid].value = "50026119"
 
 * name = "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -25983,7 +26602,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26007,7 +26626,8 @@ Title: "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido rev
 Description: "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026100"
+//true??
+* identifier[pcid].value = "50026100"
 
 * name = "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -26025,7 +26645,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26049,7 +26669,8 @@ Title: "Paracetamol Azevedos 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Azevedos 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Azevedos 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -26067,7 +26688,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26091,7 +26712,8 @@ Title: "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 20 Comprimid
 Description: "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -26109,7 +26731,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26133,7 +26755,8 @@ Title: "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 60 Comprimid
 Description: "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004239"
+//true??
+* identifier[pcid].value = "50004239"
 
 * name = "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26151,7 +26774,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26175,7 +26798,8 @@ Title: "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 20 Comprimid
 Description: "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -26193,7 +26817,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26217,7 +26841,8 @@ Title: "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 60 Comprimid
 Description: "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004263"
+//true??
+* identifier[pcid].value = "50004263"
 
 * name = "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26235,7 +26860,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26259,7 +26884,8 @@ Title: "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 20 Comprimid
 Description: "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -26277,7 +26903,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26301,7 +26927,8 @@ Title: "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 60 Comprimid
 Description: "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26319,7 +26946,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26343,7 +26970,8 @@ Title: "Ibuprofeno Neforan 200 mg Comprimido revestido por película 20 Comprimi
 Description: "Ibuprofeno Neforan 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Ibuprofeno Neforan 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -26361,7 +26989,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26385,7 +27013,8 @@ Title: "Ibuprofeno Neforan 200 mg Comprimido revestido por película 60 Comprimi
 Description: "Ibuprofeno Neforan 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004239"
+//true??
+* identifier[pcid].value = "50004239"
 
 * name = "Ibuprofeno Neforan 200 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26403,7 +27032,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26427,7 +27056,8 @@ Title: "Ibuprofeno Tolife 400 mg Comprimido revestido por película 60 Comprimid
 Description: "Ibuprofeno Tolife 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004263"
+//true??
+* identifier[pcid].value = "50004263"
 
 * name = "Ibuprofeno Tolife 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26445,7 +27075,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26469,7 +27099,8 @@ Title: "Ibuprofeno Tolife 400 mg Comprimido revestido por película 20 Comprimid
 Description: "Ibuprofeno Tolife 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Tolife 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -26487,7 +27118,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26511,7 +27142,8 @@ Title: "Ibuprofeno Tolife 600 mg Comprimido revestido por película 20 Comprimid
 Description: "Ibuprofeno Tolife 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Tolife 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -26529,7 +27161,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26553,7 +27185,8 @@ Title: "Ibuprofeno Tolife 600 mg Comprimido revestido por película 60 Comprimid
 Description: "Ibuprofeno Tolife 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Tolife 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26571,7 +27204,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26595,7 +27228,8 @@ Title: "Ibuprofeno Betude 600 mg Comprimido revestido por película 20 Comprimid
 Description: "Ibuprofeno Betude 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Betude 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -26613,7 +27247,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26637,7 +27271,8 @@ Title: "Ibuprofeno Betude 600 mg Comprimido revestido por película 60 Comprimid
 Description: "Ibuprofeno Betude 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Betude 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26655,7 +27290,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26679,7 +27314,8 @@ Title: "Ibuprofeno Betude 400 mg Comprimido revestido por película 20 Comprimid
 Description: "Ibuprofeno Betude 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Betude 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -26697,7 +27333,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26721,7 +27357,8 @@ Title: "Ibuprofeno Betude 400 mg Comprimido revestido por película 60 Comprimid
 Description: "Ibuprofeno Betude 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004263"
+//true??
+* identifier[pcid].value = "50004263"
 
 * name = "Ibuprofeno Betude 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26739,7 +27376,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26763,7 +27400,8 @@ Title: "Ibuprofeno Tricalma EF 400 mg Comprimido revestido por película 20 Comp
 Description: "Ibuprofeno Tricalma EF 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Tricalma EF 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -26781,7 +27419,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26805,7 +27443,8 @@ Title: "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 60 Comprim
 Description: "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26823,7 +27462,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26847,7 +27486,8 @@ Title: "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 20 Comprim
 Description: "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -26865,7 +27505,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26889,7 +27529,8 @@ Title: "Amlodipina Krka 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Krka 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Krka 5 mg Comprimido 60 Comprimido Blister"
 
@@ -26907,7 +27548,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26931,7 +27572,8 @@ Title: "Amlodipina Krka 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Krka 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Krka 5 mg Comprimido 20 Comprimido Blister"
 
@@ -26949,7 +27591,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -26973,7 +27615,8 @@ Title: "Amlodipina Krka 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Krka 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Krka 10 mg Comprimido 60 Comprimido Blister"
 
@@ -26991,7 +27634,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27015,7 +27658,8 @@ Title: "Diclofenac Pharmakern 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Pharmakern 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclofenac Pharmakern 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -27033,7 +27677,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -27057,7 +27701,8 @@ Title: "Perindopril Sandoz 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Sandoz 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Perindopril Sandoz 4 mg Comprimido 30 Comprimido Blister"
 
@@ -27075,7 +27720,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27099,7 +27744,8 @@ Title: "Perindopril Sandoz 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Sandoz 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Sandoz 8 mg Comprimido 30 Comprimido Blister"
 
@@ -27117,7 +27763,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27141,7 +27787,8 @@ Title: "Omeprazol Krka 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Krka 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Krka 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -27159,7 +27806,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27183,7 +27830,8 @@ Title: "Omeprazol Krka 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Krka 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Krka 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -27201,7 +27849,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27225,7 +27873,8 @@ Title: "Perindopril + Indapamida Azevedos 4 mg + 1.25 mg Comprimido 30 Comprimid
 Description: "Perindopril + Indapamida Azevedos 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Azevedos 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -27243,7 +27892,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27267,7 +27916,8 @@ Title: "Perindopril Azevedos 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Azevedos 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Azevedos 8 mg Comprimido 30 Comprimido Blister"
 
@@ -27285,7 +27935,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27309,7 +27959,8 @@ Title: "Paracetamol Sandoz 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Sandoz 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Sandoz 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -27327,7 +27978,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27351,7 +28002,8 @@ Title: "Gaviscon Alginato de sódio 250 mg + Bicarbonato de sódio 133.5 mg + Ca
 Description: "Gaviscon Alginato de sódio 250 mg + Bicarbonato de sódio 133.5 mg + Carbonato de cálcio 80 mg Comprimido para mastigar 24 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50150669"
+//true??
+* identifier[pcid].value = "50150669"
 
 * name = "Gaviscon Alginato de sódio 250 mg + Bicarbonato de sódio 133.5 mg + Carbonato de cálcio 80 mg Comprimido para mastigar 24 Comprimido Blister"
 
@@ -27369,7 +28021,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27393,7 +28045,8 @@ Title: "Amlodipina Mylan 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mylan 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Mylan 10 mg Comprimido 60 Comprimido Blister"
 
@@ -27411,7 +28064,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27435,7 +28088,8 @@ Title: "Amlodipina Mylan 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mylan 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Mylan 5 mg Comprimido 60 Comprimido Blister"
 
@@ -27453,7 +28107,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27477,7 +28131,8 @@ Title: "Amlodipina Mylan 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Mylan 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Mylan 5 mg Comprimido 10 Comprimido Blister"
 
@@ -27495,7 +28150,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27519,7 +28174,8 @@ Title: "Vessatis 700 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 Description: "Vessatis 700 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 Usage: #example
 
-* identifier.value = "50165593"
+//true??
+* identifier[pcid].value = "50165593"
 
 * name = "Vessatis 700 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 
@@ -27537,7 +28193,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27561,7 +28217,8 @@ Title: "Vessatis 700 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Description: "Vessatis 700 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Usage: #example
 
-* identifier.value = "50165585"
+//true??
+* identifier[pcid].value = "50165585"
 
 * name = "Vessatis 700 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 
@@ -27579,7 +28236,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27603,7 +28260,8 @@ Title: "Vessatis 700 mg Emplastro medicamentoso 20 Emplastro Saqueta"
 Description: "Vessatis 700 mg Emplastro medicamentoso 20 Emplastro Saqueta"
 Usage: #example
 
-* identifier.value = "50165607"
+//true??
+* identifier[pcid].value = "50165607"
 
 * name = "Vessatis 700 mg Emplastro medicamentoso 20 Emplastro Saqueta"
 
@@ -27621,7 +28279,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27645,7 +28303,8 @@ Title: "Vessatis 700 mg Emplastro medicamentoso 30 Emplastro Saqueta"
 Description: "Vessatis 700 mg Emplastro medicamentoso 30 Emplastro Saqueta"
 Usage: #example
 
-* identifier.value = "50165615"
+//true??
+* identifier[pcid].value = "50165615"
 
 * name = "Vessatis 700 mg Emplastro medicamentoso 30 Emplastro Saqueta"
 
@@ -27663,7 +28322,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27687,7 +28346,8 @@ Title: "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimid
 Description: "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50043951"
+//true??
+* identifier[pcid].value = "50043951"
 
 * name = "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -27705,7 +28365,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27729,7 +28389,8 @@ Title: "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimid
 Description: "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50043960"
+//true??
+* identifier[pcid].value = "50043960"
 
 * name = "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -27747,7 +28408,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27771,7 +28432,8 @@ Title: "Daylette 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido
 Description: "Daylette 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050036"
+//true??
+* identifier[pcid].value = "50050036"
 
 * name = "Daylette 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -27789,7 +28451,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27813,7 +28475,8 @@ Title: "Daylette 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido
 Description: "Daylette 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050028"
+//true??
+* identifier[pcid].value = "50050028"
 
 * name = "Daylette 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -27831,7 +28494,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27855,7 +28518,8 @@ Title: "Aranka 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido B
 Description: "Aranka 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026690"
+//true??
+* identifier[pcid].value = "50026690"
 
 * name = "Aranka 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -27873,7 +28537,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27897,7 +28561,8 @@ Title: "Aranka 3 mg + 0.03 mg Comprimido revestido por película 63 Comprimido B
 Description: "Aranka 3 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026704"
+//true??
+* identifier[pcid].value = "50026704"
 
 * name = "Aranka 3 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -27915,7 +28580,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27939,7 +28604,8 @@ Title: "Perindopril + Indapamida Krka 8 mg + 2.5 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Indapamida Krka 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Perindopril + Indapamida Krka 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -27957,7 +28623,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -27981,7 +28647,8 @@ Title: "Paracetamol Labesfal 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Labesfal 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Labesfal 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -27999,7 +28666,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28023,7 +28690,8 @@ Title: "Paracetamol Generis 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Generis 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Generis 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -28041,7 +28709,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28065,7 +28733,8 @@ Title: "Ibuprofeno Tolife 400 mg Granulado para solução oral 20 Saqueta"
 Description: "Ibuprofeno Tolife 400 mg Granulado para solução oral 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50015699"
+//true??
+* identifier[pcid].value = "50015699"
 
 * name = "Ibuprofeno Tolife 400 mg Granulado para solução oral 20 Saqueta"
 
@@ -28083,7 +28752,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28107,7 +28776,8 @@ Title: "Ibuprofeno Tolife 600 mg Granulado para solução oral 20 Saqueta"
 Description: "Ibuprofeno Tolife 600 mg Granulado para solução oral 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50004220"
+//true??
+* identifier[pcid].value = "50004220"
 
 * name = "Ibuprofeno Tolife 600 mg Granulado para solução oral 20 Saqueta"
 
@@ -28125,7 +28795,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28149,7 +28819,8 @@ Title: "Ibuprofeno Generis 400 mg Granulado para solução oral 20 Saqueta"
 Description: "Ibuprofeno Generis 400 mg Granulado para solução oral 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50015699"
+//true??
+* identifier[pcid].value = "50015699"
 
 * name = "Ibuprofeno Generis 400 mg Granulado para solução oral 20 Saqueta"
 
@@ -28167,7 +28838,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28191,7 +28862,8 @@ Title: "Ibuprofeno Generis 600 mg Granulado para solução oral 20 Saqueta"
 Description: "Ibuprofeno Generis 600 mg Granulado para solução oral 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50004220"
+//true??
+* identifier[pcid].value = "50004220"
 
 * name = "Ibuprofeno Generis 600 mg Granulado para solução oral 20 Saqueta"
 
@@ -28209,7 +28881,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28233,7 +28905,8 @@ Title: "Perindopril + Indapamida Ratiopharm 8 mg + 2.5 mg Comprimido 30 Comprimi
 Description: "Perindopril + Indapamida Ratiopharm 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Perindopril + Indapamida Ratiopharm 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -28251,7 +28924,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28275,7 +28948,8 @@ Title: "Perindopril + Indapamida Teva 8 mg + 2.5 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Indapamida Teva 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Perindopril + Indapamida Teva 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -28293,7 +28967,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28317,7 +28991,8 @@ Title: "Paracetamol Ciclum 650 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Ciclum 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50030043"
+//true??
+* identifier[pcid].value = "50030043"
 
 * name = "Paracetamol Ciclum 650 mg Comprimido 20 Comprimido Blister"
 
@@ -28335,7 +29010,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28359,7 +29034,8 @@ Title: "Paracetamol Ciclum 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Ciclum 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Ciclum 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -28377,7 +29053,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28401,7 +29077,8 @@ Title: "Paracetamol + Codeína Pharmakern 500 mg + 30 mg Comprimido 20 Comprimid
 Description: "Paracetamol + Codeína Pharmakern 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50022300"
+//true??
+* identifier[pcid].value = "50022300"
 
 * name = "Paracetamol + Codeína Pharmakern 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 
@@ -28419,7 +29096,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28443,7 +29120,8 @@ Title: "Paracetamol Ratiopharm 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Ratiopharm 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Ratiopharm 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -28461,7 +29139,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28485,7 +29163,8 @@ Title: "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 60 Comp
 Description: "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -28503,7 +29182,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28527,7 +29206,8 @@ Title: "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 20 Comp
 Description: "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -28545,7 +29225,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28569,7 +29249,8 @@ Title: "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido
 Description: "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042939"
+//true??
+* identifier[pcid].value = "50042939"
 
 * name = "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -28587,7 +29268,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28611,7 +29292,8 @@ Title: "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido
 Description: "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042947"
+//true??
+* identifier[pcid].value = "50042947"
 
 * name = "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -28629,7 +29311,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28653,7 +29335,8 @@ Title: "Perindopril Aurobindo 4 mg Comprimido 10 Comprimido Blister"
 Description: "Perindopril Aurobindo 4 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062247"
+//true??
+* identifier[pcid].value = "50062247"
 
 * name = "Perindopril Aurobindo 4 mg Comprimido 10 Comprimido Blister"
 
@@ -28671,7 +29354,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28695,7 +29378,8 @@ Title: "Perindopril Aurobindo 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Aurobindo 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Perindopril Aurobindo 4 mg Comprimido 30 Comprimido Blister"
 
@@ -28713,7 +29397,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28737,7 +29421,8 @@ Title: "Perindopril Aurobindo 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Aurobindo 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Aurobindo 8 mg Comprimido 30 Comprimido Blister"
 
@@ -28755,7 +29440,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28779,7 +29464,8 @@ Title: "Clotrimazol Basi 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Clotrimazol Basi 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50008943"
+//true??
+* identifier[pcid].value = "50008943"
 
 * name = "Clotrimazol Basi 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -28797,7 +29483,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -28821,7 +29507,8 @@ Title: "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-* identifier.value = "50004417"
+//true??
+* identifier[pcid].value = "50004417"
 
 * name = "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -28839,7 +29526,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -28863,7 +29550,8 @@ Title: "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 50 g"
 Description: "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50019805"
+//true??
+* identifier[pcid].value = "50019805"
 
 * name = "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 50 g"
 
@@ -28881,7 +29569,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -28905,7 +29593,8 @@ Title: "Supofen 40 mg/ml Xarope 1 Frasco 85 ml"
 Description: "Supofen 40 mg/ml Xarope 1 Frasco 85 ml"
 Usage: #example
 
-* identifier.value = "50003461"
+//true??
+* identifier[pcid].value = "50003461"
 
 * name = "Supofen 40 mg/ml Xarope 1 Frasco 85 ml"
 
@@ -28923,7 +29612,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -28947,7 +29636,8 @@ Title: "Amoxicilina + Ácido Clavulânico Basi 250 mg/5 ml + 62.5 mg/5 ml Pó pa
 Description: "Amoxicilina + Ácido Clavulânico Basi 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001728"
+//true??
+* identifier[pcid].value = "50001728"
 
 * name = "Amoxicilina + Ácido Clavulânico Basi 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -28965,7 +29655,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -28989,7 +29679,8 @@ Title: "Amoxicilina + Ácido Clavulânico Basi 500 mg + 125 mg Comprimido revest
 Description: "Amoxicilina + Ácido Clavulânico Basi 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001639"
+//true??
+* identifier[pcid].value = "50001639"
 
 * name = "Amoxicilina + Ácido Clavulânico Basi 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -29007,7 +29698,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29031,7 +29722,8 @@ Title: "Amoxicilina + Ácido Clavulânico Basi 875 mg + 125 mg Comprimido revest
 Description: "Amoxicilina + Ácido Clavulânico Basi 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Amoxicilina + Ácido Clavulânico Basi 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -29049,7 +29741,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29073,7 +29765,8 @@ Title: "Tramadol + Paracetamol Pharmakern 37.5 mg + 325 mg Comprimido revestido 
 Description: "Tramadol + Paracetamol Pharmakern 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Tramadol + Paracetamol Pharmakern 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -29091,7 +29784,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29115,7 +29808,8 @@ Title: "Tramadol + Paracetamol Mylan 37.5 mg + 325 mg Comprimido revestido por p
 Description: "Tramadol + Paracetamol Mylan 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Tramadol + Paracetamol Mylan 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -29133,7 +29827,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29157,7 +29851,8 @@ Title: "Ibuprofeno Vitória 400 mg Comprimido revestido por película 20 Comprim
 Description: "Ibuprofeno Vitória 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Vitória 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -29175,7 +29870,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29199,7 +29894,8 @@ Title: "Ib-u-ron 75 mg Supositório 10 Supositório Blister"
 Description: "Ib-u-ron 75 mg Supositório 10 Supositório Blister"
 Usage: #example
 
-* identifier.value = "50057677"
+//true??
+* identifier[pcid].value = "50057677"
 
 * name = "Ib-u-ron 75 mg Supositório 10 Supositório Blister"
 
@@ -29217,7 +29913,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29241,7 +29937,8 @@ Title: "Ib-u-ron 150 mg Supositório 10 Supositório Blister"
 Description: "Ib-u-ron 150 mg Supositório 10 Supositório Blister"
 Usage: #example
 
-* identifier.value = "50057685"
+//true??
+* identifier[pcid].value = "50057685"
 
 * name = "Ib-u-ron 150 mg Supositório 10 Supositório Blister"
 
@@ -29259,7 +29956,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29283,7 +29980,8 @@ Title: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 Description: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50184121"
+//true??
+* identifier[pcid].value = "50184121"
 
 * name = "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 
@@ -29301,7 +29999,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -29325,7 +30023,8 @@ Title: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 Description: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 Usage: #example
 
-* identifier.value = "50184148"
+//true??
+* identifier[pcid].value = "50184148"
 
 * name = "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 
@@ -29343,7 +30042,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -29367,7 +30066,8 @@ Title: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 Description: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50184121"
+//true??
+* identifier[pcid].value = "50184121"
 
 * name = "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 
@@ -29385,7 +30085,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -29409,7 +30109,8 @@ Title: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 Description: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 Usage: #example
 
-* identifier.value = "50184148"
+//true??
+* identifier[pcid].value = "50184148"
 
 * name = "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 
@@ -29427,7 +30128,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -29451,7 +30152,8 @@ Title: "Perindopril + Indapamida Sandoz 2 mg + 0.625 mg Comprimido 30 Comprimido
 Description: "Perindopril + Indapamida Sandoz 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Sandoz 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -29469,7 +30171,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29493,7 +30195,8 @@ Title: "Perindopril + Indapamida Sandoz 4 mg + 1.25 mg Comprimido 30 Comprimido 
 Description: "Perindopril + Indapamida Sandoz 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Sandoz 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -29511,7 +30214,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29535,7 +30238,8 @@ Title: "Twynsta 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Description: "Twynsta 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121707"
+//true??
+* identifier[pcid].value = "50121707"
 
 * name = "Twynsta 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -29553,7 +30257,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29577,7 +30281,8 @@ Title: "Twynsta 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 Description: "Twynsta 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121693"
+//true??
+* identifier[pcid].value = "50121693"
 
 * name = "Twynsta 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 
@@ -29595,7 +30300,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29619,7 +30324,8 @@ Title: "Twynsta 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 Description: "Twynsta 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121723"
+//true??
+* identifier[pcid].value = "50121723"
 
 * name = "Twynsta 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 
@@ -29637,7 +30343,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29661,7 +30367,8 @@ Title: "Twynsta 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Description: "Twynsta 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121731"
+//true??
+* identifier[pcid].value = "50121731"
 
 * name = "Twynsta 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -29679,7 +30386,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29703,7 +30410,8 @@ Title: "Twynsta 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Description: "Twynsta 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121766"
+//true??
+* identifier[pcid].value = "50121766"
 
 * name = "Twynsta 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 
@@ -29721,7 +30429,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29745,7 +30453,8 @@ Title: "Paracetamol Pharmakern 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Pharmakern 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Paracetamol Pharmakern 500 mg Comprimido 20 Comprimido Blister"
 
@@ -29763,7 +30472,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29787,7 +30496,8 @@ Title: "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 20 Comprimido
 Description: "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133470"
+//true??
+* identifier[pcid].value = "50133470"
 
 * name = "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 20 Comprimido Blister"
 
@@ -29805,7 +30515,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29829,7 +30539,8 @@ Title: "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 30 Comprimido
 Description: "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -29847,7 +30558,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29871,7 +30582,8 @@ Title: "Perindopril + Indapamida Ciclum 4 mg + 1.25 mg Comprimido 30 Comprimido 
 Description: "Perindopril + Indapamida Ciclum 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Ciclum 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -29889,7 +30601,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29913,7 +30625,8 @@ Title: "Perindopril + Amlodipina Krka 4 mg + 5 mg Comprimido 30 Comprimido Blist
 Description: "Perindopril + Amlodipina Krka 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Perindopril + Amlodipina Krka 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -29931,7 +30644,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29955,7 +30668,8 @@ Title: "Perindopril + Amlodipina Krka 4 mg + 10 mg Comprimido 30 Comprimido Blis
 Description: "Perindopril + Amlodipina Krka 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Perindopril + Amlodipina Krka 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -29973,7 +30687,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -29997,7 +30711,8 @@ Title: "Perindopril + Amlodipina Krka 8 mg + 5 mg Comprimido 30 Comprimido Blist
 Description: "Perindopril + Amlodipina Krka 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Perindopril + Amlodipina Krka 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -30015,7 +30730,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30039,7 +30754,8 @@ Title: "Perindopril + Amlodipina Krka 8 mg + 10 mg Comprimido 30 Comprimido Blis
 Description: "Perindopril + Amlodipina Krka 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Perindopril + Amlodipina Krka 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -30057,7 +30773,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30081,7 +30797,8 @@ Title: "Ben-U-Ron 500 mg Cápsula 20 Cápsula Blister"
 Description: "Ben-U-Ron 500 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Ben-U-Ron 500 mg Cápsula 20 Cápsula Blister"
 
@@ -30099,7 +30816,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30123,7 +30840,8 @@ Title: "Sinvastatina Tecnigen 40 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Tecnigen 40 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Tecnigen 40 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -30141,7 +30859,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30165,7 +30883,8 @@ Title: "Sinvastatina Tecnigen 20 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Tecnigen 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Tecnigen 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -30183,7 +30902,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30207,7 +30926,8 @@ Title: "Reumolide 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Reumolide 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Reumolide 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -30225,7 +30945,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -30249,7 +30969,8 @@ Title: "Sinvastatina Alter 10 mg Comprimido revestido por película 60 Comprimid
 Description: "Sinvastatina Alter 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Alter 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -30267,7 +30988,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30291,7 +31012,8 @@ Title: "Sinvastatina Alter 10 mg Comprimido revestido por película 20 Comprimid
 Description: "Sinvastatina Alter 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Alter 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -30309,7 +31031,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30333,7 +31055,8 @@ Title: "Sinvastatina Alter 20 mg Comprimido revestido por película 20 Comprimid
 Description: "Sinvastatina Alter 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018450"
+//true??
+* identifier[pcid].value = "50018450"
 
 * name = "Sinvastatina Alter 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -30351,7 +31074,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30375,7 +31098,8 @@ Title: "Sinvastatina Alter 20 mg Comprimido revestido por película 60 Comprimid
 Description: "Sinvastatina Alter 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Alter 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -30393,7 +31117,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30417,7 +31141,8 @@ Title: "Sinvastatina Alter 40 mg Comprimido revestido por película 20 Comprimid
 Description: "Sinvastatina Alter 40 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50028421"
+//true??
+* identifier[pcid].value = "50028421"
 
 * name = "Sinvastatina Alter 40 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -30435,7 +31160,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30459,7 +31184,8 @@ Title: "Sinvastatina Alter 40 mg Comprimido revestido por película 60 Comprimid
 Description: "Sinvastatina Alter 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Alter 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -30477,7 +31203,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30501,7 +31227,8 @@ Title: "Sinvastatina Mepha 20 mg Comprimido revestido por película 60 Comprimid
 Description: "Sinvastatina Mepha 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Mepha 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -30519,7 +31246,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30543,7 +31270,8 @@ Title: "Sinvastatina Mepha 20 mg Comprimido revestido por película 20 Comprimid
 Description: "Sinvastatina Mepha 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018450"
+//true??
+* identifier[pcid].value = "50018450"
 
 * name = "Sinvastatina Mepha 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -30561,7 +31289,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30585,7 +31313,8 @@ Title: "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -30603,7 +31332,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30627,7 +31356,8 @@ Title: "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -30645,7 +31375,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30669,7 +31399,8 @@ Title: "Amoxicilina + Ácido Clavulânico Hikma 1000 mg + 200 mg Pó para sol in
 Description: "Amoxicilina + Ácido Clavulânico Hikma 1000 mg + 200 mg Pó para sol injectável 1000 mg + 200 mg Pó para solução injetável 10 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50032356"
+//true??
+* identifier[pcid].value = "50032356"
 
 * name = "Amoxicilina + Ácido Clavulânico Hikma 1000 mg + 200 mg Pó para sol injectável 1000 mg + 200 mg Pó para solução injetável 10 Frasco para injetáveis"
 
@@ -30687,7 +31418,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30711,7 +31442,8 @@ Title: "Dislipina 10 mg Comprimido revestido por película 20 Comprimido Blister
 Description: "Dislipina 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Dislipina 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -30729,7 +31461,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30753,7 +31485,8 @@ Title: "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg C
 Description: "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018450"
+//true??
+* identifier[pcid].value = "50018450"
 
 * name = "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -30771,7 +31504,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30795,7 +31528,8 @@ Title: "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg C
 Description: "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -30813,7 +31547,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30837,7 +31571,8 @@ Title: "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 21 Compri
 Description: "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012231"
+//true??
+* identifier[pcid].value = "50012231"
 
 * name = "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -30855,7 +31590,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30879,7 +31614,8 @@ Title: "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 63 Compri
 Description: "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012223"
+//true??
+* identifier[pcid].value = "50012223"
 
 * name = "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -30897,7 +31633,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30921,7 +31657,8 @@ Title: "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gas
 Description: "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -30939,7 +31676,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -30963,7 +31700,8 @@ Title: "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gas
 Description: "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -30981,7 +31719,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31005,7 +31743,8 @@ Title: "Albosan 40 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Albosan 40 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50019066"
+//true??
+* identifier[pcid].value = "50019066"
 
 * name = "Albosan 40 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -31023,7 +31762,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31047,7 +31786,8 @@ Title: "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 10 Comprimido Blister"
 
@@ -31065,7 +31805,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31089,7 +31829,8 @@ Title: "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -31107,7 +31848,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31131,7 +31872,8 @@ Title: "Amlodipina Alter 10 mg comprimidos 10 mg Comprimido 60 Comprimido Bliste
 Description: "Amlodipina Alter 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Alter 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -31149,7 +31891,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31173,7 +31915,8 @@ Title: "Cefuroxima Labesfal, 750 mg Pó e solvente para solução injectável 75
 Description: "Cefuroxima Labesfal, 750 mg Pó e solvente para solução injectável 750 mg/6 ml Pó e solvente para solução injetável 50 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50004808"
+//true??
+* identifier[pcid].value = "50004808"
 
 * name = "Cefuroxima Labesfal, 750 mg Pó e solvente para solução injectável 750 mg/6 ml Pó e solvente para solução injetável 50 Frasco para injetáveis"
 
@@ -31191,7 +31934,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31215,7 +31958,8 @@ Title: "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 20 Comprim
 Description: "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50101587"
+//true??
+* identifier[pcid].value = "50101587"
 
 * name = "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -31233,7 +31977,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31257,7 +32001,8 @@ Title: "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 60 Comprim
 Description: "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50101609"
+//true??
+* identifier[pcid].value = "50101609"
 
 * name = "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -31275,7 +32020,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31299,7 +32044,8 @@ Title: "Sinvastatina Atirdrane 40 mg Comprimido revestido por película 30 Compr
 Description: "Sinvastatina Atirdrane 40 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018477"
+//true??
+* identifier[pcid].value = "50018477"
 
 * name = "Sinvastatina Atirdrane 40 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -31317,7 +32063,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31341,7 +32087,8 @@ Title: "Enalapril Hidroclorotiazida Generis 20 mg + 12,5 mg Comprimidos 20 mg + 
 Description: "Enalapril Hidroclorotiazida Generis 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril Hidroclorotiazida Generis 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 
@@ -31359,7 +32106,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31383,7 +32130,8 @@ Title: "Enalapril Generis 20 mg Comprimidos 20 mg Comprimido 56 Comprimido Blist
 Description: "Enalapril Generis 20 mg Comprimidos 20 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003372"
+//true??
+* identifier[pcid].value = "50003372"
 
 * name = "Enalapril Generis 20 mg Comprimidos 20 mg Comprimido 56 Comprimido Blister"
 
@@ -31401,7 +32149,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31425,7 +32173,8 @@ Title: "Betamox Plus 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Fra
 Description: "Betamox Plus 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022199"
+//true??
+* identifier[pcid].value = "50022199"
 
 * name = "Betamox Plus 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -31443,7 +32192,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31467,7 +32216,8 @@ Title: "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister
 Description: "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003364"
+//true??
+* identifier[pcid].value = "50003364"
 
 * name = "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 
@@ -31485,7 +32235,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31509,7 +32259,8 @@ Title: "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister
 Description: "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003356"
+//true??
+* identifier[pcid].value = "50003356"
 
 * name = "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -31527,7 +32278,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31551,7 +32302,8 @@ Title: "Omeprazol Mylan 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Description: "Omeprazol Mylan 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol Mylan 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 
@@ -31569,7 +32321,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31593,7 +32345,8 @@ Title: "Lantus 100 U/ml Solução injetável 1 Frasco para injetáveis"
 Description: "Lantus 100 U/ml Solução injetável 1 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50096508"
+//true??
+* identifier[pcid].value = "50096508"
 
 * name = "Lantus 100 U/ml Solução injetável 1 Frasco para injetáveis"
 
@@ -31611,7 +32364,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -31635,7 +32388,8 @@ Title: "Sinvastatina Generis 10 mg Comprimido revestido por película 20 Comprim
 Description: "Sinvastatina Generis 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Generis 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -31653,7 +32407,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31677,7 +32431,8 @@ Title: "Sinvastatina Generis 10 mg Comprimido revestido por película 60 Comprim
 Description: "Sinvastatina Generis 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Generis 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -31695,7 +32450,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31719,7 +32474,8 @@ Title: "Sinvastatina Generis 20 mg Comprimido revestido por película 60 Comprim
 Description: "Sinvastatina Generis 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Generis 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -31737,7 +32493,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31761,7 +32517,8 @@ Title: "Sinvastatina Generis 40 mg Comprimido revestido por película 60 Comprim
 Description: "Sinvastatina Generis 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Generis 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -31779,7 +32536,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31803,7 +32560,8 @@ Title: "Sinvastatina GP 20 mg Comprimido revestido por película 60 Comprimido B
 Description: "Sinvastatina GP 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina GP 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -31821,7 +32579,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31845,7 +32603,8 @@ Title: "Sinvastatina GP 40 mg Comprimido revestido por película 60 Comprimido B
 Description: "Sinvastatina GP 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina GP 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -31863,7 +32622,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31887,7 +32646,8 @@ Title: "Sinvastatina GP 10 mg Comprimido revestido por película 60 Comprimido B
 Description: "Sinvastatina GP 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina GP 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -31905,7 +32665,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31929,7 +32689,8 @@ Title: "Sinvastatina GP 10 mg Comprimido revestido por película 20 Comprimido B
 Description: "Sinvastatina GP 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina GP 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -31947,7 +32708,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -31971,7 +32732,8 @@ Title: "Sinvastatina Ratiopharm 20 mg Comprimido revestido por película 60 Comp
 Description: "Sinvastatina Ratiopharm 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Ratiopharm 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -31989,7 +32751,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32013,7 +32775,8 @@ Title: "Sinvastatina Ratiopharm 40 mg Comprimido revestido por película 60 Comp
 Description: "Sinvastatina Ratiopharm 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Ratiopharm 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -32031,7 +32794,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32055,7 +32818,8 @@ Title: "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 14 Cápsul
 Description: "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -32073,7 +32837,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32097,7 +32861,8 @@ Title: "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 56 Cápsul
 Description: "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -32115,7 +32880,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32139,7 +32904,8 @@ Title: "Lisopan 1000 1000 mg Comprimido efervescente 10 Comprimido Recipiente pa
 Description: "Lisopan 1000 1000 mg Comprimido efervescente 10 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50037960"
+//true??
+* identifier[pcid].value = "50037960"
 
 * name = "Lisopan 1000 1000 mg Comprimido efervescente 10 Comprimido Recipiente para comprimidos"
 
@@ -32157,7 +32923,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32181,7 +32947,8 @@ Title: "Tram-u-ron OD 100 mg Cápsula de libertação prolongada 20 Cápsula Bli
 Description: "Tram-u-ron OD 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50139150"
+//true??
+* identifier[pcid].value = "50139150"
 
 * name = "Tram-u-ron OD 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -32199,7 +32966,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32223,7 +32990,8 @@ Title: "Tram-u-ron OD 150 mg Cápsula de libertação prolongada 20 Cápsula Bli
 Description: "Tram-u-ron OD 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50138839"
+//true??
+* identifier[pcid].value = "50138839"
 
 * name = "Tram-u-ron OD 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -32241,7 +33009,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32265,7 +33033,8 @@ Title: "Tram-u-ron OD 200 mg Cápsula de libertação prolongada 20 Cápsula Bli
 Description: "Tram-u-ron OD 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50139169"
+//true??
+* identifier[pcid].value = "50139169"
 
 * name = "Tram-u-ron OD 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -32283,7 +33052,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32307,7 +33076,8 @@ Title: "Paracetamol Azevedos 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Azevedos 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Paracetamol Azevedos 500 mg Comprimido 20 Comprimido Blister"
 
@@ -32325,7 +33095,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32349,7 +33119,8 @@ Title: "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg
 Description: "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006240"
+//true??
+* identifier[pcid].value = "50006240"
 
 * name = "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -32367,7 +33138,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32391,7 +33162,8 @@ Title: "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg
 Description: "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -32409,7 +33181,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32433,7 +33205,8 @@ Title: "Sinvastatina Bluepharma 10 mg Comprimido revestido por película 56 Comp
 Description: "Sinvastatina Bluepharma 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Bluepharma 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -32451,7 +33224,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32475,7 +33248,8 @@ Title: "Sinvastatina Bluepharma 20 mg Comprimido revestido por película 56 Comp
 Description: "Sinvastatina Bluepharma 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Bluepharma 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -32493,7 +33267,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32517,7 +33291,8 @@ Title: "Sinvastatina Bluepharma 40 mg Comprimido revestido por película 56 Comp
 Description: "Sinvastatina Bluepharma 40 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Bluepharma 40 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -32535,7 +33310,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32559,7 +33334,8 @@ Title: "Xilonibsa 2% com Epinefrina 36 mg/1.8 ml + 0.04 mg/1.8 ml Solução inje
 Description: "Xilonibsa 2% com Epinefrina 36 mg/1.8 ml + 0.04 mg/1.8 ml Solução injetável 100 Cartucho"
 Usage: #example
 
-* identifier.value = "50036165"
+//true??
+* identifier[pcid].value = "50036165"
 
 * name = "Xilonibsa 2% com Epinefrina 36 mg/1.8 ml + 0.04 mg/1.8 ml Solução injetável 100 Cartucho"
 
@@ -32577,7 +33353,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -32601,7 +33377,8 @@ Title: "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 
@@ -32619,7 +33396,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32643,7 +33420,8 @@ Title: "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -32661,7 +33439,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32685,7 +33463,8 @@ Title: "Amlodipina Jaba 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister
 Description: "Amlodipina Jaba 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Jaba 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -32703,7 +33482,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32727,7 +33506,8 @@ Title: "Amlodipina Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Bliste
 Description: "Amlodipina Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -32745,7 +33525,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32769,7 +33549,8 @@ Title: "Amlodipina Generis 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blis
 Description: "Amlodipina Generis 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Generis 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -32787,7 +33568,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32811,7 +33592,8 @@ Title: "Sivales 20 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sivales 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sivales 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -32829,7 +33611,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32853,7 +33635,8 @@ Title: "Sivales 20 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sivales 20 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018450"
+//true??
+* identifier[pcid].value = "50018450"
 
 * name = "Sivales 20 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -32871,7 +33654,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32895,7 +33678,8 @@ Title: "Dafalgan 1 g 1000 mg Comprimido revestido por película 16 Comprimido Bl
 Description: "Dafalgan 1 g 1000 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Dafalgan 1 g 1000 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -32913,7 +33697,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32937,7 +33721,8 @@ Title: "Sinvastatina Stada 10 mg Comprimido revestido por película 20 Comprimid
 Description: "Sinvastatina Stada 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Stada 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -32955,7 +33740,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -32979,7 +33764,8 @@ Title: "Sinvastatina Stada 10 mg Comprimido revestido por película 60 Comprimid
 Description: "Sinvastatina Stada 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Stada 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -32997,7 +33783,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33021,7 +33807,8 @@ Title: "Sinvastatina Stada 20 mg Comprimido revestido por película 60 Comprimid
 Description: "Sinvastatina Stada 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Stada 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -33039,7 +33826,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33063,7 +33850,8 @@ Title: "Sinvastatina Stada 40 mg Comprimido revestido por película 60 Comprimid
 Description: "Sinvastatina Stada 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Stada 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -33081,7 +33869,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33105,7 +33893,8 @@ Title: "Ibuprofeno Tricalma 200 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Ibuprofeno Tricalma 200 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Ibuprofeno Tricalma 200 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -33123,7 +33912,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33147,7 +33936,8 @@ Title: "Solaraze 30 mg/g Gel 1 Bisnaga 25 g"
 Description: "Solaraze 30 mg/g Gel 1 Bisnaga 25 g"
 Usage: #example
 
-* identifier.value = "50037404"
+//true??
+* identifier[pcid].value = "50037404"
 
 * name = "Solaraze 30 mg/g Gel 1 Bisnaga 25 g"
 
@@ -33165,7 +33955,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -33189,7 +33979,8 @@ Title: "Solaraze 30 mg/g Gel 1 Bisnaga 50 g"
 Description: "Solaraze 30 mg/g Gel 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50037412"
+//true??
+* identifier[pcid].value = "50037412"
 
 * name = "Solaraze 30 mg/g Gel 1 Bisnaga 50 g"
 
@@ -33207,7 +33998,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -33231,7 +34022,8 @@ Title: "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 200
 Description: "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50037919"
+//true??
+* identifier[pcid].value = "50037919"
 
 * name = "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 200 ml"
 
@@ -33249,7 +34041,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -33273,7 +34065,8 @@ Title: "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 100
 Description: "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 100 ml"
 Usage: #example
 
-* identifier.value = "50163272"
+//true??
+* identifier[pcid].value = "50163272"
 
 * name = "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 100 ml"
 
@@ -33291,7 +34084,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -33315,7 +34108,8 @@ Title: "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revest
 Description: "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -33333,7 +34127,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33357,7 +34151,8 @@ Title: "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revest
 Description: "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018450"
+//true??
+* identifier[pcid].value = "50018450"
 
 * name = "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -33375,7 +34170,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33399,7 +34194,8 @@ Title: "Xumadol 1g 1000 mg Granulado efervescente 20 Saqueta"
 Description: "Xumadol 1g 1000 mg Granulado efervescente 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50037960"
+//true??
+* identifier[pcid].value = "50037960"
 
 * name = "Xumadol 1g 1000 mg Granulado efervescente 20 Saqueta"
 
@@ -33417,7 +34213,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33441,7 +34237,8 @@ Title: "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister
 Description: "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015753"
+//true??
+* identifier[pcid].value = "50015753"
 
 * name = "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 
@@ -33459,7 +34256,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33483,7 +34280,8 @@ Title: "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister
 Description: "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015745"
+//true??
+* identifier[pcid].value = "50015745"
 
 * name = "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 
@@ -33501,7 +34299,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33525,7 +34323,8 @@ Title: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 Description: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015753"
+//true??
+* identifier[pcid].value = "50015753"
 
 * name = "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 
@@ -33543,7 +34342,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33567,7 +34366,8 @@ Title: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 Description: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015745"
+//true??
+* identifier[pcid].value = "50015745"
 
 * name = "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 
@@ -33585,7 +34385,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33609,7 +34409,8 @@ Title: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 Description: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015737"
+//true??
+* identifier[pcid].value = "50015737"
 
 * name = "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 
@@ -33627,7 +34428,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33651,7 +34452,8 @@ Title: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revesti
 Description: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004310"
+//true??
+* identifier[pcid].value = "50004310"
 
 * name = "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -33669,7 +34471,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33693,7 +34495,8 @@ Title: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revesti
 Description: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -33711,7 +34514,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33735,7 +34538,8 @@ Title: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revesti
 Description: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -33753,7 +34557,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33777,7 +34581,8 @@ Title: "Sinvastatina Basi 20 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Basi 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Basi 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -33795,7 +34600,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33819,7 +34624,8 @@ Title: "Sinvastatina Basi 40 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Basi 40 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Basi 40 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -33837,7 +34643,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33861,7 +34667,8 @@ Title: "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister
 Description: "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 
@@ -33879,7 +34686,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33903,7 +34710,8 @@ Title: "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister
 Description: "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -33921,7 +34729,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33945,7 +34753,8 @@ Title: "Amlodipina toLife 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blist
 Description: "Amlodipina toLife 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina toLife 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -33963,7 +34772,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -33987,7 +34796,8 @@ Title: "Sinvastatina Vitória 10 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Vitória 10 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Vitória 10 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -34005,7 +34815,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34029,7 +34839,8 @@ Title: "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido reves
 Description: "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -34047,7 +34858,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34071,7 +34882,8 @@ Title: "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido reves
 Description: "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -34089,7 +34901,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34113,7 +34925,8 @@ Title: "Ciclosporina Teva 25 mg Cápsula mole 20 Cápsula Blister"
 Description: "Ciclosporina Teva 25 mg Cápsula mole 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015214"
+//true??
+* identifier[pcid].value = "50015214"
 
 * name = "Ciclosporina Teva 25 mg Cápsula mole 20 Cápsula Blister"
 
@@ -34131,7 +34944,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34155,7 +34968,8 @@ Title: "Ciclosporina Teva 50 mg Cápsula mole 30 Cápsula Blister"
 Description: "Ciclosporina Teva 50 mg Cápsula mole 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015222"
+//true??
+* identifier[pcid].value = "50015222"
 
 * name = "Ciclosporina Teva 50 mg Cápsula mole 30 Cápsula Blister"
 
@@ -34173,7 +34987,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34197,7 +35011,8 @@ Title: "Ciclosporina Teva 50 mg Cápsula mole 50 Cápsula Blister"
 Description: "Ciclosporina Teva 50 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015230"
+//true??
+* identifier[pcid].value = "50015230"
 
 * name = "Ciclosporina Teva 50 mg Cápsula mole 50 Cápsula Blister"
 
@@ -34215,7 +35030,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34239,7 +35054,8 @@ Title: "Ciclosporina Teva 100 mg Cápsula mole 50 Cápsula Blister"
 Description: "Ciclosporina Teva 100 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015257"
+//true??
+* identifier[pcid].value = "50015257"
 
 * name = "Ciclosporina Teva 100 mg Cápsula mole 50 Cápsula Blister"
 
@@ -34257,7 +35073,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34281,7 +35097,8 @@ Title: "Angeliq 2 mg + 1 mg Comprimido revestido 28 Comprimido Blister"
 Description: "Angeliq 2 mg + 1 mg Comprimido revestido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50105574"
+//true??
+* identifier[pcid].value = "50105574"
 
 * name = "Angeliq 2 mg + 1 mg Comprimido revestido 28 Comprimido Blister"
 
@@ -34299,7 +35116,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34323,7 +35140,8 @@ Title: "Sinvastatina Mepha 40 mg Comprimido revestido por película 60 Comprimid
 Description: "Sinvastatina Mepha 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Mepha 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34341,7 +35159,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34365,7 +35183,8 @@ Title: "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revest
 Description: "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34383,7 +35202,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34407,7 +35226,8 @@ Title: "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revest
 Description: "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014862"
+//true??
+* identifier[pcid].value = "50014862"
 
 * name = "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -34425,7 +35245,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34449,7 +35269,8 @@ Title: "Amlodipina Azevedos 10 mg Comprimido 30 Comprimido Blister"
 Description: "Amlodipina Azevedos 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013351"
+//true??
+* identifier[pcid].value = "50013351"
 
 * name = "Amlodipina Azevedos 10 mg Comprimido 30 Comprimido Blister"
 
@@ -34467,7 +35288,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34491,7 +35312,8 @@ Title: "Sinvastatina Germed 20 mg Comprimido revestido por película 60 Comprimi
 Description: "Sinvastatina Germed 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Germed 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34509,7 +35331,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34533,7 +35355,8 @@ Title: "Sinvastatina Tetrafarma 10 mg Comprimido revestido 60 Comprimido Blister
 Description: "Sinvastatina Tetrafarma 10 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Tetrafarma 10 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -34551,7 +35374,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34575,7 +35398,8 @@ Title: "Sinvastatina Tecnigen 10 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sinvastatina Tecnigen 10 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Tecnigen 10 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -34593,7 +35417,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34617,7 +35441,8 @@ Title: "Sinvastatina Tecnigen 10 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Tecnigen 10 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Tecnigen 10 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -34635,7 +35460,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34659,7 +35484,8 @@ Title: "Sinvastatina Farmoz 10 mg Comprimido revestido por película 20 Comprimi
 Description: "Sinvastatina Farmoz 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Farmoz 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -34677,7 +35503,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34701,7 +35527,8 @@ Title: "Sinvastatina Farmoz 10 mg Comprimido revestido por película 60 Comprimi
 Description: "Sinvastatina Farmoz 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Farmoz 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34719,7 +35546,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34743,7 +35570,8 @@ Title: "Enalapril Bluepharma 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blis
 Description: "Enalapril Bluepharma 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003356"
+//true??
+* identifier[pcid].value = "50003356"
 
 * name = "Enalapril Bluepharma 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -34761,7 +35589,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34785,7 +35613,8 @@ Title: "Enalapril Bluepharma 20 mg comprimidos 20 mg Comprimido 60 Comprimido Bl
 Description: "Enalapril Bluepharma 20 mg comprimidos 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003372"
+//true??
+* identifier[pcid].value = "50003372"
 
 * name = "Enalapril Bluepharma 20 mg comprimidos 20 mg Comprimido 60 Comprimido Blister"
 
@@ -34803,7 +35632,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34827,7 +35656,8 @@ Title: "Amoxicilina Sandoz 250 mg/5 ml Pó para suspensão oral 250 mg/5 ml Pó 
 Description: "Amoxicilina Sandoz 250 mg/5 ml Pó para suspensão oral 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50001892"
+//true??
+* identifier[pcid].value = "50001892"
 
 * name = "Amoxicilina Sandoz 250 mg/5 ml Pó para suspensão oral 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -34845,7 +35675,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34869,7 +35699,8 @@ Title: "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revesti
 Description: "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006592"
+//true??
+* identifier[pcid].value = "50006592"
 
 * name = "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -34887,7 +35718,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34911,7 +35742,8 @@ Title: "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revesti
 Description: "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006606"
+//true??
+* identifier[pcid].value = "50006606"
 
 * name = "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -34929,7 +35761,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34953,7 +35785,8 @@ Title: "Sinvastatina Tetrafarma 20 mg Comprimidos revestidos por película 20 mg
 Description: "Sinvastatina Tetrafarma 20 mg Comprimidos revestidos por película 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Tetrafarma 20 mg Comprimidos revestidos por película 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34971,7 +35804,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -34995,7 +35828,8 @@ Title: "Sinvastatina Tetrafarma 40 mg Comprimidos revestidos por película 40 mg
 Description: "Sinvastatina Tetrafarma 40 mg Comprimidos revestidos por película 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Tetrafarma 40 mg Comprimidos revestidos por película 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -35013,7 +35847,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35037,7 +35871,8 @@ Title: "Sinvastatina Ciclum 20 mg Comprimido revestido por película 20 Comprimi
 Description: "Sinvastatina Ciclum 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018450"
+//true??
+* identifier[pcid].value = "50018450"
 
 * name = "Sinvastatina Ciclum 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -35055,7 +35890,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35079,7 +35914,8 @@ Title: "Sinvastatina Ciclum 20 mg Comprimido revestido por película 60 Comprimi
 Description: "Sinvastatina Ciclum 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Ciclum 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -35097,7 +35933,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35121,7 +35957,8 @@ Title: "Amlodipina Vitória 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Vitória 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Vitória 5 mg Comprimido 10 Comprimido Blister"
 
@@ -35139,7 +35976,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35163,7 +36000,8 @@ Title: "Amlodipina Vitória 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Vitória 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Vitória 5 mg Comprimido 60 Comprimido Blister"
 
@@ -35181,7 +36019,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35205,7 +36043,8 @@ Title: "Amlodipina Vitória 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Vitória 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Vitória 10 mg Comprimido 60 Comprimido Blister"
 
@@ -35223,7 +36062,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35247,7 +36086,8 @@ Title: "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastr
 Description: "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -35265,7 +36105,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35289,7 +36129,8 @@ Title: "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastr
 Description: "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -35307,7 +36148,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35331,7 +36172,8 @@ Title: "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula 
 Description: "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -35349,7 +36191,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35373,7 +36215,8 @@ Title: "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula 
 Description: "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -35391,7 +36234,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35415,7 +36258,8 @@ Title: "Amlodipina Wynn 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Wynn 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Wynn 10 mg Comprimido 60 Comprimido Blister"
 
@@ -35433,7 +36277,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35457,7 +36301,8 @@ Title: "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -35475,7 +36320,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35499,7 +36344,8 @@ Title: "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Description: "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 
@@ -35517,7 +36363,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35541,7 +36387,8 @@ Title: "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 
@@ -35559,7 +36406,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35583,7 +36430,8 @@ Title: "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -35601,7 +36449,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35625,7 +36473,8 @@ Title: "Amlodipina Bluepharma 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Bluepharma 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Bluepharma 5 mg Comprimido 60 Comprimido Blister"
 
@@ -35643,7 +36492,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35667,7 +36516,8 @@ Title: "Amlodipina Bluepharma 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Bluepharma 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Bluepharma 10 mg Comprimido 60 Comprimido Blister"
 
@@ -35685,7 +36535,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35709,7 +36559,8 @@ Title: "Amlodipina GP 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina GP 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina GP 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -35727,7 +36578,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35751,7 +36602,8 @@ Title: "Amlodipina Atral 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Atral 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Atral 5 mg Comprimido 20 Comprimido Blister"
 
@@ -35769,7 +36621,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35793,7 +36645,8 @@ Title: "Amlodipina Atral 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Atral 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Atral 5 mg Comprimido 60 Comprimido Blister"
 
@@ -35811,7 +36664,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35835,7 +36688,8 @@ Title: "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 60 Compr
 Description: "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -35853,7 +36707,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35877,7 +36731,8 @@ Title: "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 10 Compr
 Description: "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006240"
+//true??
+* identifier[pcid].value = "50006240"
 
 * name = "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -35895,7 +36750,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35919,7 +36774,8 @@ Title: "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por pe
 Description: "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -35937,7 +36793,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -35961,7 +36817,8 @@ Title: "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por pe
 Description: "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004263"
+//true??
+* identifier[pcid].value = "50004263"
 
 * name = "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -35979,7 +36836,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36003,7 +36860,8 @@ Title: "Ibuprofeno Generis 20 mg/ml Suspensão oral 20 mg/ml Suspensão oral 1 F
 Description: "Ibuprofeno Generis 20 mg/ml Suspensão oral 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50004336"
+//true??
+* identifier[pcid].value = "50004336"
 
 * name = "Ibuprofeno Generis 20 mg/ml Suspensão oral 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -36021,7 +36879,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -36045,7 +36903,8 @@ Title: "Sinvastatina Pharmakern 10 mg Comprimido revestido por película 60 Comp
 Description: "Sinvastatina Pharmakern 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Pharmakern 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -36063,7 +36922,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36087,7 +36946,8 @@ Title: "Sinvastatina Pharmakern 20 mg Comprimido revestido por película 60 Comp
 Description: "Sinvastatina Pharmakern 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Pharmakern 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -36105,7 +36965,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36129,7 +36989,8 @@ Title: "Amlodipina Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 
@@ -36147,7 +37008,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36171,7 +37032,8 @@ Title: "Amlodipina Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 
@@ -36189,7 +37051,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36213,7 +37075,8 @@ Title: "Augmentin ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasc
 Description: "Augmentin ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50040278"
+//true??
+* identifier[pcid].value = "50040278"
 
 * name = "Augmentin ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -36231,7 +37094,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36255,7 +37118,8 @@ Title: "Metformina Sandoz 1000 mg Comprimidos revestidos 1000 mg Comprimido reve
 Description: "Metformina Sandoz 1000 mg Comprimidos revestidos 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Metformina Sandoz 1000 mg Comprimidos revestidos 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -36273,7 +37137,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36297,7 +37161,8 @@ Title: "Glivec 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Glivec 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040324"
+//true??
+* identifier[pcid].value = "50040324"
 
 * name = "Glivec 100 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -36315,7 +37180,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36339,7 +37204,8 @@ Title: "Omeprazol Generis 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Generis 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Generis 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -36357,7 +37223,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36381,7 +37247,8 @@ Title: "Omeprazol Generis 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Generis 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Generis 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -36399,7 +37266,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36423,7 +37290,8 @@ Title: "Clavamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco
 Description: "Clavamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50040278"
+//true??
+* identifier[pcid].value = "50040278"
 
 * name = "Clavamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -36441,7 +37309,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36465,7 +37333,8 @@ Title: "Omeprazol Generis 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Generis 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50024485"
+//true??
+* identifier[pcid].value = "50024485"
 
 * name = "Omeprazol Generis 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -36483,7 +37352,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36507,7 +37376,8 @@ Title: "Omeprazol Generis 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Generis 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50024507"
+//true??
+* identifier[pcid].value = "50024507"
 
 * name = "Omeprazol Generis 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -36525,7 +37395,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36549,7 +37419,8 @@ Title: "Omeprazol Generis 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Generis 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019066"
+//true??
+* identifier[pcid].value = "50019066"
 
 * name = "Omeprazol Generis 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -36567,7 +37438,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36591,7 +37462,8 @@ Title: "Omeprazol Generis 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Generis 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol Generis 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -36609,7 +37481,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36633,7 +37505,8 @@ Title: "Cefuroxima Ratiopharm 500 mg Comprimido revestido por película 16 Compr
 Description: "Cefuroxima Ratiopharm 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018337"
+//true??
+* identifier[pcid].value = "50018337"
 
 * name = "Cefuroxima Ratiopharm 500 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -36651,7 +37524,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36675,7 +37548,8 @@ Title: "Cefuroxima Ratiopharm 250 mg Comprimido revestido por película 16 Compr
 Description: "Cefuroxima Ratiopharm 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018299"
+//true??
+* identifier[pcid].value = "50018299"
 
 * name = "Cefuroxima Ratiopharm 250 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -36693,7 +37567,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36717,7 +37591,8 @@ Title: "Enalapril Vitória 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Vitória 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003364"
+//true??
+* identifier[pcid].value = "50003364"
 
 * name = "Enalapril Vitória 5 mg Comprimido 20 Comprimido Blister"
 
@@ -36735,7 +37610,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36759,7 +37634,8 @@ Title: "Enalapril Vitória 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Vitória 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003356"
+//true??
+* identifier[pcid].value = "50003356"
 
 * name = "Enalapril Vitória 5 mg Comprimido 60 Comprimido Blister"
 
@@ -36777,7 +37653,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36801,7 +37677,8 @@ Title: "Enalapril Vitória 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Vitória 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003372"
+//true??
+* identifier[pcid].value = "50003372"
 
 * name = "Enalapril Vitória 20 mg Comprimido 60 Comprimido Blister"
 
@@ -36819,7 +37696,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36843,7 +37720,8 @@ Title: "Travex Rapid 50 mg Comprimido orodispersível 20 Comprimido Blister"
 Description: "Travex Rapid 50 mg Comprimido orodispersível 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50041274"
+//true??
+* identifier[pcid].value = "50041274"
 
 * name = "Travex Rapid 50 mg Comprimido orodispersível 20 Comprimido Blister"
 
@@ -36861,7 +37739,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36885,7 +37763,8 @@ Title: "Inegy 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Inegy 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Inegy 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -36903,7 +37782,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36927,7 +37806,8 @@ Title: "Inegy 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Inegy 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Inegy 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -36945,7 +37825,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -36969,7 +37849,8 @@ Title: "Inegy 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Inegy 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Inegy 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -36987,7 +37868,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37011,7 +37892,8 @@ Title: "Inegy 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Inegy 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Inegy 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -37029,7 +37911,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37053,7 +37935,8 @@ Title: "Vytorin 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Vytorin 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Vytorin 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -37071,7 +37954,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37095,7 +37978,8 @@ Title: "Vytorin 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Vytorin 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Vytorin 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -37113,7 +37997,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37137,7 +38021,8 @@ Title: "Vytorin 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Vytorin 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Vytorin 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -37155,7 +38040,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37179,7 +38064,8 @@ Title: "Vytorin 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Vytorin 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Vytorin 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -37197,7 +38083,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37221,7 +38107,8 @@ Title: "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 60 Co
 Description: "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -37239,7 +38126,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37263,7 +38150,8 @@ Title: "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 14 Co
 Description: "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006240"
+//true??
+* identifier[pcid].value = "50006240"
 
 * name = "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 
@@ -37281,7 +38169,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37305,7 +38193,8 @@ Title: "Diclofenac Sandoz 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Sandoz 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclofenac Sandoz 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -37323,7 +38212,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -37347,7 +38236,8 @@ Title: "Itraconazol ToLife 100 mg Cápsula 32 Cápsula Blister"
 Description: "Itraconazol ToLife 100 mg Cápsula 32 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015753"
+//true??
+* identifier[pcid].value = "50015753"
 
 * name = "Itraconazol ToLife 100 mg Cápsula 32 Cápsula Blister"
 
@@ -37365,7 +38255,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37389,7 +38279,8 @@ Title: "Itraconazol ToLife 100 mg Cápsula 16 Cápsula Blister"
 Description: "Itraconazol ToLife 100 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015745"
+//true??
+* identifier[pcid].value = "50015745"
 
 * name = "Itraconazol ToLife 100 mg Cápsula 16 Cápsula Blister"
 
@@ -37407,7 +38298,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37431,7 +38322,8 @@ Title: "Itraconazol ToLife 100 mg Cápsula 4 Cápsula Blister"
 Description: "Itraconazol ToLife 100 mg Cápsula 4 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015737"
+//true??
+* identifier[pcid].value = "50015737"
 
 * name = "Itraconazol ToLife 100 mg Cápsula 4 Cápsula Blister"
 
@@ -37449,7 +38341,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37473,7 +38365,8 @@ Title: "Ciclosporina Generis 100 mg Cápsula mole 50 Cápsula Blister"
 Description: "Ciclosporina Generis 100 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015257"
+//true??
+* identifier[pcid].value = "50015257"
 
 * name = "Ciclosporina Generis 100 mg Cápsula mole 50 Cápsula Blister"
 
@@ -37491,7 +38384,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37515,7 +38408,8 @@ Title: "Ciclosporina Generis 25 mg Cápsula mole 50 Cápsula Blister"
 Description: "Ciclosporina Generis 25 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015206"
+//true??
+* identifier[pcid].value = "50015206"
 
 * name = "Ciclosporina Generis 25 mg Cápsula mole 50 Cápsula Blister"
 
@@ -37533,7 +38427,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37557,7 +38451,8 @@ Title: "Ciclosporina Generis 50 mg Cápsula mole 50 Cápsula Blister"
 Description: "Ciclosporina Generis 50 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015230"
+//true??
+* identifier[pcid].value = "50015230"
 
 * name = "Ciclosporina Generis 50 mg Cápsula mole 50 Cápsula Blister"
 
@@ -37575,7 +38470,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37599,7 +38494,8 @@ Title: "Salbutamol GP 100 µg/dose Suspensão pressurizada para inalação 1 Rec
 Description: "Salbutamol GP 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 Usage: #example
 
-* identifier.value = "50063618"
+//true??
+* identifier[pcid].value = "50063618"
 
 * name = "Salbutamol GP 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 
@@ -37617,7 +38513,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37641,7 +38537,8 @@ Title: "Itraconazol Aurovitas 100 mg Cápsula 4 Cápsula Blister"
 Description: "Itraconazol Aurovitas 100 mg Cápsula 4 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015737"
+//true??
+* identifier[pcid].value = "50015737"
 
 * name = "Itraconazol Aurovitas 100 mg Cápsula 4 Cápsula Blister"
 
@@ -37659,7 +38556,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37683,7 +38580,8 @@ Title: "Itraconazol Aurovitas 100 mg Cápsula 16 Cápsula Blister"
 Description: "Itraconazol Aurovitas 100 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015745"
+//true??
+* identifier[pcid].value = "50015745"
 
 * name = "Itraconazol Aurovitas 100 mg Cápsula 16 Cápsula Blister"
 
@@ -37701,7 +38599,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37725,7 +38623,8 @@ Title: "Itraconazol Aurovitas 100 mg Cápsula 32 Cápsula Blister"
 Description: "Itraconazol Aurovitas 100 mg Cápsula 32 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015753"
+//true??
+* identifier[pcid].value = "50015753"
 
 * name = "Itraconazol Aurovitas 100 mg Cápsula 32 Cápsula Blister"
 
@@ -37743,7 +38642,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37767,7 +38666,8 @@ Title: "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -37785,7 +38685,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -37809,7 +38709,8 @@ Title: "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 150 g"
 Description: "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 150 g"
 Usage: #example
 
-* identifier.value = "50017705"
+//true??
+* identifier[pcid].value = "50017705"
 
 * name = "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 150 g"
 
@@ -37827,7 +38728,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -37851,7 +38752,8 @@ Title: "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 60 Comprim
 Description: "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -37869,7 +38771,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37893,7 +38795,8 @@ Title: "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 20 Comprim
 Description: "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -37911,7 +38814,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37935,7 +38838,8 @@ Title: "Ibuprofeno Azevedos 400 mg Comprimido revestido por película 20 Comprim
 Description: "Ibuprofeno Azevedos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Azevedos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -37953,7 +38857,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -37977,7 +38881,8 @@ Title: "Enalapril Krka 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Krka 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003364"
+//true??
+* identifier[pcid].value = "50003364"
 
 * name = "Enalapril Krka 5 mg Comprimido 20 Comprimido Blister"
 
@@ -37995,7 +38900,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38019,7 +38924,8 @@ Title: "Enalapril Krka 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Krka 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003356"
+//true??
+* identifier[pcid].value = "50003356"
 
 * name = "Enalapril Krka 5 mg Comprimido 60 Comprimido Blister"
 
@@ -38037,7 +38943,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38061,7 +38967,8 @@ Title: "Enalapril Krka 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Krka 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003372"
+//true??
+* identifier[pcid].value = "50003372"
 
 * name = "Enalapril Krka 20 mg Comprimido 60 Comprimido Blister"
 
@@ -38079,7 +38986,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38103,7 +39010,8 @@ Title: "Libeli 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido B
 Description: "Libeli 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042947"
+//true??
+* identifier[pcid].value = "50042947"
 
 * name = "Libeli 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -38121,7 +39029,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38145,7 +39053,8 @@ Title: "Libeli 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido B
 Description: "Libeli 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042939"
+//true??
+* identifier[pcid].value = "50042939"
 
 * name = "Libeli 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -38163,7 +39072,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38187,7 +39096,8 @@ Title: "Amoxicilina + Ácido Clavulânico Ratiopharm 400mg/5ml + 57mg/5 ml pó p
 Description: "Amoxicilina + Ácido Clavulânico Ratiopharm 400mg/5ml + 57mg/5 ml pó p/ susp oral 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022202"
+//true??
+* identifier[pcid].value = "50022202"
 
 * name = "Amoxicilina + Ácido Clavulânico Ratiopharm 400mg/5ml + 57mg/5 ml pó p/ susp oral 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -38205,7 +39115,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38229,7 +39139,8 @@ Title: "Amoxicilina + Ácido Clavulânico Sandoz 400 mg/5 ml + 57 mg/5 ml Pó pa
 Description: "Amoxicilina + Ácido Clavulânico Sandoz 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022199"
+//true??
+* identifier[pcid].value = "50022199"
 
 * name = "Amoxicilina + Ácido Clavulânico Sandoz 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -38247,7 +39158,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38271,7 +39182,8 @@ Title: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 15 Cápsula Blis
 Description: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 15 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015745"
+//true??
+* identifier[pcid].value = "50015745"
 
 * name = "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 15 Cápsula Blister"
 
@@ -38289,7 +39201,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38313,7 +39225,8 @@ Title: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 28 Cápsula Blis
 Description: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015753"
+//true??
+* identifier[pcid].value = "50015753"
 
 * name = "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 28 Cápsula Blister"
 
@@ -38331,7 +39244,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38355,7 +39268,8 @@ Title: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blist
 Description: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50015737"
+//true??
+* identifier[pcid].value = "50015737"
 
 * name = "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 
@@ -38373,7 +39287,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38397,7 +39311,8 @@ Title: "Competact 850 mg + 15 mg Comprimido revestido por película 56 Comprimid
 Description: "Competact 850 mg + 15 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50109324"
+//true??
+* identifier[pcid].value = "50109324"
 
 * name = "Competact 850 mg + 15 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -38415,7 +39330,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38439,7 +39354,8 @@ Title: "Metformina Ratiopharm 500 mg Comprimido revestido por película 20 Compr
 Description: "Metformina Ratiopharm 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009028"
+//true??
+* identifier[pcid].value = "50009028"
 
 * name = "Metformina Ratiopharm 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -38457,7 +39373,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38481,7 +39397,8 @@ Title: "Metformina Ratiopharm 500 mg Comprimido revestido por película 60 Compr
 Description: "Metformina Ratiopharm 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009010"
+//true??
+* identifier[pcid].value = "50009010"
 
 * name = "Metformina Ratiopharm 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -38499,7 +39416,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38523,7 +39440,8 @@ Title: "Metformina Ratiopharm 850 mg Comprimido revestido por película 60 Compr
 Description: "Metformina Ratiopharm 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Metformina Ratiopharm 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -38541,7 +39459,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38565,7 +39483,8 @@ Title: "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009249"
+//true??
+* identifier[pcid].value = "50009249"
 
 * name = "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -38583,7 +39502,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38607,7 +39526,8 @@ Title: "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009257"
+//true??
+* identifier[pcid].value = "50009257"
 
 * name = "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -38625,7 +39545,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38649,7 +39569,8 @@ Title: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009370"
+//true??
+* identifier[pcid].value = "50009370"
 
 * name = "Estinette 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -38667,7 +39588,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38691,7 +39612,8 @@ Title: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister
 Description: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009389"
+//true??
+* identifier[pcid].value = "50009389"
 
 * name = "Estinette 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 
@@ -38709,7 +39631,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38733,7 +39655,8 @@ Title: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009362"
+//true??
+* identifier[pcid].value = "50009362"
 
 * name = "Estinette 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -38751,7 +39674,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38775,7 +39698,8 @@ Title: "Trifene 600 600 mg Comprimido revestido por película 60 Comprimido Blis
 Description: "Trifene 600 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Trifene 600 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -38793,7 +39717,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38817,7 +39741,8 @@ Title: "Ib-u-ron 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Ib-u-ron 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50004336"
+//true??
+* identifier[pcid].value = "50004336"
 
 * name = "Ib-u-ron 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -38835,7 +39760,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -38859,7 +39784,8 @@ Title: "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimid
 Description: "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050028"
+//true??
+* identifier[pcid].value = "50050028"
 
 * name = "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -38877,7 +39803,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38901,7 +39827,8 @@ Title: "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimid
 Description: "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050036"
+//true??
+* identifier[pcid].value = "50050036"
 
 * name = "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -38919,7 +39846,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -38943,7 +39870,8 @@ Title: "Paracetamol Farmoz 40 mg/ml Xarope 1 Frasco 85 ml"
 Description: "Paracetamol Farmoz 40 mg/ml Xarope 1 Frasco 85 ml"
 Usage: #example
 
-* identifier.value = "50003461"
+//true??
+* identifier[pcid].value = "50003461"
 
 * name = "Paracetamol Farmoz 40 mg/ml Xarope 1 Frasco 85 ml"
 
@@ -38961,7 +39889,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -38985,7 +39913,8 @@ Title: "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 6 ml"
 Description: "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 6 ml"
 Usage: #example
 
-* identifier.value = "50097695"
+//true??
+* identifier[pcid].value = "50097695"
 
 * name = "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 6 ml"
 
@@ -39003,7 +39932,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -39027,7 +39956,8 @@ Title: "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 11 ml"
 Description: "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 11 ml"
 Usage: #example
 
-* identifier.value = "50097709"
+//true??
+* identifier[pcid].value = "50097709"
 
 * name = "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 11 ml"
 
@@ -39045,7 +39975,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -39069,7 +39999,8 @@ Title: "Natecal D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Fras
 Description: "Natecal D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50096281"
+//true??
+* identifier[pcid].value = "50096281"
 
 * name = "Natecal D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 
@@ -39087,7 +40018,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39111,7 +40042,8 @@ Title: "Fenac-Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Fenac-Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Fenac-Gel 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -39129,7 +40061,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -39153,7 +40085,8 @@ Title: "Ibuprofeno Frenidor 50 mg/g Gel 1 Bisnaga 100 g"
 Description: "Ibuprofeno Frenidor 50 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50009672"
+//true??
+* identifier[pcid].value = "50009672"
 
 * name = "Ibuprofeno Frenidor 50 mg/g Gel 1 Bisnaga 100 g"
 
@@ -39171,7 +40104,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -39195,7 +40128,8 @@ Title: "Sinvastatina Zentiva 40 mg Comprimido revestido por película 60 Comprim
 Description: "Sinvastatina Zentiva 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Zentiva 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -39213,7 +40147,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39237,7 +40171,8 @@ Title: "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 14 Cápsula Frasco
 Description: "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -39255,7 +40190,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39279,7 +40214,8 @@ Title: "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 56 Cápsula Frasco
 Description: "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 
@@ -39297,7 +40233,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39321,7 +40257,8 @@ Title: "Panadol Extra 500 mg + 65 mg Comprimido revestido por película 24 Compr
 Description: "Panadol Extra 500 mg + 65 mg Comprimido revestido por película 24 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50163264"
+//true??
+* identifier[pcid].value = "50163264"
 
 * name = "Panadol Extra 500 mg + 65 mg Comprimido revestido por película 24 Comprimido Blister"
 
@@ -39339,7 +40276,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39363,7 +40300,8 @@ Title: "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 21 Comprimi
 Description: "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012142"
+//true??
+* identifier[pcid].value = "50012142"
 
 * name = "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -39381,7 +40319,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39405,7 +40343,8 @@ Title: "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 63 Comprimi
 Description: "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012150"
+//true??
+* identifier[pcid].value = "50012150"
 
 * name = "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -39423,7 +40362,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39447,7 +40386,8 @@ Title: "Tramadol Labesfal 100 mg Comprimido de libertação prolongada 30 Compri
 Description: "Tramadol Labesfal 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016792"
+//true??
+* identifier[pcid].value = "50016792"
 
 * name = "Tramadol Labesfal 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -39465,7 +40405,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39489,7 +40429,8 @@ Title: "Octocaine 1:100000 20 mg/ml + 0.01 mg/ml Solução injetável 50 Ampola"
 Description: "Octocaine 1:100000 20 mg/ml + 0.01 mg/ml Solução injetável 50 Ampola"
 Usage: #example
 
-* identifier.value = "50034545"
+//true??
+* identifier[pcid].value = "50034545"
 
 * name = "Octocaine 1:100000 20 mg/ml + 0.01 mg/ml Solução injetável 50 Ampola"
 
@@ -39507,7 +40448,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -39531,7 +40472,8 @@ Title: "Octocaine 1:50000 20 mg/ml + 0.02 mg/ml Solução injetável 50 Ampola"
 Description: "Octocaine 1:50000 20 mg/ml + 0.02 mg/ml Solução injetável 50 Ampola"
 Usage: #example
 
-* identifier.value = "50034553"
+//true??
+* identifier[pcid].value = "50034553"
 
 * name = "Octocaine 1:50000 20 mg/ml + 0.02 mg/ml Solução injetável 50 Ampola"
 
@@ -39549,7 +40491,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -39573,7 +40515,8 @@ Title: "Ben-u-ron 75 mg Supositório 10 Supositório Fita termossoldada"
 Description: "Ben-u-ron 75 mg Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50039385"
+//true??
+* identifier[pcid].value = "50039385"
 
 * name = "Ben-u-ron 75 mg Supositório 10 Supositório Fita termossoldada"
 
@@ -39591,7 +40534,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39615,7 +40558,8 @@ Title: "Diclofenac Farmoz 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Farmoz 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclofenac Farmoz 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -39633,7 +40577,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -39657,7 +40601,8 @@ Title: "Ibuprofeno Algik 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Ibuprofeno Algik 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50004336"
+//true??
+* identifier[pcid].value = "50004336"
 
 * name = "Ibuprofeno Algik 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -39675,7 +40620,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -39699,7 +40644,8 @@ Title: "Diclofenac Gêflama 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Gêflama 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclofenac Gêflama 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -39717,7 +40663,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -39741,7 +40687,8 @@ Title: "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprim
 Description: "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50007980"
+//true??
+* identifier[pcid].value = "50007980"
 
 * name = "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -39759,7 +40706,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39783,7 +40730,8 @@ Title: "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprim
 Description: "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50007971"
+//true??
+* identifier[pcid].value = "50007971"
 
 * name = "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -39801,7 +40749,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39825,7 +40773,8 @@ Title: "Ibuprofeno Wellsmed 200 mg Comprimido revestido por película 20 Comprim
 Description: "Ibuprofeno Wellsmed 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Ibuprofeno Wellsmed 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -39843,7 +40792,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39867,7 +40816,8 @@ Title: "Exforge HCT 5 mg + 160 mg + 12.5 mg Comprimido revestido por película 2
 Description: "Exforge HCT 5 mg + 160 mg + 12.5 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50119486"
+//true??
+* identifier[pcid].value = "50119486"
 
 * name = "Exforge HCT 5 mg + 160 mg + 12.5 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -39885,7 +40835,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39909,7 +40859,8 @@ Title: "Exforge HCT 5 mg + 160 mg + 25 mg Comprimido revestido por película 28 
 Description: "Exforge HCT 5 mg + 160 mg + 25 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50119540"
+//true??
+* identifier[pcid].value = "50119540"
 
 * name = "Exforge HCT 5 mg + 160 mg + 25 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -39927,7 +40878,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -39951,7 +40902,8 @@ Title: "Apotel 150 mg/ml Solução para perfusão 3 Ampola"
 Description: "Apotel 150 mg/ml Solução para perfusão 3 Ampola"
 Usage: #example
 
-* identifier.value = "50054473"
+//true??
+* identifier[pcid].value = "50054473"
 
 * name = "Apotel 150 mg/ml Solução para perfusão 3 Ampola"
 
@@ -39969,7 +40921,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -39993,7 +40945,8 @@ Title: "Lidocaína + Adrenalina Normon 36 mg/1.8ml + 0.0225 mg/1.8ml Solução i
 Description: "Lidocaína + Adrenalina Normon 36 mg/1.8ml + 0.0225 mg/1.8ml Solução injetável 100 Cartucho"
 Usage: #example
 
-* identifier.value = "50054643"
+//true??
+* identifier[pcid].value = "50054643"
 
 * name = "Lidocaína + Adrenalina Normon 36 mg/1.8ml + 0.0225 mg/1.8ml Solução injetável 100 Cartucho"
 
@@ -40011,7 +40964,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -40035,7 +40988,8 @@ Title: "Paracetamol Basi 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Basi 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Paracetamol Basi 500 mg Comprimido 20 Comprimido Blister"
 
@@ -40053,7 +41007,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40077,7 +41031,8 @@ Title: "Nurofen Xpress 400 mg Cápsula mole 20 Cápsula Blister"
 Description: "Nurofen Xpress 400 mg Cápsula mole 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Nurofen Xpress 400 mg Cápsula mole 20 Cápsula Blister"
 
@@ -40095,7 +41050,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40119,7 +41074,8 @@ Title: "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 S
 Description: "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Usage: #example
 
-* identifier.value = "50099485"
+//true??
+* identifier[pcid].value = "50099485"
 
 * name = "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 
@@ -40137,7 +41093,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40161,7 +41117,8 @@ Title: "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 S
 Description: "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 Usage: #example
 
-* identifier.value = "50099493"
+//true??
+* identifier[pcid].value = "50099493"
 
 * name = "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 
@@ -40179,7 +41136,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40203,7 +41160,8 @@ Title: "Paracetamol Kabi 10 mg/ml Solução para perfusão 10 Frasco para injet�
 Description: "Paracetamol Kabi 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50053191"
+//true??
+* identifier[pcid].value = "50053191"
 
 * name = "Paracetamol Kabi 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 
@@ -40221,7 +41179,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -40245,7 +41203,8 @@ Title: "Zovirax Duo 50 mg/g + 10 mg/g Creme 1 Bisnaga 2 g"
 Description: "Zovirax Duo 50 mg/g + 10 mg/g Creme 1 Bisnaga 2 g"
 Usage: #example
 
-* identifier.value = "50120808"
+//true??
+* identifier[pcid].value = "50120808"
 
 * name = "Zovirax Duo 50 mg/g + 10 mg/g Creme 1 Bisnaga 2 g"
 
@@ -40263,7 +41222,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -40287,7 +41246,8 @@ Title: "Paracetamol Farmoz 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Farmoz 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Paracetamol Farmoz 500 mg Comprimido 20 Comprimido Blister"
 
@@ -40305,7 +41265,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40329,7 +41289,8 @@ Title: "Diclogel 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclogel 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclogel 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -40347,7 +41308,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -40371,7 +41332,8 @@ Title: "Ibuprofeno Farmoz 200 mg Comprimido revestido por película 20 Comprimid
 Description: "Ibuprofeno Farmoz 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Ibuprofeno Farmoz 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -40389,7 +41351,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40413,7 +41375,8 @@ Title: "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 
 Description: "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50120816"
+//true??
+* identifier[pcid].value = "50120816"
 
 * name = "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -40431,7 +41394,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40455,7 +41418,8 @@ Title: "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 
 Description: "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50120824"
+//true??
+* identifier[pcid].value = "50120824"
 
 * name = "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -40473,7 +41437,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40497,7 +41461,8 @@ Title: "Brufen Sem Açúcar 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Brufen Sem Açúcar 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50057642"
+//true??
+* identifier[pcid].value = "50057642"
 
 * name = "Brufen Sem Açúcar 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -40515,7 +41480,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -40539,7 +41504,8 @@ Title: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 21 Comp
 Description: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012142"
+//true??
+* identifier[pcid].value = "50012142"
 
 * name = "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 
@@ -40557,7 +41523,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40581,7 +41547,8 @@ Title: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 63 Comp
 Description: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012150"
+//true??
+* identifier[pcid].value = "50012150"
 
 * name = "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 
@@ -40599,7 +41566,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40623,7 +41590,8 @@ Title: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 21 Comp
 Description: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012231"
+//true??
+* identifier[pcid].value = "50012231"
 
 * name = "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 
@@ -40641,7 +41609,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40665,7 +41633,8 @@ Title: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 63 Comp
 Description: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50012223"
+//true??
+* identifier[pcid].value = "50012223"
 
 * name = "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 
@@ -40683,7 +41652,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40707,7 +41676,8 @@ Title: "Griponal 4 mg + 500 mg Comprimido efervescente 20 Comprimido Recipiente 
 Description: "Griponal 4 mg + 500 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50193945"
+//true??
+* identifier[pcid].value = "50193945"
 
 * name = "Griponal 4 mg + 500 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -40725,7 +41695,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40749,7 +41719,8 @@ Title: "Calcimed D3 1000 mg + 880 U.I. Comprimido para mastigar 30 Comprimido Re
 Description: "Calcimed D3 1000 mg + 880 U.I. Comprimido para mastigar 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50142046"
+//true??
+* identifier[pcid].value = "50142046"
 
 * name = "Calcimed D3 1000 mg + 880 U.I. Comprimido para mastigar 30 Comprimido Recipiente para comprimidos"
 
@@ -40767,7 +41738,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40791,7 +41762,8 @@ Title: "Paracetamol Tolife 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Tolife 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Tolife 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -40809,7 +41781,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40833,7 +41805,8 @@ Title: "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 56 Comprim
 Description: "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50122061"
+//true??
+* identifier[pcid].value = "50122061"
 
 * name = "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -40851,7 +41824,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40875,7 +41848,8 @@ Title: "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 14 Comprim
 Description: "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50122070"
+//true??
+* identifier[pcid].value = "50122070"
 
 * name = "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -40893,7 +41867,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40917,7 +41891,8 @@ Title: "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 14 Compri
 Description: "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50122096"
+//true??
+* identifier[pcid].value = "50122096"
 
 * name = "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -40935,7 +41910,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -40959,7 +41934,8 @@ Title: "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 56 Compri
 Description: "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50122088"
+//true??
+* identifier[pcid].value = "50122088"
 
 * name = "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -40977,7 +41953,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41001,7 +41977,8 @@ Title: "Trinalion 5 mg + 10 mg Comprimido revestido por película 30 Comprimido 
 Description: "Trinalion 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50110071"
+//true??
+* identifier[pcid].value = "50110071"
 
 * name = "Trinalion 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -41019,7 +41996,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41043,7 +42020,8 @@ Title: "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimi
 Description: "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026100"
+//true??
+* identifier[pcid].value = "50026100"
 
 * name = "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -41061,7 +42039,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41085,7 +42063,8 @@ Title: "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimi
 Description: "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026119"
+//true??
+* identifier[pcid].value = "50026119"
 
 * name = "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -41103,7 +42082,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41127,7 +42106,8 @@ Title: "Lisonorm 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 Description: "Lisonorm 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50136267"
+//true??
+* identifier[pcid].value = "50136267"
 
 * name = "Lisonorm 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 
@@ -41145,7 +42125,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41169,7 +42149,8 @@ Title: "Lisonorm 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Description: "Lisonorm 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50122150"
+//true??
+* identifier[pcid].value = "50122150"
 
 * name = "Lisonorm 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 
@@ -41187,7 +42168,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41211,7 +42192,8 @@ Title: "Saval 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Description: "Saval 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50122150"
+//true??
+* identifier[pcid].value = "50122150"
 
 * name = "Saval 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 
@@ -41229,7 +42211,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41253,7 +42235,8 @@ Title: "Dol-u-ron Forte 1000 mg + 60 mg Comprimido 18 Comprimido Blister"
 Description: "Dol-u-ron Forte 1000 mg + 60 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50058797"
+//true??
+* identifier[pcid].value = "50058797"
 
 * name = "Dol-u-ron Forte 1000 mg + 60 mg Comprimido 18 Comprimido Blister"
 
@@ -41271,7 +42254,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41295,7 +42278,8 @@ Title: "Amlodipina Mepha 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Mepha 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Mepha 5 mg Comprimido 20 Comprimido Blister"
 
@@ -41313,7 +42297,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41337,7 +42321,8 @@ Title: "Amlodipina Mepha 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mepha 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Mepha 5 mg Comprimido 60 Comprimido Blister"
 
@@ -41355,7 +42340,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41379,7 +42364,8 @@ Title: "Amlodipina Mepha 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mepha 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Mepha 10 mg Comprimido 60 Comprimido Blister"
 
@@ -41397,7 +42383,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41421,7 +42407,8 @@ Title: "Paracetamol B. Braun 10 mg/ml Solução para perfusão 10 Frasco"
 Description: "Paracetamol B. Braun 10 mg/ml Solução para perfusão 10 Frasco"
 Usage: #example
 
-* identifier.value = "50053191"
+//true??
+* identifier[pcid].value = "50053191"
 
 * name = "Paracetamol B. Braun 10 mg/ml Solução para perfusão 10 Frasco"
 
@@ -41439,7 +42426,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -41463,7 +42450,8 @@ Title: "Amoxicilina + Ácido Clavulânico Normon 1000 mg + 200 mg Pó para solu�
 Description: "Amoxicilina + Ácido Clavulânico Normon 1000 mg + 200 mg Pó para solução injetável 100 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50034120"
+//true??
+* identifier[pcid].value = "50034120"
 
 * name = "Amoxicilina + Ácido Clavulânico Normon 1000 mg + 200 mg Pó para solução injetável 100 Frasco para injetáveis"
 
@@ -41481,7 +42469,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41505,7 +42493,8 @@ Title: "Amoxicilina + Ácido Clavulânico Normon 2000 mg + 200 mg Pó para solu�
 Description: "Amoxicilina + Ácido Clavulânico Normon 2000 mg + 200 mg Pó para solução injetável 100 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50159836"
+//true??
+* identifier[pcid].value = "50159836"
 
 * name = "Amoxicilina + Ácido Clavulânico Normon 2000 mg + 200 mg Pó para solução injetável 100 Frasco para injetáveis"
 
@@ -41523,7 +42512,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41547,7 +42536,8 @@ Title: "Tramadol Mylan 100 mg Comprimido de libertação prolongada 30 Comprimid
 Description: "Tramadol Mylan 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016792"
+//true??
+* identifier[pcid].value = "50016792"
 
 * name = "Tramadol Mylan 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -41565,7 +42555,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41589,7 +42579,8 @@ Title: "Tramadol Mylan 100 mg Comprimido de libertação prolongada 20 Comprimid
 Description: "Tramadol Mylan 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016776"
+//true??
+* identifier[pcid].value = "50016776"
 
 * name = "Tramadol Mylan 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -41607,7 +42598,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41631,7 +42622,8 @@ Title: "Tramadol Mylan 200 mg Comprimido de libertação prolongada 30 Comprimid
 Description: "Tramadol Mylan 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016857"
+//true??
+* identifier[pcid].value = "50016857"
 
 * name = "Tramadol Mylan 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -41649,7 +42641,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41673,7 +42665,8 @@ Title: "Tramadol Mylan 200 mg Comprimido de libertação prolongada 20 Comprimid
 Description: "Tramadol Mylan 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016830"
+//true??
+* identifier[pcid].value = "50016830"
 
 * name = "Tramadol Mylan 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -41691,7 +42684,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41715,7 +42708,8 @@ Title: "Tramadol Mylan 150 mg Comprimido de libertação prolongada 30 Comprimid
 Description: "Tramadol Mylan 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016822"
+//true??
+* identifier[pcid].value = "50016822"
 
 * name = "Tramadol Mylan 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -41733,7 +42727,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41757,7 +42751,8 @@ Title: "Tramadol Mylan 150 mg Comprimido de libertação prolongada 20 Comprimid
 Description: "Tramadol Mylan 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016806"
+//true??
+* identifier[pcid].value = "50016806"
 
 * name = "Tramadol Mylan 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -41775,7 +42770,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41799,7 +42794,8 @@ Title: "Zilpen 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Description: "Zilpen 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50059700"
+//true??
+* identifier[pcid].value = "50059700"
 
 * name = "Zilpen 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 
@@ -41817,7 +42813,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41841,7 +42837,8 @@ Title: "Tramadol + Paracetamol toLife 37.5 mg + 325 mg Comprimido 20 Comprimido 
 Description: "Tramadol + Paracetamol toLife 37.5 mg + 325 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Tramadol + Paracetamol toLife 37.5 mg + 325 mg Comprimido 20 Comprimido Blister"
 
@@ -41859,7 +42856,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41883,7 +42880,8 @@ Title: "Tramadol + Paracetamol toLife 75 mg + 650 mg Comprimido 20 Comprimido Bl
 Description: "Tramadol + Paracetamol toLife 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50059700"
+//true??
+* identifier[pcid].value = "50059700"
 
 * name = "Tramadol + Paracetamol toLife 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 
@@ -41901,7 +42899,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41925,7 +42923,8 @@ Title: "Tramadol + Paracetamol Generis 75 mg + 650 mg Comprimido 20 Comprimido B
 Description: "Tramadol + Paracetamol Generis 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50059700"
+//true??
+* identifier[pcid].value = "50059700"
 
 * name = "Tramadol + Paracetamol Generis 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 
@@ -41943,7 +42942,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -41967,7 +42966,8 @@ Title: "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido 
 Description: "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50033115"
+//true??
+* identifier[pcid].value = "50033115"
 
 * name = "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -41985,7 +42985,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42009,7 +43009,8 @@ Title: "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido 
 Description: "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50033123"
+//true??
+* identifier[pcid].value = "50033123"
 
 * name = "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -42027,7 +43028,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42051,7 +43052,8 @@ Title: "Paracetamol Nideran 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Nideran 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Paracetamol Nideran 500 mg Comprimido 20 Comprimido Blister"
 
@@ -42069,7 +43071,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42093,7 +43095,8 @@ Title: "Trinalion 5 mg + 20 mg Comprimido revestido por película 30 Comprimido 
 Description: "Trinalion 5 mg + 20 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50140094"
+//true??
+* identifier[pcid].value = "50140094"
 
 * name = "Trinalion 5 mg + 20 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -42111,7 +43114,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42135,7 +43138,8 @@ Title: "Trinalion 10 mg + 20 mg Comprimido revestido por película 30 Comprimido
 Description: "Trinalion 10 mg + 20 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50140140"
+//true??
+* identifier[pcid].value = "50140140"
 
 * name = "Trinalion 10 mg + 20 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -42153,7 +43157,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42177,7 +43181,8 @@ Title: "Antigrippine trieffect 500 mg + 5 mg Comprimido revestido por película 
 Description: "Antigrippine trieffect 500 mg + 5 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50152831"
+//true??
+* identifier[pcid].value = "50152831"
 
 * name = "Antigrippine trieffect 500 mg + 5 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -42195,7 +43200,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42219,7 +43224,8 @@ Title: "Metformina Basi 500 mg Comprimido revestido por película 60 Comprimido 
 Description: "Metformina Basi 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009010"
+//true??
+* identifier[pcid].value = "50009010"
 
 * name = "Metformina Basi 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -42237,7 +43243,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42261,7 +43267,8 @@ Title: "Metformina Basi 500 mg Comprimido revestido por película 20 Comprimido 
 Description: "Metformina Basi 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009028"
+//true??
+* identifier[pcid].value = "50009028"
 
 * name = "Metformina Basi 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -42279,7 +43286,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42303,7 +43310,8 @@ Title: "Metformina Basi 850 mg Comprimido revestido por película 60 Comprimido 
 Description: "Metformina Basi 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Metformina Basi 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -42321,7 +43329,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42345,7 +43353,8 @@ Title: "Metformina Basi 1000 mg Comprimido revestido por película 60 Comprimido
 Description: "Metformina Basi 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Metformina Basi 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -42363,7 +43372,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42387,7 +43396,8 @@ Title: "Parafusiv 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 Description: "Parafusiv 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50053191"
+//true??
+* identifier[pcid].value = "50053191"
 
 * name = "Parafusiv 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 
@@ -42405,7 +43415,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -42429,7 +43439,8 @@ Title: "Ib-u-ron 400 mg Comprimido revestido por película 20 Comprimido Blister
 Description: "Ib-u-ron 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ib-u-ron 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -42447,7 +43458,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42471,7 +43482,8 @@ Title: "Ib-u-ron 600 mg Comprimido revestido por película 20 Comprimido Blister
 Description: "Ib-u-ron 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ib-u-ron 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -42489,7 +43501,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42513,7 +43525,8 @@ Title: "Ib-u-ron 600 mg Comprimido revestido por película 60 Comprimido Blister
 Description: "Ib-u-ron 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ib-u-ron 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -42531,7 +43544,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42555,7 +43568,8 @@ Title: "Ib-u-ron 40 mg/ml Suspensão oral 1 Frasco 150 ml"
 Description: "Ib-u-ron 40 mg/ml Suspensão oral 1 Frasco 150 ml"
 Usage: #example
 
-* identifier.value = "50039555"
+//true??
+* identifier[pcid].value = "50039555"
 
 * name = "Ib-u-ron 40 mg/ml Suspensão oral 1 Frasco 150 ml"
 
@@ -42573,7 +43587,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -42597,7 +43611,8 @@ Title: "Amlodipina Zentiva 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Zentiva 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Zentiva 5 mg Comprimido 10 Comprimido Blister"
 
@@ -42615,7 +43630,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42639,7 +43654,8 @@ Title: "Amlodipina Zentiva 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Zentiva 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Zentiva 5 mg Comprimido 60 Comprimido Blister"
 
@@ -42657,7 +43673,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42681,7 +43697,8 @@ Title: "Amlodipina Zentiva 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Zentiva 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Zentiva 10 mg Comprimido 60 Comprimido Blister"
 
@@ -42699,7 +43716,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42723,7 +43740,8 @@ Title: "Brufen 400 mg Granulado efervescente 20 Saqueta"
 Description: "Brufen 400 mg Granulado efervescente 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50015699"
+//true??
+* identifier[pcid].value = "50015699"
 
 * name = "Brufen 400 mg Granulado efervescente 20 Saqueta"
 
@@ -42741,7 +43759,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42765,7 +43783,8 @@ Title: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50024485"
+//true??
+* identifier[pcid].value = "50024485"
 
 * name = "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -42783,7 +43802,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42807,7 +43826,8 @@ Title: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50024507"
+//true??
+* identifier[pcid].value = "50024507"
 
 * name = "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -42825,7 +43845,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42849,7 +43869,8 @@ Title: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50024485"
+//true??
+* identifier[pcid].value = "50024485"
 
 * name = "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -42867,7 +43888,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42891,7 +43912,8 @@ Title: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50024507"
+//true??
+* identifier[pcid].value = "50024507"
 
 * name = "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -42909,7 +43931,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42933,7 +43955,8 @@ Title: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -42951,7 +43974,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -42975,7 +43998,8 @@ Title: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -42993,7 +44017,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43017,7 +44041,8 @@ Title: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -43035,7 +44060,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43059,7 +44084,8 @@ Title: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -43077,7 +44103,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43101,7 +44127,8 @@ Title: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019066"
+//true??
+* identifier[pcid].value = "50019066"
 
 * name = "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -43119,7 +44146,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43143,7 +44170,8 @@ Title: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -43161,7 +44189,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43185,7 +44213,8 @@ Title: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019066"
+//true??
+* identifier[pcid].value = "50019066"
 
 * name = "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -43203,7 +44232,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43227,7 +44256,8 @@ Title: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -43245,7 +44275,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43269,7 +44299,8 @@ Title: "Paracetamol Alter 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Alter 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Alter 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -43287,7 +44318,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43311,7 +44342,8 @@ Title: "Tramadol + Paracetamol Bluepharma 37.5 mg + 325 mg Comprimido 20 Comprim
 Description: "Tramadol + Paracetamol Bluepharma 37.5 mg + 325 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Tramadol + Paracetamol Bluepharma 37.5 mg + 325 mg Comprimido 20 Comprimido Blister"
 
@@ -43329,7 +44361,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43353,7 +44385,8 @@ Title: "Tramadol + Paracetamol Bluepharma 75 mg + 650 mg Comprimido 20 Comprimid
 Description: "Tramadol + Paracetamol Bluepharma 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50059700"
+//true??
+* identifier[pcid].value = "50059700"
 
 * name = "Tramadol + Paracetamol Bluepharma 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 
@@ -43371,7 +44404,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43395,7 +44428,8 @@ Title: "Amoxicilina + Ácido Clavulânico Alter 875 mg + 125 mg Comprimido reves
 Description: "Amoxicilina + Ácido Clavulânico Alter 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Amoxicilina + Ácido Clavulânico Alter 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -43413,7 +44447,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43437,7 +44471,8 @@ Title: "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 10 Compri
 Description: "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006240"
+//true??
+* identifier[pcid].value = "50006240"
 
 * name = "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -43455,7 +44490,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43479,7 +44514,8 @@ Title: "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 60 Compri
 Description: "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006231"
+//true??
+* identifier[pcid].value = "50006231"
 
 * name = "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -43497,7 +44533,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43521,7 +44557,8 @@ Title: "Perindopril + Indapamida Mepha 2.5 mg + 0.625 mg Comprimido revestido po
 Description: "Perindopril + Indapamida Mepha 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Mepha 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -43539,7 +44576,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43563,7 +44600,8 @@ Title: "Perindopril Teva 5 mg Comprimido revestido por película 30 Comprimido R
 Description: "Perindopril Teva 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Perindopril Teva 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -43581,7 +44619,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43605,7 +44643,8 @@ Title: "Perindopril Teva 10 mg Comprimido revestido por película 30 Comprimido 
 Description: "Perindopril Teva 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Teva 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -43623,7 +44662,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43647,7 +44686,8 @@ Title: "Voltaren Plast 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Description: "Voltaren Plast 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Usage: #example
 
-* identifier.value = "50026445"
+//true??
+* identifier[pcid].value = "50026445"
 
 * name = "Voltaren Plast 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 
@@ -43665,7 +44705,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43689,7 +44729,8 @@ Title: "Lidocaína Baxter 10 mg/ml Solução injetável 10 Ampola"
 Description: "Lidocaína Baxter 10 mg/ml Solução injetável 10 Ampola"
 Usage: #example
 
-* identifier.value = "50142119"
+//true??
+* identifier[pcid].value = "50142119"
 
 * name = "Lidocaína Baxter 10 mg/ml Solução injetável 10 Ampola"
 
@@ -43707,7 +44748,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -43731,7 +44772,8 @@ Title: "Lidocaína Baxter 10 mg/ml Solução injetável 10 Frasco para injetáve
 Description: "Lidocaína Baxter 10 mg/ml Solução injetável 10 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50142135"
+//true??
+* identifier[pcid].value = "50142135"
 
 * name = "Lidocaína Baxter 10 mg/ml Solução injetável 10 Frasco para injetáveis"
 
@@ -43749,7 +44791,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -43773,7 +44815,8 @@ Title: "Lidocaína Baxter 20 mg/ml Solução injetável 25 Ampola"
 Description: "Lidocaína Baxter 20 mg/ml Solução injetável 25 Ampola"
 Usage: #example
 
-* identifier.value = "50142178"
+//true??
+* identifier[pcid].value = "50142178"
 
 * name = "Lidocaína Baxter 20 mg/ml Solução injetável 25 Ampola"
 
@@ -43791,7 +44834,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -43815,7 +44858,8 @@ Title: "Lidocaína Baxter 20 mg/ml Solução injetável 10 Frasco para injetáve
 Description: "Lidocaína Baxter 20 mg/ml Solução injetável 10 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50142194"
+//true??
+* identifier[pcid].value = "50142194"
 
 * name = "Lidocaína Baxter 20 mg/ml Solução injetável 10 Frasco para injetáveis"
 
@@ -43833,7 +44877,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -43857,7 +44901,8 @@ Title: "Supofen 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Supofen 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Supofen 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -43875,7 +44920,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43899,7 +44944,8 @@ Title: "Diazepam Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 Description: "Diazepam Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006649"
+//true??
+* identifier[pcid].value = "50006649"
 
 * name = "Diazepam Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 
@@ -43917,7 +44963,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43941,7 +44987,8 @@ Title: "Diazepam Pharmakern 5 mg Comprimido 20 Comprimido Blister"
 Description: "Diazepam Pharmakern 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006622"
+//true??
+* identifier[pcid].value = "50006622"
 
 * name = "Diazepam Pharmakern 5 mg Comprimido 20 Comprimido Blister"
 
@@ -43959,7 +45006,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -43983,7 +45030,8 @@ Title: "Diazepam Pharmakern 10 mg Comprimido 20 Comprimido Blister"
 Description: "Diazepam Pharmakern 10 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006665"
+//true??
+* identifier[pcid].value = "50006665"
 
 * name = "Diazepam Pharmakern 10 mg Comprimido 20 Comprimido Blister"
 
@@ -44001,7 +45049,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44025,7 +45073,8 @@ Title: "Diazepam Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 Description: "Diazepam Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50006681"
+//true??
+* identifier[pcid].value = "50006681"
 
 * name = "Diazepam Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 
@@ -44043,7 +45092,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44067,7 +45116,8 @@ Title: "Demilos 1500 mg + 1000 U.I. Comprimido orodispersível 30 Comprimido Fra
 Description: "Demilos 1500 mg + 1000 U.I. Comprimido orodispersível 30 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50158660"
+//true??
+* identifier[pcid].value = "50158660"
 
 * name = "Demilos 1500 mg + 1000 U.I. Comprimido orodispersível 30 Comprimido Frasco"
 
@@ -44085,7 +45135,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44109,7 +45159,8 @@ Title: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido
 Description: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50043951"
+//true??
+* identifier[pcid].value = "50043951"
 
 * name = "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -44127,7 +45178,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44151,7 +45202,8 @@ Title: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido
 Description: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50043960"
+//true??
+* identifier[pcid].value = "50043960"
 
 * name = "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -44169,7 +45221,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44193,7 +45245,8 @@ Title: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.03 mg Comprimido revestido
 Description: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50026690"
+//true??
+* identifier[pcid].value = "50026690"
 
 * name = "Drospirenona + Etinilestradiol Mylan 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -44211,7 +45264,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44235,7 +45288,8 @@ Title: "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido
 Description: "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050028"
+//true??
+* identifier[pcid].value = "50050028"
 
 * name = "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -44253,7 +45307,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44277,7 +45331,8 @@ Title: "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido
 Description: "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050036"
+//true??
+* identifier[pcid].value = "50050036"
 
 * name = "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -44295,7 +45350,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44319,7 +45374,8 @@ Title: "Paracetamol Bluepharma 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Bluepharma 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Bluepharma 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -44337,7 +45393,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44361,7 +45417,8 @@ Title: "Chariva 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido 
 Description: "Chariva 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042947"
+//true??
+* identifier[pcid].value = "50042947"
 
 * name = "Chariva 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -44379,7 +45436,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44403,7 +45460,8 @@ Title: "Clotrimazol Farmoz 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Clotrimazol Farmoz 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-* identifier.value = "50004417"
+//true??
+* identifier[pcid].value = "50004417"
 
 * name = "Clotrimazol Farmoz 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -44421,7 +45479,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -44445,7 +45503,8 @@ Title: "Clotrimazol Farmoz 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Clotrimazol Farmoz 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50008943"
+//true??
+* identifier[pcid].value = "50008943"
 
 * name = "Clotrimazol Farmoz 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -44463,7 +45522,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -44487,7 +45546,8 @@ Title: "Hidrocortisona Bluepharma 10 mg/g Creme 1 Bisnaga 30 g"
 Description: "Hidrocortisona Bluepharma 10 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50009478"
+//true??
+* identifier[pcid].value = "50009478"
 
 * name = "Hidrocortisona Bluepharma 10 mg/g Creme 1 Bisnaga 30 g"
 
@@ -44505,7 +45565,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -44529,7 +45589,8 @@ Title: "Triplixam 5 mg + 1.25 mg + 5 mg Comprimido revestido por película 30 Co
 Description: "Triplixam 5 mg + 1.25 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50146114"
+//true??
+* identifier[pcid].value = "50146114"
 
 * name = "Triplixam 5 mg + 1.25 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -44547,7 +45608,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44571,7 +45632,8 @@ Title: "Triplixam 5 mg + 1.25 mg + 10 mg Comprimido revestido por película 30 C
 Description: "Triplixam 5 mg + 1.25 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50146130"
+//true??
+* identifier[pcid].value = "50146130"
 
 * name = "Triplixam 5 mg + 1.25 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -44589,7 +45651,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44613,7 +45675,8 @@ Title: "Triplixam 10 mg + 2.5 mg + 5 mg Comprimido revestido por película 30 Co
 Description: "Triplixam 10 mg + 2.5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50146165"
+//true??
+* identifier[pcid].value = "50146165"
 
 * name = "Triplixam 10 mg + 2.5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -44631,7 +45694,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44655,7 +45718,8 @@ Title: "Triplixam 10 mg + 2.5 mg + 10 mg Comprimido revestido por película 30 C
 Description: "Triplixam 10 mg + 2.5 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50146190"
+//true??
+* identifier[pcid].value = "50146190"
 
 * name = "Triplixam 10 mg + 2.5 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -44673,7 +45737,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44697,7 +45761,8 @@ Title: "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 60 Comprim
 Description: "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50123556"
+//true??
+* identifier[pcid].value = "50123556"
 
 * name = "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -44715,7 +45780,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44739,7 +45804,8 @@ Title: "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 10 Comprim
 Description: "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50123548"
+//true??
+* identifier[pcid].value = "50123548"
 
 * name = "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -44757,7 +45823,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44781,7 +45847,8 @@ Title: "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 10 Compri
 Description: "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50123564"
+//true??
+* identifier[pcid].value = "50123564"
 
 * name = "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -44799,7 +45866,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44823,7 +45890,8 @@ Title: "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 60 Compri
 Description: "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50123572"
+//true??
+* identifier[pcid].value = "50123572"
 
 * name = "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -44841,7 +45909,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44865,7 +45933,8 @@ Title: "Flutensif 1.5 mg + 10 mg Comprimido de libertação modificada 60 Compri
 Description: "Flutensif 1.5 mg + 10 mg Comprimido de libertação modificada 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50143220"
+//true??
+* identifier[pcid].value = "50143220"
 
 * name = "Flutensif 1.5 mg + 10 mg Comprimido de libertação modificada 60 Comprimido Blister"
 
@@ -44883,7 +45952,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44907,7 +45976,8 @@ Title: "Flutensif 1.5 mg + 5 mg Comprimido de libertação modificada 60 Comprim
 Description: "Flutensif 1.5 mg + 5 mg Comprimido de libertação modificada 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50143263"
+//true??
+* identifier[pcid].value = "50143263"
 
 * name = "Flutensif 1.5 mg + 5 mg Comprimido de libertação modificada 60 Comprimido Blister"
 
@@ -44925,7 +45995,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -44949,7 +46019,8 @@ Title: "Diclofenac Hikma 75 mg/3 ml Solução injetável 5 Ampola"
 Description: "Diclofenac Hikma 75 mg/3 ml Solução injetável 5 Ampola"
 Usage: #example
 
-* identifier.value = "50008269"
+//true??
+* identifier[pcid].value = "50008269"
 
 * name = "Diclofenac Hikma 75 mg/3 ml Solução injetável 5 Ampola"
 
@@ -44967,7 +46038,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -44991,7 +46062,8 @@ Title: "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por pe
 Description: "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -45009,7 +46081,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45033,7 +46105,8 @@ Title: "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por pe
 Description: "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116282"
+//true??
+* identifier[pcid].value = "50116282"
 
 * name = "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -45051,7 +46124,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45075,7 +46148,8 @@ Title: "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por pe
 Description: "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116320"
+//true??
+* identifier[pcid].value = "50116320"
 
 * name = "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -45093,7 +46167,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45117,7 +46191,8 @@ Title: "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por pe
 Description: "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -45135,7 +46210,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45159,7 +46234,8 @@ Title: "Lisonorm 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Lisonorm 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50143271"
+//true??
+* identifier[pcid].value = "50143271"
 
 * name = "Lisonorm 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -45177,7 +46253,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45201,7 +46277,8 @@ Title: "Saval 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Saval 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50143271"
+//true??
+* identifier[pcid].value = "50143271"
 
 * name = "Saval 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -45219,7 +46296,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45243,7 +46320,8 @@ Title: "Carzap Am 5 mg + 8 mg Comprimido 56 Comprimido Blister"
 Description: "Carzap Am 5 mg + 8 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50146254"
+//true??
+* identifier[pcid].value = "50146254"
 
 * name = "Carzap Am 5 mg + 8 mg Comprimido 56 Comprimido Blister"
 
@@ -45261,7 +46339,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45285,7 +46363,8 @@ Title: "Carzap Am 10 mg + 16 mg Comprimido 56 Comprimido Blister"
 Description: "Carzap Am 10 mg + 16 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50146289"
+//true??
+* identifier[pcid].value = "50146289"
 
 * name = "Carzap Am 10 mg + 16 mg Comprimido 56 Comprimido Blister"
 
@@ -45303,7 +46382,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45327,7 +46406,8 @@ Title: "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por
 Description: "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116320"
+//true??
+* identifier[pcid].value = "50116320"
 
 * name = "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -45345,7 +46425,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45369,7 +46449,8 @@ Title: "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por
 Description: "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -45387,7 +46468,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45411,7 +46492,8 @@ Title: "Enalapril + Lercanidipina Generis 10 mg + 10 mg Comprimido revestido por
 Description: "Enalapril + Lercanidipina Generis 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Enalapril + Lercanidipina Generis 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -45429,7 +46511,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45453,7 +46535,8 @@ Title: "Amoxicilina + Ácido Clavulânico Kabi 1000 mg + 200 mg Pó para soluç�
 Description: "Amoxicilina + Ácido Clavulânico Kabi 1000 mg + 200 mg Pó para solução injetável ou para perfusão 50 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50145517"
+//true??
+* identifier[pcid].value = "50145517"
 
 * name = "Amoxicilina + Ácido Clavulânico Kabi 1000 mg + 200 mg Pó para solução injetável ou para perfusão 50 Frasco para injetáveis"
 
@@ -45471,7 +46554,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45495,7 +46578,8 @@ Title: "Amoxicilina + Ácido Clavulânico Aurovitas 875 mg + 125 mg Comprimido r
 Description: "Amoxicilina + Ácido Clavulânico Aurovitas 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Amoxicilina + Ácido Clavulânico Aurovitas 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -45513,7 +46597,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45537,7 +46621,8 @@ Title: "Perindopril + Indapamida TAD 4 mg + 1.25 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Indapamida TAD 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida TAD 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -45555,7 +46640,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45579,7 +46664,8 @@ Title: "Cholib 20 mg + 145 mg Comprimido revestido por película 10 Comprimido B
 Description: "Cholib 20 mg + 145 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50138502"
+//true??
+* identifier[pcid].value = "50138502"
 
 * name = "Cholib 20 mg + 145 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -45597,7 +46683,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45621,7 +46707,8 @@ Title: "Cholib 20 mg + 145 mg Comprimido revestido por película 30 Comprimido B
 Description: "Cholib 20 mg + 145 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50138510"
+//true??
+* identifier[pcid].value = "50138510"
 
 * name = "Cholib 20 mg + 145 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -45639,7 +46726,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45663,7 +46750,8 @@ Title: "Sinvastatina Aurovitas 20 mg Comprimido revestido por película 60 Compr
 Description: "Sinvastatina Aurovitas 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018442"
+//true??
+* identifier[pcid].value = "50018442"
 
 * name = "Sinvastatina Aurovitas 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -45681,7 +46769,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45705,7 +46793,8 @@ Title: "Sinvastatina Aurovitas 40 mg Comprimido revestido por película 60 Compr
 Description: "Sinvastatina Aurovitas 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018469"
+//true??
+* identifier[pcid].value = "50018469"
 
 * name = "Sinvastatina Aurovitas 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -45723,7 +46812,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45747,7 +46836,8 @@ Title: "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 20 Compr
 Description: "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -45765,7 +46855,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45789,7 +46879,8 @@ Title: "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 60 Compr
 Description: "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018418"
+//true??
+* identifier[pcid].value = "50018418"
 
 * name = "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -45807,7 +46898,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45831,7 +46922,8 @@ Title: "Trifene 400 400 mg Comprimido revestido por película 10 Comprimido Blis
 Description: "Trifene 400 400 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Trifene 400 400 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -45849,7 +46941,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45873,7 +46965,8 @@ Title: "Trifene 400 400 mg Comprimido revestido por película 20 Comprimido Blis
 Description: "Trifene 400 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Trifene 400 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -45891,7 +46984,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45915,7 +47008,8 @@ Title: "Paracetamol Generis 40 mg/ml Xarope 1 Frasco 85 ml"
 Description: "Paracetamol Generis 40 mg/ml Xarope 1 Frasco 85 ml"
 Usage: #example
 
-* identifier.value = "50003461"
+//true??
+* identifier[pcid].value = "50003461"
 
 * name = "Paracetamol Generis 40 mg/ml Xarope 1 Frasco 85 ml"
 
@@ -45933,7 +47027,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -45957,7 +47051,8 @@ Title: "Perindopril + Indapamida Farmoz 8 mg + 2.5 mg Comprimido 30 Comprimido B
 Description: "Perindopril + Indapamida Farmoz 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Perindopril + Indapamida Farmoz 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -45975,7 +47070,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -45999,7 +47094,8 @@ Title: "Perindopril + Indapamida Tecazo 8 mg + 2.5 mg Comprimido 30 Comprimido B
 Description: "Perindopril + Indapamida Tecazo 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Perindopril + Indapamida Tecazo 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -46017,7 +47113,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46041,7 +47137,8 @@ Title: "Zanipress 20 mg + 20 mg Comprimido revestido por película 14 Comprimido
 Description: "Zanipress 20 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50145010"
+//true??
+* identifier[pcid].value = "50145010"
 
 * name = "Zanipress 20 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -46059,7 +47156,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46083,7 +47180,8 @@ Title: "Zanipress 20 mg + 20 mg Comprimido revestido por película 56 Comprimido
 Description: "Zanipress 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50145029"
+//true??
+* identifier[pcid].value = "50145029"
 
 * name = "Zanipress 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -46101,7 +47199,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46125,7 +47223,8 @@ Title: "Zanitek 20 mg + 20 mg Comprimido revestido por película 56 Comprimido B
 Description: "Zanitek 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50145029"
+//true??
+* identifier[pcid].value = "50145029"
 
 * name = "Zanitek 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -46143,7 +47242,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46167,7 +47266,8 @@ Title: "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 30 Comprimido
 Description: "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -46185,7 +47285,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46209,7 +47309,8 @@ Title: "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 10 Comprimido
 Description: "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133470"
+//true??
+* identifier[pcid].value = "50133470"
 
 * name = "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 10 Comprimido Blister"
 
@@ -46227,7 +47328,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46251,7 +47352,8 @@ Title: "Perindopril + Indapamida Tolife 4 mg + 1.25 mg Comprimido 30 Comprimido 
 Description: "Perindopril + Indapamida Tolife 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Tolife 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -46269,7 +47371,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46293,7 +47395,8 @@ Title: "Perindopril + Indapamida toLife 8 mg + 2.5 mg Comprimido 30 Comprimido B
 Description: "Perindopril + Indapamida toLife 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Perindopril + Indapamida toLife 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -46311,7 +47414,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46335,7 +47438,8 @@ Title: "Ben-u-ron Caff 500 mg + 65 mg Comprimido 20 Comprimido Blister"
 Description: "Ben-u-ron Caff 500 mg + 65 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50100939"
+//true??
+* identifier[pcid].value = "50100939"
 
 * name = "Ben-u-ron Caff 500 mg + 65 mg Comprimido 20 Comprimido Blister"
 
@@ -46353,7 +47457,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46377,7 +47481,8 @@ Title: "Omeprazol Vitória 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Vitória 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol Vitória 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -46395,7 +47500,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46419,7 +47524,8 @@ Title: "Drosure 3 mg + 0.03 mg Comprimido revestido por película 28 Comprimido 
 Description: "Drosure 3 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050800"
+//true??
+* identifier[pcid].value = "50050800"
 
 * name = "Drosure 3 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -46437,7 +47543,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46461,7 +47567,8 @@ Title: "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimid
 Description: "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050028"
+//true??
+* identifier[pcid].value = "50050028"
 
 * name = "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -46479,7 +47586,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46503,7 +47610,8 @@ Title: "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimid
 Description: "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50050036"
+//true??
+* identifier[pcid].value = "50050036"
 
 * name = "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -46521,7 +47629,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46545,7 +47653,8 @@ Title: "Perindopril Bluepharma 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Bluepharma 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Perindopril Bluepharma 4 mg Comprimido 30 Comprimido Blister"
 
@@ -46563,7 +47672,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46587,7 +47696,8 @@ Title: "Perindopril Bluepharma 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Bluepharma 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Bluepharma 8 mg Comprimido 30 Comprimido Blister"
 
@@ -46605,7 +47715,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46629,7 +47739,8 @@ Title: "Nurofen Musc 400 mg Comprimido revestido 24 Comprimido Blister"
 Description: "Nurofen Musc 400 mg Comprimido revestido 24 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004280"
+//true??
+* identifier[pcid].value = "50004280"
 
 * name = "Nurofen Musc 400 mg Comprimido revestido 24 Comprimido Blister"
 
@@ -46647,7 +47758,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46671,7 +47782,8 @@ Title: "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -46689,7 +47801,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46713,7 +47825,8 @@ Title: "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -46731,7 +47844,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46755,7 +47868,8 @@ Title: "Coversyl 10 mg Comprimido orodispersível 30 Comprimido Recipiente para 
 Description: "Coversyl 10 mg Comprimido orodispersível 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50052608"
+//true??
+* identifier[pcid].value = "50052608"
 
 * name = "Coversyl 10 mg Comprimido orodispersível 30 Comprimido Recipiente para comprimidos"
 
@@ -46773,7 +47887,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46797,7 +47911,8 @@ Title: "Metformina Mylan 500 mg Comprimido revestido por película 60 Comprimido
 Description: "Metformina Mylan 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009010"
+//true??
+* identifier[pcid].value = "50009010"
 
 * name = "Metformina Mylan 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -46815,7 +47930,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46839,7 +47954,8 @@ Title: "Metformina Mylan 500 mg Comprimido revestido por película 20 Comprimido
 Description: "Metformina Mylan 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009028"
+//true??
+* identifier[pcid].value = "50009028"
 
 * name = "Metformina Mylan 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -46857,7 +47973,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46881,7 +47997,8 @@ Title: "Metformina Mylan 850 mg Comprimido revestido por película 60 Comprimido
 Description: "Metformina Mylan 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Metformina Mylan 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -46899,7 +48016,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46923,7 +48040,8 @@ Title: "Metformina Mylan 1000 mg Comprimido revestido por película 60 Comprimid
 Description: "Metformina Mylan 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Metformina Mylan 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -46941,7 +48059,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -46965,7 +48083,8 @@ Title: "Ibuprofeno Pharmakern 400 mg Comprimido revestido por película 20 Compr
 Description: "Ibuprofeno Pharmakern 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Pharmakern 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -46983,7 +48102,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47007,7 +48126,8 @@ Title: "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 60 Compr
 Description: "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -47025,7 +48145,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47049,7 +48169,8 @@ Title: "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 20 Compr
 Description: "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -47067,7 +48188,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47091,7 +48212,8 @@ Title: "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-* identifier.value = "50004417"
+//true??
+* identifier[pcid].value = "50004417"
 
 * name = "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -47109,7 +48231,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -47133,7 +48255,8 @@ Title: "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 50 g"
 Description: "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50019805"
+//true??
+* identifier[pcid].value = "50019805"
 
 * name = "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 50 g"
 
@@ -47151,7 +48274,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -47175,7 +48298,8 @@ Title: "Clotrimazol Generis 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Clotrimazol Generis 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50008943"
+//true??
+* identifier[pcid].value = "50008943"
 
 * name = "Clotrimazol Generis 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -47193,7 +48317,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -47217,7 +48341,8 @@ Title: "Clotrimazol Bluepharma 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Clotrimazol Bluepharma 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-* identifier.value = "50004417"
+//true??
+* identifier[pcid].value = "50004417"
 
 * name = "Clotrimazol Bluepharma 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -47235,7 +48360,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -47259,7 +48384,8 @@ Title: "Clotrimazol Bluepharma 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Clotrimazol Bluepharma 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50008943"
+//true??
+* identifier[pcid].value = "50008943"
 
 * name = "Clotrimazol Bluepharma 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -47277,7 +48403,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -47301,7 +48427,8 @@ Title: "Diclofenac Bluepharma 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Bluepharma 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclofenac Bluepharma 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -47319,7 +48446,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -47343,7 +48470,8 @@ Title: "Ibuprofeno Mylan 400 mg Comprimido revestido por película 20 Comprimido
 Description: "Ibuprofeno Mylan 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Mylan 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -47361,7 +48489,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47385,7 +48513,8 @@ Title: "Ibuprofeno Mylan 400 mg Comprimido revestido por película 60 Comprimido
 Description: "Ibuprofeno Mylan 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004263"
+//true??
+* identifier[pcid].value = "50004263"
 
 * name = "Ibuprofeno Mylan 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -47403,7 +48532,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47427,7 +48556,8 @@ Title: "Ibuprofeno Mylan 600 mg Comprimido revestido por película 20 Comprimido
 Description: "Ibuprofeno Mylan 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Mylan 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -47445,7 +48575,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47469,7 +48599,8 @@ Title: "Ibuprofeno Mylan 600 mg Comprimido revestido por película 60 Comprimido
 Description: "Ibuprofeno Mylan 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004298"
+//true??
+* identifier[pcid].value = "50004298"
 
 * name = "Ibuprofeno Mylan 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -47487,7 +48618,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47511,7 +48642,8 @@ Title: "Dimidon 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Dimidon 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Dimidon 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -47529,7 +48661,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47553,7 +48685,8 @@ Title: "Dimidon 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Dimidon 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004263"
+//true??
+* identifier[pcid].value = "50004263"
 
 * name = "Dimidon 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -47571,7 +48704,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47595,7 +48728,8 @@ Title: "Paracetamol GP 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol GP 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol GP 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -47613,7 +48747,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47637,7 +48771,8 @@ Title: "Ibuprofeno Farmoz 400 mg Comprimido revestido por película 20 Comprimid
 Description: "Ibuprofeno Farmoz 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Farmoz 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -47655,7 +48790,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47679,7 +48814,8 @@ Title: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido B
 Description: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50156829"
+//true??
+* identifier[pcid].value = "50156829"
 
 * name = "Amelye 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -47697,7 +48833,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47721,7 +48857,8 @@ Title: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido B
 Description: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50156837"
+//true??
+* identifier[pcid].value = "50156837"
 
 * name = "Amelye 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -47739,7 +48876,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47763,7 +48900,8 @@ Title: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 168 Comprimido 
 Description: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 168 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50156845"
+//true??
+* identifier[pcid].value = "50156845"
 
 * name = "Amelye 2 mg + 0.03 mg Comprimido revestido por película 168 Comprimido Blister"
 
@@ -47781,7 +48919,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47805,7 +48943,8 @@ Title: "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 14 Comprimido 
 Description: "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133470"
+//true??
+* identifier[pcid].value = "50133470"
 
 * name = "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -47823,7 +48962,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47847,7 +48986,8 @@ Title: "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 30 Comprimido 
 Description: "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -47865,7 +49005,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47889,7 +49029,8 @@ Title: "Taptiqom 0.015 mg/ml + 5 mg/ml Colírio, solução em recipiente unidose
 Description: "Taptiqom 0.015 mg/ml + 5 mg/ml Colírio, solução em recipiente unidose 30 Recipiente unidose 0,3 ml"
 Usage: #example
 
-* identifier.value = "50151240"
+//true??
+* identifier[pcid].value = "50151240"
 
 * name = "Taptiqom 0.015 mg/ml + 5 mg/ml Colírio, solução em recipiente unidose 30 Recipiente unidose 0,3 ml"
 
@@ -47907,7 +49048,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -47931,7 +49072,8 @@ Title: "Imatinib Accord 100 mg Comprimido revestido por película 60 Comprimido 
 Description: "Imatinib Accord 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040324"
+//true??
+* identifier[pcid].value = "50040324"
 
 * name = "Imatinib Accord 100 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -47949,7 +49091,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -47973,7 +49115,8 @@ Title: "Imatinib Accord 400 mg Comprimido revestido por película 30 Comprimido 
 Description: "Imatinib Accord 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040308"
+//true??
+* identifier[pcid].value = "50040308"
 
 * name = "Imatinib Accord 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -47991,7 +49134,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48015,7 +49158,8 @@ Title: "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 14 Comprimi
 Description: "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50141015"
+//true??
+* identifier[pcid].value = "50141015"
 
 * name = "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -48033,7 +49177,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48057,7 +49201,8 @@ Title: "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 56 Comprimi
 Description: "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50141023"
+//true??
+* identifier[pcid].value = "50141023"
 
 * name = "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -48075,7 +49220,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48099,7 +49244,8 @@ Title: "Cholib 40 mg + 145 mg Comprimido revestido por película 30 Comprimido B
 Description: "Cholib 40 mg + 145 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50138600"
+//true??
+* identifier[pcid].value = "50138600"
 
 * name = "Cholib 40 mg + 145 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -48117,7 +49263,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48141,7 +49287,8 @@ Title: "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 14 Comprim
 Description: "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50141112"
+//true??
+* identifier[pcid].value = "50141112"
 
 * name = "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -48159,7 +49306,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48183,7 +49330,8 @@ Title: "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 56 Comprim
 Description: "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50141120"
+//true??
+* identifier[pcid].value = "50141120"
 
 * name = "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -48201,7 +49349,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48225,7 +49373,8 @@ Title: "Paracetamol Farmoz 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Farmoz 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Farmoz 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -48243,7 +49392,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48267,7 +49416,8 @@ Title: "Fortacin 150 mg/ml + 50 mg/ml Solução para pulverização cutânea 1 R
 Description: "Fortacin 150 mg/ml + 50 mg/ml Solução para pulverização cutânea 1 Recipiente pressurizado"
 Usage: #example
 
-* identifier.value = "50160141"
+//true??
+* identifier[pcid].value = "50160141"
 
 * name = "Fortacin 150 mg/ml + 50 mg/ml Solução para pulverização cutânea 1 Recipiente pressurizado"
 
@@ -48285,7 +49435,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -48309,7 +49459,8 @@ Title: "Enalapril + Lercanidipina Teva 10 mg + 10 mg Comprimido revestido por pe
 Description: "Enalapril + Lercanidipina Teva 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Enalapril + Lercanidipina Teva 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -48327,7 +49478,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48351,7 +49502,8 @@ Title: "Enalapril + Lercanidipina Teva 20 mg + 10 mg Comprimido revestido por pe
 Description: "Enalapril + Lercanidipina Teva 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Enalapril + Lercanidipina Teva 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -48369,7 +49521,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48393,7 +49545,8 @@ Title: "Enalapril + Lercanidipina Ratiopharm 10 mg + 10 mg Comprimido revestido 
 Description: "Enalapril + Lercanidipina Ratiopharm 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Enalapril + Lercanidipina Ratiopharm 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -48411,7 +49564,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48435,7 +49588,8 @@ Title: "Enalapril + Lercanidipina Ratiopharm 20 mg + 10 mg Comprimido revestido 
 Description: "Enalapril + Lercanidipina Ratiopharm 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Enalapril + Lercanidipina Ratiopharm 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -48453,7 +49607,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48477,7 +49631,8 @@ Title: "Xigduo 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Bl
 Description: "Xigduo 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50142518"
+//true??
+* identifier[pcid].value = "50142518"
 
 * name = "Xigduo 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -48495,7 +49650,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48519,7 +49674,8 @@ Title: "Xigduo 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Bl
 Description: "Xigduo 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50142526"
+//true??
+* identifier[pcid].value = "50142526"
 
 * name = "Xigduo 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -48537,7 +49693,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48561,7 +49717,8 @@ Title: "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 14 Comprimido 
 Description: "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133470"
+//true??
+* identifier[pcid].value = "50133470"
 
 * name = "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -48579,7 +49736,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48603,7 +49760,8 @@ Title: "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 30 Comprimido 
 Description: "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -48621,7 +49779,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48645,7 +49803,8 @@ Title: "Perindopril + Indapamida Alter 4 mg + 1.25 mg Comprimido 30 Comprimido B
 Description: "Perindopril + Indapamida Alter 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Alter 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -48663,7 +49822,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48687,7 +49846,8 @@ Title: "Perindopril + Indapamida Alter 8 mg + 2.5 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril + Indapamida Alter 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Perindopril + Indapamida Alter 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -48705,7 +49865,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48729,7 +49889,8 @@ Title: "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido efervescente 2
 Description: "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50193929"
+//true??
+* identifier[pcid].value = "50193929"
 
 * name = "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -48747,7 +49908,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48771,7 +49932,8 @@ Title: "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido efervescente 20 
 Description: "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50193996"
+//true??
+* identifier[pcid].value = "50193996"
 
 * name = "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -48789,7 +49951,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48813,7 +49975,8 @@ Title: "Ben-u-ron direct 500 mg Granulado 10 Saqueta"
 Description: "Ben-u-ron direct 500 mg Granulado 10 Saqueta"
 Usage: #example
 
-* identifier.value = "50041320"
+//true??
+* identifier[pcid].value = "50041320"
 
 * name = "Ben-u-ron direct 500 mg Granulado 10 Saqueta"
 
@@ -48831,7 +49994,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48855,7 +50018,8 @@ Title: "Xigduo 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido B
 Description: "Xigduo 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50142534"
+//true??
+* identifier[pcid].value = "50142534"
 
 * name = "Xigduo 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -48873,7 +50037,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48897,7 +50061,8 @@ Title: "Xigduo 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido B
 Description: "Xigduo 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50142542"
+//true??
+* identifier[pcid].value = "50142542"
 
 * name = "Xigduo 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -48915,7 +50080,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48939,7 +50104,8 @@ Title: "Lidofon 1 mg + 5 mg Comprimido para chupar 24 Comprimido Blister"
 Description: "Lidofon 1 mg + 5 mg Comprimido para chupar 24 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50151800"
+//true??
+* identifier[pcid].value = "50151800"
 
 * name = "Lidofon 1 mg + 5 mg Comprimido para chupar 24 Comprimido Blister"
 
@@ -48957,7 +50123,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -48981,7 +50147,8 @@ Title: "Perindopril + Indapamida Generis 8 mg + 2.5 mg Comprimido 30 Comprimido 
 Description: "Perindopril + Indapamida Generis 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Perindopril + Indapamida Generis 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -48999,7 +50166,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49023,7 +50190,8 @@ Title: "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 20 Comprimi
 Description: "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 20 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50143905"
+//true??
+* identifier[pcid].value = "50143905"
 
 * name = "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 20 Comprimido Frasco"
 
@@ -49041,7 +50209,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49065,7 +50233,8 @@ Title: "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 60 Comprimi
 Description: "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50143913"
+//true??
+* identifier[pcid].value = "50143913"
 
 * name = "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Frasco"
 
@@ -49083,7 +50252,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49107,7 +50276,8 @@ Title: "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -49125,7 +50295,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49149,7 +50319,8 @@ Title: "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 15 Comprimido Bl
 Description: "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 15 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133454"
+//true??
+* identifier[pcid].value = "50133454"
 
 * name = "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 15 Comprimido Blister"
 
@@ -49167,7 +50338,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49191,7 +50362,8 @@ Title: "Perindopril + Amlodipina Zentiva 4 mg + 10 mg Comprimido 30 Comprimido B
 Description: "Perindopril + Amlodipina Zentiva 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Perindopril + Amlodipina Zentiva 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -49209,7 +50381,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49233,7 +50405,8 @@ Title: "Perindopril + Amlodipina Zentiva 8 mg + 5 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril + Amlodipina Zentiva 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Perindopril + Amlodipina Zentiva 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -49251,7 +50424,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49275,7 +50448,8 @@ Title: "Perindopril + Amlodipina Zentiva 8 mg + 10 mg Comprimido 30 Comprimido B
 Description: "Perindopril + Amlodipina Zentiva 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Perindopril + Amlodipina Zentiva 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -49293,7 +50467,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49317,7 +50491,8 @@ Title: "Mydrane Associação Solução injetável 20 Ampola"
 Description: "Mydrane Associação Solução injetável 20 Ampola"
 Usage: #example
 
-* identifier.value = "50154478"
+//true??
+* identifier[pcid].value = "50154478"
 
 * name = "Mydrane Associação Solução injetável 20 Ampola"
 
@@ -49335,7 +50510,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -49359,7 +50534,8 @@ Title: "Nioben 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 Description: "Nioben 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121723"
+//true??
+* identifier[pcid].value = "50121723"
 
 * name = "Nioben 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 
@@ -49377,7 +50553,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49401,7 +50577,8 @@ Title: "Nioben 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Description: "Nioben 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121731"
+//true??
+* identifier[pcid].value = "50121731"
 
 * name = "Nioben 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -49419,7 +50596,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49443,7 +50620,8 @@ Title: "Nioben 5 mg + 80 mg Comprimido 14 Comprimido Blister"
 Description: "Nioben 5 mg + 80 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121758"
+//true??
+* identifier[pcid].value = "50121758"
 
 * name = "Nioben 5 mg + 80 mg Comprimido 14 Comprimido Blister"
 
@@ -49461,7 +50639,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49485,7 +50663,8 @@ Title: "Nioben 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Description: "Nioben 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121766"
+//true??
+* identifier[pcid].value = "50121766"
 
 * name = "Nioben 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 
@@ -49503,7 +50682,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49527,7 +50706,8 @@ Title: "Gaviscon Morango 250 mg + 133.5 mg + 80 mg Comprimido para mastigar 24 C
 Description: "Gaviscon Morango 250 mg + 133.5 mg + 80 mg Comprimido para mastigar 24 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50150669"
+//true??
+* identifier[pcid].value = "50150669"
 
 * name = "Gaviscon Morango 250 mg + 133.5 mg + 80 mg Comprimido para mastigar 24 Comprimido Blister"
 
@@ -49545,7 +50725,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49569,7 +50749,8 @@ Title: "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 14 Comprimido Bl
 Description: "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -49587,7 +50768,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49611,7 +50792,8 @@ Title: "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 28 Comprimido Bl
 Description: "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -49629,7 +50811,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49653,7 +50835,8 @@ Title: "Sinvastatina + Ezetimiba Mylan 20 mg + 10 mg Comprimido 28 Comprimido Bl
 Description: "Sinvastatina + Ezetimiba Mylan 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Mylan 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -49671,7 +50854,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49695,7 +50878,8 @@ Title: "Sinvastatina + Ezetimiba Mylan 40 mg + 10 mg Comprimido 28 Comprimido Bl
 Description: "Sinvastatina + Ezetimiba Mylan 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Mylan 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -49713,7 +50897,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49737,7 +50921,8 @@ Title: "Omeprazol Vitória 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Vitória 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Vitória 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -49755,7 +50940,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49779,7 +50964,8 @@ Title: "Omeprazol Vitória 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Vitória 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Vitória 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -49797,7 +50983,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49821,7 +51007,8 @@ Title: "Co-Amlessa 2 mg + 0.625 mg + 5 mg Comprimido 10 Comprimido Blister"
 Description: "Co-Amlessa 2 mg + 0.625 mg + 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50146092"
+//true??
+* identifier[pcid].value = "50146092"
 
 * name = "Co-Amlessa 2 mg + 0.625 mg + 5 mg Comprimido 10 Comprimido Blister"
 
@@ -49839,7 +51026,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49863,7 +51050,8 @@ Title: "Co-Amlessa 4 mg + 1.25 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Co-Amlessa 4 mg + 1.25 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50146114"
+//true??
+* identifier[pcid].value = "50146114"
 
 * name = "Co-Amlessa 4 mg + 1.25 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -49881,7 +51069,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49905,7 +51093,8 @@ Title: "Co-Amlessa 4 mg + 1.25 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Co-Amlessa 4 mg + 1.25 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50146130"
+//true??
+* identifier[pcid].value = "50146130"
 
 * name = "Co-Amlessa 4 mg + 1.25 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -49923,7 +51112,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49947,7 +51136,8 @@ Title: "Co-Amlessa 8 mg + 2.5 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Co-Amlessa 8 mg + 2.5 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50146165"
+//true??
+* identifier[pcid].value = "50146165"
 
 * name = "Co-Amlessa 8 mg + 2.5 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -49965,7 +51155,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -49989,7 +51179,8 @@ Title: "Co-Amlessa 8 mg + 2.5 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Co-Amlessa 8 mg + 2.5 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50146190"
+//true??
+* identifier[pcid].value = "50146190"
 
 * name = "Co-Amlessa 8 mg + 2.5 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -50007,7 +51198,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50031,7 +51222,8 @@ Title: "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 14 Comprimi
 Description: "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133470"
+//true??
+* identifier[pcid].value = "50133470"
 
 * name = "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -50049,7 +51241,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50073,7 +51265,8 @@ Title: "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 30 Comprimi
 Description: "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133489"
+//true??
+* identifier[pcid].value = "50133489"
 
 * name = "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -50091,7 +51284,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50115,7 +51308,8 @@ Title: "Perindopril + Indapamida Vitória 4 mg + 1.25 mg Comprimido 30 Comprimid
 Description: "Perindopril + Indapamida Vitória 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Vitória 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -50133,7 +51327,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50157,7 +51351,8 @@ Title: "Perindopril + Indapamida Vitória 8 mg + 2.5 mg Comprimido 30 Comprimido
 Description: "Perindopril + Indapamida Vitória 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Perindopril + Indapamida Vitória 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -50175,7 +51370,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50199,7 +51394,8 @@ Title: "Panadol Gripus 500 mg + 6.1 mg + 100 mg Cápsula 16 Cápsula Blister"
 Description: "Panadol Gripus 500 mg + 6.1 mg + 100 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50158201"
+//true??
+* identifier[pcid].value = "50158201"
 
 * name = "Panadol Gripus 500 mg + 6.1 mg + 100 mg Cápsula 16 Cápsula Blister"
 
@@ -50217,7 +51413,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50241,7 +51437,8 @@ Title: "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido revestido por 
 Description: "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -50259,7 +51456,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50283,7 +51480,8 @@ Title: "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido revestido por pe
 Description: "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50059700"
+//true??
+* identifier[pcid].value = "50059700"
 
 * name = "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -50301,7 +51499,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50325,7 +51523,8 @@ Title: "Dimidon 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Dimidon 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50004336"
+//true??
+* identifier[pcid].value = "50004336"
 
 * name = "Dimidon 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -50343,7 +51542,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -50367,7 +51566,8 @@ Title: "Dimidon 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Dimidon 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50057642"
+//true??
+* identifier[pcid].value = "50057642"
 
 * name = "Dimidon 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -50385,7 +51585,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -50409,7 +51609,8 @@ Title: "Wergyl 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Wergyl 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Wergyl 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -50427,7 +51628,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -50451,7 +51652,8 @@ Title: "Enoxaparina Rovi 100 mg/1 ml Solução injetável em seringa pré-cheia 
 Description: "Enoxaparina Rovi 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172360"
+//true??
+* identifier[pcid].value = "50172360"
 
 * name = "Enoxaparina Rovi 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -50469,7 +51671,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -50493,7 +51695,8 @@ Title: "Abasaglar 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pr
 Description: "Abasaglar 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré-cheia"
 Usage: #example
 
-* identifier.value = "50159658"
+//true??
+* identifier[pcid].value = "50159658"
 
 * name = "Abasaglar 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré-cheia"
 
@@ -50511,7 +51714,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -50535,7 +51738,8 @@ Title: "Paracetamol Wellsmed 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Wellsmed 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Paracetamol Wellsmed 500 mg Comprimido 20 Comprimido Blister"
 
@@ -50553,7 +51757,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50577,7 +51781,8 @@ Title: "Diclofenac Wellsmed 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Wellsmed 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diclofenac Wellsmed 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -50595,7 +51800,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -50619,7 +51824,8 @@ Title: "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película 30 Compr
 Description: "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50156314"
+//true??
+* identifier[pcid].value = "50156314"
 
 * name = "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -50637,7 +51843,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50661,7 +51867,8 @@ Title: "Triveram 40 mg + 10 mg + 10 mg Comprimido revestido por película 30 Com
 Description: "Triveram 40 mg + 10 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50156306"
+//true??
+* identifier[pcid].value = "50156306"
 
 * name = "Triveram 40 mg + 10 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -50679,7 +51886,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50703,7 +51910,8 @@ Title: "Triveram 20 mg + 10 mg + 5 mg Comprimido revestido por película 30 Comp
 Description: "Triveram 20 mg + 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50156284"
+//true??
+* identifier[pcid].value = "50156284"
 
 * name = "Triveram 20 mg + 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -50721,7 +51929,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50745,7 +51953,8 @@ Title: "Triveram 20 mg + 5 mg + 5 mg Comprimido revestido por película 30 Compr
 Description: "Triveram 20 mg + 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50156276"
+//true??
+* identifier[pcid].value = "50156276"
 
 * name = "Triveram 20 mg + 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -50763,7 +51972,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50787,7 +51996,8 @@ Title: "Paracetamol Alter 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Alter 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Paracetamol Alter 500 mg Comprimido 20 Comprimido Blister"
 
@@ -50805,7 +52015,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50829,7 +52039,8 @@ Title: "Flucavex 500 mg + 25 mg + 200 mg Granulado para solução oral em saquet
 Description: "Flucavex 500 mg + 25 mg + 200 mg Granulado para solução oral em saqueta 8 Saqueta"
 Usage: #example
 
-* identifier.value = "50163329"
+//true??
+* identifier[pcid].value = "50163329"
 
 * name = "Flucavex 500 mg + 25 mg + 200 mg Granulado para solução oral em saqueta 8 Saqueta"
 
@@ -50847,7 +52058,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50871,7 +52082,8 @@ Title: "Softacort 3.35 mg/ml Colírio, solução em recipiente unidose 30 Recipi
 Description: "Softacort 3.35 mg/ml Colírio, solução em recipiente unidose 30 Recipiente unidose 0,4 ml"
 Usage: #example
 
-* identifier.value = "50167219"
+//true??
+* identifier[pcid].value = "50167219"
 
 * name = "Softacort 3.35 mg/ml Colírio, solução em recipiente unidose 30 Recipiente unidose 0,4 ml"
 
@@ -50889,7 +52101,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -50913,7 +52125,8 @@ Title: "Imatinib Normon 400 mg Comprimido revestido por película 30 Comprimido 
 Description: "Imatinib Normon 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040308"
+//true??
+* identifier[pcid].value = "50040308"
 
 * name = "Imatinib Normon 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -50931,7 +52144,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50955,7 +52168,8 @@ Title: "Cosyrel 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Rec
 Description: "Cosyrel 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50156373"
+//true??
+* identifier[pcid].value = "50156373"
 
 * name = "Cosyrel 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -50973,7 +52187,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -50997,7 +52211,8 @@ Title: "Cosyrel 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Re
 Description: "Cosyrel 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50156390"
+//true??
+* identifier[pcid].value = "50156390"
 
 * name = "Cosyrel 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -51015,7 +52230,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51039,7 +52254,8 @@ Title: "Cosyrel 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Re
 Description: "Cosyrel 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50156403"
+//true??
+* identifier[pcid].value = "50156403"
 
 * name = "Cosyrel 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -51057,7 +52273,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51081,7 +52297,8 @@ Title: "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido de libertação pr
 Description: "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50056182"
+//true??
+* identifier[pcid].value = "50056182"
 
 * name = "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -51099,7 +52316,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51123,7 +52340,8 @@ Title: "Amoxicilina + Ácido clavulânico Pentafarma 875 mg + 125 mg Comprimido 
 Description: "Amoxicilina + Ácido clavulânico Pentafarma 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Amoxicilina + Ácido clavulânico Pentafarma 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 
@@ -51141,7 +52359,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51165,7 +52383,8 @@ Title: "Skudexa 75 mg + 25 mg Comprimido revestido por película 20 Comprimido B
 Description: "Skudexa 75 mg + 25 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50157310"
+//true??
+* identifier[pcid].value = "50157310"
 
 * name = "Skudexa 75 mg + 25 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -51183,7 +52402,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51207,7 +52426,8 @@ Title: "Enalapril + Lercanidipina Ciclum 10 mg + 10 mg Comprimido revestido por 
 Description: "Enalapril + Lercanidipina Ciclum 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Enalapril + Lercanidipina Ciclum 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51225,7 +52445,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51249,7 +52469,8 @@ Title: "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por 
 Description: "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116320"
+//true??
+* identifier[pcid].value = "50116320"
 
 * name = "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -51267,7 +52488,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51291,7 +52512,8 @@ Title: "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por 
 Description: "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51309,7 +52531,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51333,7 +52555,8 @@ Title: "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por pelícu
 Description: "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112147"
+//true??
+* identifier[pcid].value = "50112147"
 
 * name = "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -51351,7 +52574,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51375,7 +52598,8 @@ Title: "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por pelícu
 Description: "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112163"
+//true??
+* identifier[pcid].value = "50112163"
 
 * name = "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51393,7 +52617,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51417,7 +52641,8 @@ Title: "Amlodipina + Valsartan TAD 5 mg + 160 mg Comprimido revestido por pelíc
 Description: "Amlodipina + Valsartan TAD 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112201"
+//true??
+* identifier[pcid].value = "50112201"
 
 * name = "Amlodipina + Valsartan TAD 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51435,7 +52660,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51459,7 +52684,8 @@ Title: "Perindopril Aurovitas 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Aurovitas 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Perindopril Aurovitas 4 mg Comprimido 30 Comprimido Blister"
 
@@ -51477,7 +52703,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51501,7 +52727,8 @@ Title: "Perindopril Aurovitas 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Aurovitas 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Aurovitas 8 mg Comprimido 30 Comprimido Blister"
 
@@ -51519,7 +52746,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51543,7 +52770,8 @@ Title: "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por p
 Description: "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112147"
+//true??
+* identifier[pcid].value = "50112147"
 
 * name = "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -51561,7 +52789,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51585,7 +52813,8 @@ Title: "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por p
 Description: "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112163"
+//true??
+* identifier[pcid].value = "50112163"
 
 * name = "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51603,7 +52832,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51627,7 +52856,8 @@ Title: "Amlodipina + Valsartan Aurovitas 5 mg + 160 mg Comprimido revestido por 
 Description: "Amlodipina + Valsartan Aurovitas 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112201"
+//true??
+* identifier[pcid].value = "50112201"
 
 * name = "Amlodipina + Valsartan Aurovitas 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51645,7 +52875,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51669,7 +52899,8 @@ Title: "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por pel
 Description: "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112147"
+//true??
+* identifier[pcid].value = "50112147"
 
 * name = "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -51687,7 +52918,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51711,7 +52942,8 @@ Title: "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por pel
 Description: "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112163"
+//true??
+* identifier[pcid].value = "50112163"
 
 * name = "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51729,7 +52961,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51753,7 +52985,8 @@ Title: "Amlodipina + Valsartan Zentiva 5 mg + 160 mg Comprimido revestido por pe
 Description: "Amlodipina + Valsartan Zentiva 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112201"
+//true??
+* identifier[pcid].value = "50112201"
 
 * name = "Amlodipina + Valsartan Zentiva 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51771,7 +53004,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51795,7 +53028,8 @@ Title: "Enalapril + Lercanidipina Alter 10 mg + 10 mg Comprimido revestido por p
 Description: "Enalapril + Lercanidipina Alter 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Enalapril + Lercanidipina Alter 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51813,7 +53047,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51837,7 +53071,8 @@ Title: "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por p
 Description: "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116320"
+//true??
+* identifier[pcid].value = "50116320"
 
 * name = "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -51855,7 +53090,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51879,7 +53114,8 @@ Title: "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por p
 Description: "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51897,7 +53133,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51921,7 +53157,8 @@ Title: "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por pel�
 Description: "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112147"
+//true??
+* identifier[pcid].value = "50112147"
 
 * name = "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -51939,7 +53176,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -51963,7 +53200,8 @@ Title: "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por pel�
 Description: "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112163"
+//true??
+* identifier[pcid].value = "50112163"
 
 * name = "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -51981,7 +53219,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52005,7 +53243,8 @@ Title: "Amlodipina + Valsartan Ciclum 5 mg + 160 mg Comprimido revestido por pel
 Description: "Amlodipina + Valsartan Ciclum 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112201"
+//true??
+* identifier[pcid].value = "50112201"
 
 * name = "Amlodipina + Valsartan Ciclum 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -52023,7 +53262,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52047,7 +53286,8 @@ Title: "Tramadol + Paracetamol Aurovitas 37.5 mg + 325 mg Comprimido revestido p
 Description: "Tramadol + Paracetamol Aurovitas 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50042181"
+//true??
+* identifier[pcid].value = "50042181"
 
 * name = "Tramadol + Paracetamol Aurovitas 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -52065,7 +53305,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52089,7 +53329,8 @@ Title: "Ikervis 1 mg/ml Colírio, emulsão 30 Recipiente unidose 0,3 ml"
 Description: "Ikervis 1 mg/ml Colírio, emulsão 30 Recipiente unidose 0,3 ml"
 Usage: #example
 
-* identifier.value = "50158279"
+//true??
+* identifier[pcid].value = "50158279"
 
 * name = "Ikervis 1 mg/ml Colírio, emulsão 30 Recipiente unidose 0,3 ml"
 
@@ -52107,7 +53348,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -52131,7 +53372,8 @@ Title: "Perindopril + Amlodipina Ciclum 4 mg + 5 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Amlodipina Ciclum 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Perindopril + Amlodipina Ciclum 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -52149,7 +53391,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52173,7 +53415,8 @@ Title: "Perindopril + Amlodipina Ciclum 8 mg + 5 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Amlodipina Ciclum 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Perindopril + Amlodipina Ciclum 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -52191,7 +53434,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52215,7 +53458,8 @@ Title: "Perindopril + Amlodipina Ciclum 8 mg + 10 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril + Amlodipina Ciclum 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Perindopril + Amlodipina Ciclum 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -52233,7 +53477,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52257,7 +53501,8 @@ Title: "Amlodipina + Valsartan ratiopharm 5 mg + 80 mg Comprimido revestido por 
 Description: "Amlodipina + Valsartan ratiopharm 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112147"
+//true??
+* identifier[pcid].value = "50112147"
 
 * name = "Amlodipina + Valsartan ratiopharm 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -52275,7 +53520,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52299,7 +53544,8 @@ Title: "Amlodipina + Valsartan ratiopharm 5 mg + 160 mg Comprimido revestido por
 Description: "Amlodipina + Valsartan ratiopharm 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112201"
+//true??
+* identifier[pcid].value = "50112201"
 
 * name = "Amlodipina + Valsartan ratiopharm 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -52317,7 +53563,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52341,7 +53587,8 @@ Title: "Ibuprofeno Algik 400 mg Comprimido revestido por película 20 Comprimido
 Description: "Ibuprofeno Algik 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Algik 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -52359,7 +53606,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52383,7 +53630,8 @@ Title: "Holsigrip 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Description: "Holsigrip 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50085379"
+//true??
+* identifier[pcid].value = "50085379"
 
 * name = "Holsigrip 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 
@@ -52401,7 +53649,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52425,7 +53673,8 @@ Title: "Bisolgripal 200 mg + 30 mg Comprimido revestido por película 20 Comprim
 Description: "Bisolgripal 200 mg + 30 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50155920"
+//true??
+* identifier[pcid].value = "50155920"
 
 * name = "Bisolgripal 200 mg + 30 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -52443,7 +53692,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52467,7 +53716,8 @@ Title: "Toujeo 300 U/ml Solução injetável em caneta pré-cheia 3 Caneta pré-
 Description: "Toujeo 300 U/ml Solução injetável em caneta pré-cheia 3 Caneta pré-cheia"
 Usage: #example
 
-* identifier.value = "50173669"
+//true??
+* identifier[pcid].value = "50173669"
 
 * name = "Toujeo 300 U/ml Solução injetável em caneta pré-cheia 3 Caneta pré-cheia"
 
@@ -52485,7 +53735,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -52509,7 +53759,8 @@ Title: "Synjardy 5 mg + 850 mg Comprimido revestido por película 10 Comprimido 
 Description: "Synjardy 5 mg + 850 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50153838"
+//true??
+* identifier[pcid].value = "50153838"
 
 * name = "Synjardy 5 mg + 850 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -52527,7 +53778,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52551,7 +53802,8 @@ Title: "Synjardy 5 mg + 850 mg Comprimido revestido por película 60 Comprimido 
 Description: "Synjardy 5 mg + 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50153846"
+//true??
+* identifier[pcid].value = "50153846"
 
 * name = "Synjardy 5 mg + 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -52569,7 +53821,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52593,7 +53845,8 @@ Title: "Synjardy 5 mg + 1000 mg Comprimido revestido por película 10 Comprimido
 Description: "Synjardy 5 mg + 1000 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50153854"
+//true??
+* identifier[pcid].value = "50153854"
 
 * name = "Synjardy 5 mg + 1000 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -52611,7 +53864,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52635,7 +53888,8 @@ Title: "Synjardy 5 mg + 1000 mg Comprimido revestido por película 60 Comprimido
 Description: "Synjardy 5 mg + 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50153862"
+//true??
+* identifier[pcid].value = "50153862"
 
 * name = "Synjardy 5 mg + 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -52653,7 +53907,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52677,7 +53931,8 @@ Title: "Synjardy 12.5 mg + 850 mg Comprimido revestido por película 60 Comprimi
 Description: "Synjardy 12.5 mg + 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50153889"
+//true??
+* identifier[pcid].value = "50153889"
 
 * name = "Synjardy 12.5 mg + 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -52695,7 +53950,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52719,7 +53974,8 @@ Title: "Synjardy 12.5 mg + 1000 mg Comprimido revestido por película 60 Comprim
 Description: "Synjardy 12.5 mg + 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50153900"
+//true??
+* identifier[pcid].value = "50153900"
 
 * name = "Synjardy 12.5 mg + 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -52737,7 +53993,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52761,7 +54017,8 @@ Title: "Perindopril Vitória 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Vitória 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062255"
+//true??
+* identifier[pcid].value = "50062255"
 
 * name = "Perindopril Vitória 4 mg Comprimido 30 Comprimido Blister"
 
@@ -52779,7 +54036,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52803,7 +54060,8 @@ Title: "Perindopril Vitória 4 mg Comprimido 10 Comprimido Blister"
 Description: "Perindopril Vitória 4 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062247"
+//true??
+* identifier[pcid].value = "50062247"
 
 * name = "Perindopril Vitória 4 mg Comprimido 10 Comprimido Blister"
 
@@ -52821,7 +54079,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52845,7 +54103,8 @@ Title: "Perindopril Vitória 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Vitória 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Vitória 8 mg Comprimido 30 Comprimido Blister"
 
@@ -52863,7 +54122,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52887,7 +54146,8 @@ Title: "Teriparatida ratiopharm 0.25 mg/ml Solução injetável em caneta pré-c
 Description: "Teriparatida ratiopharm 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta pré-cheia"
 Usage: #example
 
-* identifier.value = "50101390"
+//true??
+* identifier[pcid].value = "50101390"
 
 * name = "Teriparatida ratiopharm 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta pré-cheia"
 
@@ -52905,7 +54165,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -52929,7 +54189,8 @@ Title: "Imatinib Farmoz 100 mg Comprimido revestido por película 60 Comprimido 
 Description: "Imatinib Farmoz 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040324"
+//true??
+* identifier[pcid].value = "50040324"
 
 * name = "Imatinib Farmoz 100 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -52947,7 +54208,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -52971,7 +54232,8 @@ Title: "Imatinib Farmoz 400 mg Comprimido revestido por película 30 Comprimido 
 Description: "Imatinib Farmoz 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040308"
+//true??
+* identifier[pcid].value = "50040308"
 
 * name = "Imatinib Farmoz 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -52989,7 +54251,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53013,7 +54275,8 @@ Title: "Imatinib Mylan 100 mg Comprimido revestido por película 60 Comprimido B
 Description: "Imatinib Mylan 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040324"
+//true??
+* identifier[pcid].value = "50040324"
 
 * name = "Imatinib Mylan 100 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -53031,7 +54294,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53055,7 +54318,8 @@ Title: "Imatinib Mylan 400 mg Comprimido revestido por película 30 Comprimido B
 Description: "Imatinib Mylan 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040308"
+//true??
+* identifier[pcid].value = "50040308"
 
 * name = "Imatinib Mylan 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -53073,7 +54337,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53097,7 +54361,8 @@ Title: "Dolostop Duo 150 mg + 500 mg Comprimido revestido por película 16 Compr
 Description: "Dolostop Duo 150 mg + 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50173316"
+//true??
+* identifier[pcid].value = "50173316"
 
 * name = "Dolostop Duo 150 mg + 500 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -53115,7 +54380,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53139,7 +54404,8 @@ Title: "Seasonique (0.03 mg+0.15 mg) + (0.01 mg) Comprimido revestido por pelíc
 Description: "Seasonique (0.03 mg+0.15 mg) + (0.01 mg) Comprimido revestido por película 91 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50158317"
+//true??
+* identifier[pcid].value = "50158317"
 
 * name = "Seasonique (0.03 mg+0.15 mg) + (0.01 mg) Comprimido revestido por película 91 Comprimido Blister"
 
@@ -53157,7 +54423,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53181,7 +54447,8 @@ Title: "Metformina Aurovitas 850 mg Comprimido revestido por película 20 Compri
 Description: "Metformina Aurovitas 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014862"
+//true??
+* identifier[pcid].value = "50014862"
 
 * name = "Metformina Aurovitas 850 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -53199,7 +54466,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53223,7 +54490,8 @@ Title: "Metformina Aurovitas 850 mg Comprimido revestido por película 60 Compri
 Description: "Metformina Aurovitas 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Metformina Aurovitas 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -53241,7 +54509,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53265,7 +54533,8 @@ Title: "Metformina Aurovitas 1000 mg Comprimido revestido por película 60 Compr
 Description: "Metformina Aurovitas 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Metformina Aurovitas 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -53283,7 +54552,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53307,7 +54576,8 @@ Title: "Zilpen LP 75 mg + 650 mg Comprimido de libertação prolongada 20 Compri
 Description: "Zilpen LP 75 mg + 650 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50056182"
+//true??
+* identifier[pcid].value = "50056182"
 
 * name = "Zilpen LP 75 mg + 650 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -53325,7 +54595,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53349,7 +54619,8 @@ Title: "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido revestido por pel�
 Description: "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50059700"
+//true??
+* identifier[pcid].value = "50059700"
 
 * name = "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -53367,7 +54638,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53391,7 +54662,8 @@ Title: "Paracetamol Algik 32 mg/ml Solução oral 1 Frasco"
 Description: "Paracetamol Algik 32 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50013920"
+//true??
+* identifier[pcid].value = "50013920"
 
 * name = "Paracetamol Algik 32 mg/ml Solução oral 1 Frasco"
 
@@ -53409,7 +54681,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -53433,7 +54705,8 @@ Title: "Amlodipina Aurovitas 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Aurovitas 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Aurovitas 5 mg Comprimido 20 Comprimido Blister"
 
@@ -53451,7 +54724,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53475,7 +54748,8 @@ Title: "Amlodipina Aurovitas 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Aurovitas 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Aurovitas 5 mg Comprimido 60 Comprimido Blister"
 
@@ -53493,7 +54767,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53517,7 +54791,8 @@ Title: "Amlodipina Aurovitas 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Aurovitas 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Aurovitas 10 mg Comprimido 60 Comprimido Blister"
 
@@ -53535,7 +54810,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53559,7 +54834,8 @@ Title: "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 14 Comprimido B
 Description: "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -53577,7 +54853,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53601,7 +54877,8 @@ Title: "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -53619,7 +54896,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53643,7 +54920,8 @@ Title: "Sinvastatina + Ezetimiba Sandoz 20 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba Sandoz 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Sandoz 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -53661,7 +54939,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53685,7 +54963,8 @@ Title: "Sinvastatina + Ezetimiba Sandoz 40 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba Sandoz 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Sandoz 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -53703,7 +54982,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53727,7 +55006,8 @@ Title: "Diflac 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diflac 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Diflac 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -53745,7 +55025,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -53769,7 +55049,8 @@ Title: "Ebymect 850 mg + 5 mg Comprimido revestido por película 14 Comprimido B
 Description: "Ebymect 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50142518"
+//true??
+* identifier[pcid].value = "50142518"
 
 * name = "Ebymect 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -53787,7 +55068,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53811,7 +55092,8 @@ Title: "Ebymect 850 mg + 5 mg Comprimido revestido por película 56 Comprimido B
 Description: "Ebymect 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50142526"
+//true??
+* identifier[pcid].value = "50142526"
 
 * name = "Ebymect 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -53829,7 +55111,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53853,7 +55135,8 @@ Title: "Ebymect 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido 
 Description: "Ebymect 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50142534"
+//true??
+* identifier[pcid].value = "50142534"
 
 * name = "Ebymect 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -53871,7 +55154,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53895,7 +55178,8 @@ Title: "Ebymect 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido 
 Description: "Ebymect 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50142542"
+//true??
+* identifier[pcid].value = "50142542"
 
 * name = "Ebymect 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -53913,7 +55197,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53937,7 +55221,8 @@ Title: "Imatinib Krka d.d. 100 mg Comprimido revestido por película 60 Comprimi
 Description: "Imatinib Krka d.d. 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040324"
+//true??
+* identifier[pcid].value = "50040324"
 
 * name = "Imatinib Krka d.d. 100 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -53955,7 +55240,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -53979,7 +55264,8 @@ Title: "Imatinib Krka d.d. 400 mg Comprimido revestido por película 30 Comprimi
 Description: "Imatinib Krka d.d. 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50040308"
+//true??
+* identifier[pcid].value = "50040308"
 
 * name = "Imatinib Krka d.d. 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -53997,7 +55283,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54021,7 +55307,8 @@ Title: "Gino-Canesten 1 500 mg Cápsula mole vaginal 1 Cápsula Blister"
 Description: "Gino-Canesten 1 500 mg Cápsula mole vaginal 1 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008951"
+//true??
+* identifier[pcid].value = "50008951"
 
 * name = "Gino-Canesten 1 500 mg Cápsula mole vaginal 1 Cápsula Blister"
 
@@ -54039,7 +55326,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54063,7 +55350,8 @@ Title: "Lidocaína Medinfar 20 mg/ml Solução injetável 10 Frasco para injetá
 Description: "Lidocaína Medinfar 20 mg/ml Solução injetável 10 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50160621"
+//true??
+* identifier[pcid].value = "50160621"
 
 * name = "Lidocaína Medinfar 20 mg/ml Solução injetável 10 Frasco para injetáveis"
 
@@ -54081,7 +55369,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -54105,7 +55393,8 @@ Title: "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -54123,7 +55412,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54147,7 +55436,8 @@ Title: "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 14 Comprimido B
 Description: "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -54165,7 +55455,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54189,7 +55479,8 @@ Title: "Sinvastatina + Ezetimiba Ciclum 20 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba Ciclum 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Ciclum 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -54207,7 +55498,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54231,7 +55522,8 @@ Title: "Sinvastatina + Ezetimiba Ciclum 40 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba Ciclum 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Ciclum 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -54249,7 +55541,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54273,7 +55565,8 @@ Title: "Enalapril + Lercanidipina Farmoz 10 mg + 10 mg Comprimido revestido por 
 Description: "Enalapril + Lercanidipina Farmoz 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Enalapril + Lercanidipina Farmoz 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -54291,7 +55584,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54315,7 +55608,8 @@ Title: "Enalapril + Lercanidipina Farmoz 20 mg + 10 mg Comprimido revestido por 
 Description: "Enalapril + Lercanidipina Farmoz 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Enalapril + Lercanidipina Farmoz 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -54333,7 +55627,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54357,7 +55651,8 @@ Title: "Enalapril + Lercanidipina Pentafarma 10 mg + 10 mg Comprimido revestido 
 Description: "Enalapril + Lercanidipina Pentafarma 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Enalapril + Lercanidipina Pentafarma 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -54375,7 +55670,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54399,7 +55694,8 @@ Title: "Enalapril + Lercanidipina Pentafarma 20 mg + 10 mg Comprimido revestido 
 Description: "Enalapril + Lercanidipina Pentafarma 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Enalapril + Lercanidipina Pentafarma 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -54417,7 +55713,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54441,7 +55737,8 @@ Title: "Nurofen Migrxpress 400 mg Comprimido revestido 12 Comprimido Blister"
 Description: "Nurofen Migrxpress 400 mg Comprimido revestido 12 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Nurofen Migrxpress 400 mg Comprimido revestido 12 Comprimido Blister"
 
@@ -54459,7 +55756,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54483,7 +55780,8 @@ Title: "Perindopril + Indapamida Generis 4 mg + 1.25 mg Comprimido 30 Comprimido
 Description: "Perindopril + Indapamida Generis 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Generis 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -54501,7 +55799,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54525,7 +55823,8 @@ Title: "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 28 Comprimido Bli
 Description: "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -54543,7 +55842,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54567,7 +55866,8 @@ Title: "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 14 Comprimido Bli
 Description: "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -54585,7 +55885,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54609,7 +55909,8 @@ Title: "Sinvastatina + Ezetimiba Krka 20 mg + 10 mg Comprimido 28 Comprimido Bli
 Description: "Sinvastatina + Ezetimiba Krka 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Krka 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -54627,7 +55928,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54651,7 +55952,8 @@ Title: "Sinvastatina + Ezetimiba Krka 40 mg + 10 mg Comprimido 28 Comprimido Bli
 Description: "Sinvastatina + Ezetimiba Krka 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Krka 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -54669,7 +55971,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54693,7 +55995,8 @@ Title: "Tramadol Aurovitas 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Aurovitas 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016717"
+//true??
+* identifier[pcid].value = "50016717"
 
 * name = "Tramadol Aurovitas 50 mg Cápsula 20 Cápsula Blister"
 
@@ -54711,7 +56014,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54735,7 +56038,8 @@ Title: "Amlodipina + Telmisartan Krka 5 mg + 40 mg Comprimido 28 Comprimido Blis
 Description: "Amlodipina + Telmisartan Krka 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121707"
+//true??
+* identifier[pcid].value = "50121707"
 
 * name = "Amlodipina + Telmisartan Krka 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -54753,7 +56057,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54777,7 +56081,8 @@ Title: "Amlodipina + Telmisartan Krka 10 mg + 40 mg Comprimido 28 Comprimido Bli
 Description: "Amlodipina + Telmisartan Krka 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121731"
+//true??
+* identifier[pcid].value = "50121731"
 
 * name = "Amlodipina + Telmisartan Krka 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -54795,7 +56100,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54819,7 +56124,8 @@ Title: "Amlodipina + Telmisartan Krka 5 mg + 80 mg Comprimido 28 Comprimido Blis
 Description: "Amlodipina + Telmisartan Krka 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121766"
+//true??
+* identifier[pcid].value = "50121766"
 
 * name = "Amlodipina + Telmisartan Krka 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 
@@ -54837,7 +56143,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54861,7 +56167,8 @@ Title: "Perindopril + Amlodipina Pentafarma 4 mg + 5 mg Comprimido 30 Comprimido
 Description: "Perindopril + Amlodipina Pentafarma 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Perindopril + Amlodipina Pentafarma 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -54879,7 +56186,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54903,7 +56210,8 @@ Title: "Perindopril + Amlodipina Pentafarma 4 mg + 10 mg Comprimido 30 Comprimid
 Description: "Perindopril + Amlodipina Pentafarma 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Perindopril + Amlodipina Pentafarma 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -54921,7 +56229,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54945,7 +56253,8 @@ Title: "Perindopril + Amlodipina Pentafarma 8 mg + 5 mg Comprimido 30 Comprimido
 Description: "Perindopril + Amlodipina Pentafarma 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Perindopril + Amlodipina Pentafarma 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -54963,7 +56272,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -54987,7 +56296,8 @@ Title: "Perindopril + Amlodipina Pentafarma 8 mg + 10 mg Comprimido 30 Comprimid
 Description: "Perindopril + Amlodipina Pentafarma 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Perindopril + Amlodipina Pentafarma 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -55005,7 +56315,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55029,7 +56339,8 @@ Title: "Ibuprofeno Farmoz 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Ibuprofeno Farmoz 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50004336"
+//true??
+* identifier[pcid].value = "50004336"
 
 * name = "Ibuprofeno Farmoz 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -55047,7 +56358,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -55071,7 +56382,8 @@ Title: "Perindopril + Amlodipina Farmoz 4 mg + 5 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Amlodipina Farmoz 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Perindopril + Amlodipina Farmoz 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -55089,7 +56401,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55113,7 +56425,8 @@ Title: "Perindopril + Amlodipina Farmoz 8 mg + 5 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Amlodipina Farmoz 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Perindopril + Amlodipina Farmoz 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -55131,7 +56444,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55155,7 +56468,8 @@ Title: "Perindopril + Amlodipina Farmoz 8 mg + 10 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril + Amlodipina Farmoz 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Perindopril + Amlodipina Farmoz 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -55173,7 +56487,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55197,7 +56511,8 @@ Title: "Perindopril + Amlodipina Farmoz 4 mg + 10 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril + Amlodipina Farmoz 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Perindopril + Amlodipina Farmoz 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -55215,7 +56530,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55239,7 +56554,8 @@ Title: "Supofen 24 mg/ml Solução oral 1 Frasco"
 Description: "Supofen 24 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50147064"
+//true??
+* identifier[pcid].value = "50147064"
 
 * name = "Supofen 24 mg/ml Solução oral 1 Frasco"
 
@@ -55257,7 +56573,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -55281,7 +56597,8 @@ Title: "Dilaclan 500 mg Cápsula 16 Cápsula Blister"
 Description: "Dilaclan 500 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50001795"
+//true??
+* identifier[pcid].value = "50001795"
 
 * name = "Dilaclan 500 mg Cápsula 16 Cápsula Blister"
 
@@ -55299,7 +56616,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55323,7 +56640,8 @@ Title: "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por pelí
 Description: "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112147"
+//true??
+* identifier[pcid].value = "50112147"
 
 * name = "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -55341,7 +56659,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55365,7 +56683,8 @@ Title: "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por pelí
 Description: "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112163"
+//true??
+* identifier[pcid].value = "50112163"
 
 * name = "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -55383,7 +56702,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55407,7 +56726,8 @@ Title: "Amlodipina + Valsartan Mylan 5 mg + 160 mg Comprimido revestido por pel�
 Description: "Amlodipina + Valsartan Mylan 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50112201"
+//true??
+* identifier[pcid].value = "50112201"
 
 * name = "Amlodipina + Valsartan Mylan 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -55425,7 +56745,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55449,7 +56769,8 @@ Title: "Ramipril + Amlodipina Krka 5 mg + 5 mg Cápsula 30 Cápsula Blister"
 Description: "Ramipril + Amlodipina Krka 5 mg + 5 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50166883"
+//true??
+* identifier[pcid].value = "50166883"
 
 * name = "Ramipril + Amlodipina Krka 5 mg + 5 mg Cápsula 30 Cápsula Blister"
 
@@ -55467,7 +56788,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55491,7 +56812,8 @@ Title: "Ramipril + Amlodipina Krka 5 mg + 10 mg Cápsula 30 Cápsula Blister"
 Description: "Ramipril + Amlodipina Krka 5 mg + 10 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50166891"
+//true??
+* identifier[pcid].value = "50166891"
 
 * name = "Ramipril + Amlodipina Krka 5 mg + 10 mg Cápsula 30 Cápsula Blister"
 
@@ -55509,7 +56831,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55533,7 +56855,8 @@ Title: "Ramipril + Amlodipina Krka 10 mg + 5 mg Cápsula 30 Cápsula Blister"
 Description: "Ramipril + Amlodipina Krka 10 mg + 5 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50166905"
+//true??
+* identifier[pcid].value = "50166905"
 
 * name = "Ramipril + Amlodipina Krka 10 mg + 5 mg Cápsula 30 Cápsula Blister"
 
@@ -55551,7 +56874,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55575,7 +56898,8 @@ Title: "Ramipril + Amlodipina Krka 10 mg + 10 mg Cápsula 30 Cápsula Blister"
 Description: "Ramipril + Amlodipina Krka 10 mg + 10 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50166913"
+//true??
+* identifier[pcid].value = "50166913"
 
 * name = "Ramipril + Amlodipina Krka 10 mg + 10 mg Cápsula 30 Cápsula Blister"
 
@@ -55593,7 +56917,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55617,7 +56941,8 @@ Title: "Blocan 50 mg + 5 mg Comprimido revestido por película 60 Comprimido Bli
 Description: "Blocan 50 mg + 5 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50167260"
+//true??
+* identifier[pcid].value = "50167260"
 
 * name = "Blocan 50 mg + 5 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -55635,7 +56960,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55659,7 +56984,8 @@ Title: "Blocan 50 mg + 10 mg Comprimido revestido por película 60 Comprimido Bl
 Description: "Blocan 50 mg + 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50167294"
+//true??
+* identifier[pcid].value = "50167294"
 
 * name = "Blocan 50 mg + 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -55677,7 +57003,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55701,7 +57027,8 @@ Title: "Blocan 100 mg + 5 mg Comprimido revestido por película 60 Comprimido Bl
 Description: "Blocan 100 mg + 5 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50167324"
+//true??
+* identifier[pcid].value = "50167324"
 
 * name = "Blocan 100 mg + 5 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -55719,7 +57046,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55743,7 +57070,8 @@ Title: "Blocan 100 mg + 10 mg Comprimido revestido por película 60 Comprimido B
 Description: "Blocan 100 mg + 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50167359"
+//true??
+* identifier[pcid].value = "50167359"
 
 * name = "Blocan 100 mg + 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -55761,7 +57089,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55785,7 +57113,8 @@ Title: "Nurofen Xpress 200 mg Cápsula mole 20 Cápsula Blister"
 Description: "Nurofen Xpress 200 mg Cápsula mole 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Nurofen Xpress 200 mg Cápsula mole 20 Cápsula Blister"
 
@@ -55803,7 +57132,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55827,7 +57156,8 @@ Title: "Paracetamol ben-u-ron 40 mg/ml Xarope 1 Frasco 150 ml"
 Description: "Paracetamol ben-u-ron 40 mg/ml Xarope 1 Frasco 150 ml"
 Usage: #example
 
-* identifier.value = "50156810"
+//true??
+* identifier[pcid].value = "50156810"
 
 * name = "Paracetamol ben-u-ron 40 mg/ml Xarope 1 Frasco 150 ml"
 
@@ -55845,7 +57175,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -55869,7 +57199,8 @@ Title: "Amlodipina Ciclum 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Ciclum 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Ciclum 5 mg Comprimido 20 Comprimido Blister"
 
@@ -55887,7 +57218,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55911,7 +57242,8 @@ Title: "Amlodipina Ciclum 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Ciclum 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Ciclum 5 mg Comprimido 60 Comprimido Blister"
 
@@ -55929,7 +57261,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55953,7 +57285,8 @@ Title: "Amlodipina Ciclum 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Ciclum 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Ciclum 10 mg Comprimido 60 Comprimido Blister"
 
@@ -55971,7 +57304,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -55995,7 +57328,8 @@ Title: "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 S
 Description: "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Usage: #example
 
-* identifier.value = "50099485"
+//true??
+* identifier[pcid].value = "50099485"
 
 * name = "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 
@@ -56013,7 +57347,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56037,7 +57371,8 @@ Title: "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 S
 Description: "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 Usage: #example
 
-* identifier.value = "50099493"
+//true??
+* identifier[pcid].value = "50099493"
 
 * name = "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 
@@ -56055,7 +57390,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56079,7 +57414,8 @@ Title: "Mystrelle 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1
 Description: "Mystrelle 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Usage: #example
 
-* identifier.value = "50099485"
+//true??
+* identifier[pcid].value = "50099485"
 
 * name = "Mystrelle 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 
@@ -56097,7 +57433,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56121,7 +57457,8 @@ Title: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Si
 Description: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Usage: #example
 
-* identifier.value = "50099485"
+//true??
+* identifier[pcid].value = "50099485"
 
 * name = "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 
@@ -56139,7 +57476,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56163,7 +57500,8 @@ Title: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Si
 Description: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 Usage: #example
 
-* identifier.value = "50099493"
+//true??
+* identifier[pcid].value = "50099493"
 
 * name = "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 
@@ -56181,7 +57519,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56205,7 +57543,8 @@ Title: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 6 Si
 Description: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 6 Sistema"
 Usage: #example
 
-* identifier.value = "50174479"
+//true??
+* identifier[pcid].value = "50174479"
 
 * name = "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 6 Sistema"
 
@@ -56223,7 +57562,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56247,7 +57586,8 @@ Title: "Coartil 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Coartil 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Coartil 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -56265,7 +57605,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56289,7 +57629,8 @@ Title: "Coartil 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Coartil 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Coartil 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -56307,7 +57648,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56331,7 +57672,8 @@ Title: "Coartil 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Coartil 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Coartil 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -56349,7 +57691,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56373,7 +57715,8 @@ Title: "Coartil 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Coartil 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Coartil 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -56391,7 +57734,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56415,7 +57758,8 @@ Title: "Perindopril + Amlodipina TAD 4 mg + 5 mg Comprimido 30 Comprimido Bliste
 Description: "Perindopril + Amlodipina TAD 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Perindopril + Amlodipina TAD 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -56433,7 +57777,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56457,7 +57801,8 @@ Title: "Perindopril + Amlodipina TAD 8 mg + 5 mg Comprimido 30 Comprimido Bliste
 Description: "Perindopril + Amlodipina TAD 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Perindopril + Amlodipina TAD 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -56475,7 +57820,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56499,7 +57844,8 @@ Title: "Perindopril + Amlodipina TAD 8 mg + 10 mg Comprimido 30 Comprimido Blist
 Description: "Perindopril + Amlodipina TAD 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Perindopril + Amlodipina TAD 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -56517,7 +57863,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56541,7 +57887,8 @@ Title: "Perindopril + Amlodipina TAD 4 mg + 10 mg Comprimido 30 Comprimido Blist
 Description: "Perindopril + Amlodipina TAD 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Perindopril + Amlodipina TAD 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -56559,7 +57906,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56583,7 +57930,8 @@ Title: "Augmentin Duo 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco
 Description: "Augmentin Duo 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022202"
+//true??
+* identifier[pcid].value = "50022202"
 
 * name = "Augmentin Duo 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -56601,7 +57949,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56625,7 +57973,8 @@ Title: "Proctorrane 10 mg/g Pomada retal 1 Bisnaga 30 g"
 Description: "Proctorrane 10 mg/g Pomada retal 1 Bisnaga 30 g"
 Usage: #example
 
-* identifier.value = "50168576"
+//true??
+* identifier[pcid].value = "50168576"
 
 * name = "Proctorrane 10 mg/g Pomada retal 1 Bisnaga 30 g"
 
@@ -56643,7 +57992,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -56667,7 +58016,8 @@ Title: "Amoxicilina + Ácido clavulânico Tolife 875 mg + 125 mg Comprimido reve
 Description: "Amoxicilina + Ácido clavulânico Tolife 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Amoxicilina + Ácido clavulânico Tolife 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -56685,7 +58035,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56709,7 +58059,8 @@ Title: "Amoxicilina toLife 500 mg Cápsula 16 Cápsula Blister"
 Description: "Amoxicilina toLife 500 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50001795"
+//true??
+* identifier[pcid].value = "50001795"
 
 * name = "Amoxicilina toLife 500 mg Cápsula 16 Cápsula Blister"
 
@@ -56727,7 +58078,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56751,7 +58102,8 @@ Title: "Amoxicilina toLife 1000 mg Comprimido dispersível 16 Comprimido Blister
 Description: "Amoxicilina toLife 1000 mg Comprimido dispersível 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50032364"
+//true??
+* identifier[pcid].value = "50032364"
 
 * name = "Amoxicilina toLife 1000 mg Comprimido dispersível 16 Comprimido Blister"
 
@@ -56769,7 +58121,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56793,7 +58145,8 @@ Title: "Nioben 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 Description: "Nioben 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121693"
+//true??
+* identifier[pcid].value = "50121693"
 
 * name = "Nioben 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 
@@ -56811,7 +58164,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56835,7 +58188,8 @@ Title: "Nioben 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Description: "Nioben 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121707"
+//true??
+* identifier[pcid].value = "50121707"
 
 * name = "Nioben 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -56853,7 +58207,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -56877,7 +58231,8 @@ Title: "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa
 Description: "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172220"
+//true??
+* identifier[pcid].value = "50172220"
 
 * name = "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -56895,7 +58250,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -56919,7 +58274,8 @@ Title: "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa
 Description: "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172212"
+//true??
+* identifier[pcid].value = "50172212"
 
 * name = "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -56937,7 +58293,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -56961,7 +58317,8 @@ Title: "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 28 Co
 Description: "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50156829"
+//true??
+* identifier[pcid].value = "50156829"
 
 * name = "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -56979,7 +58336,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57003,7 +58360,8 @@ Title: "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 84 Co
 Description: "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50156837"
+//true??
+* identifier[pcid].value = "50156837"
 
 * name = "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -57021,7 +58379,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57045,7 +58403,8 @@ Title: "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa
 Description: "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172298"
+//true??
+* identifier[pcid].value = "50172298"
 
 * name = "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -57063,7 +58422,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -57087,7 +58446,8 @@ Title: "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa
 Description: "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172280"
+//true??
+* identifier[pcid].value = "50172280"
 
 * name = "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -57105,7 +58465,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -57129,7 +58489,8 @@ Title: "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa
 Description: "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172417"
+//true??
+* identifier[pcid].value = "50172417"
 
 * name = "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -57147,7 +58508,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -57171,7 +58532,8 @@ Title: "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa
 Description: "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172425"
+//true??
+* identifier[pcid].value = "50172425"
 
 * name = "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -57189,7 +58551,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -57213,7 +58575,8 @@ Title: "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 2 Seringa
 Description: "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172441"
+//true??
+* identifier[pcid].value = "50172441"
 
 * name = "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -57231,7 +58594,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -57255,7 +58618,8 @@ Title: "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa
 Description: "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172450"
+//true??
+* identifier[pcid].value = "50172450"
 
 * name = "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -57273,7 +58637,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -57297,7 +58661,8 @@ Title: "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 2 Seringa 
 Description: "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172352"
+//true??
+* identifier[pcid].value = "50172352"
 
 * name = "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -57315,7 +58680,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -57339,7 +58704,8 @@ Title: "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa 
 Description: "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172360"
+//true??
+* identifier[pcid].value = "50172360"
 
 * name = "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -57357,7 +58723,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -57381,7 +58747,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revest
 Description: "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115898"
+//true??
+* identifier[pcid].value = "50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -57399,7 +58766,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57423,7 +58790,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revest
 Description: "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -57441,7 +58809,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57465,7 +58833,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revest
 Description: "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115898"
+//true??
+* identifier[pcid].value = "50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -57483,7 +58852,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57507,7 +58876,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revest
 Description: "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -57525,7 +58895,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57549,7 +58919,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revesti
 Description: "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115898"
+//true??
+* identifier[pcid].value = "50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -57567,7 +58938,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57591,7 +58962,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revesti
 Description: "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -57609,7 +58981,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57633,7 +59005,8 @@ Title: "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revest
 Description: "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115898"
+//true??
+* identifier[pcid].value = "50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -57651,7 +59024,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57675,7 +59048,8 @@ Title: "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revest
 Description: "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -57693,7 +59067,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57717,7 +59091,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestid
 Description: "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115898"
+//true??
+* identifier[pcid].value = "50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -57735,7 +59110,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57759,7 +59134,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestid
 Description: "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -57777,7 +59153,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57801,7 +59177,8 @@ Title: "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por p
 Description: "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116282"
+//true??
+* identifier[pcid].value = "50116282"
 
 * name = "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -57819,7 +59196,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57843,7 +59220,8 @@ Title: "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por p
 Description: "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116304"
+//true??
+* identifier[pcid].value = "50116304"
 
 * name = "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -57861,7 +59239,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57885,7 +59263,8 @@ Title: "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por p
 Description: "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116320"
+//true??
+* identifier[pcid].value = "50116320"
 
 * name = "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -57903,7 +59282,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57927,7 +59306,8 @@ Title: "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por p
 Description: "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50116347"
+//true??
+* identifier[pcid].value = "50116347"
 
 * name = "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -57945,7 +59325,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -57969,7 +59349,8 @@ Title: "Cegrinaso 200 mg + 30 mg Comprimido revestido por película 24 Comprimid
 Description: "Cegrinaso 200 mg + 30 mg Comprimido revestido por película 24 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50169122"
+//true??
+* identifier[pcid].value = "50169122"
 
 * name = "Cegrinaso 200 mg + 30 mg Comprimido revestido por película 24 Comprimido Blister"
 
@@ -57987,7 +59368,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58011,7 +59392,8 @@ Title: "Amoxicilina Aurobindo 500 mg Comprimido dispersível 16 Comprimido Blist
 Description: "Amoxicilina Aurobindo 500 mg Comprimido dispersível 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50160010"
+//true??
+* identifier[pcid].value = "50160010"
 
 * name = "Amoxicilina Aurobindo 500 mg Comprimido dispersível 16 Comprimido Blister"
 
@@ -58029,7 +59411,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58053,7 +59435,8 @@ Title: "Amoxicilina Aurobindo 1000 mg Comprimido dispersível 16 Comprimido Blis
 Description: "Amoxicilina Aurobindo 1000 mg Comprimido dispersível 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50032364"
+//true??
+* identifier[pcid].value = "50032364"
 
 * name = "Amoxicilina Aurobindo 1000 mg Comprimido dispersível 16 Comprimido Blister"
 
@@ -58071,7 +59454,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58095,7 +59478,8 @@ Title: "Betamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Betamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50040278"
+//true??
+* identifier[pcid].value = "50040278"
 
 * name = "Betamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -58113,7 +59497,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58137,7 +59521,8 @@ Title: "Amoxicilina + Ácido clavulânico toLife 600 mg/5 ml + 42.9 mg/5 ml Pó 
 Description: "Amoxicilina + Ácido clavulânico toLife 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50040278"
+//true??
+* identifier[pcid].value = "50040278"
 
 * name = "Amoxicilina + Ácido clavulânico toLife 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -58155,7 +59540,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58179,7 +59564,8 @@ Title: "Roxiper 10 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Com
 Description: "Roxiper 10 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50174231"
+//true??
+* identifier[pcid].value = "50174231"
 
 * name = "Roxiper 10 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -58197,7 +59583,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58221,7 +59607,8 @@ Title: "Roxiper 20 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Com
 Description: "Roxiper 20 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50174240"
+//true??
+* identifier[pcid].value = "50174240"
 
 * name = "Roxiper 20 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -58239,7 +59626,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58263,7 +59650,8 @@ Title: "Roxiper 20 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comp
 Description: "Roxiper 20 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50174258"
+//true??
+* identifier[pcid].value = "50174258"
 
 * name = "Roxiper 20 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -58281,7 +59669,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58305,7 +59693,8 @@ Title: "Roxiper 10 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comp
 Description: "Roxiper 10 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50174266"
+//true??
+* identifier[pcid].value = "50174266"
 
 * name = "Roxiper 10 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -58323,7 +59712,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58347,7 +59736,8 @@ Title: "Tramadol + Paracetamol ratiopharm 75 mg + 650 mg Comprimido 20 Comprimid
 Description: "Tramadol + Paracetamol ratiopharm 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50059700"
+//true??
+* identifier[pcid].value = "50059700"
 
 * name = "Tramadol + Paracetamol ratiopharm 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 
@@ -58365,7 +59755,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58389,7 +59779,8 @@ Title: "Omeprazol Alter 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Alter 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008692"
+//true??
+* identifier[pcid].value = "50008692"
 
 * name = "Omeprazol Alter 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -58407,7 +59798,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58431,7 +59822,8 @@ Title: "Omeprazol Alter 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Alter 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50008714"
+//true??
+* identifier[pcid].value = "50008714"
 
 * name = "Omeprazol Alter 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -58449,7 +59841,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58473,7 +59865,8 @@ Title: "Omeprazol Alter 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Description: "Omeprazol Alter 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Usage: #example
 
-* identifier.value = "50019082"
+//true??
+* identifier[pcid].value = "50019082"
 
 * name = "Omeprazol Alter 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 
@@ -58491,7 +59884,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58515,7 +59908,8 @@ Title: "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 20 Compri
 Description: "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -58533,7 +59927,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58557,7 +59951,8 @@ Title: "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 60 Compri
 Description: "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004263"
+//true??
+* identifier[pcid].value = "50004263"
 
 * name = "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -58575,7 +59970,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58599,7 +59994,8 @@ Title: "Ibuprofeno Aurovitas 600 mg Comprimido revestido por película 20 Compri
 Description: "Ibuprofeno Aurovitas 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004301"
+//true??
+* identifier[pcid].value = "50004301"
 
 * name = "Ibuprofeno Aurovitas 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -58617,7 +60013,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58641,7 +60037,8 @@ Title: "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50184121"
+//true??
+* identifier[pcid].value = "50184121"
 
 * name = "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 100 g"
 
@@ -58659,7 +60056,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -58683,7 +60080,8 @@ Title: "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 180 g"
 Description: "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 180 g"
 Usage: #example
 
-* identifier.value = "50184148"
+//true??
+* identifier[pcid].value = "50184148"
 
 * name = "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 180 g"
 
@@ -58701,7 +60099,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -58725,7 +60123,8 @@ Title: "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -58743,7 +60142,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58767,7 +60166,8 @@ Title: "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 14 Comprimi
 Description: "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -58785,7 +60185,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58809,7 +60209,8 @@ Title: "Sinvastatina + Ezetimiba ratiopharm 20 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba ratiopharm 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba ratiopharm 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -58827,7 +60228,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58851,7 +60252,8 @@ Title: "Sinvastatina + Ezetimiba ratiopharm 40 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba ratiopharm 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba ratiopharm 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -58869,7 +60271,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58893,7 +60295,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido reves
 Description: "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115898"
+//true??
+* identifier[pcid].value = "50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -58911,7 +60314,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58935,7 +60338,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido reves
 Description: "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -58953,7 +60357,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -58977,7 +60381,8 @@ Title: "Tramadol Krka 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Krka 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016717"
+//true??
+* identifier[pcid].value = "50016717"
 
 * name = "Tramadol Krka 50 mg Cápsula 20 Cápsula Blister"
 
@@ -58995,7 +60400,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59019,7 +60424,8 @@ Title: "Sinvastatina + Ezetimiba Teva 10 mg + 10 mg Comprimido 28 Comprimido Fra
 Description: "Sinvastatina + Ezetimiba Teva 10 mg + 10 mg Comprimido 28 Comprimido Frasco"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Teva 10 mg + 10 mg Comprimido 28 Comprimido Frasco"
 
@@ -59037,7 +60443,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59061,7 +60467,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Vitória 5 mg + 20 mg Comprimido reve
 Description: "Amlodipina + Olmesartan medoxomilo Vitória 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Vitória 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -59079,7 +60486,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59103,7 +60510,8 @@ Title: "Hadazin 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Hadazin 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-* identifier.value = "50004417"
+//true??
+* identifier[pcid].value = "50004417"
 
 * name = "Hadazin 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -59121,7 +60529,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -59145,7 +60553,8 @@ Title: "Gino-Hadazin 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Gino-Hadazin 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50008943"
+//true??
+* identifier[pcid].value = "50008943"
 
 * name = "Gino-Hadazin 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -59163,7 +60572,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -59187,7 +60596,8 @@ Title: "Altensil 5 mg + 8 mg Cápsula 14 Cápsula Blister"
 Description: "Altensil 5 mg + 8 mg Cápsula 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50146238"
+//true??
+* identifier[pcid].value = "50146238"
 
 * name = "Altensil 5 mg + 8 mg Cápsula 14 Cápsula Blister"
 
@@ -59205,7 +60615,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59229,7 +60639,8 @@ Title: "Altensil 5 mg + 8 mg Cápsula 28 Cápsula Blister"
 Description: "Altensil 5 mg + 8 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50146246"
+//true??
+* identifier[pcid].value = "50146246"
 
 * name = "Altensil 5 mg + 8 mg Cápsula 28 Cápsula Blister"
 
@@ -59247,7 +60658,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59271,7 +60682,8 @@ Title: "Altensil 10 mg + 8 mg Cápsula 28 Cápsula Blister"
 Description: "Altensil 10 mg + 8 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50175203"
+//true??
+* identifier[pcid].value = "50175203"
 
 * name = "Altensil 10 mg + 8 mg Cápsula 28 Cápsula Blister"
 
@@ -59289,7 +60701,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59313,7 +60725,8 @@ Title: "Altensil 5 mg + 16 mg Cápsula 28 Cápsula Blister"
 Description: "Altensil 5 mg + 16 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50175211"
+//true??
+* identifier[pcid].value = "50175211"
 
 * name = "Altensil 5 mg + 16 mg Cápsula 28 Cápsula Blister"
 
@@ -59331,7 +60744,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59355,7 +60768,8 @@ Title: "Altensil 10 mg + 16 mg Cápsula 28 Cápsula Blister"
 Description: "Altensil 10 mg + 16 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50146270"
+//true??
+* identifier[pcid].value = "50146270"
 
 * name = "Altensil 10 mg + 16 mg Cápsula 28 Cápsula Blister"
 
@@ -59373,7 +60787,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59397,7 +60811,8 @@ Title: "Skudexa 75 mg + 25 mg Granulado para solução oral em saqueta 20 Saquet
 Description: "Skudexa 75 mg + 25 mg Granulado para solução oral em saqueta 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50171909"
+//true??
+* identifier[pcid].value = "50171909"
 
 * name = "Skudexa 75 mg + 25 mg Granulado para solução oral em saqueta 20 Saqueta"
 
@@ -59415,7 +60830,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59439,7 +60854,8 @@ Title: "Asutam 10 mg + 5 mg Cápsula 14 Cápsula Blister"
 Description: "Asutam 10 mg + 5 mg Cápsula 14 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50172590"
+//true??
+* identifier[pcid].value = "50172590"
 
 * name = "Asutam 10 mg + 5 mg Cápsula 14 Cápsula Blister"
 
@@ -59457,7 +60873,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59481,7 +60897,8 @@ Title: "Asutam 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 Description: "Asutam 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50156870"
+//true??
+* identifier[pcid].value = "50156870"
 
 * name = "Asutam 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 
@@ -59499,7 +60916,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59523,7 +60940,8 @@ Title: "Asutam 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 Description: "Asutam 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50156896"
+//true??
+* identifier[pcid].value = "50156896"
 
 * name = "Asutam 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 
@@ -59541,7 +60959,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59565,7 +60983,8 @@ Title: "Asutam 20 mg + 5 mg Cápsula 28 Cápsula Blister"
 Description: "Asutam 20 mg + 5 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50156918"
+//true??
+* identifier[pcid].value = "50156918"
 
 * name = "Asutam 20 mg + 5 mg Cápsula 28 Cápsula Blister"
 
@@ -59583,7 +61002,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59607,7 +61026,8 @@ Title: "Asutam 20 mg + 10 mg Cápsula 28 Cápsula Blister"
 Description: "Asutam 20 mg + 10 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50156934"
+//true??
+* identifier[pcid].value = "50156934"
 
 * name = "Asutam 20 mg + 10 mg Cápsula 28 Cápsula Blister"
 
@@ -59625,7 +61045,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59649,7 +61069,8 @@ Title: "Paracetamol Pentafarma 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Pentafarma 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Pentafarma 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -59667,7 +61088,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59691,7 +61112,8 @@ Title: "Amoxicilina + Ácido Clavulânico Generis 500 mg + 125 mg Comprimido rev
 Description: "Amoxicilina + Ácido Clavulânico Generis 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001639"
+//true??
+* identifier[pcid].value = "50001639"
 
 * name = "Amoxicilina + Ácido Clavulânico Generis 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -59709,7 +61131,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59733,7 +61155,8 @@ Title: "Amoxicilina + Ácido Clavulânico Generis 875 mg + 125 mg Comprimido rev
 Description: "Amoxicilina + Ácido Clavulânico Generis 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50003178"
+//true??
+* identifier[pcid].value = "50003178"
 
 * name = "Amoxicilina + Ácido Clavulânico Generis 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -59751,7 +61174,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59775,7 +61198,8 @@ Title: "Cefuroxima Generis 250 mg Comprimido revestido por película 16 Comprimi
 Description: "Cefuroxima Generis 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018299"
+//true??
+* identifier[pcid].value = "50018299"
 
 * name = "Cefuroxima Generis 250 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -59793,7 +61217,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59817,7 +61241,8 @@ Title: "Cefuroxima Generis 500 mg Comprimido revestido por película 16 Comprimi
 Description: "Cefuroxima Generis 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018337"
+//true??
+* identifier[pcid].value = "50018337"
 
 * name = "Cefuroxima Generis 500 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -59835,7 +61260,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59859,7 +61284,8 @@ Title: "Perindopril Generis 4 mg Comprimido 15 Comprimido Blister"
 Description: "Perindopril Generis 4 mg Comprimido 15 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062247"
+//true??
+* identifier[pcid].value = "50062247"
 
 * name = "Perindopril Generis 4 mg Comprimido 15 Comprimido Blister"
 
@@ -59877,7 +61303,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59901,7 +61327,8 @@ Title: "Perindopril Generis 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Generis 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50062280"
+//true??
+* identifier[pcid].value = "50062280"
 
 * name = "Perindopril Generis 8 mg Comprimido 30 Comprimido Blister"
 
@@ -59919,7 +61346,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59943,7 +61370,8 @@ Title: "Tramadol Generis 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Generis 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50016717"
+//true??
+* identifier[pcid].value = "50016717"
 
 * name = "Tramadol Generis 50 mg Cápsula 20 Cápsula Blister"
 
@@ -59961,7 +61389,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -59985,7 +61413,8 @@ Title: "Ib-u-ron Gel Mentol 50 mg/g Gel 1 Bisnaga 100 g"
 Description: "Ib-u-ron Gel Mentol 50 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50009672"
+//true??
+* identifier[pcid].value = "50009672"
 
 * name = "Ib-u-ron Gel Mentol 50 mg/g Gel 1 Bisnaga 100 g"
 
@@ -60003,7 +61432,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -60027,7 +61456,8 @@ Title: "Paniltri 5 mg + 5 mg + 12.5 mg Cápsula 30 Cápsula Blister"
 Description: "Paniltri 5 mg + 5 mg + 12.5 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50179063"
+//true??
+* identifier[pcid].value = "50179063"
 
 * name = "Paniltri 5 mg + 5 mg + 12.5 mg Cápsula 30 Cápsula Blister"
 
@@ -60045,7 +61475,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60069,7 +61499,8 @@ Title: "Paniltri 10 mg + 5 mg + 25 mg Cápsula 30 Cápsula Blister"
 Description: "Paniltri 10 mg + 5 mg + 25 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50179071"
+//true??
+* identifier[pcid].value = "50179071"
 
 * name = "Paniltri 10 mg + 5 mg + 25 mg Cápsula 30 Cápsula Blister"
 
@@ -60087,7 +61518,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60111,7 +61542,8 @@ Title: "Paniltri 10 mg + 10 mg + 25 mg Cápsula 30 Cápsula Blister"
 Description: "Paniltri 10 mg + 10 mg + 25 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50179098"
+//true??
+* identifier[pcid].value = "50179098"
 
 * name = "Paniltri 10 mg + 10 mg + 25 mg Cápsula 30 Cápsula Blister"
 
@@ -60129,7 +61561,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60153,7 +61585,8 @@ Title: "Mepranil 2.5 mg + 5 mg Cápsula 28 Cápsula Blister"
 Description: "Mepranil 2.5 mg + 5 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50174495"
+//true??
+* identifier[pcid].value = "50174495"
 
 * name = "Mepranil 2.5 mg + 5 mg Cápsula 28 Cápsula Blister"
 
@@ -60171,7 +61604,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60195,7 +61628,8 @@ Title: "Mepranil 5 mg + 5 mg Cápsula 28 Cápsula Blister"
 Description: "Mepranil 5 mg + 5 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50166883"
+//true??
+* identifier[pcid].value = "50166883"
 
 * name = "Mepranil 5 mg + 5 mg Cápsula 28 Cápsula Blister"
 
@@ -60213,7 +61647,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60237,7 +61671,8 @@ Title: "Mepranil 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 Description: "Mepranil 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50166905"
+//true??
+* identifier[pcid].value = "50166905"
 
 * name = "Mepranil 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 
@@ -60255,7 +61690,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60279,7 +61714,8 @@ Title: "Mepranil 5 mg + 10 mg Cápsula 28 Cápsula Blister"
 Description: "Mepranil 5 mg + 10 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50166891"
+//true??
+* identifier[pcid].value = "50166891"
 
 * name = "Mepranil 5 mg + 10 mg Cápsula 28 Cápsula Blister"
 
@@ -60297,7 +61733,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60321,7 +61757,8 @@ Title: "Mepranil 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 Description: "Mepranil 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-* identifier.value = "50166913"
+//true??
+* identifier[pcid].value = "50166913"
 
 * name = "Mepranil 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 
@@ -60339,7 +61776,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60363,7 +61800,8 @@ Title: "Dolostop 500 mg/10 ml Solução oral 20 Saqueta"
 Description: "Dolostop 500 mg/10 ml Solução oral 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50171950"
+//true??
+* identifier[pcid].value = "50171950"
 
 * name = "Dolostop 500 mg/10 ml Solução oral 20 Saqueta"
 
@@ -60381,7 +61819,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -60405,7 +61843,8 @@ Title: "Dolostop 1000 mg/10 ml Solução oral 10 Saqueta"
 Description: "Dolostop 1000 mg/10 ml Solução oral 10 Saqueta"
 Usage: #example
 
-* identifier.value = "50171968"
+//true??
+* identifier[pcid].value = "50171968"
 
 * name = "Dolostop 1000 mg/10 ml Solução oral 10 Saqueta"
 
@@ -60423,7 +61862,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -60447,7 +61886,8 @@ Title: "Enoxaparina Rovi 80 mg/0.8 ml Solução injetável em seringa pré-cheia
 Description: "Enoxaparina Rovi 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172450"
+//true??
+* identifier[pcid].value = "50172450"
 
 * name = "Enoxaparina Rovi 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -60465,7 +61905,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -60489,7 +61929,8 @@ Title: "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia
 Description: "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172417"
+//true??
+* identifier[pcid].value = "50172417"
 
 * name = "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -60507,7 +61948,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -60531,7 +61972,8 @@ Title: "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia
 Description: "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172425"
+//true??
+* identifier[pcid].value = "50172425"
 
 * name = "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -60549,7 +61991,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -60573,7 +62015,8 @@ Title: "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia
 Description: "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172298"
+//true??
+* identifier[pcid].value = "50172298"
 
 * name = "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -60591,7 +62034,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -60615,7 +62058,8 @@ Title: "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia
 Description: "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172280"
+//true??
+* identifier[pcid].value = "50172280"
 
 * name = "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -60633,7 +62077,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -60657,7 +62101,8 @@ Title: "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia
 Description: "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172220"
+//true??
+* identifier[pcid].value = "50172220"
 
 * name = "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -60675,7 +62120,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -60699,7 +62144,8 @@ Title: "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia
 Description: "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-* identifier.value = "50172212"
+//true??
+* identifier[pcid].value = "50172212"
 
 * name = "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -60717,7 +62163,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -60741,7 +62187,8 @@ Title: "Descontran 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 Description: "Descontran 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50064428"
+//true??
+* identifier[pcid].value = "50064428"
 
 * name = "Descontran 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 
@@ -60759,7 +62206,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60783,7 +62230,8 @@ Title: "Descontran 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 Description: "Descontran 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50064436"
+//true??
+* identifier[pcid].value = "50064436"
 
 * name = "Descontran 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 
@@ -60801,7 +62249,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60825,7 +62273,8 @@ Title: "Metformina Generis 500 mg Comprimido revestido por película 20 Comprimi
 Description: "Metformina Generis 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009028"
+//true??
+* identifier[pcid].value = "50009028"
 
 * name = "Metformina Generis 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -60843,7 +62292,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60867,7 +62316,8 @@ Title: "Metformina Generis 500 mg Comprimido revestido por película 60 Comprimi
 Description: "Metformina Generis 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009010"
+//true??
+* identifier[pcid].value = "50009010"
 
 * name = "Metformina Generis 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -60885,7 +62335,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60909,7 +62359,8 @@ Title: "Metformina Generis 850 mg Comprimido revestido por película 60 Comprimi
 Description: "Metformina Generis 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Metformina Generis 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -60927,7 +62378,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60951,7 +62402,8 @@ Title: "Metformina Generis 1000 mg Comprimido revestido por película 60 Comprim
 Description: "Metformina Generis 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50031171"
+//true??
+* identifier[pcid].value = "50031171"
 
 * name = "Metformina Generis 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -60969,7 +62421,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -60993,7 +62445,8 @@ Title: "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 14 Comprimi
 Description: "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -61011,7 +62464,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61035,7 +62488,8 @@ Title: "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61053,7 +62507,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61077,7 +62531,8 @@ Title: "Sinvastatina + Ezetimiba Pentafarma 20 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba Pentafarma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Pentafarma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61095,7 +62550,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61119,7 +62574,8 @@ Title: "Sinvastatina + Ezetimiba Pentafarma 40 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba Pentafarma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Pentafarma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61137,7 +62593,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61161,7 +62617,8 @@ Title: "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 14 Comprimido B
 Description: "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -61179,7 +62636,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61203,7 +62660,8 @@ Title: "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61221,7 +62679,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61245,7 +62703,8 @@ Title: "Sinvastatina + Ezetimiba Farmoz 20 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba Farmoz 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Farmoz 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61263,7 +62722,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61287,7 +62746,8 @@ Title: "Sinvastatina + Ezetimiba Farmoz 40 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba Farmoz 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Farmoz 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61305,7 +62765,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61329,7 +62789,8 @@ Title: "Sinvastatina + Ezetimiba Azevedos 10 mg + 10 mg Comprimido 28 Comprimido
 Description: "Sinvastatina + Ezetimiba Azevedos 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Azevedos 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61347,7 +62808,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61371,7 +62832,8 @@ Title: "Sinvastatina + Ezetimiba Azevedos 20 mg + 10 mg Comprimido 28 Comprimido
 Description: "Sinvastatina + Ezetimiba Azevedos 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Azevedos 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61389,7 +62851,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61413,7 +62875,8 @@ Title: "Sinvastatina + Ezetimiba Azevedos 40 mg + 10 mg Comprimido 28 Comprimido
 Description: "Sinvastatina + Ezetimiba Azevedos 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Azevedos 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61431,7 +62894,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61455,7 +62918,8 @@ Title: "Sinvastatina + Ezetimiba Tetrafarma 10 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba Tetrafarma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Tetrafarma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61473,7 +62937,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61497,7 +62961,8 @@ Title: "Sinvastatina + Ezetimiba Tetrafarma 20 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba Tetrafarma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Tetrafarma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61515,7 +62980,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61539,7 +63004,8 @@ Title: "Sinvastatina + Ezetimiba Tetrafarma 40 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba Tetrafarma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Tetrafarma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61557,7 +63023,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61581,7 +63047,8 @@ Title: "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 14 Comprimido B
 Description: "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -61599,7 +63066,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61623,7 +63090,8 @@ Title: "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61641,7 +63109,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61665,7 +63133,8 @@ Title: "Sinvastatina + Ezetimiba toLife 20 mg + 10 mg Comprimido 28 Comprimido B
 Description: "Sinvastatina + Ezetimiba toLife 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba toLife 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61683,7 +63152,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61707,7 +63176,8 @@ Title: "Taflotan 15 µg/ml Colírio, solução 1 Frasco 3 ml"
 Description: "Taflotan 15 µg/ml Colírio, solução 1 Frasco 3 ml"
 Usage: #example
 
-* identifier.value = "50172018"
+//true??
+* identifier[pcid].value = "50172018"
 
 * name = "Taflotan 15 µg/ml Colírio, solução 1 Frasco 3 ml"
 
@@ -61725,7 +63195,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -61749,7 +63219,8 @@ Title: "Sinvastatina Labesfal 10 mg Comprimido revestido por película 20 Compri
 Description: "Sinvastatina Labesfal 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50018426"
+//true??
+* identifier[pcid].value = "50018426"
 
 * name = "Sinvastatina Labesfal 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -61767,7 +63238,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61791,7 +63262,8 @@ Title: "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 28 Comprimido Bl
 Description: "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61809,7 +63281,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61833,7 +63305,8 @@ Title: "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 14 Comprimido Bl
 Description: "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -61851,7 +63324,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61875,7 +63348,8 @@ Title: "Sinvastatina + Ezetimiba Alter 20 mg + 10 mg Comprimido 28 Comprimido Bl
 Description: "Sinvastatina + Ezetimiba Alter 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Alter 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61893,7 +63367,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61917,7 +63391,8 @@ Title: "Sinvastatina + Ezetimiba Alter 40 mg + 10 mg Comprimido 28 Comprimido Bl
 Description: "Sinvastatina + Ezetimiba Alter 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Alter 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -61935,7 +63410,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -61959,7 +63434,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Bluepharma 5 mg + 20 mg Comprimido re
 Description: "Amlodipina + Olmesartan medoxomilo Bluepharma 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Bluepharma 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -61977,7 +63453,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62001,7 +63477,8 @@ Title: "Zofiren 750 mg Pó para solução injetável ou para perfusão 10 Frasco
 Description: "Zofiren 750 mg Pó para solução injetável ou para perfusão 10 Frasco para injetáveis"
 Usage: #example
 
-* identifier.value = "50042700"
+//true??
+* identifier[pcid].value = "50042700"
 
 * name = "Zofiren 750 mg Pó para solução injetável ou para perfusão 10 Frasco para injetáveis"
 
@@ -62019,7 +63496,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62043,7 +63520,8 @@ Title: "Candiset 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Candiset 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50008943"
+//true??
+* identifier[pcid].value = "50008943"
 
 * name = "Candiset 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -62061,7 +63539,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -62085,7 +63563,8 @@ Title: "Tramadol TAD 100 mg Comprimido de libertação prolongada 20 Comprimido 
 Description: "Tramadol TAD 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016776"
+//true??
+* identifier[pcid].value = "50016776"
 
 * name = "Tramadol TAD 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -62103,7 +63582,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62127,7 +63606,8 @@ Title: "Tramadol TAD 100 mg Comprimido de libertação prolongada 30 Comprimido 
 Description: "Tramadol TAD 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016792"
+//true??
+* identifier[pcid].value = "50016792"
 
 * name = "Tramadol TAD 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -62145,7 +63625,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62169,7 +63649,8 @@ Title: "Tramadol TAD 150 mg Comprimido de libertação prolongada 20 Comprimido 
 Description: "Tramadol TAD 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016806"
+//true??
+* identifier[pcid].value = "50016806"
 
 * name = "Tramadol TAD 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -62187,7 +63668,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62211,7 +63692,8 @@ Title: "Tramadol TAD 150 mg Comprimido de libertação prolongada 30 Comprimido 
 Description: "Tramadol TAD 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016822"
+//true??
+* identifier[pcid].value = "50016822"
 
 * name = "Tramadol TAD 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -62229,7 +63711,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62253,7 +63735,8 @@ Title: "Tramadol TAD 200 mg Comprimido de libertação prolongada 20 Comprimido 
 Description: "Tramadol TAD 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016830"
+//true??
+* identifier[pcid].value = "50016830"
 
 * name = "Tramadol TAD 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -62271,7 +63754,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62295,7 +63778,8 @@ Title: "Tramadol TAD 200 mg Comprimido de libertação prolongada 30 Comprimido 
 Description: "Tramadol TAD 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50016857"
+//true??
+* identifier[pcid].value = "50016857"
 
 * name = "Tramadol TAD 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -62313,7 +63797,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62337,7 +63821,8 @@ Title: "Amlodipina + Olmesartan medoxomilo Alter 5 mg + 20 mg Comprimido revesti
 Description: "Amlodipina + Olmesartan medoxomilo Alter 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50115910"
+//true??
+* identifier[pcid].value = "50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Alter 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -62355,7 +63840,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62379,7 +63864,8 @@ Title: "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 14 Comprimido
 Description: "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107704"
+//true??
+* identifier[pcid].value = "50107704"
 
 * name = "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -62397,7 +63883,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62421,7 +63907,8 @@ Title: "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 28 Comprimido
 Description: "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -62439,7 +63926,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62463,7 +63950,8 @@ Title: "Sinvastatina + Ezetimiba Tecnigen 20 mg + 10 mg Comprimido 28 Comprimido
 Description: "Sinvastatina + Ezetimiba Tecnigen 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Tecnigen 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -62481,7 +63969,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62505,7 +63993,8 @@ Title: "Sinvastatina + Ezetimiba Tecnigen 40 mg + 10 mg Comprimido 28 Comprimido
 Description: "Sinvastatina + Ezetimiba Tecnigen 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Tecnigen 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -62523,7 +64012,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62547,7 +64036,8 @@ Title: "Semglee 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré
 Description: "Semglee 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré-cheia"
 Usage: #example
 
-* identifier.value = "50174010"
+//true??
+* identifier[pcid].value = "50174010"
 
 * name = "Semglee 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré-cheia"
 
@@ -62565,7 +64055,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -62589,7 +64079,8 @@ Title: "Brufen Sem Açúcar 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Brufen Sem Açúcar 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-* identifier.value = "50004336"
+//true??
+* identifier[pcid].value = "50004336"
 
 * name = "Brufen Sem Açúcar 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -62607,7 +64098,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -62631,7 +64122,8 @@ Title: "Holuren 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Holuren 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Holuren 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -62649,7 +64141,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62673,7 +64165,8 @@ Title: "Metformina ToLife 500 mg Comprimido revestido por película 20 Comprimid
 Description: "Metformina ToLife 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009028"
+//true??
+* identifier[pcid].value = "50009028"
 
 * name = "Metformina ToLife 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -62691,7 +64184,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62715,7 +64208,8 @@ Title: "Metformina ToLife 500 mg Comprimido revestido por película 60 Comprimid
 Description: "Metformina ToLife 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50009010"
+//true??
+* identifier[pcid].value = "50009010"
 
 * name = "Metformina ToLife 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -62733,7 +64227,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62757,7 +64251,8 @@ Title: "Metformina ToLife 850 mg Comprimido revestido por película 60 Comprimid
 Description: "Metformina ToLife 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50014870"
+//true??
+* identifier[pcid].value = "50014870"
 
 * name = "Metformina ToLife 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -62775,7 +64270,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62799,7 +64294,8 @@ Title: "Segluromet 2.5 mg + 1000 mg Comprimido revestido por película 56 Compri
 Description: "Segluromet 2.5 mg + 1000 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50172034"
+//true??
+* identifier[pcid].value = "50172034"
 
 * name = "Segluromet 2.5 mg + 1000 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -62817,7 +64313,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62841,7 +64337,8 @@ Title: "Segluromet 7.5 mg + 1000 mg Comprimido revestido por película 56 Compri
 Description: "Segluromet 7.5 mg + 1000 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50172050"
+//true??
+* identifier[pcid].value = "50172050"
 
 * name = "Segluromet 7.5 mg + 1000 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -62859,7 +64356,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62883,7 +64380,8 @@ Title: "Amlodipina Labesfal 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Labesfal 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013343"
+//true??
+* identifier[pcid].value = "50013343"
 
 * name = "Amlodipina Labesfal 5 mg Comprimido 60 Comprimido Blister"
 
@@ -62901,7 +64399,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62925,7 +64423,8 @@ Title: "Amlodipina Labesfal 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Labesfal 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013335"
+//true??
+* identifier[pcid].value = "50013335"
 
 * name = "Amlodipina Labesfal 5 mg Comprimido 10 Comprimido Blister"
 
@@ -62943,7 +64442,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -62967,7 +64466,8 @@ Title: "Amlodipina Labesfal 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Labesfal 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50013360"
+//true??
+* identifier[pcid].value = "50013360"
 
 * name = "Amlodipina Labesfal 10 mg Comprimido 60 Comprimido Blister"
 
@@ -62985,7 +64485,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63009,7 +64509,8 @@ Title: "Paracetamol Mylan 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Mylan 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001981"
+//true??
+* identifier[pcid].value = "50001981"
 
 * name = "Paracetamol Mylan 500 mg Comprimido 20 Comprimido Blister"
 
@@ -63027,7 +64528,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63051,7 +64552,8 @@ Title: "Paracetamol Mylan 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Mylan 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50036432"
+//true??
+* identifier[pcid].value = "50036432"
 
 * name = "Paracetamol Mylan 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -63069,7 +64571,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63093,7 +64595,8 @@ Title: "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido 
 Description: "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50145010"
+//true??
+* identifier[pcid].value = "50145010"
 
 * name = "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -63111,7 +64614,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63135,7 +64638,8 @@ Title: "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido 
 Description: "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50145029"
+//true??
+* identifier[pcid].value = "50145029"
 
 * name = "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -63153,7 +64657,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63177,7 +64681,8 @@ Title: "Danofen 200 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 Description: "Danofen 200 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50194003"
+//true??
+* identifier[pcid].value = "50194003"
 
 * name = "Danofen 200 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 
@@ -63195,7 +64700,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -63219,7 +64724,8 @@ Title: "Danofen 400 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 Description: "Danofen 400 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50194011"
+//true??
+* identifier[pcid].value = "50194011"
 
 * name = "Danofen 400 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 
@@ -63237,7 +64743,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -63261,7 +64767,8 @@ Title: "Danofen 600 mg/15 ml Suspensão oral em saqueta 20 Saqueta"
 Description: "Danofen 600 mg/15 ml Suspensão oral em saqueta 20 Saqueta"
 Usage: #example
 
-* identifier.value = "50194020"
+//true??
+* identifier[pcid].value = "50194020"
 
 * name = "Danofen 600 mg/15 ml Suspensão oral em saqueta 20 Saqueta"
 
@@ -63279,7 +64786,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -63303,7 +64810,8 @@ Title: "Holpemic 10 mg/g Creme 1 Bisnaga 50 g"
 Description: "Holpemic 10 mg/g Creme 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50019805"
+//true??
+* identifier[pcid].value = "50019805"
 
 * name = "Holpemic 10 mg/g Creme 1 Bisnaga 50 g"
 
@@ -63321,7 +64829,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -63345,7 +64853,8 @@ Title: "Ibuprofeno + Cafeína Aspegic 400 mg + 100 mg                Comprimido 
 Description: "Ibuprofeno + Cafeína Aspegic 400 mg + 100 mg                Comprimido revestido por película 24 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50186523"
+//true??
+* identifier[pcid].value = "50186523"
 
 * name = "Ibuprofeno + Cafeína Aspegic 400 mg + 100 mg                Comprimido revestido por película 24 Comprimido Blister"
 
@@ -63363,7 +64872,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63387,7 +64896,8 @@ Title: "Nurofen Musc 200 mg Emplastro medicamentoso 2 Emplastro Saqueta"
 Description: "Nurofen Musc 200 mg Emplastro medicamentoso 2 Emplastro Saqueta"
 Usage: #example
 
-* identifier.value = "50178156"
+//true??
+* identifier[pcid].value = "50178156"
 
 * name = "Nurofen Musc 200 mg Emplastro medicamentoso 2 Emplastro Saqueta"
 
@@ -63405,7 +64915,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63429,7 +64939,8 @@ Title: "Nurofen Musc 200 mg Emplastro medicamentoso 4 Emplastro Saqueta"
 Description: "Nurofen Musc 200 mg Emplastro medicamentoso 4 Emplastro Saqueta"
 Usage: #example
 
-* identifier.value = "50178164"
+//true??
+* identifier[pcid].value = "50178164"
 
 * name = "Nurofen Musc 200 mg Emplastro medicamentoso 4 Emplastro Saqueta"
 
@@ -63447,7 +64958,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63471,7 +64982,8 @@ Title: "Sinvastatina + Ezetimiba Bluepharma 10 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba Bluepharma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Bluepharma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -63489,7 +65001,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63513,7 +65025,8 @@ Title: "Sinvastatina + Ezetimiba Bluepharma 20 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba Bluepharma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Bluepharma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -63531,7 +65044,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63555,7 +65068,8 @@ Title: "Sinvastatina + Ezetimiba Bluepharma 40 mg + 10 mg Comprimido 28 Comprimi
 Description: "Sinvastatina + Ezetimiba Bluepharma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Bluepharma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -63573,7 +65087,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63597,7 +65111,8 @@ Title: "Sinvastatina + Ezetimiba Generis 10 mg + 10 mg Comprimido 28 Comprimido 
 Description: "Sinvastatina + Ezetimiba Generis 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Generis 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -63615,7 +65130,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63639,7 +65154,8 @@ Title: "Sinvastatina + Ezetimiba Generis 20 mg + 10 mg Comprimido 28 Comprimido 
 Description: "Sinvastatina + Ezetimiba Generis 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Generis 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -63657,7 +65173,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63681,7 +65197,8 @@ Title: "Sinvastatina + Ezetimiba Generis 40 mg + 10 mg Comprimido 28 Comprimido 
 Description: "Sinvastatina + Ezetimiba Generis 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Generis 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -63699,7 +65216,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63723,7 +65240,8 @@ Title: "Sinvastatina + Ezetimiba Aurovitas 10 mg + 10 mg Comprimido 28 Comprimid
 Description: "Sinvastatina + Ezetimiba Aurovitas 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107712"
+//true??
+* identifier[pcid].value = "50107712"
 
 * name = "Sinvastatina + Ezetimiba Aurovitas 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -63741,7 +65259,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63765,7 +65283,8 @@ Title: "Sinvastatina + Ezetimiba Aurovitas 20 mg + 10 mg Comprimido 28 Comprimid
 Description: "Sinvastatina + Ezetimiba Aurovitas 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Sinvastatina + Ezetimiba Aurovitas 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -63783,7 +65302,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63807,7 +65326,8 @@ Title: "Sinvastatina + Ezetimiba Aurovitas 40 mg + 10 mg Comprimido 28 Comprimid
 Description: "Sinvastatina + Ezetimiba Aurovitas 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107798"
+//true??
+* identifier[pcid].value = "50107798"
 
 * name = "Sinvastatina + Ezetimiba Aurovitas 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -63825,7 +65345,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63849,7 +65369,8 @@ Title: "Latesil 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Latesil 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-* identifier.value = "50008285"
+//true??
+* identifier[pcid].value = "50008285"
 
 * name = "Latesil 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -63867,7 +65388,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -63891,7 +65412,8 @@ Title: "Holginec 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Holginec 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-* identifier.value = "50008943"
+//true??
+* identifier[pcid].value = "50008943"
 
 * name = "Holginec 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -63909,7 +65431,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -63933,7 +65455,8 @@ Title: "Carzap Am 5 mg + 16 mg Comprimido 14 Comprimido Blister"
 Description: "Carzap Am 5 mg + 16 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50170929"
+//true??
+* identifier[pcid].value = "50170929"
 
 * name = "Carzap Am 5 mg + 16 mg Comprimido 14 Comprimido Blister"
 
@@ -63951,7 +65474,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -63975,7 +65498,8 @@ Title: "Carzap Am 5 mg + 16 mg Comprimido 56 Comprimido Blister"
 Description: "Carzap Am 5 mg + 16 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50170937"
+//true??
+* identifier[pcid].value = "50170937"
 
 * name = "Carzap Am 5 mg + 16 mg Comprimido 56 Comprimido Blister"
 
@@ -63993,7 +65517,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64017,7 +65541,8 @@ Title: "Diltix 200 mg                         Comprimido revestido por película
 Description: "Diltix 200 mg                         Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004247"
+//true??
+* identifier[pcid].value = "50004247"
 
 * name = "Diltix 200 mg                         Comprimido revestido por película 20 Comprimido Blister"
 
@@ -64035,7 +65560,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64059,7 +65584,8 @@ Title: "Slinda 4 mg                           Comprimido revestido por película
 Description: "Slinda 4 mg                           Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50181610"
+//true??
+* identifier[pcid].value = "50181610"
 
 * name = "Slinda 4 mg                           Comprimido revestido por película 28 Comprimido Blister"
 
@@ -64077,7 +65603,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64101,7 +65627,8 @@ Title: "Slinda 4 mg                           Comprimido revestido por película
 Description: "Slinda 4 mg                           Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50181637"
+//true??
+* identifier[pcid].value = "50181637"
 
 * name = "Slinda 4 mg                           Comprimido revestido por película 84 Comprimido Blister"
 
@@ -64119,7 +65646,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64143,7 +65670,8 @@ Title: "Klimedix 2 mg + 1 mg                    Comprimido revestido por pelícu
 Description: "Klimedix 2 mg + 1 mg                    Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50105574"
+//true??
+* identifier[pcid].value = "50105574"
 
 * name = "Klimedix 2 mg + 1 mg                    Comprimido revestido por película 28 Comprimido Blister"
 
@@ -64161,7 +65689,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64185,7 +65713,8 @@ Title: "Klimedix 2 mg + 1 mg                    Comprimido revestido por pelícu
 Description: "Klimedix 2 mg + 1 mg                    Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50105582"
+//true??
+* identifier[pcid].value = "50105582"
 
 * name = "Klimedix 2 mg + 1 mg                    Comprimido revestido por película 84 Comprimido Blister"
 
@@ -64203,7 +65732,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64227,7 +65756,8 @@ Title: "Diclofenac Mylan 75 mg                          Comprimido de libertaç�
 Description: "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada 10 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50017675"
+//true??
+* identifier[pcid].value = "50017675"
 
 * name = "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada 10 Comprimido Blister"
 
@@ -64245,7 +65775,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64269,7 +65799,8 @@ Title: "Diclofenac Mylan 75 mg                          Comprimido de libertaç�
 Description: "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50017683"
+//true??
+* identifier[pcid].value = "50017683"
 
 * name = "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -64287,7 +65818,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64311,7 +65842,8 @@ Title: "Perindopril + Indapamida Zentiva 4 mg + 1.25 mg                 Comprimi
 Description: "Perindopril + Indapamida Zentiva 4 mg + 1.25 mg                 Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133519"
+//true??
+* identifier[pcid].value = "50133519"
 
 * name = "Perindopril + Indapamida Zentiva 4 mg + 1.25 mg                 Comprimido 30 Comprimido Blister"
 
@@ -64329,7 +65861,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64353,7 +65885,8 @@ Title: "Perindopril + Indapamida Zentiva 8 mg + 2.5 mg                  Comprimi
 Description: "Perindopril + Indapamida Zentiva 8 mg + 2.5 mg                  Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133462"
+//true??
+* identifier[pcid].value = "50133462"
 
 * name = "Perindopril + Indapamida Zentiva 8 mg + 2.5 mg                  Comprimido 30 Comprimido Blister"
 
@@ -64371,7 +65904,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64395,7 +65928,8 @@ Title: "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimi
 Description: "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121693"
+//true??
+* identifier[pcid].value = "50121693"
 
 * name = "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido 14 Comprimido Blister"
 
@@ -64413,7 +65947,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64437,7 +65971,8 @@ Title: "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimi
 Description: "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121707"
+//true??
+* identifier[pcid].value = "50121707"
 
 * name = "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido 28 Comprimido Blister"
 
@@ -64455,7 +65990,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64479,7 +66014,8 @@ Title: "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 28 Compr
 Description: "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121731"
+//true??
+* identifier[pcid].value = "50121731"
 
 * name = "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 28 Comprimido Blister"
 
@@ -64497,7 +66033,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64521,7 +66057,8 @@ Title: "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 14 Compr
 Description: "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121723"
+//true??
+* identifier[pcid].value = "50121723"
 
 * name = "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 14 Comprimido Blister"
 
@@ -64539,7 +66076,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64563,7 +66100,8 @@ Title: "Amlodipina + Telmisartan Generis 5 mg + 80 mg                  Comprimid
 Description: "Amlodipina + Telmisartan Generis 5 mg + 80 mg                  Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50121766"
+//true??
+* identifier[pcid].value = "50121766"
 
 * name = "Amlodipina + Telmisartan Generis 5 mg + 80 mg                  Comprimido 28 Comprimido Blister"
 
@@ -64581,7 +66119,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64605,7 +66143,8 @@ Title: "Lidbree 42 mg/ml                     Gel intrauterino 1 Seringa 10 ml"
 Description: "Lidbree 42 mg/ml                     Gel intrauterino 1 Seringa 10 ml"
 Usage: #example
 
-* identifier.value = "50187503"
+//true??
+* identifier[pcid].value = "50187503"
 
 * name = "Lidbree 42 mg/ml                     Gel intrauterino 1 Seringa 10 ml"
 
@@ -64623,7 +66162,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.
@@ -64647,7 +66186,8 @@ Title: "Candigen 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 Description: "Candigen 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 Usage: #example
 
-* identifier.value = "50181386"
+//true??
+* identifier[pcid].value = "50181386"
 
 * name = "Candigen 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 
@@ -64665,7 +66205,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -64689,7 +66229,8 @@ Title: "Perindopril + Amlodipina toLife 4 mg + 5 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Amlodipina toLife 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Perindopril + Amlodipina toLife 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -64707,7 +66248,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64731,7 +66272,8 @@ Title: "Perindopril + Amlodipina toLife 4 mg + 10 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril + Amlodipina toLife 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Perindopril + Amlodipina toLife 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -64749,7 +66291,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64773,7 +66315,8 @@ Title: "Perindopril + Amlodipina toLife 8 mg + 5 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Amlodipina toLife 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Perindopril + Amlodipina toLife 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -64791,7 +66334,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64815,7 +66358,8 @@ Title: "Perindopril + Amlodipina toLife 8 mg + 10 mg Comprimido 30 Comprimido Bl
 Description: "Perindopril + Amlodipina toLife 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Perindopril + Amlodipina toLife 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -64833,7 +66377,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64857,7 +66401,8 @@ Title: "Amoxicilina + Ácido Clavulânico Bluepharma 500 mg + 125 mg Comprimido 
 Description: "Amoxicilina + Ácido Clavulânico Bluepharma 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001639"
+//true??
+* identifier[pcid].value = "50001639"
 
 * name = "Amoxicilina + Ácido Clavulânico Bluepharma 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -64875,7 +66420,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64899,7 +66444,8 @@ Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50120816"
+//true??
+* identifier[pcid].value = "50120816"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -64917,7 +66463,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64941,7 +66487,8 @@ Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50120824"
+//true??
+* identifier[pcid].value = "50120824"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -64959,7 +66506,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -64983,7 +66530,8 @@ Title: "Dimidon 75 mg                          Supositório 10 Supositório Fita
 Description: "Dimidon 75 mg                          Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50057677"
+//true??
+* identifier[pcid].value = "50057677"
 
 * name = "Dimidon 75 mg                          Supositório 10 Supositório Fita termossoldada"
 
@@ -65001,7 +66549,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65025,7 +66573,8 @@ Title: "Dimidon 150 mg                         Supositório 10 Supositório Fita
 Description: "Dimidon 150 mg                         Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50057685"
+//true??
+* identifier[pcid].value = "50057685"
 
 * name = "Dimidon 150 mg                         Supositório 10 Supositório Fita termossoldada"
 
@@ -65043,7 +66592,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65067,7 +66616,8 @@ Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50120816"
+//true??
+* identifier[pcid].value = "50120816"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -65085,7 +66635,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65109,7 +66659,8 @@ Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50120824"
+//true??
+* identifier[pcid].value = "50120824"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -65127,7 +66678,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65151,7 +66702,8 @@ Title: "Olfen Artic 10 mg/g Gel 1 Bisnaga 120 g"
 Description: "Olfen Artic 10 mg/g Gel 1 Bisnaga 120 g"
 Usage: #example
 
-* identifier.value = "50166212"
+//true??
+* identifier[pcid].value = "50166212"
 
 * name = "Olfen Artic 10 mg/g Gel 1 Bisnaga 120 g"
 
@@ -65169,7 +66721,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -65193,7 +66745,8 @@ Title: "Olfenex Artic  20 mg/g Gel 1 Bisnaga 180 g"
 Description: "Olfenex Artic  20 mg/g Gel 1 Bisnaga 180 g"
 Usage: #example
 
-* identifier.value = "50184148"
+//true??
+* identifier[pcid].value = "50184148"
 
 * name = "Olfenex Artic  20 mg/g Gel 1 Bisnaga 180 g"
 
@@ -65211,7 +66764,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -65235,7 +66788,8 @@ Title: "Perindopril  + Amlodipina Generis 4 mg + 5 mg                    Comprim
 Description: "Perindopril  + Amlodipina Generis 4 mg + 5 mg                    Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Perindopril  + Amlodipina Generis 4 mg + 5 mg                    Comprimido 30 Comprimido Blister"
 
@@ -65253,7 +66807,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65277,7 +66831,8 @@ Title: "Perindopril  + Amlodipina Generis 4 mg + 10 mg                   Comprim
 Description: "Perindopril  + Amlodipina Generis 4 mg + 10 mg                   Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Perindopril  + Amlodipina Generis 4 mg + 10 mg                   Comprimido 30 Comprimido Blister"
 
@@ -65295,7 +66850,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65319,7 +66874,8 @@ Title: "Perindopril  + Amlodipina Generis 8 mg + 5 mg                    Comprim
 Description: "Perindopril  + Amlodipina Generis 8 mg + 5 mg                    Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Perindopril  + Amlodipina Generis 8 mg + 5 mg                    Comprimido 30 Comprimido Blister"
 
@@ -65337,7 +66893,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65361,7 +66917,8 @@ Title: "Perindopril  + Amlodipina Generis 8 mg + 10 mg                   Comprim
 Description: "Perindopril  + Amlodipina Generis 8 mg + 10 mg                   Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Perindopril  + Amlodipina Generis 8 mg + 10 mg                   Comprimido 30 Comprimido Blister"
 
@@ -65379,7 +66936,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65403,7 +66960,8 @@ Title: "Amoxicilina + Ácido Clavulânico Zentiva 600 mg/5 ml + 42.9 mg/5 ml    
 Description: "Amoxicilina + Ácido Clavulânico Zentiva 600 mg/5 ml + 42.9 mg/5 ml     Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50040278"
+//true??
+* identifier[pcid].value = "50040278"
 
 * name = "Amoxicilina + Ácido Clavulânico Zentiva 600 mg/5 ml + 42.9 mg/5 ml     Pó para suspensão oral 1 Frasco"
 
@@ -65421,7 +66979,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65445,7 +67003,8 @@ Title: "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimi
 Description: "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50145010"
+//true??
+* identifier[pcid].value = "50145010"
 
 * name = "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película 14 Comprimido Blister"
 
@@ -65463,7 +67022,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65487,7 +67046,8 @@ Title: "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimi
 Description: "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50145029"
+//true??
+* identifier[pcid].value = "50145029"
 
 * name = "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película 56 Comprimido Blister"
 
@@ -65505,7 +67065,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65529,7 +67089,8 @@ Title: "Candiset 3 dias 20 mg/g                        Creme vaginal 1 Bisnaga 2
 Description: "Candiset 3 dias 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 Usage: #example
 
-* identifier.value = "50181386"
+//true??
+* identifier[pcid].value = "50181386"
 
 * name = "Candiset 3 dias 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 
@@ -65547,7 +67108,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110654 ""
+  * type = $100000073346#100000110654 "Caixa"
   
 
   * packaging.
@@ -65571,7 +67132,8 @@ Title: "Amoxicilina Generis 500 mg                         Comprimido revestido 
 Description: "Amoxicilina Generis 500 mg                         Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001795"
+//true??
+* identifier[pcid].value = "50001795"
 
 * name = "Amoxicilina Generis 500 mg                         Comprimido revestido por película 16 Comprimido Blister"
 
@@ -65589,7 +67151,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65613,7 +67175,8 @@ Title: "Amoxicilina Generis 1000 mg                        Comprimido revestido 
 Description: "Amoxicilina Generis 1000 mg                        Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50001817"
+//true??
+* identifier[pcid].value = "50001817"
 
 * name = "Amoxicilina Generis 1000 mg                        Comprimido revestido por película 16 Comprimido Blister"
 
@@ -65631,7 +67194,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65655,7 +67218,8 @@ Title: "Amoxicilina + Ácido clavulânico Sandoz 600 mg/5 ml + 42.9 mg/5 ml Pó 
 Description: "Amoxicilina + Ácido clavulânico Sandoz 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50040278"
+//true??
+* identifier[pcid].value = "50040278"
 
 * name = "Amoxicilina + Ácido clavulânico Sandoz 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -65673,7 +67237,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65697,7 +67261,8 @@ Title: "Vyeve Duo 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Vyeve Duo 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50107755"
+//true??
+* identifier[pcid].value = "50107755"
 
 * name = "Vyeve Duo 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -65715,7 +67280,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65739,7 +67304,8 @@ Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg +
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50120816"
+//true??
+* identifier[pcid].value = "50120816"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película 14 Comprimido Blister"
 
@@ -65757,7 +67323,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65781,7 +67347,8 @@ Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg +
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50120824"
+//true??
+* identifier[pcid].value = "50120824"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película 56 Comprimido Blister"
 
@@ -65799,7 +67366,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65823,7 +67390,8 @@ Title: "Paramolan Caf 500 mg + 65 mg                 Comprimido 20 Comprimido Bl
 Description: "Paramolan Caf 500 mg + 65 mg                 Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50100939"
+//true??
+* identifier[pcid].value = "50100939"
 
 * name = "Paramolan Caf 500 mg + 65 mg                 Comprimido 20 Comprimido Blister"
 
@@ -65841,7 +67409,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65865,7 +67433,8 @@ Title: "Perindopril + Amlodipina Mylan 4 mg + 5 mg Comprimido 30 Comprimido Blis
 Description: "Perindopril + Amlodipina Mylan 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Perindopril + Amlodipina Mylan 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -65883,7 +67452,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65907,7 +67476,8 @@ Title: "Perindopril + Amlodipina Mylan 4 mg + 10 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Amlodipina Mylan 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Perindopril + Amlodipina Mylan 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -65925,7 +67495,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65949,7 +67519,8 @@ Title: "Perindopril + Amlodipina Mylan 8 mg + 5 mg Comprimido 30 Comprimido Blis
 Description: "Perindopril + Amlodipina Mylan 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Perindopril + Amlodipina Mylan 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -65967,7 +67538,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -65991,7 +67562,8 @@ Title: "Perindopril + Amlodipina Mylan 8 mg + 10 mg Comprimido 30 Comprimido Bli
 Description: "Perindopril + Amlodipina Mylan 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Perindopril + Amlodipina Mylan 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -66009,7 +67581,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66033,7 +67605,8 @@ Title: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022199"
+//true??
+* identifier[pcid].value = "50022199"
 
 * name = "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66051,7 +67624,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66075,7 +67648,8 @@ Title: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022199"
+//true??
+* identifier[pcid].value = "50022199"
 
 * name = "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66093,7 +67667,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66117,7 +67691,8 @@ Title: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022202"
+//true??
+* identifier[pcid].value = "50022202"
 
 * name = "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66135,7 +67710,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66159,7 +67734,8 @@ Title: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50038338"
+//true??
+* identifier[pcid].value = "50038338"
 
 * name = "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66177,7 +67753,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66201,7 +67777,8 @@ Title: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022199"
+//true??
+* identifier[pcid].value = "50022199"
 
 * name = "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66219,7 +67796,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66243,7 +67820,8 @@ Title: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022202"
+//true??
+* identifier[pcid].value = "50022202"
 
 * name = "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66261,7 +67839,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66285,7 +67863,8 @@ Title: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50038338"
+//true??
+* identifier[pcid].value = "50038338"
 
 * name = "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66303,7 +67882,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66327,7 +67906,8 @@ Title: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022199"
+//true??
+* identifier[pcid].value = "50022199"
 
 * name = "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66345,7 +67925,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66369,7 +67949,8 @@ Title: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022199"
+//true??
+* identifier[pcid].value = "50022199"
 
 * name = "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66387,7 +67968,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66411,7 +67992,8 @@ Title: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022202"
+//true??
+* identifier[pcid].value = "50022202"
 
 * name = "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66429,7 +68011,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66453,7 +68035,8 @@ Title: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50022199"
+//true??
+* identifier[pcid].value = "50022199"
 
 * name = "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66471,7 +68054,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66495,7 +68078,8 @@ Title: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50038338"
+//true??
+* identifier[pcid].value = "50038338"
 
 * name = "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66513,7 +68097,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66537,7 +68121,8 @@ Title: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50040278"
+//true??
+* identifier[pcid].value = "50040278"
 
 * name = "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66555,7 +68140,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66579,7 +68164,8 @@ Title: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50040251"
+//true??
+* identifier[pcid].value = "50040251"
 
 * name = "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66597,7 +68183,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66621,7 +68207,8 @@ Title: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50040251"
+//true??
+* identifier[pcid].value = "50040251"
 
 * name = "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66639,7 +68226,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66663,7 +68250,8 @@ Title: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-* identifier.value = "50182501"
+//true??
+* identifier[pcid].value = "50182501"
 
 * name = "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -66681,7 +68269,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66705,7 +68293,8 @@ Title: "Perindopril + Amlodipina ratiopharm 5 mg + 5 mg Comprimido 30 Comprimido
 Description: "Perindopril + Amlodipina ratiopharm 5 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50133446"
+//true??
+* identifier[pcid].value = "50133446"
 
 * name = "Perindopril + Amlodipina ratiopharm 5 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -66723,7 +68312,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66747,7 +68336,8 @@ Title: "Perindopril + Amlodipina ratiopharm 5 mg + 10 mg Comprimido 30 Comprimid
 Description: "Perindopril + Amlodipina ratiopharm 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50133438"
+//true??
+* identifier[pcid].value = "50133438"
 
 * name = "Perindopril + Amlodipina ratiopharm 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -66765,7 +68355,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66789,7 +68379,8 @@ Title: "Perindopril + Amlodipina ratiopharm 10 mg + 5 mg Comprimido 30 Comprimid
 Description: "Perindopril + Amlodipina ratiopharm 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50133420"
+//true??
+* identifier[pcid].value = "50133420"
 
 * name = "Perindopril + Amlodipina ratiopharm 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -66807,7 +68398,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66831,7 +68422,8 @@ Title: "Perindopril + Amlodipina ratiopharm 10 mg + 10 mg Comprimido 30 Comprimi
 Description: "Perindopril + Amlodipina ratiopharm 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-* identifier.value = "50129066"
+//true??
+* identifier[pcid].value = "50129066"
 
 * name = "Perindopril + Amlodipina ratiopharm 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -66849,7 +68441,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66873,7 +68465,8 @@ Title: "Lisinopril + Amlodipina Zentiva 20 mg + 10 mg Comprimido 60 Comprimido B
 Description: "Lisinopril + Amlodipina Zentiva 20 mg + 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50143280"
+//true??
+* identifier[pcid].value = "50143280"
 
 * name = "Lisinopril + Amlodipina Zentiva 20 mg + 10 mg Comprimido 60 Comprimido Blister"
 
@@ -66891,7 +68484,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66915,7 +68508,8 @@ Title: "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 60 Comprimido Bl
 Description: "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50122150"
+//true??
+* identifier[pcid].value = "50122150"
 
 * name = "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 
@@ -66933,7 +68527,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66957,7 +68551,8 @@ Title: "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 20 Comprimido Bl
 Description: "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50136267"
+//true??
+* identifier[pcid].value = "50136267"
 
 * name = "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 
@@ -66975,7 +68570,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -66999,7 +68594,8 @@ Title: "Diclofenac Farmoz 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Description: "Diclofenac Farmoz 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Usage: #example
 
-* identifier.value = "50026445"
+//true??
+* identifier[pcid].value = "50026445"
 
 * name = "Diclofenac Farmoz 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 
@@ -67017,7 +68613,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -67041,7 +68637,8 @@ Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 m
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50120816"
+//true??
+* identifier[pcid].value = "50120816"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -67059,7 +68656,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -67083,7 +68680,8 @@ Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 m
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50120824"
+//true??
+* identifier[pcid].value = "50120824"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -67101,7 +68699,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -67125,7 +68723,8 @@ Title: "Rennie Dual Action 625 mg + 73.5 mg + 150 mg Comprimido para mastigar 24
 Description: "Rennie Dual Action 625 mg + 73.5 mg + 150 mg Comprimido para mastigar 24 Comprimido Fita termossoldada"
 Usage: #example
 
-* identifier.value = "50189050"
+//true??
+* identifier[pcid].value = "50189050"
 
 * name = "Rennie Dual Action 625 mg + 73.5 mg + 150 mg Comprimido para mastigar 24 Comprimido Fita termossoldada"
 
@@ -67143,7 +68742,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -67167,7 +68766,8 @@ Title: "Trifeduo 200 mg + 500 mg Comprimido revestido por película 20 Comprimid
 Description: "Trifeduo 200 mg + 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50186620"
+//true??
+* identifier[pcid].value = "50186620"
 
 * name = "Trifeduo 200 mg + 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -67185,7 +68785,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -67209,7 +68809,8 @@ Title: "Ibuprofeno Alter 400 mg Comprimido revestido por película 20 Comprimido
 Description: "Ibuprofeno Alter 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50004271"
+//true??
+* identifier[pcid].value = "50004271"
 
 * name = "Ibuprofeno Alter 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -67227,7 +68828,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -67251,7 +68852,8 @@ Title: "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 28 Comprimido
 Description: "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50189190"
+//true??
+* identifier[pcid].value = "50189190"
 
 * name = "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -67269,7 +68871,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -67293,7 +68895,8 @@ Title: "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 84 Comprimido
 Description: "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-* identifier.value = "50189204"
+//true??
+* identifier[pcid].value = "50189204"
 
 * name = "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -67311,7 +68914,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110756 ""
+  * type = $100000073346#100000110756 "Caixa"
   
 
   * packaging.
@@ -67335,7 +68938,8 @@ Title: "Sondelbay 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta 
 Description: "Sondelbay 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta pré-cheia"
 Usage: #example
 
-* identifier.value = "50101390"
+//true??
+* identifier[pcid].value = "50101390"
 
 * name = "Sondelbay 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta pré-cheia"
 
@@ -67353,7 +68957,7 @@ Usage: #example
 
 * packaging
   * quantity = 1
-  * type = $100000073346#100000110662 ""
+  * type = $100000073346#100000110662 "Caixa"
   
 
   * packaging.

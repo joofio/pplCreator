@@ -44,7 +44,7 @@ Usage: #example
   
 
   * packaging.
-    * type = $100000073346#{{ row["Package item type 4.7.1.1"]}} "{{ row["Package item type .1"] }}"
+    * type = $100000073346#{{ row["Package item type 4.7.1.1"]}} "{{ row["Package item type.1"] }}"
     * containedItem.item.reference = Reference(mid-{{row["MED ID"]}})
     * containedItem.amount.value = {{ row["Pack size 4.3 (qtd)"]}}
 

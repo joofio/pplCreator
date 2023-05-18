@@ -27,8 +27,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -68,8 +68,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -109,8 +109,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -150,8 +150,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -191,8 +191,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -232,8 +232,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -273,8 +273,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -314,8 +314,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -355,8 +355,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -396,8 +396,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -437,8 +437,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -478,8 +478,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -519,8 +519,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -560,8 +560,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -601,8 +601,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03HB01 ""
-* classification[+] = $100000093533#100000095915 ""
+* classification[+] = $who-atc#G03HB01 "cyproterone and estrogen"
+* classification[+] = $100000093533#100000095915 "cyproterone and estrogen"
 
 
 
@@ -642,8 +642,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -683,8 +683,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -724,8 +724,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -765,8 +765,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -806,8 +806,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -847,8 +847,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -888,8 +888,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -929,8 +929,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -970,8 +970,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -1011,8 +1011,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA09 ""
-* classification[+] = $100000093533#100000095782 ""
+* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
 
 
 
@@ -1052,8 +1052,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA09 ""
-* classification[+] = $100000093533#100000095782 ""
+* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
 
 
 
@@ -1093,8 +1093,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA07 ""
-* classification[+] = $100000093533#100000095780 ""
+* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095780 "levonorgestrel and ethinylestradiol"
 
 
 
@@ -1134,8 +1134,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -1175,8 +1175,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -1216,8 +1216,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -1257,8 +1257,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07AA02 ""
-* classification[+] = $100000093533#100000095413 ""
+* classification[+] = $who-atc#D07AA02 "hydrocortisone"
+* classification[+] = $100000093533#100000095413 "hydrocortisone"
 
 
 
@@ -1298,8 +1298,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -1339,8 +1339,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -1380,8 +1380,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -1421,8 +1421,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -1462,8 +1462,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -1503,8 +1503,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -1544,8 +1544,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -1585,8 +1585,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J02AC02 ""
-* classification[+] = $100000093533#100000096373 ""
+* classification[+] = $who-atc#J02AC02 "itraconazole"
+* classification[+] = $100000093533#100000096373 "itraconazole"
 
 
 
@@ -1626,8 +1626,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -1667,8 +1667,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -1708,8 +1708,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -1749,8 +1749,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -1790,8 +1790,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -1831,8 +1831,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -1872,8 +1872,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -1913,8 +1913,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -1954,8 +1954,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -1995,8 +1995,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -2036,8 +2036,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AB03 ""
-* classification[+] = $100000093533#100000095790 ""
+* classification[+] = $who-atc#G03AB03 "levonorgestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095790 "levonorgestrel and ethinylestradiol"
 
 
 
@@ -2077,8 +2077,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -2118,8 +2118,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -2159,8 +2159,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R03AC02 ""
-* classification[+] = $100000093533#100000098065 ""
+* classification[+] = $who-atc#R03AC02 "salbutamol"
+* classification[+] = $100000093533#100000098065 "salbutamol"
 
 
 
@@ -2200,8 +2200,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#S01BC03 ""
-* classification[+] = $100000093533#100000098459 ""
+* classification[+] = $who-atc#S01BC03 "diclofenac"
+* classification[+] = $100000093533#100000098459 "diclofenac"
 
 
 
@@ -2241,8 +2241,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -2282,8 +2282,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -2323,8 +2323,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -2364,8 +2364,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -2405,8 +2405,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -2446,8 +2446,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -2487,8 +2487,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -2528,8 +2528,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -2569,8 +2569,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -2610,8 +2610,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L02AE03 ""
-* classification[+] = $100000093533#100000096783 ""
+* classification[+] = $who-atc#L02AE03 "goserelin"
+* classification[+] = $100000093533#100000096783 "goserelin"
 
 
 
@@ -2651,8 +2651,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ06 ""
-* classification[+] = $100000093533#100000170296 ""
+* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
+* classification[+] = $100000093533#100000170296 "codeine and paracetamol"
 
 
 
@@ -2692,8 +2692,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -2733,8 +2733,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R03AK04 ""
-* classification[+] = $100000093533#100000098086 ""
+* classification[+] = $who-atc#R03AK04 "salbutamol and sodium cromoglicate"
+* classification[+] = $100000093533#100000098086 "salbutamol and sodium cromoglicate"
 
 
 
@@ -2774,8 +2774,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -2815,8 +2815,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#H02AB09 ""
-* classification[+] = $100000093533#100000096043 ""
+* classification[+] = $who-atc#H02AB09 "hydrocortisone"
+* classification[+] = $100000093533#100000096043 "hydrocortisone"
 
 
 
@@ -2856,8 +2856,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -2897,8 +2897,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -2938,8 +2938,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -2979,8 +2979,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03FA15 ""
-* classification[+] = $100000093533#100000095881 ""
+* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
+* classification[+] = $100000093533#100000095881 "dienogest and estrogen"
 
 
 
@@ -3020,8 +3020,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -3061,8 +3061,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -3102,8 +3102,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -3143,8 +3143,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -3184,8 +3184,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -3225,8 +3225,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -3266,8 +3266,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -3307,8 +3307,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA15 ""
-* classification[+] = $100000093533#100000125024 ""
+* classification[+] = $who-atc#G03AA15 "chlormadinone and ethinylestradiol"
+* classification[+] = $100000093533#100000125024 "chlormadinone and ethinylestradiol"
 
 
 
@@ -3348,8 +3348,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -3389,8 +3389,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -3430,8 +3430,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -3471,8 +3471,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -3512,8 +3512,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -3553,8 +3553,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -3594,8 +3594,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -3635,8 +3635,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -3676,8 +3676,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -3717,8 +3717,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -3758,8 +3758,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -3799,8 +3799,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -3840,8 +3840,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -3881,8 +3881,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -3922,8 +3922,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -3963,8 +3963,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -4004,8 +4004,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -4045,8 +4045,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L02AE03 ""
-* classification[+] = $100000093533#100000096783 ""
+* classification[+] = $who-atc#L02AE03 "goserelin"
+* classification[+] = $100000093533#100000096783 "goserelin"
 
 
 
@@ -4086,8 +4086,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -4127,8 +4127,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -4168,8 +4168,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07AB02 ""
-* classification[+] = $100000093533#100000095417 ""
+* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
+* classification[+] = $100000093533#100000095417 "hydrocortisone butyrate"
 
 
 
@@ -4209,8 +4209,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -4250,8 +4250,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07CA01 ""
-* classification[+] = $100000093533#100000095471 ""
+* classification[+] = $who-atc#D07CA01 "hydrocortisone and antibiotics"
+* classification[+] = $100000093533#100000095471 "hydrocortisone and antibiotics"
 
 
 
@@ -4291,8 +4291,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -4332,8 +4332,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -4373,8 +4373,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -4414,8 +4414,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -4455,8 +4455,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -4496,8 +4496,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -4537,8 +4537,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -4578,8 +4578,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -4619,8 +4619,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -4660,8 +4660,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -4701,8 +4701,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -4742,8 +4742,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -4783,8 +4783,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10AE04 ""
-* classification[+] = $100000093533#100000094023 ""
+* classification[+] = $who-atc#A10AE04 "insulin glargine"
+* classification[+] = $100000093533#100000094023 "insulin glargine"
 
 
 
@@ -4824,8 +4824,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -4865,8 +4865,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -4906,8 +4906,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#S01BC03 ""
-* classification[+] = $100000093533#100000098459 ""
+* classification[+] = $who-atc#S01BC03 "diclofenac"
+* classification[+] = $100000093533#100000098459 "diclofenac"
 
 
 
@@ -4947,8 +4947,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -4988,8 +4988,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -5029,8 +5029,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -5070,8 +5070,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -5111,8 +5111,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -5152,8 +5152,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -5193,8 +5193,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ06 ""
-* classification[+] = $100000093533#100000170296 ""
+* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
+* classification[+] = $100000093533#100000170296 "codeine and paracetamol"
 
 
 
@@ -5234,8 +5234,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -5275,8 +5275,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -5316,8 +5316,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -5357,8 +5357,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -5398,8 +5398,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -5439,8 +5439,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -5480,8 +5480,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -5521,8 +5521,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -5562,12 +5562,12 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A11CC05 ""
-* classification[+] = $100000093533#100000094100 "" 
+* classification[+] = $who-atc#A11CC05 "colecalciferol"
+* classification[+] = $100000093533#100000094100 "colecalciferol" 
 
 
-* classification[+] = $who-atc#A12AA04 ""
-* classification[+] = $100000093533#100000094144 ""
+* classification[+] = $who-atc#A12AA04 "calcium carbonate"
+* classification[+] = $100000093533#100000094144 "calcium carbonate"
 
 
 
@@ -5607,8 +5607,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A12AX ""
-* classification[+] = $100000093533#100000094155 ""
+* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+* classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
 
 
 
@@ -5648,8 +5648,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -5689,8 +5689,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -5730,8 +5730,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -5771,8 +5771,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -5812,8 +5812,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -5853,8 +5853,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -5894,8 +5894,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -5935,8 +5935,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -5976,8 +5976,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -6017,8 +6017,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -6058,8 +6058,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -6099,8 +6099,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D04AB01 ""
-* classification[+] = $100000093533#100000095332 ""
+* classification[+] = $who-atc#D04AB01 "lidocaine"
+* classification[+] = $100000093533#100000095332 "lidocaine"
 
 
 
@@ -6140,8 +6140,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -6181,8 +6181,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -6222,8 +6222,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -6263,8 +6263,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -6304,8 +6304,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -6345,8 +6345,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A12AA04 ""
-* classification[+] = $100000093533#100000094144 ""
+* classification[+] = $who-atc#A12AA04 "calcium carbonate"
+* classification[+] = $100000093533#100000094144 "calcium carbonate"
 
 
 
@@ -6386,8 +6386,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -6427,8 +6427,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -6468,8 +6468,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -6509,8 +6509,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -6550,8 +6550,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -6591,8 +6591,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -6632,8 +6632,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -6673,8 +6673,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -6714,8 +6714,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -6755,8 +6755,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -6796,8 +6796,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -6837,8 +6837,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R03AC02 ""
-* classification[+] = $100000093533#100000098065 ""
+* classification[+] = $who-atc#R03AC02 "salbutamol"
+* classification[+] = $100000093533#100000098065 "salbutamol"
 
 
 
@@ -6878,12 +6878,12 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M03BX05 ""
-* classification[+] = $100000093533#100000097080 "" 
+* classification[+] = $who-atc#M03BX05 "thiocolchicoside"
+* classification[+] = $100000093533#100000097080 "thiocolchicoside" 
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -6923,8 +6923,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02B ""
-* classification[+] = $100000093533#100000097264 ""
+* classification[+] = $who-atc#N02B "OTHER ANALGESICS AND ANTIPYRETICS"
+* classification[+] = $100000093533#100000097264 "OTHER ANALGESICS AND ANTIPYRETICS"
 
 
 
@@ -6964,8 +6964,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -7005,8 +7005,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -7046,8 +7046,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -7087,8 +7087,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -7128,8 +7128,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N06AA04 ""
-* classification[+] = $100000093533#100000097655 ""
+* classification[+] = $who-atc#N06AA04 "clomipramine"
+* classification[+] = $100000093533#100000097655 "clomipramine"
 
 
 
@@ -7169,8 +7169,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N06AA04 ""
-* classification[+] = $100000093533#100000097655 ""
+* classification[+] = $who-atc#N06AA04 "clomipramine"
+* classification[+] = $100000093533#100000097655 "clomipramine"
 
 
 
@@ -7210,8 +7210,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N06AA04 ""
-* classification[+] = $100000093533#100000097655 ""
+* classification[+] = $who-atc#N06AA04 "clomipramine"
+* classification[+] = $100000093533#100000097655 "clomipramine"
 
 
 
@@ -7251,8 +7251,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N06AA04 ""
-* classification[+] = $100000093533#100000097655 ""
+* classification[+] = $who-atc#N06AA04 "clomipramine"
+* classification[+] = $100000093533#100000097655 "clomipramine"
 
 
 
@@ -7292,8 +7292,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -7333,8 +7333,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB55 ""
-* classification[+] = $100000093533#100000096920 ""
+* classification[+] = $who-atc#M01AB55 "diclofenac, combinations"
+* classification[+] = $100000093533#100000096920 "diclofenac, combinations"
 
 
 
@@ -7374,8 +7374,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB55 ""
-* classification[+] = $100000093533#100000096920 ""
+* classification[+] = $who-atc#M01AB55 "diclofenac, combinations"
+* classification[+] = $100000093533#100000096920 "diclofenac, combinations"
 
 
 
@@ -7415,8 +7415,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07XB05 ""
-* classification[+] = $100000093533#100000095498 ""
+* classification[+] = $who-atc#D07XB05 "dexamethasone"
+* classification[+] = $100000093533#100000095498 "dexamethasone"
 
 
 
@@ -7456,8 +7456,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -7497,8 +7497,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -7538,8 +7538,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -7579,8 +7579,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A03DB04 ""
-* classification[+] = $100000093533#100000093764 ""
+* classification[+] = $who-atc#A03DB04 "butylscopolamine and analgesics"
+* classification[+] = $100000093533#100000093764 "butylscopolamine and analgesics"
 
 
 
@@ -7620,8 +7620,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A03DB04 ""
-* classification[+] = $100000093533#100000093764 ""
+* classification[+] = $who-atc#A03DB04 "butylscopolamine and analgesics"
+* classification[+] = $100000093533#100000093764 "butylscopolamine and analgesics"
 
 
 
@@ -7661,8 +7661,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A12AA20 ""
-* classification[+] = $100000093533#100000094153 ""
+* classification[+] = $who-atc#A12AA20 "calcium (different salts in combination)"
+* classification[+] = $100000093533#100000094153 "calcium (different salts in combination)"
 
 
 
@@ -7702,8 +7702,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A12AA04 ""
-* classification[+] = $100000093533#100000094144 ""
+* classification[+] = $who-atc#A12AA04 "calcium carbonate"
+* classification[+] = $100000093533#100000094144 "calcium carbonate"
 
 
 
@@ -7743,8 +7743,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -7784,8 +7784,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -7825,8 +7825,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -7866,8 +7866,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -7907,8 +7907,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -7948,8 +7948,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -7989,8 +7989,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -8030,8 +8030,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -8071,8 +8071,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -8112,8 +8112,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -8153,8 +8153,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -8194,8 +8194,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC20 ""
-* classification[+] = $100000093533#100000095248 ""
+* classification[+] = $who-atc#D01AC20 "imidazoles/triazoles in combination with corticosteroids"
+* classification[+] = $100000093533#100000095248 "imidazoles/triazoles in combination with corticosteroids"
 
 
 
@@ -8235,12 +8235,12 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#H02BX01 ""
-* classification[+] = $100000093533#100000096053 "" 
+* classification[+] = $who-atc#H02BX01 "methylprednisolone, combinations"
+* classification[+] = $100000093533#100000096053 "methylprednisolone, combinations" 
 
 
-* classification[+] = $who-atc#N01BB52 ""
-* classification[+] = $100000093533#100000097207 ""
+* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+* classification[+] = $100000093533#100000097207 "lidocaine, combinations"
 
 
 
@@ -8280,8 +8280,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -8321,8 +8321,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -8362,8 +8362,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -8403,8 +8403,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -8444,8 +8444,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02A ""
-* classification[+] = $100000093533#100000093542 ""
+* classification[+] = $who-atc#A02A "ANTACIDS"
+* classification[+] = $100000093533#100000093542 "ANTACIDS"
 
 
 
@@ -8485,8 +8485,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#S01 ""
-* classification[+] = $100000093533#100000097969 ""
+* classification[+] = $who-atc#S01 "OPHTHALMOLOGICALS"
+* classification[+] = $100000093533#100000097969 "OPHTHALMOLOGICALS"
 
 
 
@@ -8526,8 +8526,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D04A ""
-* classification[+] = $100000093533#100000095315 ""
+* classification[+] = $who-atc#D04A "ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC."
+* classification[+] = $100000093533#100000095315 "ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC."
 
 
 
@@ -8567,8 +8567,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -8608,8 +8608,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB20 ""
-* classification[+] = $100000093533#100000097205 ""
+* classification[+] = $who-atc#N01BB20 "combinations"
+* classification[+] = $100000093533#100000097205 "combinations"
 
 
 
@@ -8649,8 +8649,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB20 ""
-* classification[+] = $100000093533#100000097205 ""
+* classification[+] = $who-atc#N01BB20 "combinations"
+* classification[+] = $100000093533#100000097205 "combinations"
 
 
 
@@ -8690,8 +8690,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -8731,8 +8731,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -8772,8 +8772,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -8813,8 +8813,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07XC01 ""
-* classification[+] = $100000093533#100000095501 ""
+* classification[+] = $who-atc#D07XC01 "betamethasone"
+* classification[+] = $100000093533#100000095501 "betamethasone"
 
 
 
@@ -8854,8 +8854,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07XC01 ""
-* classification[+] = $100000093533#100000095501 ""
+* classification[+] = $who-atc#D07XC01 "betamethasone"
+* classification[+] = $100000093533#100000095501 "betamethasone"
 
 
 
@@ -8895,8 +8895,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -8936,8 +8936,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -8977,8 +8977,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AB05 ""
-* classification[+] = $100000093533#100000095792 ""
+* classification[+] = $who-atc#G03AB05 "desogestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095792 "desogestrel and ethinylestradiol"
 
 
 
@@ -9018,8 +9018,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -9059,8 +9059,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -9100,8 +9100,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -9141,8 +9141,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A12AX ""
-* classification[+] = $100000093533#100000094155 ""
+* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+* classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
 
 
 
@@ -9182,8 +9182,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -9223,8 +9223,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -9264,8 +9264,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -9305,8 +9305,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB52 ""
-* classification[+] = $100000093533#100000097207 ""
+* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+* classification[+] = $100000093533#100000097207 "lidocaine, combinations"
 
 
 
@@ -9346,8 +9346,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB52 ""
-* classification[+] = $100000093533#100000097207 ""
+* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+* classification[+] = $100000093533#100000097207 "lidocaine, combinations"
 
 
 
@@ -9387,8 +9387,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -9428,8 +9428,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D04AB01 ""
-* classification[+] = $100000093533#100000095332 ""
+* classification[+] = $who-atc#D04AB01 "lidocaine"
+* classification[+] = $100000093533#100000095332 "lidocaine"
 
 
 
@@ -9469,8 +9469,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -9510,8 +9510,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -9551,8 +9551,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -9592,8 +9592,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -9633,8 +9633,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -9674,8 +9674,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07AB02 ""
-* classification[+] = $100000093533#100000095417 ""
+* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
+* classification[+] = $100000093533#100000095417 "hydrocortisone butyrate"
 
 
 
@@ -9715,8 +9715,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07AB02 ""
-* classification[+] = $100000093533#100000095417 ""
+* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
+* classification[+] = $100000093533#100000095417 "hydrocortisone butyrate"
 
 
 
@@ -9756,8 +9756,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07AB02 ""
-* classification[+] = $100000093533#100000095417 ""
+* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
+* classification[+] = $100000093533#100000095417 "hydrocortisone butyrate"
 
 
 
@@ -9797,8 +9797,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -9838,8 +9838,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -9879,8 +9879,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -9920,8 +9920,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02CA52 ""
-* classification[+] = $100000093533#100000097331 ""
+* classification[+] = $who-atc#N02CA52 "ergotamine, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097331 "ergotamine, combinations excl. psycholeptics"
 
 
 
@@ -9961,8 +9961,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -10002,8 +10002,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -10043,8 +10043,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -10084,8 +10084,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -10125,8 +10125,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -10166,8 +10166,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -10207,8 +10207,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -10248,8 +10248,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C01DA02 ""
-* classification[+] = $100000093533#100000094611 ""
+* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+* classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
 
 
 
@@ -10289,8 +10289,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C01DA02 ""
-* classification[+] = $100000093533#100000094611 ""
+* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+* classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
 
 
 
@@ -10330,8 +10330,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C01DA02 ""
-* classification[+] = $100000093533#100000094611 ""
+* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+* classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
 
 
 
@@ -10371,8 +10371,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -10412,8 +10412,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -10453,8 +10453,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -10494,8 +10494,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -10535,8 +10535,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07AB11 ""
-* classification[+] = $100000093533#100000095426 ""
+* classification[+] = $who-atc#D07AB11 "hydrocortisone buteprate"
+* classification[+] = $100000093533#100000095426 "hydrocortisone buteprate"
 
 
 
@@ -10576,8 +10576,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07AA02 ""
-* classification[+] = $100000093533#100000095413 ""
+* classification[+] = $who-atc#D07AA02 "hydrocortisone"
+* classification[+] = $100000093533#100000095413 "hydrocortisone"
 
 
 
@@ -10617,8 +10617,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -10658,8 +10658,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -10699,8 +10699,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -10740,8 +10740,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -10781,8 +10781,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -10822,8 +10822,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -10863,8 +10863,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07BA04 ""
-* classification[+] = $100000093533#100000095457 ""
+* classification[+] = $who-atc#D07BA04 "hydrocortisone and antiseptics"
+* classification[+] = $100000093533#100000095457 "hydrocortisone and antiseptics"
 
 
 
@@ -10904,8 +10904,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C01DA02 ""
-* classification[+] = $100000093533#100000094611 ""
+* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+* classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
 
 
 
@@ -10945,8 +10945,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C01DA02 ""
-* classification[+] = $100000093533#100000094611 ""
+* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+* classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
 
 
 
@@ -10986,8 +10986,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -11027,8 +11027,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C05AD ""
-* classification[+] = $100000093533#100000094936 ""
+* classification[+] = $who-atc#C05AD "Local anesthetics"
+* classification[+] = $100000093533#100000094936 "Local anesthetics"
 
 
 
@@ -11068,8 +11068,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -11109,8 +11109,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -11150,8 +11150,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -11191,8 +11191,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -11232,8 +11232,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J02AC02 ""
-* classification[+] = $100000093533#100000096373 ""
+* classification[+] = $who-atc#J02AC02 "itraconazole"
+* classification[+] = $100000093533#100000096373 "itraconazole"
 
 
 
@@ -11273,8 +11273,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -11314,8 +11314,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -11355,8 +11355,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -11396,8 +11396,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -11437,8 +11437,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -11478,8 +11478,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -11519,8 +11519,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -11560,8 +11560,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07BC02 ""
-* classification[+] = $100000093533#100000095465 ""
+* classification[+] = $who-atc#D07BC02 "fluocinolone acetonide and antiseptics"
+* classification[+] = $100000093533#100000095465 "fluocinolone acetonide and antiseptics"
 
 
 
@@ -11601,8 +11601,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N03AF01 ""
-* classification[+] = $100000093533#100000097377 ""
+* classification[+] = $who-atc#N03AF01 "carbamazepine"
+* classification[+] = $100000093533#100000097377 "carbamazepine"
 
 
 
@@ -11642,8 +11642,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -11683,8 +11683,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -11724,8 +11724,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -11765,8 +11765,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -11806,8 +11806,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -11847,8 +11847,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -11888,8 +11888,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AB06 ""
-* classification[+] = $100000093533#100000095793 ""
+* classification[+] = $who-atc#G03AB06 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095793 "gestodene and ethinylestradiol"
 
 
 
@@ -11929,8 +11929,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -11970,8 +11970,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C05A ""
-* classification[+] = $100000093533#100000094925 ""
+* classification[+] = $who-atc#C05A "AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
+* classification[+] = $100000093533#100000094925 "AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
 
 
 
@@ -12011,8 +12011,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C05A ""
-* classification[+] = $100000093533#100000094925 ""
+* classification[+] = $who-atc#C05A "AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
+* classification[+] = $100000093533#100000094925 "AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
 
 
 
@@ -12052,8 +12052,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -12093,8 +12093,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R03CC02 ""
-* classification[+] = $100000093533#100000098120 ""
+* classification[+] = $who-atc#R03CC02 "salbutamol"
+* classification[+] = $100000093533#100000098120 "salbutamol"
 
 
 
@@ -12134,8 +12134,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R03CC02 ""
-* classification[+] = $100000093533#100000098120 ""
+* classification[+] = $who-atc#R03CC02 "salbutamol"
+* classification[+] = $100000093533#100000098120 "salbutamol"
 
 
 
@@ -12175,8 +12175,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R03CC02 ""
-* classification[+] = $100000093533#100000098120 ""
+* classification[+] = $who-atc#R03CC02 "salbutamol"
+* classification[+] = $100000093533#100000098120 "salbutamol"
 
 
 
@@ -12216,8 +12216,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R03AC02 ""
-* classification[+] = $100000093533#100000098065 ""
+* classification[+] = $who-atc#R03AC02 "salbutamol"
+* classification[+] = $100000093533#100000098065 "salbutamol"
 
 
 
@@ -12257,8 +12257,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -12298,8 +12298,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -12339,8 +12339,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -12380,8 +12380,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -12421,8 +12421,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -12462,8 +12462,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -12503,12 +12503,12 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03A ""
-* classification[+] = $100000093533#100000095772 "" 
+* classification[+] = $who-atc#G03A "HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE"
+* classification[+] = $100000093533#100000095772 "HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE" 
 
 
-* classification[+] = $who-atc#G03FA11 ""
-* classification[+] = $100000093533#100000095877 ""
+* classification[+] = $who-atc#G03FA11 "levonorgestrel and estrogen"
+* classification[+] = $100000093533#100000095877 "levonorgestrel and estrogen"
 
 
 
@@ -12548,8 +12548,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -12589,8 +12589,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -12630,8 +12630,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -12671,8 +12671,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -12712,8 +12712,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -12753,8 +12753,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -12794,8 +12794,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -12835,8 +12835,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C01DA02 ""
-* classification[+] = $100000093533#100000094611 ""
+* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+* classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
 
 
 
@@ -12876,8 +12876,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -12917,8 +12917,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C01DA02 ""
-* classification[+] = $100000093533#100000094611 ""
+* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+* classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
 
 
 
@@ -12958,8 +12958,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -12999,8 +12999,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A12AX ""
-* classification[+] = $100000093533#100000094155 ""
+* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+* classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
 
 
 
@@ -13040,8 +13040,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A12AX ""
-* classification[+] = $100000093533#100000094155 ""
+* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+* classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
 
 
 
@@ -13081,8 +13081,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -13122,8 +13122,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -13163,8 +13163,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -13204,8 +13204,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -13245,8 +13245,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -13286,8 +13286,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -13327,8 +13327,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -13368,8 +13368,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -13409,8 +13409,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -13450,8 +13450,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -13491,8 +13491,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -13532,8 +13532,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -13573,8 +13573,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -13614,8 +13614,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -13655,8 +13655,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -13696,12 +13696,12 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G02BB01 ""
-* classification[+] = $100000093533#100000095751 "" 
+* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
+* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen" 
 
 
-* classification[+] = $who-atc#G03AA ""
-* classification[+] = $100000093533#100000095773 ""
+* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
+* classification[+] = $100000093533#100000095773 "Progestogens and estrogens, fixed combinations"
 
 
 
@@ -13741,8 +13741,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -13782,8 +13782,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -13823,8 +13823,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -13864,8 +13864,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -13905,8 +13905,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -13946,8 +13946,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D04AB01 ""
-* classification[+] = $100000093533#100000095332 ""
+* classification[+] = $who-atc#D04AB01 "lidocaine"
+* classification[+] = $100000093533#100000095332 "lidocaine"
 
 
 
@@ -13987,8 +13987,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -14028,8 +14028,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA13 ""
-* classification[+] = $100000093533#100000095786 ""
+* classification[+] = $who-atc#G03AA13 "norelgestromin and ethinylestradiol"
+* classification[+] = $100000093533#100000095786 "norelgestromin and ethinylestradiol"
 
 
 
@@ -14069,8 +14069,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10AE04 ""
-* classification[+] = $100000093533#100000094023 ""
+* classification[+] = $who-atc#A10AE04 "insulin glargine"
+* classification[+] = $100000093533#100000094023 "insulin glargine"
 
 
 
@@ -14110,8 +14110,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -14151,8 +14151,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -14192,8 +14192,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -14233,8 +14233,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -14274,8 +14274,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -14315,8 +14315,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -14356,8 +14356,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -14397,8 +14397,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -14438,8 +14438,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C05AE01 ""
-* classification[+] = $100000093533#100000094945 ""
+* classification[+] = $who-atc#C05AE01 "glyceryl trinitrate"
+* classification[+] = $100000093533#100000094945 "glyceryl trinitrate"
 
 
 
@@ -14479,8 +14479,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -14520,8 +14520,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -14561,8 +14561,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -14602,8 +14602,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -14643,8 +14643,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -14684,8 +14684,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -14725,8 +14725,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -14766,8 +14766,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -14807,8 +14807,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -14848,8 +14848,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -14889,8 +14889,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -14930,8 +14930,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -14971,8 +14971,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -15012,8 +15012,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -15053,8 +15053,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -15094,8 +15094,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -15135,8 +15135,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -15176,8 +15176,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -15217,8 +15217,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -15258,8 +15258,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AA01 ""
-* classification[+] = $100000093533#100000097139 ""
+* classification[+] = $who-atc#N02AA01 "morphine"
+* classification[+] = $100000093533#100000097139 "morphine"
 
 
 
@@ -15299,8 +15299,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -15340,8 +15340,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -15381,8 +15381,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -15422,8 +15422,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -15463,8 +15463,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -15504,8 +15504,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -15545,8 +15545,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -15586,8 +15586,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -15627,8 +15627,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -15668,8 +15668,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -15709,8 +15709,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -15750,8 +15750,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -15791,8 +15791,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -15832,8 +15832,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -15873,8 +15873,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -15914,8 +15914,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -15955,8 +15955,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -15996,8 +15996,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -16037,8 +16037,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -16078,8 +16078,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -16119,8 +16119,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A12AX ""
-* classification[+] = $100000093533#100000094155 ""
+* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+* classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
 
 
 
@@ -16160,8 +16160,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R03AC02 ""
-* classification[+] = $100000093533#100000098065 ""
+* classification[+] = $who-atc#R03AC02 "salbutamol"
+* classification[+] = $100000093533#100000098065 "salbutamol"
 
 
 
@@ -16201,8 +16201,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -16242,8 +16242,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -16283,8 +16283,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -16324,8 +16324,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -16365,8 +16365,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD08 ""
-* classification[+] = $100000093533#100000094057 ""
+* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+* classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
 
 
 
@@ -16406,8 +16406,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R03AL02 ""
-* classification[+] = $100000093533#100000157902 ""
+* classification[+] = $who-atc#R03AL02 "salbutamol and ipratropium bromide"
+* classification[+] = $100000093533#100000157902 "salbutamol and ipratropium bromide"
 
 
 
@@ -16447,8 +16447,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD08 ""
-* classification[+] = $100000093533#100000094057 ""
+* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+* classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
 
 
 
@@ -16488,8 +16488,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -16529,8 +16529,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -16570,8 +16570,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -16611,8 +16611,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -16652,8 +16652,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -16693,8 +16693,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -16734,8 +16734,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -16775,8 +16775,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -16816,8 +16816,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -16857,8 +16857,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -16898,8 +16898,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -16939,8 +16939,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -16980,8 +16980,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -17021,8 +17021,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD07 ""
-* classification[+] = $100000093533#100000094056 ""
+* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+* classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
 
 
 
@@ -17062,8 +17062,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD07 ""
-* classification[+] = $100000093533#100000094056 ""
+* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+* classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
 
 
 
@@ -17103,8 +17103,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD07 ""
-* classification[+] = $100000093533#100000094056 ""
+* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+* classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
 
 
 
@@ -17144,8 +17144,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD07 ""
-* classification[+] = $100000093533#100000094056 ""
+* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+* classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
 
 
 
@@ -17185,8 +17185,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -17226,8 +17226,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -17267,8 +17267,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D04AB01 ""
-* classification[+] = $100000093533#100000095332 ""
+* classification[+] = $who-atc#D04AB01 "lidocaine"
+* classification[+] = $100000093533#100000095332 "lidocaine"
 
 
 
@@ -17308,8 +17308,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -17349,8 +17349,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB ""
-* classification[+] = $100000093533#100000095158 ""
+* classification[+] = $who-atc#C09DB "Angiotensin II receptor blockers (ARBs) and calcium channel blockers"
+* classification[+] = $100000093533#100000095158 "Angiotensin II receptor blockers (ARBs) and calcium channel blockers"
 
 
 
@@ -17390,8 +17390,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB ""
-* classification[+] = $100000093533#100000095158 ""
+* classification[+] = $who-atc#C09DB "Angiotensin II receptor blockers (ARBs) and calcium channel blockers"
+* classification[+] = $100000093533#100000095158 "Angiotensin II receptor blockers (ARBs) and calcium channel blockers"
 
 
 
@@ -17431,8 +17431,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -17472,8 +17472,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03FA15 ""
-* classification[+] = $100000093533#100000095881 ""
+* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
+* classification[+] = $100000093533#100000095881 "dienogest and estrogen"
 
 
 
@@ -17513,8 +17513,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD07 ""
-* classification[+] = $100000093533#100000094056 ""
+* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+* classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
 
 
 
@@ -17554,8 +17554,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD07 ""
-* classification[+] = $100000093533#100000094056 ""
+* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+* classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
 
 
 
@@ -17595,8 +17595,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -17636,8 +17636,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -17677,8 +17677,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -17718,8 +17718,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -17759,8 +17759,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -17800,8 +17800,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -17841,8 +17841,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -17882,8 +17882,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07AA02 ""
-* classification[+] = $100000093533#100000095413 ""
+* classification[+] = $who-atc#D07AA02 "hydrocortisone"
+* classification[+] = $100000093533#100000095413 "hydrocortisone"
 
 
 
@@ -17923,8 +17923,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -17964,8 +17964,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -18005,8 +18005,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -18046,8 +18046,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -18087,8 +18087,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -18128,8 +18128,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -18169,8 +18169,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -18210,8 +18210,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -18251,8 +18251,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -18292,8 +18292,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -18333,8 +18333,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -18374,8 +18374,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -18415,8 +18415,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -18456,8 +18456,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -18497,8 +18497,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -18538,8 +18538,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -18579,8 +18579,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -18620,8 +18620,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -18661,8 +18661,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -18702,8 +18702,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -18743,8 +18743,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -18784,8 +18784,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -18825,8 +18825,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD08 ""
-* classification[+] = $100000093533#100000094057 ""
+* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+* classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
 
 
 
@@ -18866,8 +18866,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD08 ""
-* classification[+] = $100000093533#100000094057 ""
+* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+* classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
 
 
 
@@ -18907,8 +18907,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD08 ""
-* classification[+] = $100000093533#100000094057 ""
+* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+* classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
 
 
 
@@ -18948,8 +18948,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -18989,8 +18989,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD08 ""
-* classification[+] = $100000093533#100000094057 ""
+* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+* classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
 
 
 
@@ -19030,8 +19030,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -19071,8 +19071,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -19112,8 +19112,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -19153,8 +19153,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#S01EE05 ""
-* classification[+] = $100000093533#100000098531 ""
+* classification[+] = $who-atc#S01EE05 "tafluprost"
+* classification[+] = $100000093533#100000098531 "tafluprost"
 
 
 
@@ -19194,8 +19194,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA07 ""
-* classification[+] = $100000093533#100000095780 ""
+* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095780 "levonorgestrel and ethinylestradiol"
 
 
 
@@ -19235,8 +19235,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -19276,8 +19276,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -19317,8 +19317,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -19358,8 +19358,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -19399,8 +19399,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -19440,8 +19440,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -19481,8 +19481,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -19522,8 +19522,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -19563,8 +19563,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -19604,8 +19604,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -19645,8 +19645,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -19686,8 +19686,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -19727,8 +19727,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -19768,8 +19768,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -19809,8 +19809,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -19850,8 +19850,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -19891,8 +19891,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -19932,8 +19932,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -19973,8 +19973,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -20014,8 +20014,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -20055,8 +20055,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BX ""
-* classification[+] = $100000093533#100000093643 ""
+* classification[+] = $who-atc#A02BX "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)"
+* classification[+] = $100000093533#100000093643 "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)"
 
 
 
@@ -20096,8 +20096,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -20137,8 +20137,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -20178,8 +20178,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB52 ""
-* classification[+] = $100000093533#100000097207 ""
+* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+* classification[+] = $100000093533#100000097207 "lidocaine, combinations"
 
 
 
@@ -20219,8 +20219,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -20260,8 +20260,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -20301,8 +20301,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -20342,8 +20342,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -20383,8 +20383,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -20424,8 +20424,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -20465,8 +20465,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -20506,8 +20506,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -20547,8 +20547,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -20588,8 +20588,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -20629,8 +20629,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -20670,8 +20670,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -20711,8 +20711,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -20752,8 +20752,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -20793,8 +20793,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ06 ""
-* classification[+] = $100000093533#100000170296 ""
+* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
+* classification[+] = $100000093533#100000170296 "codeine and paracetamol"
 
 
 
@@ -20834,8 +20834,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -20875,8 +20875,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -20916,8 +20916,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA ""
-* classification[+] = $100000093533#100000095773 ""
+* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
+* classification[+] = $100000093533#100000095773 "Progestogens and estrogens, fixed combinations"
 
 
 
@@ -20957,8 +20957,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -20998,8 +20998,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -21039,8 +21039,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -21080,8 +21080,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -21121,8 +21121,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -21162,8 +21162,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -21203,8 +21203,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -21244,8 +21244,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -21285,8 +21285,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -21326,8 +21326,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -21367,8 +21367,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -21408,8 +21408,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -21449,8 +21449,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -21490,8 +21490,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -21531,8 +21531,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -21572,8 +21572,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -21613,8 +21613,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -21654,8 +21654,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -21695,8 +21695,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -21736,8 +21736,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -21777,8 +21777,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -21818,8 +21818,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -21859,8 +21859,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -21900,8 +21900,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -21941,8 +21941,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -21982,8 +21982,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -22023,8 +22023,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -22064,8 +22064,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -22105,8 +22105,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -22146,8 +22146,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -22187,8 +22187,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -22228,8 +22228,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -22269,8 +22269,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -22310,8 +22310,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -22351,8 +22351,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -22392,8 +22392,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -22433,8 +22433,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -22474,8 +22474,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -22515,8 +22515,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA09 ""
-* classification[+] = $100000093533#100000095782 ""
+* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
 
 
 
@@ -22556,8 +22556,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -22597,8 +22597,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -22638,8 +22638,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -22679,8 +22679,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -22720,8 +22720,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -22761,8 +22761,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD02 ""
-* classification[+] = $100000093533#100000094051 ""
+* classification[+] = $who-atc#A10BD02 "metformin and sulfonylureas"
+* classification[+] = $100000093533#100000094051 "metformin and sulfonylureas"
 
 
 
@@ -22802,8 +22802,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -22843,8 +22843,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -22884,8 +22884,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -22925,8 +22925,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -22966,8 +22966,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -23007,8 +23007,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -23048,8 +23048,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10AE04 ""
-* classification[+] = $100000093533#100000094023 ""
+* classification[+] = $who-atc#A10AE04 "insulin glargine"
+* classification[+] = $100000093533#100000094023 "insulin glargine"
 
 
 
@@ -23089,8 +23089,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23130,8 +23130,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23171,8 +23171,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23212,8 +23212,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23253,8 +23253,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23294,8 +23294,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23335,8 +23335,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23376,8 +23376,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23417,8 +23417,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -23458,8 +23458,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -23499,8 +23499,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -23540,8 +23540,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -23581,8 +23581,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -23622,8 +23622,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -23663,8 +23663,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -23704,8 +23704,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23745,8 +23745,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23786,8 +23786,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -23827,8 +23827,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB52 ""
-* classification[+] = $100000093533#100000097207 ""
+* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+* classification[+] = $100000093533#100000097207 "lidocaine, combinations"
 
 
 
@@ -23868,8 +23868,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -23909,8 +23909,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -23950,8 +23950,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -23991,8 +23991,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -24032,8 +24032,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -24073,8 +24073,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -24114,8 +24114,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -24155,8 +24155,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -24196,8 +24196,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -24237,8 +24237,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -24278,8 +24278,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D11AX18 ""
-* classification[+] = $100000093533#100000095663 ""
+* classification[+] = $who-atc#D11AX18 "diclofenac"
+* classification[+] = $100000093533#100000095663 "diclofenac"
 
 
 
@@ -24319,8 +24319,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A01AD11 ""
-* classification[+] = $100000093533#100000093540 ""
+* classification[+] = $who-atc#A01AD11 "various"
+* classification[+] = $100000093533#100000093540 "various"
 
 
 
@@ -24360,8 +24360,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -24401,8 +24401,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -24442,8 +24442,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J02AC02 ""
-* classification[+] = $100000093533#100000096373 ""
+* classification[+] = $who-atc#J02AC02 "itraconazole"
+* classification[+] = $100000093533#100000096373 "itraconazole"
 
 
 
@@ -24483,8 +24483,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J02AC02 ""
-* classification[+] = $100000093533#100000096373 ""
+* classification[+] = $who-atc#J02AC02 "itraconazole"
+* classification[+] = $100000093533#100000096373 "itraconazole"
 
 
 
@@ -24524,8 +24524,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -24565,8 +24565,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -24606,8 +24606,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -24647,8 +24647,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -24688,8 +24688,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -24729,8 +24729,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -24770,8 +24770,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -24811,8 +24811,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -24852,8 +24852,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -24893,8 +24893,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -24934,8 +24934,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03FA17 ""
-* classification[+] = $100000093533#100000095883 ""
+* classification[+] = $who-atc#G03FA17 "drospirenone and estrogen"
+* classification[+] = $100000093533#100000095883 "drospirenone and estrogen"
 
 
 
@@ -24975,8 +24975,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -25016,8 +25016,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -25057,8 +25057,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -25098,8 +25098,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -25139,8 +25139,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -25180,8 +25180,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -25221,8 +25221,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -25262,8 +25262,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -25303,8 +25303,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -25344,8 +25344,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -25385,8 +25385,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03HB01 ""
-* classification[+] = $100000093533#100000095915 ""
+* classification[+] = $who-atc#G03HB01 "cyproterone and estrogen"
+* classification[+] = $100000093533#100000095915 "cyproterone and estrogen"
 
 
 
@@ -25426,8 +25426,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -25467,8 +25467,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -25508,8 +25508,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -25549,8 +25549,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -25590,8 +25590,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -25631,8 +25631,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -25672,8 +25672,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -25713,8 +25713,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -25754,8 +25754,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -25795,8 +25795,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -25836,8 +25836,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -25877,8 +25877,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -25918,8 +25918,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -25959,8 +25959,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -26000,8 +26000,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -26041,8 +26041,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -26082,8 +26082,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -26123,8 +26123,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -26164,8 +26164,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -26205,8 +26205,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -26246,8 +26246,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -26287,8 +26287,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -26328,8 +26328,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -26369,8 +26369,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -26410,8 +26410,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -26451,8 +26451,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -26492,8 +26492,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -26533,8 +26533,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -26574,8 +26574,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -26615,8 +26615,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -26656,8 +26656,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -26697,8 +26697,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -26738,8 +26738,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -26779,8 +26779,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -26820,8 +26820,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -26861,8 +26861,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -26902,8 +26902,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -26943,8 +26943,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -26984,8 +26984,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -27025,8 +27025,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -27066,8 +27066,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -27107,8 +27107,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J02AC02 ""
-* classification[+] = $100000093533#100000096373 ""
+* classification[+] = $who-atc#J02AC02 "itraconazole"
+* classification[+] = $100000093533#100000096373 "itraconazole"
 
 
 
@@ -27148,8 +27148,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -27189,8 +27189,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -27230,8 +27230,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L04AD01 ""
-* classification[+] = $100000093533#100000096879 ""
+* classification[+] = $who-atc#L04AD01 "ciclosporin"
+* classification[+] = $100000093533#100000096879 "ciclosporin"
 
 
 
@@ -27271,8 +27271,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R03AC02 ""
-* classification[+] = $100000093533#100000098065 ""
+* classification[+] = $who-atc#R03AC02 "salbutamol"
+* classification[+] = $100000093533#100000098065 "salbutamol"
 
 
 
@@ -27312,8 +27312,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J02AC02 ""
-* classification[+] = $100000093533#100000096373 ""
+* classification[+] = $who-atc#J02AC02 "itraconazole"
+* classification[+] = $100000093533#100000096373 "itraconazole"
 
 
 
@@ -27353,8 +27353,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -27394,8 +27394,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -27435,8 +27435,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -27476,8 +27476,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -27517,8 +27517,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA02 ""
-* classification[+] = $100000093533#100000095104 ""
+* classification[+] = $who-atc#C09AA02 "enalapril"
+* classification[+] = $100000093533#100000095104 "enalapril"
 
 
 
@@ -27558,8 +27558,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA15 ""
-* classification[+] = $100000093533#100000125024 ""
+* classification[+] = $who-atc#G03AA15 "chlormadinone and ethinylestradiol"
+* classification[+] = $100000093533#100000125024 "chlormadinone and ethinylestradiol"
 
 
 
@@ -27599,8 +27599,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -27640,8 +27640,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -27681,8 +27681,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J02AC02 ""
-* classification[+] = $100000093533#100000096373 ""
+* classification[+] = $who-atc#J02AC02 "itraconazole"
+* classification[+] = $100000093533#100000096373 "itraconazole"
 
 
 
@@ -27722,8 +27722,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD05 ""
-* classification[+] = $100000093533#100000094054 ""
+* classification[+] = $who-atc#A10BD05 "metformin and pioglitazone"
+* classification[+] = $100000093533#100000094054 "metformin and pioglitazone"
 
 
 
@@ -27763,8 +27763,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -27804,8 +27804,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -27845,8 +27845,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -27886,8 +27886,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -27927,8 +27927,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -27968,8 +27968,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -28009,8 +28009,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -28050,8 +28050,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -28091,8 +28091,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB52 ""
-* classification[+] = $100000093533#100000097207 ""
+* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+* classification[+] = $100000093533#100000097207 "lidocaine, combinations"
 
 
 
@@ -28132,8 +28132,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A12AX ""
-* classification[+] = $100000093533#100000094155 ""
+* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+* classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
 
 
 
@@ -28173,8 +28173,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -28214,8 +28214,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA13 ""
-* classification[+] = $100000093533#100000097010 ""
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
+* classification[+] = $100000093533#100000097010 "ibuprofen"
 
 
 
@@ -28255,8 +28255,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -28296,8 +28296,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -28337,8 +28337,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -28378,8 +28378,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA09 ""
-* classification[+] = $100000093533#100000095782 ""
+* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
 
 
 
@@ -28419,8 +28419,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -28460,8 +28460,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB52 ""
-* classification[+] = $100000093533#100000097207 ""
+* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+* classification[+] = $100000093533#100000097207 "lidocaine, combinations"
 
 
 
@@ -28501,8 +28501,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB52 ""
-* classification[+] = $100000093533#100000097207 ""
+* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+* classification[+] = $100000093533#100000097207 "lidocaine, combinations"
 
 
 
@@ -28542,8 +28542,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -28583,8 +28583,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -28624,8 +28624,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -28665,8 +28665,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -28706,8 +28706,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA10 ""
-* classification[+] = $100000093533#100000095783 ""
+* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+* classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
 
 
 
@@ -28747,8 +28747,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -28788,8 +28788,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DX01 ""
-* classification[+] = $100000093533#100000116213 ""
+* classification[+] = $who-atc#C09DX01 "valsartan, amlodipine and hydrochlorothiazide"
+* classification[+] = $100000093533#100000116213 "valsartan, amlodipine and hydrochlorothiazide"
 
 
 
@@ -28829,8 +28829,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DX01 ""
-* classification[+] = $100000093533#100000116213 ""
+* classification[+] = $who-atc#C09DX01 "valsartan, amlodipine and hydrochlorothiazide"
+* classification[+] = $100000093533#100000116213 "valsartan, amlodipine and hydrochlorothiazide"
 
 
 
@@ -28870,8 +28870,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -28911,8 +28911,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB52 ""
-* classification[+] = $100000093533#100000097207 ""
+* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+* classification[+] = $100000093533#100000097207 "lidocaine, combinations"
 
 
 
@@ -28952,8 +28952,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -28993,8 +28993,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -29034,12 +29034,12 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G02BB01 ""
-* classification[+] = $100000093533#100000095751 "" 
+* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
+* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen" 
 
 
-* classification[+] = $who-atc#G03AA ""
-* classification[+] = $100000093533#100000095773 ""
+* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
+* classification[+] = $100000093533#100000095773 "Progestogens and estrogens, fixed combinations"
 
 
 
@@ -29079,8 +29079,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -29120,8 +29120,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D06BB03 ""
-* classification[+] = $100000093533#100000095397 ""
+* classification[+] = $who-atc#D06BB03 "aciclovir"
+* classification[+] = $100000093533#100000095397 "aciclovir"
 
 
 
@@ -29161,8 +29161,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -29202,8 +29202,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -29243,8 +29243,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -29284,8 +29284,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09D ""
-* classification[+] = $100000093533#100000095149 ""
+* classification[+] = $who-atc#C09D "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS"
+* classification[+] = $100000093533#100000095149 "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS"
 
 
 
@@ -29325,8 +29325,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -29366,8 +29366,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA09 ""
-* classification[+] = $100000093533#100000095782 ""
+* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
 
 
 
@@ -29407,8 +29407,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA09 ""
-* classification[+] = $100000093533#100000095782 ""
+* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
 
 
 
@@ -29448,8 +29448,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -29489,12 +29489,12 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A11CC05 ""
-* classification[+] = $100000093533#100000094100 "" 
+* classification[+] = $who-atc#A11CC05 "colecalciferol"
+* classification[+] = $100000093533#100000094100 "colecalciferol" 
 
 
-* classification[+] = $who-atc#A12AA04 ""
-* classification[+] = $100000093533#100000094144 ""
+* classification[+] = $who-atc#A12AA04 "calcium carbonate"
+* classification[+] = $100000093533#100000094144 "calcium carbonate"
 
 
 
@@ -29534,8 +29534,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -29575,8 +29575,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD10 ""
-* classification[+] = $100000093533#100000135755 ""
+* classification[+] = $who-atc#A10BD10 "metformin and saxagliptin"
+* classification[+] = $100000093533#100000135755 "metformin and saxagliptin"
 
 
 
@@ -29616,8 +29616,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD10 ""
-* classification[+] = $100000093533#100000135755 ""
+* classification[+] = $who-atc#A10BD10 "metformin and saxagliptin"
+* classification[+] = $100000093533#100000135755 "metformin and saxagliptin"
 
 
 
@@ -29657,8 +29657,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX03 ""
-* classification[+] = $100000093533#100000095218 ""
+* classification[+] = $who-atc#C10BX03 "atorvastatin and amlodipine"
+* classification[+] = $100000093533#100000095218 "atorvastatin and amlodipine"
 
 
 
@@ -29698,8 +29698,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA07 ""
-* classification[+] = $100000093533#100000095780 ""
+* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095780 "levonorgestrel and ethinylestradiol"
 
 
 
@@ -29739,8 +29739,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB03 ""
-* classification[+] = $100000093533#100000116224 ""
+* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+* classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
 
 
 
@@ -29780,8 +29780,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB03 ""
-* classification[+] = $100000093533#100000116224 ""
+* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+* classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
 
 
 
@@ -29821,8 +29821,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ06 ""
-* classification[+] = $100000093533#100000170296 ""
+* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
+* classification[+] = $100000093533#100000170296 "codeine and paracetamol"
 
 
 
@@ -29862,8 +29862,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -29903,8 +29903,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -29944,8 +29944,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -29985,8 +29985,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -30026,8 +30026,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -30067,8 +30067,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -30108,8 +30108,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -30149,8 +30149,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -30190,8 +30190,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -30231,8 +30231,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -30272,8 +30272,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -30313,8 +30313,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -30354,8 +30354,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03FA15 ""
-* classification[+] = $100000093533#100000095881 ""
+* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
+* classification[+] = $100000093533#100000095881 "dienogest and estrogen"
 
 
 
@@ -30395,8 +30395,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -30436,8 +30436,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX03 ""
-* classification[+] = $100000093533#100000095218 ""
+* classification[+] = $who-atc#C10BX03 "atorvastatin and amlodipine"
+* classification[+] = $100000093533#100000095218 "atorvastatin and amlodipine"
 
 
 
@@ -30477,8 +30477,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX03 ""
-* classification[+] = $100000093533#100000095218 ""
+* classification[+] = $who-atc#C10BX03 "atorvastatin and amlodipine"
+* classification[+] = $100000093533#100000095218 "atorvastatin and amlodipine"
 
 
 
@@ -30518,8 +30518,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -30559,8 +30559,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -30600,8 +30600,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -30641,8 +30641,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -30682,8 +30682,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -30723,8 +30723,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -30764,8 +30764,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -30805,8 +30805,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -30846,8 +30846,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -30887,8 +30887,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -30928,8 +30928,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -30969,8 +30969,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -31010,8 +31010,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -31051,8 +31051,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -31092,8 +31092,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -31133,8 +31133,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -31174,8 +31174,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -31215,8 +31215,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -31256,8 +31256,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA02 ""
-* classification[+] = $100000093533#100000095122 ""
+* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+* classification[+] = $100000093533#100000095122 "enalapril and diuretics"
 
 
 
@@ -31297,8 +31297,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -31338,8 +31338,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -31379,8 +31379,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -31420,8 +31420,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -31461,8 +31461,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -31502,8 +31502,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -31543,8 +31543,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -31584,8 +31584,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -31625,8 +31625,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N05BA01 ""
-* classification[+] = $100000093533#100000097530 ""
+* classification[+] = $who-atc#N05BA01 "diazepam"
+* classification[+] = $100000093533#100000097530 "diazepam"
 
 
 
@@ -31666,8 +31666,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A12AX ""
-* classification[+] = $100000093533#100000094155 ""
+* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+* classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
 
 
 
@@ -31707,8 +31707,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -31748,8 +31748,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -31789,8 +31789,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -31830,8 +31830,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -31871,8 +31871,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA15 ""
-* classification[+] = $100000093533#100000125024 ""
+* classification[+] = $who-atc#G03AA15 "chlormadinone and ethinylestradiol"
+* classification[+] = $100000093533#100000125024 "chlormadinone and ethinylestradiol"
 
 
 
@@ -31912,8 +31912,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -31953,8 +31953,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -31994,8 +31994,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D07AA02 ""
-* classification[+] = $100000093533#100000095413 ""
+* classification[+] = $who-atc#D07AA02 "hydrocortisone"
+* classification[+] = $100000093533#100000095413 "hydrocortisone"
 
 
 
@@ -32035,8 +32035,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX01 ""
-* classification[+] = $100000093533#100000157857 ""
+* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+* classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
 
 
 
@@ -32076,8 +32076,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX01 ""
-* classification[+] = $100000093533#100000157857 ""
+* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+* classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
 
 
 
@@ -32117,8 +32117,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX01 ""
-* classification[+] = $100000093533#100000157857 ""
+* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+* classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
 
 
 
@@ -32158,8 +32158,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX01 ""
-* classification[+] = $100000093533#100000157857 ""
+* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+* classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
 
 
 
@@ -32199,8 +32199,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD11 ""
-* classification[+] = $100000093533#100000135754 ""
+* classification[+] = $who-atc#A10BD11 "metformin and linagliptin"
+* classification[+] = $100000093533#100000135754 "metformin and linagliptin"
 
 
 
@@ -32240,8 +32240,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD11 ""
-* classification[+] = $100000093533#100000135754 ""
+* classification[+] = $who-atc#A10BD11 "metformin and linagliptin"
+* classification[+] = $100000093533#100000135754 "metformin and linagliptin"
 
 
 
@@ -32281,8 +32281,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08GA ""
-* classification[+] = $100000093533#100000095098 ""
+* classification[+] = $who-atc#C08GA "Calcium channel blockers and diuretics"
+* classification[+] = $100000093533#100000095098 "Calcium channel blockers and diuretics"
 
 
 
@@ -32322,8 +32322,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08GA ""
-* classification[+] = $100000093533#100000095098 ""
+* classification[+] = $who-atc#C08GA "Calcium channel blockers and diuretics"
+* classification[+] = $100000093533#100000095098 "Calcium channel blockers and diuretics"
 
 
 
@@ -32363,8 +32363,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -32404,8 +32404,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -32445,8 +32445,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -32486,8 +32486,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB03 ""
-* classification[+] = $100000093533#100000116224 ""
+* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+* classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
 
 
 
@@ -32527,8 +32527,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB03 ""
-* classification[+] = $100000093533#100000116224 ""
+* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+* classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
 
 
 
@@ -32568,8 +32568,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB07 ""
-* classification[+] = $100000093533#100000157858 ""
+* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+* classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
 
 
 
@@ -32609,8 +32609,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB07 ""
-* classification[+] = $100000093533#100000157858 ""
+* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+* classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
 
 
 
@@ -32650,8 +32650,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -32691,8 +32691,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -32732,8 +32732,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -32773,8 +32773,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -32814,8 +32814,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -32855,8 +32855,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA04 ""
-* classification[+] = $100000093533#100000144766 ""
+* classification[+] = $who-atc#C10BA04 "simvastatin and fenofibrate"
+* classification[+] = $100000093533#100000144766 "simvastatin and fenofibrate"
 
 
 
@@ -32896,8 +32896,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -32937,8 +32937,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -32978,8 +32978,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -33019,8 +33019,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -33060,8 +33060,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -33101,8 +33101,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -33142,8 +33142,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -33183,8 +33183,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -33224,8 +33224,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -33265,8 +33265,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -33306,8 +33306,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -33347,8 +33347,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -33388,8 +33388,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -33429,8 +33429,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -33470,8 +33470,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -33511,8 +33511,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA12 ""
-* classification[+] = $100000093533#100000095785 ""
+* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+* classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
 
 
 
@@ -33552,8 +33552,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -33593,8 +33593,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -33634,8 +33634,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -33675,8 +33675,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -33716,8 +33716,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -33757,8 +33757,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -33798,8 +33798,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -33839,8 +33839,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -33880,8 +33880,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -33921,8 +33921,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -33962,8 +33962,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -34003,8 +34003,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -34044,8 +34044,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -34085,8 +34085,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -34126,8 +34126,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -34167,8 +34167,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -34208,8 +34208,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -34249,8 +34249,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -34290,8 +34290,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -34331,8 +34331,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -34372,12 +34372,12 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA16 ""
-* classification[+] = $100000093533#100000157864 "" 
+* classification[+] = $who-atc#G03AA16 "dienogest and ethinylestradiol"
+* classification[+] = $100000093533#100000157864 "dienogest and ethinylestradiol" 
 
 
-* classification[+] = $who-atc#G03FA15 ""
-* classification[+] = $100000093533#100000095881 ""
+* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
+* classification[+] = $100000093533#100000095881 "dienogest and estrogen"
 
 
 
@@ -34417,8 +34417,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -34458,8 +34458,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#S01ED51 ""
-* classification[+] = $100000093533#100000098522 ""
+* classification[+] = $who-atc#S01ED51 "timolol, combinations"
+* classification[+] = $100000093533#100000098522 "timolol, combinations"
 
 
 
@@ -34499,8 +34499,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -34540,8 +34540,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -34581,8 +34581,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD13 ""
-* classification[+] = $100000093533#100000144757 ""
+* classification[+] = $who-atc#A10BD13 "metformin and alogliptin"
+* classification[+] = $100000093533#100000144757 "metformin and alogliptin"
 
 
 
@@ -34622,8 +34622,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA04 ""
-* classification[+] = $100000093533#100000144766 ""
+* classification[+] = $who-atc#C10BA04 "simvastatin and fenofibrate"
+* classification[+] = $100000093533#100000144766 "simvastatin and fenofibrate"
 
 
 
@@ -34663,8 +34663,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD13 ""
-* classification[+] = $100000093533#100000144757 ""
+* classification[+] = $who-atc#A10BD13 "metformin and alogliptin"
+* classification[+] = $100000093533#100000144757 "metformin and alogliptin"
 
 
 
@@ -34704,8 +34704,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -34745,8 +34745,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB20 ""
-* classification[+] = $100000093533#100000097205 ""
+* classification[+] = $who-atc#N01BB20 "combinations"
+* classification[+] = $100000093533#100000097205 "combinations"
 
 
 
@@ -34786,8 +34786,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -34827,8 +34827,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -34868,8 +34868,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -34909,8 +34909,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -34950,8 +34950,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD ""
-* classification[+] = $100000093533#100000094049 ""
+* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+* classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
 
 
 
@@ -34991,8 +34991,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -35032,8 +35032,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -35073,8 +35073,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -35114,8 +35114,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -35155,8 +35155,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -35196,8 +35196,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -35237,8 +35237,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD ""
-* classification[+] = $100000093533#100000094049 ""
+* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+* classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
 
 
 
@@ -35278,8 +35278,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R02A ""
-* classification[+] = $100000093533#100000098027 ""
+* classification[+] = $who-atc#R02A "THROAT PREPARATIONS"
+* classification[+] = $100000093533#100000098027 "THROAT PREPARATIONS"
 
 
 
@@ -35319,8 +35319,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -35360,8 +35360,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD ""
-* classification[+] = $100000093533#100000094049 ""
+* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+* classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
 
 
 
@@ -35401,8 +35401,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -35442,8 +35442,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -35483,8 +35483,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -35524,8 +35524,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -35565,8 +35565,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#S01FA56 ""
-* classification[+] = $100000093533#100000098543 ""
+* classification[+] = $who-atc#S01FA56 "tropicamide, combinations"
+* classification[+] = $100000093533#100000098543 "tropicamide, combinations"
 
 
 
@@ -35606,8 +35606,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -35647,8 +35647,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -35688,8 +35688,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BX ""
-* classification[+] = $100000093533#100000093643 ""
+* classification[+] = $who-atc#A02BX "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)"
+* classification[+] = $100000093533#100000093643 "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)"
 
 
 
@@ -35729,8 +35729,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -35770,8 +35770,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -35811,8 +35811,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -35852,8 +35852,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -35893,8 +35893,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX01 ""
-* classification[+] = $100000093533#100000157857 ""
+* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+* classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
 
 
 
@@ -35934,8 +35934,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX01 ""
-* classification[+] = $100000093533#100000157857 ""
+* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+* classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
 
 
 
@@ -35975,8 +35975,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX01 ""
-* classification[+] = $100000093533#100000157857 ""
+* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+* classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
 
 
 
@@ -36016,8 +36016,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX01 ""
-* classification[+] = $100000093533#100000157857 ""
+* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+* classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
 
 
 
@@ -36057,8 +36057,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX01 ""
-* classification[+] = $100000093533#100000157857 ""
+* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+* classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
 
 
 
@@ -36098,8 +36098,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -36139,8 +36139,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -36180,8 +36180,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -36221,8 +36221,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -36262,8 +36262,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -36303,8 +36303,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -36344,8 +36344,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -36385,8 +36385,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -36426,8 +36426,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -36467,8 +36467,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -36508,8 +36508,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10AE04 ""
-* classification[+] = $100000093533#100000094023 ""
+* classification[+] = $who-atc#A10AE04 "insulin glargine"
+* classification[+] = $100000093533#100000094023 "insulin glargine"
 
 
 
@@ -36549,8 +36549,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -36590,8 +36590,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -36631,8 +36631,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX11 ""
-* classification[+] = $100000093533#100000167213 ""
+* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
+* classification[+] = $100000093533#100000167213 "atorvastatin, amlodipine and perindopril"
 
 
 
@@ -36672,8 +36672,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX11 ""
-* classification[+] = $100000093533#100000167213 ""
+* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
+* classification[+] = $100000093533#100000167213 "atorvastatin, amlodipine and perindopril"
 
 
 
@@ -36713,8 +36713,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX11 ""
-* classification[+] = $100000093533#100000167213 ""
+* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
+* classification[+] = $100000093533#100000167213 "atorvastatin, amlodipine and perindopril"
 
 
 
@@ -36754,8 +36754,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX11 ""
-* classification[+] = $100000093533#100000167213 ""
+* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
+* classification[+] = $100000093533#100000167213 "atorvastatin, amlodipine and perindopril"
 
 
 
@@ -36795,8 +36795,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -36836,8 +36836,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -36877,8 +36877,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#S01BA02 ""
-* classification[+] = $100000093533#100000098437 ""
+* classification[+] = $who-atc#S01BA02 "hydrocortisone"
+* classification[+] = $100000093533#100000098437 "hydrocortisone"
 
 
 
@@ -36918,8 +36918,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -36959,8 +36959,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX02 ""
-* classification[+] = $100000093533#100000167210 ""
+* classification[+] = $who-atc#C09BX02 "perindopril and bisoprolol"
+* classification[+] = $100000093533#100000167210 "perindopril and bisoprolol"
 
 
 
@@ -37000,8 +37000,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX02 ""
-* classification[+] = $100000093533#100000167210 ""
+* classification[+] = $who-atc#C09BX02 "perindopril and bisoprolol"
+* classification[+] = $100000093533#100000167210 "perindopril and bisoprolol"
 
 
 
@@ -37041,8 +37041,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX02 ""
-* classification[+] = $100000093533#100000167210 ""
+* classification[+] = $who-atc#C09BX02 "perindopril and bisoprolol"
+* classification[+] = $100000093533#100000167210 "perindopril and bisoprolol"
 
 
 
@@ -37082,8 +37082,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -37123,8 +37123,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -37164,12 +37164,12 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE17 ""
-* classification[+] = $100000093533#100000096944 "" 
+* classification[+] = $who-atc#M01AE17 "dexketoprofen"
+* classification[+] = $100000093533#100000096944 "dexketoprofen" 
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -37209,8 +37209,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -37250,8 +37250,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -37291,8 +37291,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -37332,8 +37332,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -37373,8 +37373,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -37414,8 +37414,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -37455,8 +37455,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -37496,8 +37496,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -37537,8 +37537,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -37578,8 +37578,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -37619,8 +37619,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -37660,8 +37660,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -37701,8 +37701,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -37742,8 +37742,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -37783,8 +37783,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -37824,8 +37824,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#S01XA18 ""
-* classification[+] = $100000093533#100000098619 ""
+* classification[+] = $who-atc#S01XA18 "ciclosporin"
+* classification[+] = $100000093533#100000098619 "ciclosporin"
 
 
 
@@ -37865,8 +37865,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -37906,8 +37906,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -37947,8 +37947,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -37988,8 +37988,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -38029,8 +38029,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -38070,8 +38070,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -38111,8 +38111,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -38152,8 +38152,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -38193,8 +38193,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R05X ""
-* classification[+] = $100000093533#100000098251 ""
+* classification[+] = $who-atc#R05X "OTHER COLD PREPARATIONS"
+* classification[+] = $100000093533#100000098251 "OTHER COLD PREPARATIONS"
 
 
 
@@ -38234,8 +38234,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10AE04 ""
-* classification[+] = $100000093533#100000094023 ""
+* classification[+] = $who-atc#A10AE04 "insulin glargine"
+* classification[+] = $100000093533#100000094023 "insulin glargine"
 
 
 
@@ -38275,8 +38275,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD ""
-* classification[+] = $100000093533#100000094049 ""
+* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+* classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
 
 
 
@@ -38316,8 +38316,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD ""
-* classification[+] = $100000093533#100000094049 ""
+* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+* classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
 
 
 
@@ -38357,8 +38357,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD ""
-* classification[+] = $100000093533#100000094049 ""
+* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+* classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
 
 
 
@@ -38398,8 +38398,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD ""
-* classification[+] = $100000093533#100000094049 ""
+* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+* classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
 
 
 
@@ -38439,8 +38439,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -38480,8 +38480,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -38521,8 +38521,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#H05AA02 ""
-* classification[+] = $100000093533#100000096089 ""
+* classification[+] = $who-atc#H05AA02 "teriparatide"
+* classification[+] = $100000093533#100000096089 "teriparatide"
 
 
 
@@ -38562,8 +38562,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -38603,8 +38603,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -38644,8 +38644,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -38685,8 +38685,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -38726,8 +38726,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -38767,8 +38767,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA07 ""
-* classification[+] = $100000093533#100000095780 ""
+* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
+* classification[+] = $100000093533#100000095780 "levonorgestrel and ethinylestradiol"
 
 
 
@@ -38808,8 +38808,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -38849,8 +38849,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -38890,8 +38890,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -38931,8 +38931,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -38972,8 +38972,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -39013,8 +39013,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -39054,8 +39054,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -39095,8 +39095,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -39136,8 +39136,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -39177,8 +39177,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -39218,8 +39218,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -39259,8 +39259,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -39300,8 +39300,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD15 ""
-* classification[+] = $100000093533#100000157824 ""
+* classification[+] = $who-atc#A10BD15 "metformin and dapagliflozin"
+* classification[+] = $100000093533#100000157824 "metformin and dapagliflozin"
 
 
 
@@ -39341,8 +39341,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD15 ""
-* classification[+] = $100000093533#100000157824 ""
+* classification[+] = $who-atc#A10BD15 "metformin and dapagliflozin"
+* classification[+] = $100000093533#100000157824 "metformin and dapagliflozin"
 
 
 
@@ -39382,8 +39382,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -39423,8 +39423,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -39464,8 +39464,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#L01EA01 ""
-* classification[+] = $100000093533#200000016054 ""
+* classification[+] = $who-atc#L01EA01 "imatinib"
+* classification[+] = $100000093533#200000016054 "imatinib"
 
 
 
@@ -39505,8 +39505,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -39546,8 +39546,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -39587,8 +39587,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -39628,8 +39628,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -39669,8 +39669,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -39710,8 +39710,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -39751,8 +39751,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -39792,8 +39792,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -39833,8 +39833,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -39874,8 +39874,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -39915,8 +39915,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -39956,8 +39956,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -39997,8 +39997,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -40038,8 +40038,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -40079,8 +40079,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -40120,8 +40120,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -40161,8 +40161,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -40202,8 +40202,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -40243,8 +40243,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -40284,8 +40284,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -40325,8 +40325,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -40366,8 +40366,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -40407,8 +40407,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -40448,8 +40448,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -40489,8 +40489,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -40530,8 +40530,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -40571,8 +40571,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -40612,8 +40612,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -40653,8 +40653,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -40694,8 +40694,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -40735,8 +40735,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB01 ""
-* classification[+] = $100000093533#100000095159 ""
+* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+* classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
 
 
 
@@ -40776,8 +40776,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB07 ""
-* classification[+] = $100000093533#100000135765 ""
+* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+* classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
 
 
 
@@ -40817,8 +40817,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB07 ""
-* classification[+] = $100000093533#100000135765 ""
+* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+* classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
 
 
 
@@ -40858,8 +40858,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB07 ""
-* classification[+] = $100000093533#100000135765 ""
+* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+* classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
 
 
 
@@ -40899,8 +40899,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB07 ""
-* classification[+] = $100000093533#100000135765 ""
+* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+* classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
 
 
 
@@ -40940,8 +40940,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB06 ""
-* classification[+] = $100000093533#100000135907 ""
+* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
+* classification[+] = $100000093533#100000135907 "losartan and amlodipine"
 
 
 
@@ -40981,8 +40981,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB06 ""
-* classification[+] = $100000093533#100000135907 ""
+* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
+* classification[+] = $100000093533#100000135907 "losartan and amlodipine"
 
 
 
@@ -41022,8 +41022,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB06 ""
-* classification[+] = $100000093533#100000135907 ""
+* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
+* classification[+] = $100000093533#100000135907 "losartan and amlodipine"
 
 
 
@@ -41063,8 +41063,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB06 ""
-* classification[+] = $100000093533#100000135907 ""
+* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
+* classification[+] = $100000093533#100000135907 "losartan and amlodipine"
 
 
 
@@ -41104,8 +41104,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -41145,8 +41145,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -41186,8 +41186,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -41227,8 +41227,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -41268,8 +41268,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G02BB01 ""
-* classification[+] = $100000093533#100000095751 ""
+* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
+* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen"
 
 
 
@@ -41309,8 +41309,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G02BB01 ""
-* classification[+] = $100000093533#100000095751 ""
+* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
+* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen"
 
 
 
@@ -41350,12 +41350,12 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G02BB01 ""
-* classification[+] = $100000093533#100000095751 "" 
+* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
+* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen" 
 
 
-* classification[+] = $who-atc#G03AA ""
-* classification[+] = $100000093533#100000095773 ""
+* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
+* classification[+] = $100000093533#100000095773 "Progestogens and estrogens, fixed combinations"
 
 
 
@@ -41395,8 +41395,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -41436,8 +41436,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -41477,8 +41477,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -41518,8 +41518,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -41559,8 +41559,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -41600,8 +41600,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -41641,8 +41641,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -41682,8 +41682,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -41723,8 +41723,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -41764,8 +41764,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C05AA01 ""
-* classification[+] = $100000093533#100000094927 ""
+* classification[+] = $who-atc#C05AA01 "hydrocortisone"
+* classification[+] = $100000093533#100000094927 "hydrocortisone"
 
 
 
@@ -41805,8 +41805,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -41846,8 +41846,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -41887,8 +41887,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -41928,8 +41928,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -41969,8 +41969,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -42010,8 +42010,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA16 ""
-* classification[+] = $100000093533#100000157864 ""
+* classification[+] = $who-atc#G03AA16 "dienogest and ethinylestradiol"
+* classification[+] = $100000093533#100000157864 "dienogest and ethinylestradiol"
 
 
 
@@ -42051,8 +42051,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -42092,8 +42092,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -42133,8 +42133,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -42174,8 +42174,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -42215,8 +42215,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB02 ""
-* classification[+] = $100000093533#100000095160 ""
+* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+* classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
 
 
 
@@ -42256,8 +42256,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB02 ""
-* classification[+] = $100000093533#100000095160 ""
+* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+* classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
 
 
 
@@ -42297,8 +42297,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB02 ""
-* classification[+] = $100000093533#100000095160 ""
+* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+* classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
 
 
 
@@ -42338,8 +42338,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB02 ""
-* classification[+] = $100000093533#100000095160 ""
+* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+* classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
 
 
 
@@ -42379,8 +42379,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB02 ""
-* classification[+] = $100000093533#100000095160 ""
+* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+* classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
 
 
 
@@ -42420,8 +42420,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -42461,8 +42461,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -42502,8 +42502,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#R05X ""
-* classification[+] = $100000093533#100000098251 ""
+* classification[+] = $who-atc#R05X "OTHER COLD PREPARATIONS"
+* classification[+] = $100000093533#100000098251 "OTHER COLD PREPARATIONS"
 
 
 
@@ -42543,8 +42543,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -42584,8 +42584,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -42625,8 +42625,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -42666,8 +42666,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -42707,8 +42707,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX ""
-* classification[+] = $100000093533#100000095215 ""
+* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
+* classification[+] = $100000093533#100000095215 "Lipid modifying agents in combination with other drugs"
 
 
 
@@ -42748,8 +42748,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX ""
-* classification[+] = $100000093533#100000095215 ""
+* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
+* classification[+] = $100000093533#100000095215 "Lipid modifying agents in combination with other drugs"
 
 
 
@@ -42789,8 +42789,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX ""
-* classification[+] = $100000093533#100000095215 ""
+* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
+* classification[+] = $100000093533#100000095215 "Lipid modifying agents in combination with other drugs"
 
 
 
@@ -42830,8 +42830,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX ""
-* classification[+] = $100000093533#100000095215 ""
+* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
+* classification[+] = $100000093533#100000095215 "Lipid modifying agents in combination with other drugs"
 
 
 
@@ -42871,8 +42871,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ13 ""
-* classification[+] = $100000093533#100000172012 ""
+* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+* classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
 
 
 
@@ -42912,8 +42912,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -42953,8 +42953,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02BC01 ""
-* classification[+] = $100000093533#100000093631 ""
+* classification[+] = $who-atc#A02BC01 "omeprazole"
+* classification[+] = $100000093533#100000093631 "omeprazole"
 
 
 
@@ -42994,8 +42994,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -43035,8 +43035,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -43076,8 +43076,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -43117,8 +43117,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -43158,8 +43158,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -43199,8 +43199,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -43240,8 +43240,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -43281,8 +43281,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -43322,8 +43322,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB02 ""
-* classification[+] = $100000093533#100000095160 ""
+* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+* classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
 
 
 
@@ -43363,8 +43363,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -43404,8 +43404,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -43445,8 +43445,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB02 ""
-* classification[+] = $100000093533#100000095160 ""
+* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+* classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
 
 
 
@@ -43486,8 +43486,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -43527,8 +43527,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -43568,8 +43568,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB07 ""
-* classification[+] = $100000093533#100000157858 ""
+* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+* classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
 
 
 
@@ -43609,8 +43609,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB07 ""
-* classification[+] = $100000093533#100000157858 ""
+* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+* classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
 
 
 
@@ -43650,8 +43650,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB07 ""
-* classification[+] = $100000093533#100000157858 ""
+* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+* classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
 
 
 
@@ -43691,8 +43691,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB07 ""
-* classification[+] = $100000093533#100000157858 ""
+* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+* classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
 
 
 
@@ -43732,8 +43732,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AJ14 ""
-* classification[+] = $100000093533#100000172014 ""
+* classification[+] = $who-atc#N02AJ14 "tramadol and dexketoprofen"
+* classification[+] = $100000093533#100000172014 "tramadol and dexketoprofen"
 
 
 
@@ -43773,8 +43773,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX09 ""
-* classification[+] = $100000093533#100000163770 ""
+* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
+* classification[+] = $100000093533#100000163770 "rosuvastatin and amlodipine"
 
 
 
@@ -43814,8 +43814,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX09 ""
-* classification[+] = $100000093533#100000163770 ""
+* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
+* classification[+] = $100000093533#100000163770 "rosuvastatin and amlodipine"
 
 
 
@@ -43855,8 +43855,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX09 ""
-* classification[+] = $100000093533#100000163770 ""
+* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
+* classification[+] = $100000093533#100000163770 "rosuvastatin and amlodipine"
 
 
 
@@ -43896,8 +43896,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BX09 ""
-* classification[+] = $100000093533#100000163770 ""
+* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
+* classification[+] = $100000093533#100000163770 "rosuvastatin and amlodipine"
 
 
 
@@ -43937,8 +43937,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -43978,8 +43978,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -44019,8 +44019,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -44060,8 +44060,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -44101,8 +44101,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -44142,8 +44142,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -44183,8 +44183,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09AA04 ""
-* classification[+] = $100000093533#100000095106 ""
+* classification[+] = $who-atc#C09AA04 "perindopril"
+* classification[+] = $100000093533#100000095106 "perindopril"
 
 
 
@@ -44224,8 +44224,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -44265,8 +44265,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA13 ""
-* classification[+] = $100000093533#100000097010 ""
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
+* classification[+] = $100000093533#100000097010 "ibuprofen"
 
 
 
@@ -44306,8 +44306,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX03 ""
-* classification[+] = $100000093533#100000172937 ""
+* classification[+] = $who-atc#C09BX03 "ramipril, amlodipine and hydrochlorothiazide"
+* classification[+] = $100000093533#100000172937 "ramipril, amlodipine and hydrochlorothiazide"
 
 
 
@@ -44347,8 +44347,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX03 ""
-* classification[+] = $100000093533#100000172937 ""
+* classification[+] = $who-atc#C09BX03 "ramipril, amlodipine and hydrochlorothiazide"
+* classification[+] = $100000093533#100000172937 "ramipril, amlodipine and hydrochlorothiazide"
 
 
 
@@ -44388,8 +44388,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BX03 ""
-* classification[+] = $100000093533#100000172937 ""
+* classification[+] = $who-atc#C09BX03 "ramipril, amlodipine and hydrochlorothiazide"
+* classification[+] = $100000093533#100000172937 "ramipril, amlodipine and hydrochlorothiazide"
 
 
 
@@ -44429,8 +44429,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB07 ""
-* classification[+] = $100000093533#100000135765 ""
+* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+* classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
 
 
 
@@ -44470,8 +44470,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB07 ""
-* classification[+] = $100000093533#100000135765 ""
+* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+* classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
 
 
 
@@ -44511,8 +44511,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB07 ""
-* classification[+] = $100000093533#100000135765 ""
+* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+* classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
 
 
 
@@ -44552,8 +44552,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB07 ""
-* classification[+] = $100000093533#100000135765 ""
+* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+* classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
 
 
 
@@ -44593,8 +44593,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB07 ""
-* classification[+] = $100000093533#100000135765 ""
+* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+* classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
 
 
 
@@ -44634,8 +44634,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -44675,8 +44675,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -44716,8 +44716,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -44757,8 +44757,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -44798,8 +44798,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -44839,8 +44839,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#B01AB05 ""
-* classification[+] = $100000093533#100000094266 ""
+* classification[+] = $who-atc#B01AB05 "enoxaparin"
+* classification[+] = $100000093533#100000094266 "enoxaparin"
 
 
 
@@ -44880,8 +44880,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -44921,8 +44921,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -44962,8 +44962,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -45003,8 +45003,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -45044,8 +45044,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45085,8 +45085,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45126,8 +45126,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45167,8 +45167,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45208,8 +45208,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45249,8 +45249,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45290,8 +45290,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45331,8 +45331,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45372,8 +45372,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45413,8 +45413,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45454,8 +45454,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45495,8 +45495,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45536,8 +45536,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45577,8 +45577,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45618,8 +45618,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#S01EE05 ""
-* classification[+] = $100000093533#100000098531 ""
+* classification[+] = $who-atc#S01EE05 "tafluprost"
+* classification[+] = $100000093533#100000098531 "tafluprost"
 
 
 
@@ -45659,8 +45659,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10AA01 ""
-* classification[+] = $100000093533#100000095169 ""
+* classification[+] = $who-atc#C10AA01 "simvastatin"
+* classification[+] = $100000093533#100000095169 "simvastatin"
 
 
 
@@ -45700,8 +45700,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45741,8 +45741,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45782,8 +45782,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -45823,8 +45823,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB02 ""
-* classification[+] = $100000093533#100000095160 ""
+* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+* classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
 
 
 
@@ -45864,8 +45864,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01DC02 ""
-* classification[+] = $100000093533#100000096183 ""
+* classification[+] = $who-atc#J01DC02 "cefuroxime"
+* classification[+] = $100000093533#100000096183 "cefuroxime"
 
 
 
@@ -45905,8 +45905,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -45946,8 +45946,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -45987,8 +45987,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -46028,8 +46028,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02AX02 ""
-* classification[+] = $100000093533#100000097261 ""
+* classification[+] = $who-atc#N02AX02 "tramadol"
+* classification[+] = $100000093533#100000097261 "tramadol"
 
 
 
@@ -46069,8 +46069,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB02 ""
-* classification[+] = $100000093533#100000095160 ""
+* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+* classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
 
 
 
@@ -46110,8 +46110,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -46151,8 +46151,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -46192,8 +46192,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -46233,8 +46233,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10AE04 ""
-* classification[+] = $100000093533#100000094023 ""
+* classification[+] = $who-atc#A10AE04 "insulin glargine"
+* classification[+] = $100000093533#100000094023 "insulin glargine"
 
 
 
@@ -46274,8 +46274,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -46315,8 +46315,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -46356,8 +46356,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -46397,8 +46397,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -46438,8 +46438,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -46479,8 +46479,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BA02 ""
-* classification[+] = $100000093533#100000094031 ""
+* classification[+] = $who-atc#A10BA02 "metformin"
+* classification[+] = $100000093533#100000094031 "metformin"
 
 
 
@@ -46520,8 +46520,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD ""
-* classification[+] = $100000093533#100000094049 ""
+* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+* classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
 
 
 
@@ -46561,8 +46561,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A10BD ""
-* classification[+] = $100000093533#100000094049 ""
+* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+* classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
 
 
 
@@ -46602,8 +46602,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -46643,8 +46643,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C08CA01 ""
-* classification[+] = $100000093533#100000095065 ""
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[+] = $100000093533#100000095065 "amlodipine"
 
 
 
@@ -46684,8 +46684,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -46725,8 +46725,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE01 ""
-* classification[+] = $100000093533#100000097305 ""
+* classification[+] = $who-atc#N02BE01 "paracetamol"
+* classification[+] = $100000093533#100000097305 "paracetamol"
 
 
 
@@ -46766,8 +46766,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -46807,8 +46807,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -46848,8 +46848,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -46889,8 +46889,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -46930,8 +46930,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#D01AC01 ""
-* classification[+] = $100000093533#100000094532 ""
+* classification[+] = $who-atc#D01AC01 "clotrimazole"
+* classification[+] = $100000093533#100000094532 "clotrimazole"
 
 
 
@@ -46971,8 +46971,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE51 ""
-* classification[+] = $100000093533#100000096945 ""
+* classification[+] = $who-atc#M01AE51 "ibuprofen, combinations"
+* classification[+] = $100000093533#100000096945 "ibuprofen, combinations"
 
 
 
@@ -47012,8 +47012,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA13 ""
-* classification[+] = $100000093533#100000097010 ""
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
+* classification[+] = $100000093533#100000097010 "ibuprofen"
 
 
 
@@ -47053,8 +47053,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -47094,8 +47094,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -47135,8 +47135,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -47176,8 +47176,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -47217,8 +47217,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -47258,8 +47258,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -47299,8 +47299,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -47340,8 +47340,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -47381,8 +47381,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -47422,8 +47422,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -47463,8 +47463,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -47504,8 +47504,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB07 ""
-* classification[+] = $100000093533#100000157858 ""
+* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+* classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
 
 
 
@@ -47545,8 +47545,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -47586,8 +47586,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AC10 ""
-* classification[+] = $100000093533#100000167217 ""
+* classification[+] = $who-atc#G03AC10 "drospirenone"
+* classification[+] = $100000093533#100000167217 "drospirenone"
 
 
 
@@ -47627,8 +47627,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03FA17 ""
-* classification[+] = $100000093533#100000095883 ""
+* classification[+] = $who-atc#G03FA17 "drospirenone and estrogen"
+* classification[+] = $100000093533#100000095883 "drospirenone and estrogen"
 
 
 
@@ -47668,8 +47668,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AB05 ""
-* classification[+] = $100000093533#100000096906 ""
+* classification[+] = $who-atc#M01AB05 "diclofenac"
+* classification[+] = $100000093533#100000096906 "diclofenac"
 
 
 
@@ -47709,8 +47709,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -47750,8 +47750,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BA04 ""
-* classification[+] = $100000093533#100000095124 ""
+* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+* classification[+] = $100000093533#100000095124 "perindopril and diuretics"
 
 
 
@@ -47791,8 +47791,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -47832,8 +47832,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -47873,8 +47873,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DB04 ""
-* classification[+] = $100000093533#100000116225 ""
+* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+* classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
 
 
 
@@ -47914,8 +47914,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N01BB02 ""
-* classification[+] = $100000093533#100000097196 ""
+* classification[+] = $who-atc#N01BB02 "lidocaine"
+* classification[+] = $100000093533#100000097196 "lidocaine"
 
 
 
@@ -47955,8 +47955,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -47996,8 +47996,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -48037,8 +48037,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -48078,8 +48078,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -48119,8 +48119,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -48160,8 +48160,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -48201,8 +48201,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DX03 ""
-* classification[+] = $100000093533#100000125036 ""
+* classification[+] = $who-atc#C09DX03 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
+* classification[+] = $100000093533#100000125036 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
 
 
 
@@ -48242,8 +48242,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -48283,8 +48283,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -48324,8 +48324,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DX03 ""
-* classification[+] = $100000093533#100000125036 ""
+* classification[+] = $who-atc#C09DX03 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
+* classification[+] = $100000093533#100000125036 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
 
 
 
@@ -48365,8 +48365,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -48406,8 +48406,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -48447,8 +48447,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -48488,8 +48488,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -48529,8 +48529,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -48570,8 +48570,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -48611,8 +48611,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -48652,8 +48652,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB02 ""
-* classification[+] = $100000093533#100000095134 ""
+* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+* classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
 
 
 
@@ -48693,8 +48693,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G01AF02 ""
-* classification[+] = $100000093533#100000095693 ""
+* classification[+] = $who-atc#G01AF02 "clotrimazole"
+* classification[+] = $100000093533#100000095693 "clotrimazole"
 
 
 
@@ -48734,8 +48734,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -48775,8 +48775,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CA04 ""
-* classification[+] = $100000093533#100000096122 ""
+* classification[+] = $who-atc#J01CA04 "amoxicillin"
+* classification[+] = $100000093533#100000096122 "amoxicillin"
 
 
 
@@ -48816,8 +48816,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -48857,8 +48857,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C10BA02 ""
-* classification[+] = $100000093533#100000095214 ""
+* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+* classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
 
 
 
@@ -48898,8 +48898,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09DX03 ""
-* classification[+] = $100000093533#100000125036 ""
+* classification[+] = $who-atc#C09DX03 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
+* classification[+] = $100000093533#100000125036 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
 
 
 
@@ -48939,8 +48939,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#N02BE51 ""
-* classification[+] = $100000093533#100000097309 ""
+* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+* classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
 
 
 
@@ -48980,8 +48980,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -49021,8 +49021,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -49062,8 +49062,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -49103,8 +49103,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -49144,8 +49144,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -49185,8 +49185,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -49226,8 +49226,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -49267,8 +49267,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#J01CR02 ""
-* classification[+] = $100000093533#100000096162 ""
+* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+* classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 
 
 
@@ -49308,8 +49308,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -49349,8 +49349,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -49390,8 +49390,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -49431,8 +49431,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB04 ""
-* classification[+] = $100000093533#100000095135 ""
+* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+* classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
 
 
 
@@ -49472,8 +49472,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB03 ""
-* classification[+] = $100000093533#100000116224 ""
+* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+* classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
 
 
 
@@ -49513,8 +49513,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09BB03 ""
-* classification[+] = $100000093533#100000116224 ""
+* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+* classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
 
 
 
@@ -49554,8 +49554,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M02AA15 ""
-* classification[+] = $100000093533#100000097012 ""
+* classification[+] = $who-atc#M02AA15 "diclofenac"
+* classification[+] = $100000093533#100000097012 "diclofenac"
 
 
 
@@ -49595,8 +49595,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#C09D ""
-* classification[+] = $100000093533#100000095149 ""
+* classification[+] = $who-atc#C09D "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS"
+* classification[+] = $100000093533#100000095149 "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS"
 
 
 
@@ -49636,8 +49636,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#A02AX ""
-* classification[+] = $100000093533#100000093614 ""
+* classification[+] = $who-atc#A02AX "Antacids, other combinations"
+* classification[+] = $100000093533#100000093614 "Antacids, other combinations"
 
 
 
@@ -49677,8 +49677,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE51 ""
-* classification[+] = $100000093533#100000096945 ""
+* classification[+] = $who-atc#M01AE51 "ibuprofen, combinations"
+* classification[+] = $100000093533#100000096945 "ibuprofen, combinations"
 
 
 
@@ -49718,8 +49718,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#M01AE01 ""
-* classification[+] = $100000093533#100000096928 ""
+* classification[+] = $who-atc#M01AE01 "ibuprofen"
+* classification[+] = $100000093533#100000096928 "ibuprofen"
 
 
 
@@ -49759,8 +49759,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#G03AA ""
-* classification[+] = $100000093533#100000095773 ""
+* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
+* classification[+] = $100000093533#100000095773 "Progestogens and estrogens, fixed combinations"
 
 
 
@@ -49800,8 +49800,8 @@ Usage: #example
  
 
 
-* classification[+] = $who-atc#H05AA02 ""
-* classification[+] = $100000093533#100000096089 ""
+* classification[+] = $who-atc#H05AA02 "teriparatide"
+* classification[+] = $100000093533#100000096089 "teriparatide"
 
 
 
